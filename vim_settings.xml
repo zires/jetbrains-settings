@@ -84,11 +84,11 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/tasks/import.rake" timestamp="1510132795763">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="^" line="87" column="3" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/import.rake" timestamp="1510134302171">
+        <mark key="[" line="88" column="17" />
+        <mark key="]" line="89" column="10" />
+        <mark key="." line="89" column="10" />
+        <mark key="^" line="89" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/sesame-api/config/database.example.yml" timestamp="1509956307533">
         <mark key="[" line="14" column="0" />
@@ -312,13 +312,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>&quot;path/to/file.csv&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmRcPg==</text>
@@ -327,31 +327,31 @@
         <text encoding="base64">ICBqc29uLnZpZXdDb3VudCBAYW5zd2VyLnZpZXdfY291bnRlci50b19pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wYXJhbXNbOl0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVxdWlyZSAnemVubWVuL2hhb3l1ZScK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBVbmlmaWVkTG9nLmxvZyEoOmhhb3l1ZV9xdWVzdGlvbiwgIlF1ZXN0aW9uXyN7QHF1ZXN0aW9uLmlkfSIpIGRvIHxfbG9nZ2VyfAogICAgICAgICAgX2xvZ2dlci5yZXF1ZXN0ICA9IHRvX3BhcmFtcy50b19qc29uCiAgICAgICAgICBAcmVzcG9uc2UgICAgICAgID0gRmFyYWRheS5wb3N0KCIje1NldHRpbmdzLmhhb3l1ZV9lbmRwb2ludH0vd2VuZGEvcXVlc3Rpb24iLCB0b19wYXJhbXMpCiAgICAgICAgICBAYm9keSAgICAgICAgICAgID0gSlNPTi5wYXJzZSBAcmVzcG9uc2UuYm9keQogICAgICAgICAgX2xvZ2dlci5zdGF0dXMgICA9IEByZXNwb25zZS5zdGF0dXMKICAgICAgICAgIF9sb2dnZXIucmVzcG9uc2UgPSBAYm9keQogICAgICAgICAgX2xvZ2dlci5jb2RlICAgICA9IEBib2R5Wydjb2RlJ10KICAgICAgICBlbmQK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cmVxdWlyZSAnemVubWVuL2hhb3l1ZScK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0b19wYXJhbXMK</text>
+        <text encoding="base64">ICAgICAgICBVbmlmaWVkTG9nLmxvZyEoOmhhb3l1ZV9xdWVzdGlvbiwgIlF1ZXN0aW9uXyN7QHF1ZXN0aW9uLmlkfSIpIGRvIHxfbG9nZ2VyfAogICAgICAgICAgX2xvZ2dlci5yZXF1ZXN0ICA9IHRvX3BhcmFtcy50b19qc29uCiAgICAgICAgICBAcmVzcG9uc2UgICAgICAgID0gRmFyYWRheS5wb3N0KCIje1NldHRpbmdzLmhhb3l1ZV9lbmRwb2ludH0vd2VuZGEvcXVlc3Rpb24iLCB0b19wYXJhbXMpCiAgICAgICAgICBAYm9keSAgICAgICAgICAgID0gSlNPTi5wYXJzZSBAcmVzcG9uc2UuYm9keQogICAgICAgICAgX2xvZ2dlci5zdGF0dXMgICA9IEByZXNwb25zZS5zdGF0dXMKICAgICAgICAgIF9sb2dnZXIucmVzcG9uc2UgPSBAYm9keQogICAgICAgICAgX2xvZ2dlci5jb2RlICAgICA9IEBib2R5Wydjb2RlJ10KICAgICAgICBlbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
