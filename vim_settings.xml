@@ -21,12 +21,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue.rb" timestamp="1510209227131">
+      <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue.rb" timestamp="1510214236329">
         <mark key="'" line="35" column="4" />
-        <mark key="[" line="64" column="71" />
-        <mark key="]" line="64" column="76" />
-        <mark key="." line="64" column="76" />
-        <mark key="^" line="64" column="76" />
+        <mark key="[" line="64" column="11" />
+        <mark key="]" line="64" column="13" />
+        <mark key="." line="64" column="13" />
+        <mark key="^" line="64" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/client/welcome/index.json.jb" timestamp="1510123556700">
         <mark key="[" line="24" column="1" />
@@ -114,12 +114,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1510211617184">
+      <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1510214210535">
         <mark key="'" line="23" column="13" />
         <mark key="[" line="31" column="15" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="31" column="14" />
-        <mark key="." line="33" column="0" />
+        <mark key="]" line="31" column="22" />
+        <mark key="^" line="31" column="22" />
+        <mark key="." line="31" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen.rb" timestamp="1510124276885">
         <mark key="'" line="111" column="22" />
@@ -360,8 +360,8 @@
       <jump line="112" column="22" filename="$USER_HOME$/Documents/sesame/lib/utils/zenmen.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>post</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -373,34 +373,34 @@
         <text encoding="base64">XDxlbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVmIG9mZmxpbmUKICAgICAgICBVbmlmaWVkTG9nCiAgICAgICAgICAucmVxdWVzdCg6b2ZmbGluZV9xdWVzdGlvbiwgIlF1ZXN0aW9uXyN7QHF1ZXN0aW9uLmlkfSIpCiAgICAgICAgICAucG9zdCgiI3tTZXR0aW5ncy5oYW95dWVfZW5kcG9pbnR9L3dlbmRhL3F1ZXN0aW9ub2ZmbGluZT9pZD0je0BxdWVzdGlvbi51dWlkfSIpCiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgQGxvZ2dlci5yZXF1ZXN0ID0gcGFyYW1zLnRvX2pzb24KICAgICAgdGltZSA9IFRpbWUubm93CiAgICAgIEByZXNwb25zZSA9IGlmIHNpdGUKICAgICAgICAgICAgICAgICAgICBjb25uID0gRmFyYWRheS5uZXcodXJsOiBzaXRlKSBkbyB8ZmFyYWRheXwKICAgICAgICAgICAgICAgICAgICAgIGZhcmFkYXkucmVxdWVzdCA6dXJsX2VuY29kZWQKICAgICAgICAgICAgICAgICAgICAgIGZhcmFkYXkucmVzcG9uc2UgOmxvZ2dlcgogICAgICAgICAgICAgICAgICAgICAgZmFyYWRheS5hZGFwdGVyIEZhcmFkYXkuZGVmYXVsdF9hZGFwdGVyCiAgICAgICAgICAgICAgICAgICAgZW5kCiAgICAgICAgICAgICAgICAgICAgY29ubi5wb3N0KHVybCwgcGFyYW1zKQogICAgICAgICAgICAgICAgICBlbHNlCiAgICAgICAgICAgICAgICAgICAgRmFyYWRheS5wb3N0KHVybCwgcGFyYW1zKQogICAgICAgICAgICAgICAgICBlbmQKICAgICAgYm9keSA9IEpTT04ucGFyc2UoQHJlc3BvbnNlLmJvZHkpCiAgICAgIEBsb2dnZXIuZHVyYXRpb24gPSBUaW1lLm5vdyAtIHRpbWUKICAgICAgQGxvZ2dlci5zdGF0dXMgICA9IEByZXNwb25zZS5zdGF0dXMKICAgICAgQGxvZ2dlci5yZXNwb25zZSA9IGJvZHkKICAgICAgQGxvZ2dlci5jb2RlICAgICA9IGJvZHlbJ2NvZGUnXQogICAgICB5aWVsZChAbG9nZ2VyLCBib2R5KSBpZiBibG9ja19naXZlbj8KICAgICAgQGxvZ2dlci5zYXZlCiAgICAgIEBsb2dnZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgQHJlc3BvbnNlID0gaWYgc2l0ZQogICAgICAgICAgICAgICAgICAgIGNvbm4gPSBGYXJhZGF5Lm5ldyh1cmw6IHNpdGUpIGRvIHxmYXJhZGF5fAogICAgICAgICAgICAgICAgICAgICAgZmFyYWRheS5yZXF1ZXN0IDp1cmxfZW5jb2RlZAogICAgICAgICAgICAgICAgICAgICAgZmFyYWRheS5yZXNwb25zZSA6bG9nZ2VyCiAgICAgICAgICAgICAgICAgICAgICBmYXJhZGF5LmFkYXB0ZXIgRmFyYWRheS5kZWZhdWx0X2FkYXB0ZXIKICAgICAgICAgICAgICAgICAgICBlbmQKICAgICAgICAgICAgICAgICAgICBjb25uLnBvc3QodXJsLCBwYXJhbXMpCiAgICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgICAgICBGYXJhZGF5LnBvc3QodXJsLCBwYXJhbXMpCiAgICAgICAgICAgICAgICAgIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1dHMgInN1Y2Nlc3MiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1dHMgInN1Y2Nlc3MiCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVzdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVzdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
