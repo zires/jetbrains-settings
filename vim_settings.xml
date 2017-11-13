@@ -35,7 +35,6 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/deploy/production.rb" timestamp="1510306879374" />
       <file name="$USER_HOME$/Documents/sesame-api/.gitignore" timestamp="1509956137232">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="22" column="7" />
@@ -61,7 +60,6 @@
         <mark key="^" line="6" column="53" />
         <mark key="." line="6" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Welcome.jsx" timestamp="1510299733361" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/questions/approve.rb" timestamp="1510209430376">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -75,7 +73,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/_show.json.jbuilder" timestamp="1510211970116" />
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/_show.json.jbuilder" timestamp="1510538790969" />
       <file name="$USER_HOME$/Documents/sesame/app/jobs/audit_question_job.rb" timestamp="1509693654965">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="7" column="0" />
@@ -125,7 +123,6 @@
         <mark key="^" line="4" column="65" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/acts_as_followable.rb" timestamp="1510211956916" />
       <file name="/Ruby Console" timestamp="1509607234756">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,7 +138,6 @@
         <mark key="^" line="14" column="45" />
         <mark key="." line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/client/welcome/_question.json.jb" timestamp="1510295632570" />
       <file name="$USER_HOME$/Documents/sesame/config/deploy.rb" timestamp="1510195717976">
         <mark key="[" line="24" column="21" />
         <mark key="]" line="24" column="21" />
@@ -182,7 +178,6 @@
       <file name="/Dummy.txt" timestamp="1510299734144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/choudao/app/models/payment_result.rb" timestamp="1510197520894" />
       <file name="/fragment.rb" timestamp="1505888767424">
         <mark key="[" line="0" column="0" />
       </file>
@@ -228,7 +223,6 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="9" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/templates.rb" timestamp="1510295733390" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" timestamp="1510294673447">
         <mark key="'" line="74" column="30" />
         <mark key="[" line="72" column="94" />
@@ -242,7 +236,6 @@
         <mark key="^" line="15" column="16" />
         <mark key="." line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/acts_as_follower.rb" timestamp="1510212044599" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/questions/create_utms.rb" timestamp="1510294687414">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="27" />
