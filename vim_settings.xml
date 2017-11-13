@@ -144,14 +144,8 @@
         <mark key="^" line="24" column="21" />
         <mark key="." line="24" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1510303839078">
-        <mark key="[" line="25" column="18" />
-        <mark key="]" line="25" column="18" />
-        <mark key="^" line="25" column="43" />
-        <mark key="." line="25" column="18" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/users/states.rb" timestamp="1510544660429" />
-      <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1510303827801">
+      <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1510554333032">
         <mark key="[" line="9" column="23" />
         <mark key="]" line="10" column="44" />
         <mark key="^" line="10" column="44" />
@@ -242,12 +236,6 @@
         <mark key="]" line="4" column="27" />
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/config/settings/staging.yml" timestamp="1510303833262">
-        <mark key="[" line="7" column="50" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
