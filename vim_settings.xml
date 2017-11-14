@@ -32,6 +32,12 @@
       <file name="/Ruby Console" timestamp="1509607234756">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" timestamp="1510674836553">
+        <mark key="[" line="62" column="11" />
+        <mark key="]" line="62" column="27" />
+        <mark key="^" line="62" column="27" />
+        <mark key="." line="62" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue.rb" timestamp="1510652719834">
         <mark key="'" line="37" column="4" />
         <mark key="[" line="19" column="65" />
@@ -224,6 +230,12 @@
       </file>
       <file name="$USER_HOME$/Documents/sesame-api/config/database.example.yml" timestamp="1509956307533">
         <mark key="[" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/visitor/cell_view.rb" timestamp="1510660729138">
+        <mark key="[" line="57" column="6" />
+        <mark key="]" line="57" column="19" />
+        <mark key="^" line="57" column="19" />
+        <mark key="." line="57" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/sesame-api/app/controllers/application_controller.rb" timestamp="1509953430957">
         <mark key="[" line="15" column="19" />
