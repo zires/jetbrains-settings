@@ -13855,6 +13855,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/libv8-5.3.332.38.5-x86_64-darwin-16/vendor" />
       </SOURCES>
     </library>
+    <library name="libv8-5.9.211.38.1-x86_64-darwin (v5.9.211.38.1, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/libv8-5.9.211.38.1-x86_64-darwin-16/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/libv8-5.9.211.38.1-x86_64-darwin-16/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/libv8-5.9.211.38.1-x86_64-darwin-16/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/libv8-5.9.211.38.1-x86_64-darwin-16/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/libv8-5.9.211.38.1-x86_64-darwin-16/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/libv8-5.9.211.38.1-x86_64-darwin-16/vendor" />
+      </SOURCES>
+    </library>
     <library name="liquid (v2.6.1, rbenv: 2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/liquid-2.6.1/lib" />
@@ -14795,6 +14807,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/mini_portile2-2.3.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/mini_portile2-2.3.0/concourse" />
+      </SOURCES>
+    </library>
+    <library name="mini_racer (v0.1.14, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/mini_racer-0.1.14/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/mini_racer-0.1.14/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/mini_racer-0.1.14/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/mini_racer-0.1.14/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/mini_racer-0.1.14/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/mini_racer-0.1.14/lib" />
       </SOURCES>
     </library>
     <library name="mini_racer (v0.1.8, rbenv: 2.3.0) [gem]">
