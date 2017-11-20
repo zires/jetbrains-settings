@@ -181,6 +181,7 @@
         <mark key="^" line="38" column="21" />
         <mark key="." line="38" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/QuestionsCommit/components/TagsSelect.jsx" timestamp="1511146694532" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/update.rb" timestamp="1510744019526">
         <mark key="'" line="11" column="27" />
         <mark key="[" line="7" column="12" />
@@ -272,7 +273,6 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1511076033848" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/commonComponents.jsx" timestamp="1510900189574">
         <mark key="'" line="1" column="42" />
         <mark key="[" line="1" column="17" />
@@ -298,7 +298,7 @@
         <mark key="^" line="2" column="60" />
         <mark key="." line="2" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511076034852">
+      <file name="/Dummy.txt" timestamp="1511146642991">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1505888767424">
@@ -334,7 +334,6 @@
         <mark key="^" line="11" column="43" />
         <mark key="." line="11" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/administrator/base_controller.rb" timestamp="1511076040237" />
       <file name="$USER_HOME$/Documents/sesame-api/db/migrate/20171106070855_create_releases.rb" timestamp="1509952418646">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="44" />
