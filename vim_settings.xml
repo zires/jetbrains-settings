@@ -284,11 +284,11 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/inner/welcome_controller.rb" timestamp="1511164352752">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="23" column="40" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/inner/welcome_controller.rb" timestamp="1511164784542">
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="8" column="55" />
+        <mark key="^" line="8" column="55" />
+        <mark key="." line="8" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/commonComponents.jsx" timestamp="1510900189574">
         <mark key="'" line="1" column="42" />
@@ -506,7 +506,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1bmxlc3MgcmVxdWVzdC5yZW1vdGVfaXAgCiAgICAgICAgICAKICAgICAgICBlbmQK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -521,7 +521,7 @@
         <text encoding="base64">ICAgICIxOCI6ICIjNzU3NTc1IiwgLy8g5qCH6aKYOAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1bmxlc3MgcmVxdWVzdC5yZW1vdGVfaXAgCiAgICAgICAgICAKICAgICAgICBlbmQK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -533,19 +533,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
