@@ -21,6 +21,12 @@
         <mark key="^" line="1" column="48" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workplace/hera/src/containers/SheetContainer.js" timestamp="1511278534803">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/renders/renderSheet.js" timestamp="1511261949005">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="16" />
@@ -40,18 +46,18 @@
         <mark key="." line="27" column="18" />
         <mark key="^" line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/reducers/contentReducer.js" timestamp="1511264364933">
+      <file name="$USER_HOME$/Documents/workplace/hera/src/reducers/contentReducer.js" timestamp="1511278296247">
         <mark key="'" line="3" column="19" />
         <mark key="[" line="1" column="56" />
         <mark key="]" line="1" column="56" />
         <mark key="^" line="1" column="56" />
         <mark key="." line="1" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/reducers/currentSheetReducer.js" timestamp="1511264382559">
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="18" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/reducers/currentSheetReducer.js" timestamp="1511278301315">
+        <mark key="[" line="6" column="54" />
+        <mark key="]" line="6" column="54" />
+        <mark key="^" line="6" column="54" />
+        <mark key="." line="6" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/components/SuperTable.js" timestamp="1510572881260">
         <mark key="'" line="6" column="43" />
@@ -85,11 +91,11 @@
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/actions/mainActions.js" timestamp="1509893508387">
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="11" column="9" />
-        <mark key="." line="11" column="9" />
-        <mark key="^" line="11" column="9" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/actions/mainActions.js" timestamp="1511278602546">
+        <mark key="[" line="24" column="2" />
+        <mark key="]" line="24" column="2" />
+        <mark key="." line="24" column="2" />
+        <mark key="^" line="24" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/index.css" timestamp="1508817007802">
         <mark key="[" line="0" column="14" />
@@ -118,11 +124,11 @@
         <mark key="^" line="11" column="52" />
         <mark key="." line="11" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/rootReducer.js" timestamp="1510638615504">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="6" column="24" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/rootReducer.js" timestamp="1511278341490">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+        <mark key="^" line="8" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/node_modules/@blueprintjs/table/src/cell/editableCell.tsx" timestamp="1508823381715">
         <mark key="[" line="161" column="0" />
@@ -173,11 +179,10 @@
         <mark key="." line="38" column="82" />
         <mark key="^" line="38" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Sheet.js" timestamp="1509868402414">
-        <mark key="[" line="1" column="35" />
-        <mark key="]" line="1" column="65" />
-        <mark key="^" line="1" column="65" />
-        <mark key="." line="1" column="65" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Sheet.js" timestamp="1511278671213">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/Workbook.js" timestamp="1508130550648">
         <mark key="[" line="8" column="0" />
@@ -261,44 +266,44 @@
       <jump line="3" column="19" filename="$USER_HOME$/Documents/workplace/hera/src/reducers/contentReducer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IENIQU5HRV9DT0xVTU5fTkFNRSwgVVBEQVRFX0NFTExfVkFVTEUg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IENIQU5HRV9DT0xVTU5fTkFNRSwgVVBEQVRFX0NFTExfVkFVTEUg</text>
+        <text>changeColumnName</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVUERBVEVfQ0VMTF9WQVVMRVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFVQREFURV9DRUxMX1ZBVUxFID0gJ1VQREFURV9DRUxMX1ZBVUxFJzsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbnRlbnRSZWR1Y2VyIGZyb20gJy4vcmVkdWNlcnMvY29udGVudFJlZHVjZXInOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhc2UgQ0hBTkdFX0NPTFVNTl9OQU1FOgogICAgICByZXR1cm4gc3RhdGUudXBkYXRlKAogICAgICAgIHN0YXRlLmZpbmRJbmRleCh4ID0+IHguZ2V0KCdpZCcpID09PSBhY3Rpb24uc2hlZXRJRCksCiAgICAgICAgbWFwcGVyID0+IG1hcHBlci51cGRhdGVJbihbJ2NvbHVtbnMnXSwgbGlzdCA9PiBsaXN0LnNldChhY3Rpb24uaW5kZXgsIGFjdGlvbi5uYW1lKSkKICAgICAgKTsKICAgIGNhc2UgVVBEQVRFX0NFTExfVkFVTEU6CiAgICAgIGNvbnN0IG5ld1N0YXRlID0gc3RhdGUudXBkYXRlKAogICAgICAgIHN0YXRlLmZpbmRJbmRleCh4ID0+IHguZ2V0KCdpZCcpID09PSBhY3Rpb24uc2hlZXRJRCksCiAgICAgICAgbWFwcGVyID0+IG1hcHBlci51cGRhdGVJbigKICAgICAgICAgIFsncm93cyddLAogICAgICAgICAgbGlzdCA9PiBsaXN0LnNldEluKFthY3Rpb24ucm93SW5kZXgsIGFjdGlvbi5jb2x1bW5JbmRleF0sIGFjdGlvbi52YWx1ZSkKICAgICAgICApCiAgICAgICk7CiAgICAgIHJldHVybiBuZXdTdGF0ZTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJlbmRlclNoZWV0IGZyb20gJy4uL3JlbmRlcnMvcmVuZGVyU2hlZXQnOwo=</text>
+        <text encoding="base64">ICBjb21wICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGluaXRpYWxTdGF0ZSBmcm9tICcuL2luaXRpYWxTdGF0ZSc7CmltcG9ydCB7IENIQU5HRV9DT0xVTU5fTkFNRSwgVVBEQVRFX0NFTExfVkFVTEUgfSBmcm9tICIuL2NvbnN0YW50cyI7Cgpjb25zdCBzaGVldHMgPSAoc3RhdGUgPSBpbml0aWFsU3RhdGUuZ2V0KCdzaGVldHMnKSwgYWN0aW9uKSA9PiB7CiAgc3dpdGNoKGFjdGlvbi50eXBlKSB7CiAgICBkZWZhdWx0OgogICAgICByZXR1cm4gc3RhdGU7CiAgfQp9OwoKY29uc3QgY29udGVudCA9IChzdGF0ZSA9IGluaXRpYWxTdGF0ZS5nZXQoJ2NvbnRlbnQnKSwgYWN0aW9uKSA9PiB7CiAgc3dpdGNoKGFjdGlvbi50eXBlKSB7CiAgICBjYXNlIENIQU5HRV9DT0xVTU5fTkFNRToKICAgICAgcmV0dXJuIHN0YXRlLnVwZGF0ZSgKICAgICAgICBzdGF0ZS5maW5kSW5kZXgoeCA9PiB4LmdldCgnaWQnKSA9PT0gYWN0aW9uLnNoZWV0SUQpLAogICAgICAgIG1hcHBlciA9PiBtYXBwZXIudXBkYXRlSW4oWydjb2x1bW5zJ10sIGxpc3QgPT4gbGlzdC5zZXQoYWN0aW9uLmluZGV4LCBhY3Rpb24ubmFtZSkpCiAgICAgICk7CiAgICBjYXNlIFVQREFURV9DRUxMX1ZBVUxFOgogICAgICBjb25zdCBuZXdTdGF0ZSA9IHN0YXRlLnVwZGF0ZSgKICAgICAgICBzdGF0ZS5maW5kSW5kZXgoeCA9PiB4LmdldCgnaWQnKSA9PT0gYWN0aW9uLnNoZWV0SUQpLAogICAgICAgIG1hcHBlciA9PiBtYXBwZXIudXBkYXRlSW4oCiAgICAgICAgICBbJ3Jvd3MnXSwKICAgICAgICAgIGxpc3QgPT4gbGlzdC5zZXRJbihbYWN0aW9uLnJvd0luZGV4LCBhY3Rpb24uY29sdW1uSW5kZXhdLCBhY3Rpb24udmFsdWUpCiAgICAgICAgKQogICAgICApOwogICAgICByZXR1cm4gbmV3U3RhdGU7CiAgICBkZWZhdWx0OgogICAgICByZXR1cm4gc3RhdGU7CiAgfQp9Owo=</text>
+        <text encoding="base64">ICAgIGNhc2UgQ0hBTkdFX0NPTFVNTl9OQU1FOgogICAgICByZXR1cm4gc3RhdGUudXBkYXRlKAogICAgICAgIHN0YXRlLmZpbmRJbmRleCh4ID0+IHguZ2V0KCdpZCcpID09PSBhY3Rpb24uc2hlZXRJRCksCiAgICAgICAgbWFwcGVyID0+IG1hcHBlci51cGRhdGVJbihbJ2NvbHVtbnMnXSwgbGlzdCA9PiBsaXN0LnNldChhY3Rpb24uaW5kZXgsIGFjdGlvbi5uYW1lKSkKICAgICAgKTsKICAgIGNhc2UgVVBEQVRFX0NFTExfVkFVTEU6CiAgICAgIGNvbnN0IG5ld1N0YXRlID0gc3RhdGUudXBkYXRlKAogICAgICAgIHN0YXRlLmZpbmRJbmRleCh4ID0+IHguZ2V0KCdpZCcpID09PSBhY3Rpb24uc2hlZXRJRCksCiAgICAgICAgbWFwcGVyID0+IG1hcHBlci51cGRhdGVJbigKICAgICAgICAgIFsncm93cyddLAogICAgICAgICAgbGlzdCA9PiBsaXN0LnNldEluKFthY3Rpb24ucm93SW5kZXgsIGFjdGlvbi5jb2x1bW5JbmRleF0sIGFjdGlvbi52YWx1ZSkKICAgICAgICApCiAgICAgICk7CiAgICAgIHJldHVybiBuZXdTdGF0ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJlbmRlclNoZWV0IGZyb20gJy4uL3JlbmRlcnMvcmVuZGVyU2hlZXQnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgcm9vdFJlZHVjZXIgPSBjb21iaW5lUmVkdWNlcnMoewogIHNoZWV0cywKICBjb250ZW50Cn0pOwo=</text>
+        <text encoding="base64">aW1wb3J0IGluaXRpYWxTdGF0ZSBmcm9tICcuL2luaXRpYWxTdGF0ZSc7CmltcG9ydCB7IENIQU5HRV9DT0xVTU5fTkFNRSwgVVBEQVRFX0NFTExfVkFVTEUgfSBmcm9tICIuL2NvbnN0YW50cyI7Cgpjb25zdCBzaGVldHMgPSAoc3RhdGUgPSBpbml0aWFsU3RhdGUuZ2V0KCdzaGVldHMnKSwgYWN0aW9uKSA9PiB7CiAgc3dpdGNoKGFjdGlvbi50eXBlKSB7CiAgICBkZWZhdWx0OgogICAgICByZXR1cm4gc3RhdGU7CiAgfQp9OwoKY29uc3QgY29udGVudCA9IChzdGF0ZSA9IGluaXRpYWxTdGF0ZS5nZXQoJ2NvbnRlbnQnKSwgYWN0aW9uKSA9PiB7CiAgc3dpdGNoKGFjdGlvbi50eXBlKSB7CiAgICBjYXNlIENIQU5HRV9DT0xVTU5fTkFNRToKICAgICAgcmV0dXJuIHN0YXRlLnVwZGF0ZSgKICAgICAgICBzdGF0ZS5maW5kSW5kZXgoeCA9PiB4LmdldCgnaWQnKSA9PT0gYWN0aW9uLnNoZWV0SUQpLAogICAgICAgIG1hcHBlciA9PiBtYXBwZXIudXBkYXRlSW4oWydjb2x1bW5zJ10sIGxpc3QgPT4gbGlzdC5zZXQoYWN0aW9uLmluZGV4LCBhY3Rpb24ubmFtZSkpCiAgICAgICk7CiAgICBjYXNlIFVQREFURV9DRUxMX1ZBVUxFOgogICAgICBjb25zdCBuZXdTdGF0ZSA9IHN0YXRlLnVwZGF0ZSgKICAgICAgICBzdGF0ZS5maW5kSW5kZXgoeCA9PiB4LmdldCgnaWQnKSA9PT0gYWN0aW9uLnNoZWV0SUQpLAogICAgICAgIG1hcHBlciA9PiBtYXBwZXIudXBkYXRlSW4oCiAgICAgICAgICBbJ3Jvd3MnXSwKICAgICAgICAgIGxpc3QgPT4gbGlzdC5zZXRJbihbYWN0aW9uLnJvd0luZGV4LCBhY3Rpb24uY29sdW1uSW5kZXhdLCBhY3Rpb24udmFsdWUpCiAgICAgICAgKQogICAgICApOwogICAgICByZXR1cm4gbmV3U3RhdGU7CiAgICBkZWZhdWx0OgogICAgICByZXR1cm4gc3RhdGU7CiAgfQp9Owo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3Qgc2hlZXRzID0gKHN0YXRlID0gaW5pdGlhbFN0YXRlLmdldCgnc2hlZXRzJyksIGFjdGlvbikgPT4gewogIHN3aXRjaChhY3Rpb24udHlwZSkgewogICAgZGVmYXVsdDoKICAgICAgcmV0dXJuIHN0YXRlOwogIH0KfTsK</text>
+        <text encoding="base64">Y29uc3Qgcm9vdFJlZHVjZXIgPSBjb21iaW5lUmVkdWNlcnMoewogIHNoZWV0cywKICBjb250ZW50Cn0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29tYmluZVJlZHVjZXJzIH0gZnJvbSAncmVkdXgtaW1tdXRhYmxlJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ0hBTkdFX0NPTFVNTl9OQU1FLCBVUERBVEVfQ0VMTF9WQVVMRSB9IGZyb20gIi4vY29uc3RhbnRzIjsK</text>
+        <text encoding="base64">Y29uc3Qgc2hlZXRzID0gKHN0YXRlID0gaW5pdGlhbFN0YXRlLmdldCgnc2hlZXRzJyksIGFjdGlvbikgPT4gewogIHN3aXRjaChhY3Rpb24udHlwZSkgewogICAgZGVmYXVsdDoKICAgICAgcmV0dXJuIHN0YXRlOwogIH0KfTsK</text>
       </register>
     </registers>
     <search>
