@@ -179,11 +179,11 @@
         <mark key="." line="38" column="82" />
         <mark key="^" line="38" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Sheet.js" timestamp="1511279039464">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="7" column="1" />
-        <mark key="." line="7" column="1" />
-        <mark key="^" line="7" column="1" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Sheet.js" timestamp="1511280036057">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/Workbook.js" timestamp="1508130550648">
         <mark key="[" line="8" column="0" />
@@ -286,22 +286,22 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb20K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb20K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAK</text>
@@ -341,6 +341,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>meta pressed J</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
