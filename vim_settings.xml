@@ -22,7 +22,7 @@
         <mark key="^" line="34" column="69" />
         <mark key="." line="45" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/MessageEntrance.jsx" timestamp="1511254326436">
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/MessageEntrance.jsx" timestamp="1511255768251">
         <mark key="'" line="41" column="18" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -66,11 +66,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithThreeImg.jsx" timestamp="1511249577226">
-        <mark key="[" line="43" column="27" />
-        <mark key="]" line="43" column="26" />
-        <mark key="^" line="43" column="26" />
-        <mark key="." line="43" column="26" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithThreeImg.jsx" timestamp="1511256392160">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="33" column="19" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithLargeImg.jsx" timestamp="1510910594989">
         <mark key="'" line="6" column="26" />
@@ -492,46 +492,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBmb250LXdlaWdodDogNTAwOwo=</text>
+        <text encoding="base64">ICAgICAgdmVydGljYWwtYWxpZ246IHRvcDsK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>326.5</text>
+        <text>${calRem(418)}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmFibGVfd2hpdGVfbGlzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogJHtjYWxSZW0oMzIyKX07Cg==</text>
+        <text encoding="base64">ICBtYXJnaW4tbGVmdDogLSR7Y2FsUmVtKDQuNSl9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBmb250LXdlaWdodDogNTAwOwo=</text>
+        <text encoding="base64">ICAgICAgdmVydGljYWwtYWxpZ246IHRvcDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAmOmFmdGVyIHsK</text>
+        <text encoding="base64">ICAgICY6Zmlyc3QtY2hpbGQgewogICAgICAuaW1hZ2UtaXRlbTphZnRlciB7CiAgICAgICAgd2lkdGg6ICR7Y2FsUmVtKDY1Myl9OwogICAgICB9CiAgICB9CiAgICAKICAgICY6bGFzdC1jaGlsZCB7CiAgICAgIC5pbWFnZS1pdGVtOmFmdGVyIHsKICAgICAgICB3aWR0aDogJHtjYWxSZW0oNjUzKX07CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZy1yaWdodDogMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZy1sZWZ0OiAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6ICR7Y2FsUmVtKDMyMil9Owo=</text>
+        <text encoding="base64">ICBtYXJnaW4K</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
