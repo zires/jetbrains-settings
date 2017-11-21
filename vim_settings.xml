@@ -67,12 +67,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithThreeImg.jsx" timestamp="1510916488083">
-        <mark key="'" line="6" column="26" />
-        <mark key="[" line="6" column="64" />
-        <mark key="]" line="7" column="43" />
-        <mark key="." line="7" column="43" />
-        <mark key="^" line="7" column="43" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithThreeImg.jsx" timestamp="1511179846244">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="34" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithLargeImg.jsx" timestamp="1510910594989">
         <mark key="'" line="6" column="26" />
@@ -177,11 +176,11 @@
       <file name="$USER_HOME$/Documents/sesame-api/config/database.example.yml" timestamp="1509956307533">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithSmallImg.jsx" timestamp="1510916484594">
-        <mark key="[" line="38" column="15" />
-        <mark key="]" line="38" column="21" />
-        <mark key="^" line="38" column="21" />
-        <mark key="." line="38" column="21" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithSmallImg.jsx" timestamp="1511179888261">
+        <mark key="[" line="37" column="6" />
+        <mark key="]" line="37" column="3" />
+        <mark key="." line="37" column="3" />
+        <mark key="^" line="37" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/QuestionsCommit/components/TagsSelect.jsx" timestamp="1511163134750">
         <mark key="[" line="144" column="32" />
@@ -248,12 +247,12 @@
         <mark key="^" line="23" column="10" />
         <mark key="." line="23" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/components.jsx" timestamp="1510916549710">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="50" column="21" />
-        <mark key="]" line="50" column="27" />
-        <mark key="." line="50" column="27" />
-        <mark key="^" line="50" column="27" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/components.jsx" timestamp="1511179133580">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="67" column="12" />
+        <mark key="]" line="67" column="17" />
+        <mark key="^" line="67" column="17" />
+        <mark key="." line="67" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1510732369161">
         <mark key="[" line="27" column="18" />
@@ -396,7 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="7" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
       <jump line="56" column="10" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
       <jump line="57" column="9" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
       <jump line="58" column="9" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
@@ -496,49 +494,50 @@
       <jump line="230" column="0" filename="$USER_HOME$/Documents/sesame/client/app/lib/styles/font-theme.js" />
       <jump line="56" column="0" filename="$USER_HOME$/Documents/sesame/app/controllers/api/inner/welcome_controller.rb" />
       <jump line="6" column="21" filename="$USER_HOME$/Documents/choudao/vendor/plugins/choudao_news/app/controllers/choudao_news/api/users_controller.rb" />
+      <jump line="48" column="26" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithThreeImg.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXNbOm93bmVyX2lkXQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QHBhcmFtIFtdIA==</text>
+        <text encoding="base64">PEltYWdlIHNyYz17X3dlbGNvbWVfc21hbGwoZGF0YS5pbWFnZXNbMF0pfSAvPg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmFibGVfd2hpdGVfbGlzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZ2V0ICcvZmlsbCcgPT4gJ3dlbGNvbWUjZmlsbCcK</text>
+        <text encoding="base64">ICAgICAgaGVpZ2h0OiAke2NhbFJlbSgyMTEpfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXNbOm93bmVyX2lkXQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyOiAke2NhbFJlbSgxKX0gc29saWQgJHtjb2xvclRoZW1lWycxNyddfTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIyBAcmV0dXJuIFtdCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbWcgewogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGhlaWdodDogJHtjYWxSZW0oMjExKX07CiAgICB3aWR0aDogMTAwJTsKICAgIGJvcmRlcjogJHtjYWxSZW0oMSl9IHNvbGlkICR7Y29sb3JUaGVtZVsnMTcnXX07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
