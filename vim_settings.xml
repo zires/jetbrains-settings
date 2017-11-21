@@ -194,12 +194,12 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Header.jsx" timestamp="1511244757738">
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Header.jsx" timestamp="1511251970594">
         <mark key="'" line="2" column="17" />
-        <mark key="[" line="30" column="24" />
-        <mark key="]" line="31" column="17" />
-        <mark key="^" line="31" column="17" />
-        <mark key="." line="31" column="17" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="19" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen.rb" timestamp="1510732135473">
         <mark key="'" line="111" column="22" />
@@ -245,12 +245,12 @@
         <mark key="^" line="23" column="10" />
         <mark key="." line="23" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/components.jsx" timestamp="1511245616988">
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/components.jsx" timestamp="1511251952739">
         <mark key="'" line="79" column="0" />
-        <mark key="[" line="54" column="26" />
-        <mark key="]" line="55" column="14" />
-        <mark key="^" line="55" column="14" />
-        <mark key="." line="55" column="14" />
+        <mark key="[" line="36" column="18" />
+        <mark key="]" line="36" column="18" />
+        <mark key="^" line="36" column="18" />
+        <mark key="." line="36" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1510732369161">
         <mark key="[" line="27" column="18" />
@@ -491,8 +491,8 @@
       <jump line="48" column="26" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithThreeImg.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>326.5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBmb250LXdlaWdodDogNTAwOwo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -507,16 +507,16 @@
         <text encoding="base64">ICAgICAgICB3aWR0aDogJHtjYWxSZW0oMzIyKX07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBmb250LXdlaWdodDogNTAwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAmOmFmdGVyIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAmOmFmdGVyIHsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
@@ -528,10 +528,10 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6ICR7Y2FsUmVtKDMyMil9Owo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMjAwJTsKICAgICAgICBoZWlnaHQ6IDIwMCU7Cg==</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6ICR7Y2FsUmVtKDMyMil9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
