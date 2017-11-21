@@ -66,11 +66,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithThreeImg.jsx" timestamp="1511246968310">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="24" />
-        <mark key="^" line="19" column="24" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithThreeImg.jsx" timestamp="1511248649547">
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="36" column="18" />
+        <mark key="." line="36" column="18" />
+        <mark key="^" line="36" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithLargeImg.jsx" timestamp="1510910594989">
         <mark key="'" line="6" column="26" />
@@ -491,47 +491,47 @@
       <jump line="48" column="26" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithThreeImg.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDIwMCU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>${calRem(646)}</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PEltYWdlIHNyYz17X3dlbGNvbWVfc21hbGwoZGF0YS5pbWFnZXNbMF0pfSAvPg==</text>
+        <text>${calRem(646)}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmFibGVfd2hpdGVfbGlzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6ICR7Y2FsUmVtKDMyMil9Owo=</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6ICR7Y2FsUmVtKDMyMil9OwogICAgICBoZWlnaHQ6ICR7Y2FsUmVtKDIwOSl9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDIwMCU7Cg==</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6ICR7Y2FsUmVtKDMyMil9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDEwMCU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMjAwJTsKICAgICAgICBoZWlnaHQ6IDIwMCU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6IDEwMCU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwCg==</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6IDIwMCU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyOiAke2NhbFJlbSgxKX0gc29saWQgJHtjb2xvclRoZW1lWycxNyddfTsK</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6IDEwMCU7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbWcgewogIH0K</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyOiAke2NhbFJlbSgxKX0gc29saWQgJHtjb2xvclRoZW1lWycxNyddfTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
