@@ -252,7 +252,7 @@
         <mark key="^" line="27" column="38" />
         <mark key="." line="27" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/containers/MessageEntranceContainer.jsx" timestamp="1511328139936" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/containers/MessageEntranceContainer.jsx" timestamp="1511330471890" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/ListItem.jsx" timestamp="1510891952649">
         <mark key="'" line="10" column="26" />
         <mark key="[" line="10" column="26" />
@@ -285,11 +285,11 @@
         <mark key="^" line="462" column="63" />
         <mark key="." line="462" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1511076043868">
-        <mark key="[" line="142" column="16" />
-        <mark key="]" line="142" column="35" />
-        <mark key="^" line="142" column="35" />
-        <mark key="." line="142" column="35" />
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1511330953580">
+        <mark key="[" line="41" column="59" />
+        <mark key="]" line="45" column="3" />
+        <mark key="^" line="45" column="3" />
+        <mark key="." line="45" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/db/migrate/20171107030741_add_timeliness_to_questions.rb" timestamp="1510136965333">
         <mark key="[" line="2" column="48" />
@@ -487,7 +487,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmVydGljYWwtYWxpZ246IHRvcDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -502,31 +502,31 @@
         <text encoding="base64">ICBtYXJnaW4tbGVmdDogLSR7Y2FsUmVtKDQuNSl9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmVydGljYWwtYWxpZ246IHRvcDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICY6Zmlyc3QtY2hpbGQgewogICAgICAuaW1hZ2UtaXRlbTphZnRlciB7CiAgICAgICAgd2lkdGg6ICR7Y2FsUmVtKDY1Myl9OwogICAgICB9CiAgICB9CiAgICAKICAgICY6bGFzdC1jaGlsZCB7CiAgICAgIC5pbWFnZS1pdGVtOmFmdGVyIHsKICAgICAgICB3aWR0aDogJHtjYWxSZW0oNjUzKX07CiAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZy1yaWdodDogMDsK</text>
+        <text encoding="base64">ICAgICAgdmVydGljYWwtYWxpZ246IHRvcDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZy1sZWZ0OiAwOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtYXJnaW4K</text>
+        <text encoding="base64">ICAgICY6Zmlyc3QtY2hpbGQgewogICAgICAuaW1hZ2UtaXRlbTphZnRlciB7CiAgICAgICAgd2lkdGg6ICR7Y2FsUmVtKDY1Myl9OwogICAgICB9CiAgICB9CiAgICAKICAgICY6bGFzdC1jaGlsZCB7CiAgICAgIC5pbWFnZS1pdGVtOmFmdGVyIHsKICAgICAgICB3aWR0aDogJHtjYWxSZW0oNjUzKX07CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
