@@ -9,7 +9,7 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/containers/SuperTableContainer.js" timestamp="1509868265261">
+      <file name="$USER_HOME$/Documents/workplace/hera/src/containers/SuperTableContainer.js" timestamp="1511327885013">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="8" column="35" />
         <mark key="^" line="8" column="35" />
@@ -21,11 +21,11 @@
         <mark key="^" line="1" column="48" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/containers/SheetContainer.js" timestamp="1511278534803">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="2" column="22" />
-        <mark key="^" line="2" column="22" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/containers/SheetContainer.js" timestamp="1511328198877">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="16" />
+        <mark key="." line="10" column="16" />
+        <mark key="^" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/renders/renderSheet.js" timestamp="1511261949005">
         <mark key="[" line="3" column="19" />
@@ -53,11 +53,11 @@
         <mark key="^" line="1" column="56" />
         <mark key="." line="1" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/reducers/currentSheetReducer.js" timestamp="1511278301315">
-        <mark key="[" line="6" column="54" />
-        <mark key="]" line="6" column="54" />
-        <mark key="^" line="6" column="54" />
-        <mark key="." line="6" column="54" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/reducers/currentSheetReducer.js" timestamp="1511328304522">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/components/SuperTable.js" timestamp="1510572881260">
         <mark key="'" line="6" column="43" />
@@ -91,7 +91,7 @@
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/actions/mainActions.js" timestamp="1511278602546">
+      <file name="$USER_HOME$/Documents/workplace/hera/src/actions/mainActions.js" timestamp="1511327771595">
         <mark key="[" line="24" column="2" />
         <mark key="]" line="24" column="2" />
         <mark key="." line="24" column="2" />
@@ -154,11 +154,11 @@
         <mark key="." line="33" column="2" />
         <mark key="^" line="33" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Workbook.js" timestamp="1511261974028">
-        <mark key="[" line="23" column="62" />
-        <mark key="]" line="23" column="60" />
-        <mark key="^" line="23" column="60" />
-        <mark key="." line="23" column="60" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Workbook.js" timestamp="1511328209169">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="22" />
+        <mark key="^" line="6" column="55" />
+        <mark key="." line="12" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/App.js" timestamp="1506956727479">
         <mark key="[" line="7" column="5" />
@@ -179,11 +179,10 @@
         <mark key="." line="38" column="82" />
         <mark key="^" line="38" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Sheet.js" timestamp="1511280036057">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Sheet.js" timestamp="1511328247739">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/Workbook.js" timestamp="1508130550648">
         <mark key="[" line="8" column="0" />
@@ -267,29 +266,29 @@
       <jump line="3" column="19" filename="$USER_HOME$/Documents/workplace/hera/src/reducers/contentReducer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3RhdGUuc2V0KCdjdXJyZW50U2hlZXQnLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>changeColumnName</text>
+        <text encoding="base64">c3RhdGUuc2V0KCdjdXJyZW50U2hlZXQnLCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVUERBVEVfQ0VMTF9WQVVMRVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbnRlbnRSZWR1Y2VyIGZyb20gJy4vcmVkdWNlcnMvY29udGVudFJlZHVjZXInOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGlkID0gdGhpcy5wcm9wcy5tYXRjaC5wYXJhbXMuaWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjZG0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBuZXdNZXNzYWdlQ291bnQ6IHN0YXRlLndlbGNvbWUubmV3TWVzc2FnZUNvdW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGlkID0gdGhpcy5wcm9wcy5tYXRjaC5wYXJhbXMuaWQ7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -301,10 +300,10 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb20K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
