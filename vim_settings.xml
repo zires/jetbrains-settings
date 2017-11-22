@@ -73,6 +73,12 @@
         <mark key="^" line="29" column="51" />
         <mark key="." line="29" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithThreeImg.jsx" timestamp="1511341182178">
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="33" column="28" />
+        <mark key="^" line="32" column="26" />
+        <mark key="." line="33" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame-api/.gitignore" timestamp="1509956137232">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="22" column="7" />
@@ -170,11 +176,11 @@
       <file name="$USER_HOME$/Documents/sesame-api/config/database.example.yml" timestamp="1509956307533">
         <mark key="[" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithSmallImg.jsx" timestamp="1511247161454">
-        <mark key="[" line="44" column="24" />
-        <mark key="]" line="44" column="25" />
-        <mark key="." line="44" column="25" />
-        <mark key="^" line="41" column="5" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithSmallImg.jsx" timestamp="1511341174906">
+        <mark key="[" line="45" column="26" />
+        <mark key="]" line="45" column="25" />
+        <mark key="." line="45" column="25" />
+        <mark key="^" line="45" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/QuestionsCommit/components/TagsSelect.jsx" timestamp="1511163134750">
         <mark key="[" line="144" column="32" />
