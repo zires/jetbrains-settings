@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Gem Manager" displayType="NONE" shouldLog="false" />
-  </component>
-</application>
