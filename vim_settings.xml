@@ -85,6 +85,11 @@
         <mark key="^" line="48" column="31" />
         <mark key="." line="48" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/inner/welcome_controller.rb" timestamp="1511404570603">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/reducers/sheetsReducer.js" timestamp="1511191607076">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="0" column="27" />
@@ -129,11 +134,6 @@
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/node_modules/@blueprintjs/table/src/cell/editableCell.tsx" timestamp="1508823381715">
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/Main.js" timestamp="1509868281320">
         <mark key="[" line="7" column="40" />
@@ -203,11 +203,6 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/components/cells/single-line-text-cell.css" timestamp="1508818790847">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="10" column="20" filename="$USER_HOME$/Documents/workplace/hera/src/initialState.js" />
@@ -267,11 +262,11 @@
       <jump line="3" column="19" filename="$USER_HOME$/Documents/workplace/hera/src/reducers/contentReducer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>changeColumnName</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVUERBVEVfQ0VMTF9WQVVMRVw+</text>
@@ -341,6 +336,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
