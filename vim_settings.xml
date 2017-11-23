@@ -9,11 +9,11 @@
         <mark key="^" line="26" column="25" />
         <mark key="." line="26" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/selectors/contentSelectors.js" timestamp="1511421951884">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-        <mark key="^" line="2" column="10" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/selectors/contentSelectors.js" timestamp="1511423512916">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/question_to_moon_job.rb" timestamp="1510740309660">
         <mark key="[" line="0" column="16" />
@@ -358,7 +358,7 @@
         <mark key="^" line="14" column="45" />
         <mark key="." line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/reducers/contentReducer.js" timestamp="1511421832616">
+      <file name="$USER_HOME$/Documents/workplace/hera/src/reducers/contentReducer.js" timestamp="1511422742906">
         <mark key="'" line="3" column="19" />
         <mark key="[" line="1" column="56" />
         <mark key="]" line="1" column="56" />
@@ -533,47 +533,47 @@
       <jump line="6" column="21" filename="$USER_HOME$/Documents/choudao/vendor/plugins/choudao_news/app/controllers/choudao_news/api/users_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>content.update(index, )</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>CHANGE_COLUMN_NAME</text>
+        <text>content.update(index, )</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmFibGVfd2hpdGVfbGlzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3Qgc2hlZXRJRFNlbGVjdG9yID0gc3RhdGUgPT4gc3RhdGUuZ2V0KCdjdXJyZW50U2hlZXQnKTsK</text>
+        <text encoding="base64">Y29uc3QgaW5kZXhTZWxlY3RvciA9IHN0YXRlID0+IHN0YXRlLmZpbmRJbmRleCh4ID0+IHguZ2V0KCdpZCcpID09PSBzdGF0ZS5nZXQoJ2N1cnJlbnRTaGVldCcpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgc2hvcEl0ZW1zU2VsZWN0b3IgPSBzdGF0ZSA9PiBzdGF0ZS5zaG9wLml0ZW1zOwo=</text>
+        <text encoding="base64">Y29uc3Qgc2hlZXRJRFNlbGVjdG9yID0gc3RhdGUgPT4gc3RhdGUuZ2V0KCdjdXJyZW50U2hlZXQnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3Qgc3VidG90YWxTZWxlY3RvciA9IGNyZWF0ZVNlbGVjdG9yKAogIHNob3BJdGVtc1NlbGVjdG9yLAogIGl0ZW1zID0+IGl0ZW1zLnJlZHVjZSgoYWNjLCBpdGVtKSA9PiBhY2MgKyBpdGVtLnZhbHVlLCAwKQopCgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
