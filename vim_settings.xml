@@ -104,11 +104,11 @@
         <mark key="." line="33" column="2" />
         <mark key="^" line="33" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithSmallImg.jsx" timestamp="1510916484594">
-        <mark key="[" line="38" column="15" />
-        <mark key="]" line="38" column="21" />
-        <mark key="^" line="38" column="21" />
-        <mark key="." line="38" column="21" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithSmallImg.jsx" timestamp="1511434123620">
+        <mark key="[" line="33" column="6" />
+        <mark key="]" line="33" column="1" />
+        <mark key="." line="33" column="1" />
+        <mark key="^" line="33" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/App.js" timestamp="1506956727479">
         <mark key="[" line="7" column="5" />
@@ -367,12 +367,11 @@
         <mark key="^" line="61" column="91" />
         <mark key="." line="61" column="91" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithThreeImg.jsx" timestamp="1510916488083">
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithThreeImg.jsx" timestamp="1511433907936">
         <mark key="'" line="6" column="26" />
-        <mark key="[" line="6" column="64" />
-        <mark key="]" line="7" column="43" />
-        <mark key="." line="7" column="43" />
-        <mark key="^" line="7" column="43" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithLargeImg.jsx" timestamp="1510910594989">
         <mark key="'" line="6" column="26" />
@@ -468,9 +467,6 @@
         <mark key="]" line="0" column="33" />
         <mark key="^" line="6" column="26" />
         <mark key="." line="0" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/choudao/vendor/plugins/choudao_news/app/controllers/choudao_news/api/users_controller.rb" timestamp="1511163632569">
-        <mark key="'" line="6" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/renders/renderColumnHeader.js" timestamp="1510572837848">
         <mark key="[" line="3" column="0" />
@@ -669,7 +665,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgWOadoeabtOaWsAo=</text>
+        <text encoding="base64">ICBtaW4taGVpZ2h0OiAke2NhbFJlbSgyMTEpfTsK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -681,34 +677,34 @@
         <text encoding="base64">XDxzZWFyY2hJY29uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICIxOCI6ICIjNzU3NTc1IiwgLy8g5qCH6aKYOAo=</text>
+        <text encoding="base64">ICBtaW4taGVpZ2h0OiAke2NhbFJlbSgyMTEpfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgWOadoeabtOaWsAo=</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMjAwJTsKICAgICAgICBoZWlnaHQ6IDIwMCU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL2ZvbnQtdGhlbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBzdWJtaXRRdWVzdGlvbigpewogICAgICAgIHRyYWNrKCdzdWJtaXRRdWVzdGlvbicpCiAgICAgICAgdGhpcy5wcm9wcy5zdWJtaXRRdWVzdGlvbigpLnRoZW4ocmVzcG9uc2UgPT4gewogICAgICAgICAgICB0aGlzLnByb3BzLmNsZWFyUXVlc3Rpb25JbmZvKCkKICAgICAgICAgICAgdGhpcy5wcm9wcy5oaXN0b3J5LnJlcGxhY2UoYC9xdWVzdGlvbnMvJHtyZXNwb25zZS5kYXRhLmlkfWApCiAgICAgICAgfSkuY2F0Y2goZXJyb3IgPT4gewogICAgICAgICAgICBpZiAoZXJyb3IucmVzcG9uc2UpIHsKICAgICAgICAgICAgICAgIHRoaXMub25FcnJvcihlcnJvci5yZXNwb25zZS5kYXRhLm1lc3NhZ2UpCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICB0aGlzLm9uRXJyb3IoKQogICAgICAgICAgICB9CiAgICAgICAgfSkKPT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICBib3gtc2l6aW5nOiBjb250ZW50LWJveDsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6IDIwMCU7CiAgICAgIGhlaWdodDogMjAwJTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgWOadoeabtOaWsAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL2ZvbnQtdGhlbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBzdWJtaXRRdWVzdGlvbigpewogICAgICAgIHRyYWNrKCdzdWJtaXRRdWVzdGlvbicpCiAgICAgICAgdGhpcy5wcm9wcy5zdWJtaXRRdWVzdGlvbigpLnRoZW4ocmVzcG9uc2UgPT4gewogICAgICAgICAgICB0aGlzLnByb3BzLmNsZWFyUXVlc3Rpb25JbmZvKCkKICAgICAgICAgICAgdGhpcy5wcm9wcy5oaXN0b3J5LnJlcGxhY2UoYC9xdWVzdGlvbnMvJHtyZXNwb25zZS5kYXRhLmlkfWApCiAgICAgICAgfSkuY2F0Y2goZXJyb3IgPT4gewogICAgICAgICAgICBpZiAoZXJyb3IucmVzcG9uc2UpIHsKICAgICAgICAgICAgICAgIHRoaXMub25FcnJvcihlcnJvci5yZXNwb25zZS5kYXRhLm1lc3NhZ2UpCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICB0aGlzLm9uRXJyb3IoKQogICAgICAgICAgICB9CiAgICAgICAgfSkKPT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
