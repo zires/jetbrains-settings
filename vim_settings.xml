@@ -104,6 +104,12 @@
         <mark key="^" line="38" column="21" />
         <mark key="." line="38" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/QuestionsCommit/components/TagsSelect.jsx" timestamp="1511429280631">
+        <mark key="'" line="200" column="2" />
+        <mark key="[" line="243" column="0" />
+        <mark key="]" line="243" column="0" />
+        <mark key="." line="243" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/App.js" timestamp="1506956727479">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="8" />
@@ -575,10 +581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="7" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
-      <jump line="56" column="10" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
-      <jump line="57" column="9" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
-      <jump line="58" column="9" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
       <jump line="59" column="40" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
       <jump line="60" column="18" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
       <jump line="64" column="27" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
@@ -675,10 +677,14 @@
       <jump line="230" column="0" filename="$USER_HOME$/Documents/sesame/client/app/lib/styles/font-theme.js" />
       <jump line="56" column="0" filename="$USER_HOME$/Documents/sesame/app/controllers/api/inner/welcome_controller.rb" />
       <jump line="6" column="21" filename="$USER_HOME$/Documents/choudao/vendor/plugins/choudao_news/app/controllers/choudao_news/api/users_controller.rb" />
+      <jump line="243" column="2" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/QuestionsCommit/components/TagsSelect.jsx" />
+      <jump line="389" column="23" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/QuestionsCommit/components/TagsSelect.jsx" />
+      <jump line="210" column="4" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/QuestionsCommit/components/TagsSelect.jsx" />
+      <jump line="200" column="2" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/QuestionsCommit/components/TagsSelect.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL2ZvbnQtdGhlbWUK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -687,50 +693,50 @@
         <text encoding="base64">PC9OZXh0U3RlcD4=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbmFibGVfd2hpdGVfbGlzdFw+</text>
+        <text encoding="base64">XDxzZWFyY2hJY29uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICIxOCI6ICIjNzU3NTc1IiwgLy8g5qCH6aKYOAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL2ZvbnQtdGhlbWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBzdWJtaXRRdWVzdGlvbigpewogICAgICAgIHRyYWNrKCdzdWJtaXRRdWVzdGlvbicpCiAgICAgICAgdGhpcy5wcm9wcy5zdWJtaXRRdWVzdGlvbigpLnRoZW4ocmVzcG9uc2UgPT4gewogICAgICAgICAgICB0aGlzLnByb3BzLmNsZWFyUXVlc3Rpb25JbmZvKCkKICAgICAgICAgICAgdGhpcy5wcm9wcy5oaXN0b3J5LnJlcGxhY2UoYC9xdWVzdGlvbnMvJHtyZXNwb25zZS5kYXRhLmlkfWApCiAgICAgICAgfSkuY2F0Y2goZXJyb3IgPT4gewogICAgICAgICAgICBpZiAoZXJyb3IucmVzcG9uc2UpIHsKICAgICAgICAgICAgICAgIHRoaXMub25FcnJvcihlcnJvci5yZXNwb25zZS5kYXRhLm1lc3NhZ2UpCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICB0aGlzLm9uRXJyb3IoKQogICAgICAgICAgICB9CiAgICAgICAgfSkKPT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbmFibGVfd2hpdGVfbGlzdFw+</last-search>
+      <last-search encoding="base64">XDxzZWFyY2hJY29uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbmFibGVfd2hpdGVfbGlzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZWFyY2hJY29uXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -751,6 +757,8 @@
         <entry encoding="base64">XDxyZW5kZXJDb2x1bW5IZWFkZXJcPg==</entry>
         <entry encoding="base64">XDxDSEFOR0VfQ09MVU1OX05BTUVcPg==</entry>
         <entry encoding="base64">XDxVUERBVEVfQ0VMTF9WQVVMRVw+</entry>
+        <entry encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</entry>
+        <entry encoding="base64">XDxzZWFyY2hJY29uXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
