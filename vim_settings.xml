@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/sesame/config/initializers/dalli.rb" timestamp="1511513419893">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="103" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/question_to_moon_job.rb" timestamp="1510740309660">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="1" column="0" />
@@ -163,6 +169,11 @@
         <mark key="^" line="15" column="41" />
         <mark key="." line="15" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/config/database.yml" timestamp="1511512948404">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/renders/renderSheet.js" timestamp="1511261949005">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="16" />
@@ -189,6 +200,12 @@
         <mark key="." line="50" column="27" />
         <mark key="^" line="50" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/.env" timestamp="1511512938452">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/Container.js" timestamp="1506941579544">
         <mark key="[" line="3" column="37" />
         <mark key="]" line="4" column="12" />
@@ -207,6 +224,11 @@
         <mark key="]" line="10" column="26" />
         <mark key="^" line="15" column="55" />
         <mark key="." line="10" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/grids/report_grid.rb" timestamp="1511513518861">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/inner/welcome_controller.rb" timestamp="1511430257281">
         <mark key="[" line="13" column="33" />
@@ -434,6 +456,11 @@
         <mark key="^" line="6" column="73" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workplace/hera/node_modules/@blueprintjs/table/src/cell/editableCell.tsx" timestamp="1508823381715">
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/questions/reject.rb" timestamp="1510215532498">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -495,6 +522,11 @@
         <mark key="^" line="1" column="56" />
         <mark key="." line="1" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/show.json.jbuilder" timestamp="1510915529328">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/constants.js" timestamp="1511264346996">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="29" />
@@ -555,6 +587,11 @@
         <mark key="]" line="4" column="27" />
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/cells/single-line-text-cell.css" timestamp="1508818790847">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -661,46 +698,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBtaW4taGVpZ2h0OiAke2NhbFJlbSgyMTEpfTsK</text>
+        <text encoding="base64">PT09PT09PQogICAgYXNzZXQucmVwb3J0YWJsZS50ZXh0LnRydW5jYXRlKDE0MCkuaHRtbF9zYWZlCj4+Pj4+Pj4gZmVhdHVyZS9jaQo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9OZXh0U3RlcD4=</text>
+        <text>Rails.env.in?(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hJY29uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBtaW4taGVpZ2h0OiAke2NhbFJlbSgyMTEpfTsK</text>
+        <text encoding="base64">JHV1aWRfc2VydmVyID0gUmFpbHMuZW52LnByb2R1Y3Rpb24/ID8gRGFsbGlJZFNlcnZlci5pbnN0YW5jZSAgOiBSYW5kSWRTZXJ2ZXIuaW5zdGFuY2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMjAwJTsKICAgICAgICBoZWlnaHQ6IDIwMCU7Cg==</text>
+        <text encoding="base64">PT09PT09PQogICAgYXNzZXQucmVwb3J0YWJsZS50ZXh0LnRydW5jYXRlKDE0MCkuaHRtbF9zYWZlCj4+Pj4+Pj4gZmVhdHVyZS9jaQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib3gtc2l6aW5nOiBjb250ZW50LWJveDsK</text>
+        <text encoding="base64">JHV1aWRfc2VydmVyID0gUmFpbHMuZW52LnByb2R1Y3Rpb24/ID8gRGFsbGlJZFNlcnZlci5pbnN0YW5jZSAgOiBSYW5kSWRTZXJ2ZXIuaW5zdGFuY2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMjAwJTsKICAgICAgICBoZWlnaHQ6IDIwMCU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDIwMCU7CiAgICAgIGhlaWdodDogMjAwJTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBib3gtc2l6aW5nOiBjb250ZW50LWJveDsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgWOadoeabtOaWsAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL2ZvbnQtdGhlbWUK</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6IDIwMCU7CiAgICAgIGhlaWdodDogMjAwJTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBzdWJtaXRRdWVzdGlvbigpewogICAgICAgIHRyYWNrKCdzdWJtaXRRdWVzdGlvbicpCiAgICAgICAgdGhpcy5wcm9wcy5zdWJtaXRRdWVzdGlvbigpLnRoZW4ocmVzcG9uc2UgPT4gewogICAgICAgICAgICB0aGlzLnByb3BzLmNsZWFyUXVlc3Rpb25JbmZvKCkKICAgICAgICAgICAgdGhpcy5wcm9wcy5oaXN0b3J5LnJlcGxhY2UoYC9xdWVzdGlvbnMvJHtyZXNwb25zZS5kYXRhLmlkfWApCiAgICAgICAgfSkuY2F0Y2goZXJyb3IgPT4gewogICAgICAgICAgICBpZiAoZXJyb3IucmVzcG9uc2UpIHsKICAgICAgICAgICAgICAgIHRoaXMub25FcnJvcihlcnJvci5yZXNwb25zZS5kYXRhLm1lc3NhZ2UpCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICB0aGlzLm9uRXJyb3IoKQogICAgICAgICAgICB9CiAgICAgICAgfSkKPT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
