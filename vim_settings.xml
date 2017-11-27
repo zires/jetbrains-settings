@@ -162,10 +162,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="111" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/answers_controller.rb" timestamp="1511779973509">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/answers_controller.rb" timestamp="1511782721530">
         <mark key="'" line="105" column="37" />
-        <mark key="[" line="111" column="33" />
+        <mark key="[" line="113" column="0" />
         <mark key="]" line="113" column="0" />
+        <mark key="^" line="112" column="52" />
         <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/containers/SuperTableContainer.js" timestamp="1509868265261">
@@ -743,25 +744,25 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHVubGVzcyBsb2dnZWRfaW4/Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHBhcmFtc1s6cGFnZV0uYmxhbms/IHx8IHBhcmFtc1s6cGFnZV0udG9faSA9PSAxKSAmJiBsb2dnZWRfaW4/CiAgICAgICAgbXlfYW5zd2VyID0gQHF1ZXN0aW9uLmFuc3dlcnMuZmluZF9ieSh1c2VyOiBjdXJyZW50X3VzZXIpCiAgICAgICAgaWYgbXlfYW5zd2VyLmRyYWZ0PwoKICAgICAgICBlbmQKICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
