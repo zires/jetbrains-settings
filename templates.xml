@@ -1,0 +1,576 @@
+<application>
+  <component name="TemplateSettings">
+    <option name="deletedKeys">
+      <list>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="all" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="am" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="any" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="app" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="ase" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="asid" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="asio" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="asko" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="asm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="asn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="asne" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="asnm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="asnn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="asnr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="asns" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="asnt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="aso" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="asr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="ass" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="assm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="ast" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="case" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="cl" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="clafn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="class" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="col" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="collect" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="comp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="dee" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="defd" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="defds" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="defs" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="deft" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="det" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="do" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="doo" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="ea" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="eab" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="eac" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="each" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="each_index" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="each_key" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="each_with_index" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="eal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="eap" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="easl" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="eav" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="eawi" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="enum" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="fin" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="fina" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="fl" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="flao" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="forin" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="forw" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="gre" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="hash" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="if" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="ife" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="inj" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="inject" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="logi" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="map" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="mapwi" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="max" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="md" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="mex" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="min" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="mm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="p" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="par" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="r" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="ran" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="rassign" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="rej" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="reject" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="req" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="rw" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="scan" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="sortby" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="unless" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="until" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="w" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="when" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="while" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="ydump" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="yields" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Ruby" />
+          <option name="key" value="yload" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="asrar" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="asre" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="asrt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="bt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="flash" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="hm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="ho" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="mac" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="mai" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="mcc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="mct" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="mdt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="mnc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="mrc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="mri" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="mtc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="ral" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="rea" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="reai" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="rec" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="reca" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="recai" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="rf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="rfu" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="ri" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="ril" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="rit" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="rl" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="rn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="rns" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="rp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="rpc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="rpl" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="rpo" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="rps" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="rt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="rtl" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="rtlt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="rts" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="s" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="script" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="va" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="vaif" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="vc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="vcif" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="ve" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="veif" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="verify" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="verifyr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="vlen" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="vp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="vpif" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="vu" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Rails" />
+          <option name="key" value="vuif" />
+        </TemplateKey>
+      </list>
+    </option>
+  </component>
+</application>
