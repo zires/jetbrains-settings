@@ -9,6 +9,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="103" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/index.json.jbuilder" timestamp="1511771917363">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/question_to_moon_job.rb" timestamp="1510740309660">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="1" column="0" />
@@ -151,7 +157,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="111" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/answers_controller.rb" timestamp="1511770044375">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/answers_controller.rb" timestamp="1511771930234">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="^" line="15" column="42" />
@@ -708,7 +714,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CgoKICAgICAgICAjIGlmIGJyb3dzZXIuZGV2aWNlLm1vYmlsZT8KICAgICAgIyAgIHN0YXRlID0gcGFyYW1zWzp0b2dnbGVkXSA/IDp0b2dnbGVkIDogOmFwcHJvdmVkCiAgICAgICMgICBAYW5zd2VycyA9IEBxdWVzdGlvbi5hbnN3ZXJzLnNlbmQoc3RhdGUpLnBhcnNlZC52b3Rlc19kZXNjLnBhZ2UocGFyYW1zWzpwYWdlXSkKICAgICAgIyBlbHNlCiAgICAgICMgICBAYW5zd2VycyA9IEBxdWVzdGlvbi5hbnN3ZXJzLmFjdGl2ZS52b3Rlc19kZXNjLnBhZ2UocGFyYW1zWzpwYWdlXSkKICAgICAgIyBlbmQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -720,13 +726,13 @@
         <text encoding="base64">XDxxdWVzdGlvbl91cmxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAYW5zd2VycyA9IEBxdWVzdGlvbi5hbnN3ZXJzLnRvZ2dsZWQucGFyc2VkLnZvdGVzX2Rlc2MK</text>
+        <text encoding="base64">ICAgIGpzb24ucGFydGlhbCEgJ3Nob3cnLCBhbnN3ZXI6IGFuc3dlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoKICAgICAgICAjIGlmIGJyb3dzZXIuZGV2aWNlLm1vYmlsZT8KICAgICAgIyAgIHN0YXRlID0gcGFyYW1zWzp0b2dnbGVkXSA/IDp0b2dnbGVkIDogOmFwcHJvdmVkCiAgICAgICMgICBAYW5zd2VycyA9IEBxdWVzdGlvbi5hbnN3ZXJzLnNlbmQoc3RhdGUpLnBhcnNlZC52b3Rlc19kZXNjLnBhZ2UocGFyYW1zWzpwYWdlXSkKICAgICAgIyBlbHNlCiAgICAgICMgICBAYW5zd2VycyA9IEBxdWVzdGlvbi5hbnN3ZXJzLmFjdGl2ZS52b3Rlc19kZXNjLnBhZ2UocGFyYW1zWzpwYWdlXSkKICAgICAgIyBlbmQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CgoKICAgICAgICAjIGlmIGJyb3dzZXIuZGV2aWNlLm1vYmlsZT8KICAgICAgIyAgIHN0YXRlID0gcGFyYW1zWzp0b2dnbGVkXSA/IDp0b2dnbGVkIDogOmFwcHJvdmVkCiAgICAgICMgICBAYW5zd2VycyA9IEBxdWVzdGlvbi5hbnN3ZXJzLnNlbmQoc3RhdGUpLnBhcnNlZC52b3Rlc19kZXNjLnBhZ2UocGFyYW1zWzpwYWdlXSkKICAgICAgIyBlbHNlCiAgICAgICMgICBAYW5zd2VycyA9IEBxdWVzdGlvbi5hbnN3ZXJzLmFjdGl2ZS52b3Rlc19kZXNjLnBhZ2UocGFyYW1zWzpwYWdlXSkKICAgICAgIyBlbmQK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -741,13 +747,13 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAYW5zd2VycyA9IEBxdWVzdGlvbi5hbnN3ZXJzLnRvZ2dsZWQucGFyc2VkLnZvdGVzX2Rlc2MuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBAYW5zd2VycyA9IEBxdWVzdGlvbi5hbnN3ZXJzLnRvZ2dsZWQucGFyc2VkLnZvdGVzX2Rlc2MuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
