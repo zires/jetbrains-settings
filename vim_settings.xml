@@ -9,7 +9,7 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="103" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/index.json.jbuilder" timestamp="1511777517333">
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/index.json.jbuilder" timestamp="1511779518330">
         <mark key="[" line="13" column="44" />
         <mark key="]" line="14" column="40" />
         <mark key="^" line="14" column="40" />
@@ -117,11 +117,10 @@
         <mark key="." line="33" column="1" />
         <mark key="^" line="33" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/reducers/questionReducer.jsx" timestamp="1511778421577">
-        <mark key="[" line="52" column="26" />
-        <mark key="]" line="52" column="27" />
-        <mark key="." line="52" column="27" />
-        <mark key="^" line="46" column="13" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/reducers/questionReducer.jsx" timestamp="1511779481330">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/App.js" timestamp="1506956727479">
         <mark key="[" line="7" column="5" />
@@ -163,11 +162,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="111" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/answers_controller.rb" timestamp="1511773803003">
-        <mark key="[" line="17" column="6" />
-        <mark key="]" line="17" column="6" />
-        <mark key="." line="17" column="6" />
-        <mark key="^" line="17" column="79" />
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/answers_controller.rb" timestamp="1511779972326">
+        <mark key="'" line="105" column="37" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/containers/SuperTableContainer.js" timestamp="1509868265261">
         <mark key="[" line="8" column="29" />
@@ -273,7 +272,7 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/states.rb" timestamp="1511770006762" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/states.rb" timestamp="1511779836117" />
       <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" timestamp="1510812792898">
         <mark key="[" line="462" column="44" />
         <mark key="]" line="462" column="63" />
@@ -620,7 +619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="22" filename="$USER_HOME$/Documents/sesame/app/commands/answers/update.rb" />
       <jump line="4" column="15" filename="$USER_HOME$/Documents/sesame/app/commands/answers/update.rb" />
       <jump line="8" column="23" filename="$USER_HOME$/Documents/sesame/app/commands/answers/update.rb" />
       <jump line="9" column="20" filename="$USER_HOME$/Documents/sesame/app/commands/answers/update.rb" />
@@ -720,16 +718,17 @@
       <jump line="12" column="21" filename="$USER_HOME$/Documents/sesame/app/commands/questions/create_utms.rb" />
       <jump line="103" column="16" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/actions/questionActionCreators.jsx" />
       <jump line="124" column="19" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/actions/questionActionCreators.jsx" />
+      <jump line="106" column="37" filename="$USER_HOME$/Documents/sesame/app/controllers/api/answers_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNlaXZlQW5zd2Vyc1w+</text>
@@ -738,31 +737,31 @@
         <text encoding="base64">ICAgIGpzb24ucGFydGlhbCEgJ3Nob3cnLCBhbnN3ZXI6IGFuc3dlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsZXJ0Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgbG9nZ2VkX2luPwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgaWYgKHBhcmFtc1s6cGFnZV0uYmxhbms/IHx8IHBhcmFtc1s6cGFnZV0udG9faSA9PSAxKSAmJiBsb2dnZWRfaW4/CiAgICAgICAgbXlfYW5zd2VyID0gQHF1ZXN0aW9uLmFuc3dlcnMuZmluZF9ieSh1c2VyOiBjdXJyZW50X3VzZXIpCiAgICAgICAgaWYgbXlfYW5zd2VyLmRyYWZ0PwoKICAgICAgICBlbmQKICAgICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
