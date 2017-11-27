@@ -117,6 +117,12 @@
         <mark key="." line="33" column="1" />
         <mark key="^" line="33" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/reducers/questionReducer.jsx" timestamp="1511778421577">
+        <mark key="[" line="52" column="26" />
+        <mark key="]" line="52" column="27" />
+        <mark key="." line="52" column="27" />
+        <mark key="^" line="46" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/App.js" timestamp="1506956727479">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="8" />
@@ -257,6 +263,9 @@
         <mark key="^" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/.gitlab-ci.yml" timestamp="1511506035388" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/actions/questionActionCreators.jsx" timestamp="1511778336871">
+        <mark key="'" line="124" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/commonComponents.jsx" timestamp="1510900189574">
         <mark key="'" line="1" column="42" />
         <mark key="[" line="1" column="17" />
@@ -570,7 +579,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511768642431">
+      <file name="/Dummy.txt" timestamp="1511777897211">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/answer_to_moon_job.rb" timestamp="1510740461241">
@@ -611,8 +620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="32" filename="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue.rb" />
-      <jump line="61" column="30" filename="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue.rb" />
       <jump line="11" column="22" filename="$USER_HOME$/Documents/sesame/app/commands/answers/update.rb" />
       <jump line="4" column="15" filename="$USER_HOME$/Documents/sesame/app/commands/answers/update.rb" />
       <jump line="8" column="23" filename="$USER_HOME$/Documents/sesame/app/commands/answers/update.rb" />
@@ -711,10 +718,12 @@
       <jump line="19" column="8" filename="$USER_HOME$/Documents/sesame/app/commands/questions/create_utms.rb" />
       <jump line="20" column="43" filename="$USER_HOME$/Documents/sesame/app/commands/questions/create_utms.rb" />
       <jump line="12" column="21" filename="$USER_HOME$/Documents/sesame/app/commands/questions/create_utms.rb" />
+      <jump line="103" column="16" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/actions/questionActionCreators.jsx" />
+      <jump line="124" column="19" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/actions/questionActionCreators.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -723,46 +732,46 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdWVzdGlvbl91cmxcPg==</text>
+        <text encoding="base64">XDxyZWNlaXZlQW5zd2Vyc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGpzb24ucGFydGlhbCEgJ3Nob3cnLCBhbnN3ZXI6IGFuc3dlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgbG9nZ2VkX2luPwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFsZXJ0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIAogICAgICAKICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgaWYgbG9nZ2VkX2luPwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKICAgICAgICAjIGlmIGJyb3dzZXIuZGV2aWNlLm1vYmlsZT8KICAgICAgIyAgIHN0YXRlID0gcGFyYW1zWzp0b2dnbGVkXSA/IDp0b2dnbGVkIDogOmFwcHJvdmVkCiAgICAgICMgICBAYW5zd2VycyA9IEBxdWVzdGlvbi5hbnN3ZXJzLnNlbmQoc3RhdGUpLnBhcnNlZC52b3Rlc19kZXNjLnBhZ2UocGFyYW1zWzpwYWdlXSkKICAgICAgIyBlbHNlCiAgICAgICMgICBAYW5zd2VycyA9IEBxdWVzdGlvbi5hbnN3ZXJzLmFjdGl2ZS52b3Rlc19kZXNjLnBhZ2UocGFyYW1zWzpwYWdlXSkKICAgICAgIyBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxdWVzdGlvbl91cmxcPg==</last-search>
+      <last-search encoding="base64">XDxyZWNlaXZlQW5zd2Vyc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdWVzdGlvbl91cmxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZWNlaXZlQW5zd2Vyc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -791,6 +800,8 @@
         <entry encoding="base64">XDxzZWFyY2hJY29uXD4=</entry>
         <entry encoding="base64">XDxyZWxhdGlvblw+</entry>
         <entry encoding="base64">XDxxdWVzdGlvbl91cmxcPg==</entry>
+        <entry encoding="base64">XDxmZXRjaFF1ZXN0aW9uQnlJZFw+</entry>
+        <entry encoding="base64">XDxyZWNlaXZlQW5zd2Vyc1w+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
