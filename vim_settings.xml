@@ -405,7 +405,7 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" timestamp="1510674836553">
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" timestamp="1511864652420">
         <mark key="[" line="62" column="11" />
         <mark key="]" line="62" column="27" />
         <mark key="^" line="62" column="27" />
@@ -493,6 +493,7 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="11" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/config/initializers/omniauth.rb" timestamp="1511864741237" />
       <file name="$USER_HOME$/Documents/workplace/hera/src/components/Workbook.js" timestamp="1511261974028">
         <mark key="[" line="23" column="62" />
         <mark key="]" line="23" column="60" />
