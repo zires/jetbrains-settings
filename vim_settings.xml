@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/auth_controller.rb" timestamp="1511936714712">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/create.rb" timestamp="1511947535658" />
       <file name="$USER_HOME$/Documents/sesame/config/initializers/dalli.rb" timestamp="1511518997372">
         <mark key="[" line="19" column="0" />
@@ -281,6 +276,7 @@
         <mark key="^" line="0" column="170" />
         <mark key="." line="0" column="170" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/states.rb" timestamp="1511952804330" />
       <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" timestamp="1510812792898">
         <mark key="[" line="462" column="44" />
         <mark key="]" line="462" column="63" />
@@ -364,6 +360,7 @@
         <mark key="^" line="7" column="24" />
         <mark key="." line="52" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/question.rb" timestamp="1511952788105" />
       <file name="$USER_HOME$/Documents/sesame-api/app/controllers/application_controller.rb" timestamp="1509953430957">
         <mark key="[" line="15" column="19" />
         <mark key="]" line="15" column="16" />
