@@ -25,4 +25,9 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
+  <template name="skip" value="skip_before_action :$END$" description="skip before action" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
