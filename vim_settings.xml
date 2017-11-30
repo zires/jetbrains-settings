@@ -404,12 +404,12 @@
         <mark key="." line="21" column="8" />
         <mark key="^" line="21" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1512028677492">
+      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1512029946649">
         <mark key="'" line="0" column="22" />
         <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="19" />
-        <mark key="." line="9" column="19" />
-        <mark key="^" line="9" column="19" />
+        <mark key="]" line="14" column="5" />
+        <mark key="." line="14" column="5" />
+        <mark key="^" line="14" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/containers/SheetContainer.js" timestamp="1511278534803">
         <mark key="[" line="2" column="8" />
@@ -492,6 +492,7 @@
         <mark key="^" line="15" column="25" />
         <mark key="." line="15" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/helpers/application_helper.rb" timestamp="1512029985609" />
     </filemarks>
     <jumps>
       <jump line="29" column="16" filename="$USER_HOME$/Documents/sesame/client/app/lib/styles/font-util.js" />
