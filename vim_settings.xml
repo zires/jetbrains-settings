@@ -404,6 +404,13 @@
         <mark key="." line="21" column="8" />
         <mark key="^" line="21" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1512024259571">
+        <mark key="'" line="0" column="22" />
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/containers/SheetContainer.js" timestamp="1511278534803">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="22" />
@@ -487,7 +494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="7" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/HomeEntrance.jsx" />
       <jump line="29" column="16" filename="$USER_HOME$/Documents/sesame/client/app/lib/styles/font-util.js" />
       <jump line="34" column="1" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/components.jsx" />
       <jump line="23" column="6" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/components.jsx" />
@@ -587,16 +593,17 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/sesame/app/controllers/api/inner/auth_controller.rb" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/sesame/app/controllers/api/inner/auth_controller.rb" />
       <jump line="9" column="29" filename="$USER_HOME$/Documents/sesame-api/config/deploy/staging.rb" />
+      <jump line="4" column="22" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>function greeter(person) {</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1bnJlYWRfbWVzc2FnZXNfY291bnRcPg==</text>
@@ -605,31 +612,34 @@
         <text encoding="base64">ICAgICAgbWF0Y2ggJy9hdXRoJyA9PiAnYXV0aCNpbmRleCcsIHZpYTogOnBvc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWFpbl9ob3N0OiAnaHR0cDovLycK</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>class Action2 {
+  name: string;
+  source: string;
+}</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGpzb24uKGFuc3dlciwgOmNvbnRlbnQsIDppbWFnZXMpCg==</text>
+        <text encoding="base64">CiAgICByZXR1cm4gIkhlbGxvLCAiICsgcGVyc29uOwp9CgpsZXQgdXNlciA9ICJKYW5lIFVzZXIiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWFpbl9ob3N0OiAnaHR0cDovLycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBqc29uLihhbnN3ZXIsIDpjb250ZW50LCA6aW1hZ2VzKQogIGpzb24udGV4dCAoYW5zd2VyLnRleHQgfHwgJycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
