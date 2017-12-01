@@ -447,13 +447,19 @@
         <mark key="^" line="15" column="33" />
         <mark key="." line="15" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1512127748737">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/containers/RenamePanelContainer.js" timestamp="1508126084825">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512014372620">
+      <file name="/Dummy.txt" timestamp="1512127756207">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/answer_to_moon_job.rb" timestamp="1510740461241">
