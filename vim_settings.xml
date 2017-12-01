@@ -101,10 +101,9 @@
         <mark key="^" line="7" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/wifikey_inject.js" timestamp="1512099398752">
-        <mark key="[" line="5" column="38" />
-        <mark key="]" line="6" column="5" />
-        <mark key="^" line="6" column="5" />
-        <mark key="." line="6" column="5" />
+        <mark key="]" line="3" column="5" />
+        <mark key="^" line="3" column="5" />
+        <mark key="." line="3" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/answers_controller.rb" timestamp="1512014044901">
         <mark key="'" line="106" column="37" />
@@ -281,11 +280,11 @@
         <mark key="^" line="34" column="69" />
         <mark key="." line="45" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/answer.rb" timestamp="1511947125304">
-        <mark key="[" line="56" column="9" />
-        <mark key="]" line="56" column="7" />
-        <mark key="^" line="56" column="7" />
-        <mark key="." line="56" column="7" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/answer.rb" timestamp="1512121703806">
+        <mark key="[" line="52" column="31" />
+        <mark key="]" line="52" column="31" />
+        <mark key="^" line="52" column="31" />
+        <mark key="." line="52" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/reject.rb" timestamp="1510215916728">
         <mark key="[" line="9" column="45" />
