@@ -276,12 +276,12 @@
         <mark key="." line="21" column="8" />
         <mark key="^" line="21" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1512375777277">
+      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1512377063318">
         <mark key="'" line="22" column="27" />
-        <mark key="[" line="122" column="11" />
-        <mark key="]" line="122" column="27" />
-        <mark key="." line="122" column="27" />
-        <mark key="^" line="122" column="27" />
+        <mark key="[" line="119" column="6" />
+        <mark key="]" line="119" column="6" />
+        <mark key="." line="119" column="6" />
+        <mark key="^" line="119" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/containers/SheetContainer.js" timestamp="1511278534803">
         <mark key="[" line="2" column="8" />
@@ -379,7 +379,7 @@
         <mark key="^" line="0" column="170" />
         <mark key="." line="0" column="170" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" timestamp="1512361066630">
+      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" timestamp="1512377005146">
         <mark key="'" line="460" column="10" />
         <mark key="[" line="462" column="44" />
         <mark key="]" line="462" column="63" />
@@ -628,14 +628,14 @@
       <jump line="19" column="27" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>var</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>req</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb21haW5cPg==</text>
@@ -644,31 +644,31 @@
         <text encoding="base64">ICAgICAgbWF0Y2ggJy9hdXRoJyA9PiAnYXV0aCNpbmRleCcsIHZpYTogOnBvc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBkb21haW4gPSBjb25maWcuY29va2llRG9tYWluIHx8IGNvbmZpZy5kb21haW47CiAgICBpZiAoZG9tYWluKSB7CiAgICAgIGNvb2tpZURvbWFpbiA9ICI7IGRvbWFpbj0iICsgZG9tYWluOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChyZXF1ZXN0LnN0YXR1cyA9PT0gMjAwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1c2goZXZlbnQ6IG9iamVjdCkgewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG9uU3VjY2VzcykgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5ldmVudFF1ZXVlLnB1c2goZXZlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzdWNjZXNzKCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zYXZlRXZlbnRRdWV1ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5ldmVudFF1ZXVlLnB1c2goZXZlbnQpOwogICAgICB0aGlzLnNhdmVFdmVudFF1ZXVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
