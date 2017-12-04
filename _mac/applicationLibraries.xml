@@ -3528,6 +3528,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/2.1.0/x86_64-darwin14.0" />
       </SOURCES>
     </library>
+    <library name="bigdecimal (v1.3.0, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/bigdecimal" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/bigdecimal" />
+      </SOURCES>
+    </library>
     <library name="bindex (v0.5.0, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bindex/0.5.0" />
@@ -13295,6 +13303,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/json-2.0.2/references" />
       </SOURCES>
     </library>
+    <library name="json (v2.0.2, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/json/add" />
+      </SOURCES>
+    </library>
     <library name="json (v2.0.3, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.0.3" />
@@ -17547,6 +17563,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/open_qq-3.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="openssl (v2.0.3, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/openssl" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/openssl" />
+      </SOURCES>
+    </library>
     <library name="optionable (v0.2.0, rbenv: 2.2.2) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/optionable-0.2.0/lib" />
@@ -18791,6 +18815,20 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/2.1.0/rubygems" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/2.1.0/bigdecimal" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.1.5/lib/ruby/2.1.0/x86_64-darwin14.0" />
+      </SOURCES>
+    </library>
+    <library name="psych (v2.2.2, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/psych/json" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/psych/visitors" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/psych/json" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/psych/visitors" />
       </SOURCES>
     </library>
     <library name="public_suffix (v2.0.4, rbenv: 2.3.0) [gem]">
@@ -21223,6 +21261,30 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rdoc-4.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="rdoc (v5.0.0, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/generator" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/markdown" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/2.4.0/rdoc/generator" />
+      </SOURCES>
+    </library>
     <library name="rdoc (v5.1.0, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/rdoc-5.1.0/bin" />
@@ -21238,8 +21300,6 @@
     <library name="react-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-global.d.ts" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react.d.ts" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-create-fragment.d.ts" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-css-transition-group.d.ts" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-linked-state-mixin.d.ts" />
@@ -21250,6 +21310,8 @@
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-transition-group.d.ts" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-addons-update.d.ts" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-dom.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react-global.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react_react.d.ts" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
