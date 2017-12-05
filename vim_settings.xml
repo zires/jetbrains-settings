@@ -33,6 +33,12 @@
         <mark key="." line="18" column="35" />
         <mark key="^" line="18" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/create.rb" timestamp="1512442149938">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/config/initializers/dalli.rb" timestamp="1511518997372">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -377,6 +383,7 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="23" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/act_form-0.3.1/lib/act_form/attributes.rb" timestamp="1512442466017" />
       <file name="$USER_HOME$/Documents/sesame/app/views/welcome/could_answer.slim" timestamp="1511847909505">
         <mark key="[" line="0" column="165" />
         <mark key="]" line="0" column="170" />
