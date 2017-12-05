@@ -202,7 +202,7 @@
         <mark key="^" line="0" column="170" />
         <mark key="." line="0" column="170" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" timestamp="1512383972766">
+      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" timestamp="1512457072817">
         <mark key="'" line="160" column="11" />
         <mark key="[" line="462" column="44" />
         <mark key="]" line="462" column="63" />
@@ -470,12 +470,12 @@
         <mark key="." line="21" column="8" />
         <mark key="^" line="21" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1512440609268">
+      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1512457085429">
         <mark key="'" line="23" column="27" />
-        <mark key="[" line="143" column="7" />
-        <mark key="]" line="144" column="12" />
-        <mark key="^" line="144" column="12" />
-        <mark key="." line="144" column="12" />
+        <mark key="[" line="41" column="30" />
+        <mark key="]" line="41" column="30" />
+        <mark key="." line="41" column="30" />
+        <mark key="^" line="41" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/containers/SheetContainer.js" timestamp="1511278534803">
         <mark key="[" line="2" column="8" />
@@ -675,14 +675,14 @@
       <jump line="12" column="2" filename="$USER_HOME$/Documents/act_form/lib/act_form/model.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>saved</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX2Fzc2lnblw+</text>
@@ -691,31 +691,31 @@
         <text encoding="base64">ICAgICAgY29tbWFuZC5zdWNjZXNzPy5tdXN0X2VxdWFsIHRydWUKICAgICAgY29tbWFuZC5yZXN1bHQubXVzdF9lcXVhbCAnc2F2ZWQnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBPYmplY3Qua2V5cyhvYmopLm1hcChmdW5jdGlvbiAoaykgewogICAgICByZXR1cm4gZW5jb2RlVVJJQ29tcG9uZW50KGspICsgJz0nICsgZW5jb2RlVVJJQ29tcG9uZW50KG9ialtrXSkKICAgIH0pLmpvaW4oJyYnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJpdmF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgcHJpdmF0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN5bmModXNlcikKICAgIHVzZXIuc2F2ZQogICAgJ3NhdmVkJwo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN5bmModXNlcikKICAgIHVzZXIuc2F2ZQogICAgJ3NhdmVkJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb21iaW5lIFVzZXJGb3JtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb21iaW5lIFVzZXJGb3JtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29tbWFuZCA9IENyZWF0ZVVzZXJDb21tYW5kLnJ1bih1c2VyOiBAdXNlcikKICAgICAgY29tbWFuZC5zdWNjZXNzPy5tdXN0X2VxdWFsIHRydWUKICAgICAgY29tbWFuZC5yZXN1bHQubXVzdF9lcXVhbCAnc2F2ZWQnCiAgICAgIEB1c2VyLnNhdmVkPy5tdXN0X2VxdWFsIHRydWUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29tbWFuZCA9IENyZWF0ZVVzZXJDb21tYW5kLnJ1bih1c2VyOiBAdXNlcikKICAgICAgY29tbWFuZC5zdWNjZXNzPy5tdXN0X2VxdWFsIHRydWUKICAgICAgY29tbWFuZC5yZXN1bHQubXVzdF9lcXVhbCAnc2F2ZWQnCiAgICAgIEB1c2VyLnNhdmVkPy5tdXN0X2VxdWFsIHRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
