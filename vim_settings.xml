@@ -63,7 +63,7 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/act_form/test/test_helper.rb" timestamp="1512453910224">
+      <file name="$USER_HOME$/Documents/act_form/test/test_helper.rb" timestamp="1512455231929">
         <mark key="[" line="86" column="14" />
         <mark key="]" line="86" column="18" />
         <mark key="^" line="86" column="18" />
@@ -184,7 +184,7 @@
         <mark key="." line="169" column="38" />
         <mark key="^" line="169" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/act_form/lib/act_form.rb" timestamp="1512444948821">
+      <file name="$USER_HOME$/Documents/act_form/lib/act_form.rb" timestamp="1512455464313">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="10" column="16" />
         <mark key="^" line="10" column="16" />
@@ -303,16 +303,16 @@
         <mark key="." line="94" column="16" />
         <mark key="^" line="94" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/act_form/lib/act_form/combinable.rb" timestamp="1512445012744">
+      <file name="$USER_HOME$/Documents/act_form/lib/act_form/combinable.rb" timestamp="1512455441025">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/act_form/lib/act_form/attributes.rb" timestamp="1512447148384">
-        <mark key="[" line="39" column="72" />
-        <mark key="]" line="40" column="7" />
-        <mark key="." line="40" column="7" />
-        <mark key="^" line="40" column="7" />
+      <file name="$USER_HOME$/Documents/act_form/lib/act_form/attributes.rb" timestamp="1512455240677">
+        <mark key="[" line="38" column="72" />
+        <mark key="]" line="38" column="7" />
+        <mark key="." line="38" column="91" />
+        <mark key="^" line="38" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/spec/commands/answers/update_spec.rb" timestamp="1510744346527">
         <mark key="[" line="16" column="78" />
