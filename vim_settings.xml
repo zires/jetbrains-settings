@@ -63,7 +63,7 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/act_form/test/test_helper.rb" timestamp="1512444746645">
+      <file name="$USER_HOME$/Documents/act_form/test/test_helper.rb" timestamp="1512445178708">
         <mark key="[" line="86" column="18" />
         <mark key="]" line="86" column="18" />
         <mark key="^" line="86" column="18" />
@@ -231,7 +231,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/act_form/lib/act_form/runnable.rb" timestamp="1512443902536" />
-      <file name="$USER_HOME$/Documents/act_form/lib/act_form/model.rb" timestamp="1512444488605">
+      <file name="$USER_HOME$/Documents/act_form/lib/act_form/model.rb" timestamp="1512445222415">
         <mark key="'" line="12" column="2" />
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
@@ -303,10 +303,15 @@
         <mark key="." line="94" column="16" />
         <mark key="^" line="94" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/act_form/lib/act_form/combinable.rb" timestamp="1512444299802">
+      <file name="$USER_HOME$/Documents/act_form/lib/act_form/combinable.rb" timestamp="1512445012744">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/act_form/lib/act_form/attributes.rb" timestamp="1512445992360">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/spec/commands/answers/update_spec.rb" timestamp="1510744346527">
         <mark key="[" line="16" column="78" />
@@ -449,7 +454,7 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="0" column="33" />
       </file>
-      <file name="/Ruby Console" timestamp="1512444505419">
+      <file name="/Ruby Console" timestamp="1512445995329">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/renders/renderColumnHeader.js" timestamp="1510572837848">
@@ -670,7 +675,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcHJpdmF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -685,28 +690,28 @@
         <text encoding="base64">ICAgICAgY29tbWFuZC5zdWNjZXNzPy5tdXN0X2VxdWFsIHRydWUKICAgICAgY29tbWFuZC5yZXN1bHQubXVzdF9lcXVhbCAnc2F2ZWQnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJpdmF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgcHJpdmF0ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN5bmModXNlcikKICAgIHVzZXIuc2F2ZQogICAgJ3NhdmVkJwo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN5bmModXNlcikKICAgIHVzZXIuc2F2ZQogICAgJ3NhdmVkJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb21iaW5lIFVzZXJGb3JtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb21iaW5lIFVzZXJGb3JtCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29tbWFuZCA9IENyZWF0ZVVzZXJDb21tYW5kLnJ1bih1c2VyOiBAdXNlcikKICAgICAgY29tbWFuZC5zdWNjZXNzPy5tdXN0X2VxdWFsIHRydWUKICAgICAgY29tbWFuZC5yZXN1bHQubXVzdF9lcXVhbCAnc2F2ZWQnCiAgICAgIEB1c2VyLnNhdmVkPy5tdXN0X2VxdWFsIHRydWUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29tbWFuZCA9IENyZWF0ZVVzZXJDb21tYW5kLnJ1bih1c2VyOiBAdXNlcikKICAgICAgY29tbWFuZC5zdWNjZXNzPy5tdXN0X2VxdWFsIHRydWUKICAgICAgY29tbWFuZC5yZXN1bHQubXVzdF9lcXVhbCAnc2F2ZWQnCiAgICAgIEB1c2VyLnNhdmVkPy5tdXN0X2VxdWFsIHRydWUK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
