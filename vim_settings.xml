@@ -32,6 +32,13 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" timestamp="1512457072817">
+        <mark key="'" line="160" column="11" />
+        <mark key="[" line="462" column="44" />
+        <mark key="]" line="462" column="63" />
+        <mark key="^" line="462" column="63" />
+        <mark key="." line="462" column="63" />
+      </file>
       <file name="/fragment.rb" timestamp="1505888767424">
         <mark key="[" line="0" column="0" />
       </file>
@@ -71,6 +78,13 @@
       </file>
       <file name="/Ruby Console" timestamp="1512453895755">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1512460817494">
+        <mark key="'" line="23" column="27" />
+        <mark key="[" line="132" column="14" />
+        <mark key="]" line="132" column="15" />
+        <mark key="." line="132" column="15" />
+        <mark key="^" line="132" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/application.rb" timestamp="1512458531030" />
       <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/act_form-0.3.1/lib/act_form/attributes.rb" timestamp="1512457646494" />
