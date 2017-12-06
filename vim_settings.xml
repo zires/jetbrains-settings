@@ -18,8 +18,8 @@
       <file name="/Ruby Console" timestamp="1512453895755">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1512461780404">
-        <mark key="'" line="23" column="27" />
+      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1512545845171">
+        <mark key="'" line="157" column="0" />
         <mark key="[" line="112" column="50" />
         <mark key="]" line="112" column="56" />
         <mark key="." line="112" column="56" />
@@ -76,9 +76,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="55" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Header.jsx" />
-      <jump line="8" column="30" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Header.jsx" />
-      <jump line="107" column="13" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Header.jsx" />
       <jump line="117" column="14" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Header.jsx" />
       <jump line="3" column="9" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Header.jsx" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Header.jsx" />
@@ -176,6 +173,9 @@
       <jump line="0" column="29" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.js" />
       <jump line="53" column="19" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.js" />
       <jump line="12" column="2" filename="$USER_HOME$/Documents/act_form/lib/act_form/model.rb" />
+      <jump line="25" column="0" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" />
+      <jump line="160" column="0" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" />
+      <jump line="157" column="0" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
