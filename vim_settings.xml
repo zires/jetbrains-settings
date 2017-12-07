@@ -18,14 +18,19 @@
       <file name="/Ruby Console" timestamp="1512453895755">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/users_controller.rb" timestamp="1512628352090">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/users_controller.rb" timestamp="1512640023764">
         <mark key="'" line="67" column="8" />
-        <mark key="[" line="57" column="85" />
-        <mark key="]" line="57" column="84" />
-        <mark key="." line="57" column="84" />
-        <mark key="^" line="57" column="84" />
+        <mark key="[" line="49" column="64" />
+        <mark key="]" line="49" column="55" />
+        <mark key="." line="49" column="55" />
+        <mark key="^" line="49" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/users/followings.json.jbuilder" timestamp="1512618650410" />
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/users/followings.json.jbuilder" timestamp="1512640088165">
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="5" column="64" />
+        <mark key="^" line="5" column="64" />
+        <mark key="." line="5" column="64" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1512550933695">
         <mark key="'" line="177" column="0" />
         <mark key="[" line="168" column="44" />
@@ -216,14 +221,14 @@
       <jump line="94" column="94" filename="$USER_HOME$/Documents/sesame/app/controllers/api/dc/welcome_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>following</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>following</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyYW5nZVw+</text>
