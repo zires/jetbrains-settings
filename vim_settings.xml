@@ -18,12 +18,12 @@
       <file name="/Ruby Console" timestamp="1512453895755">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/users_controller.rb" timestamp="1512640023764">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/users_controller.rb" timestamp="1512647441753">
         <mark key="'" line="67" column="8" />
-        <mark key="[" line="49" column="64" />
-        <mark key="]" line="49" column="55" />
-        <mark key="." line="49" column="55" />
-        <mark key="^" line="49" column="55" />
+        <mark key="[" line="48" column="71" />
+        <mark key="]" line="48" column="93" />
+        <mark key="." line="48" column="93" />
+        <mark key="^" line="48" column="93" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/followings.json.jbuilder" timestamp="1512640088165">
         <mark key="[" line="5" column="57" />
@@ -66,6 +66,12 @@
         <mark key="]" line="10" column="16" />
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1512647012219">
+        <mark key="[" line="24" column="106" />
+        <mark key="]" line="24" column="106" />
+        <mark key="^" line="24" column="106" />
+        <mark key="." line="24" column="106" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/dc/welcome_controller.rb" timestamp="1512638759009">
         <mark key="'" line="90" column="94" />
