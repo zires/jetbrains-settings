@@ -136,12 +136,12 @@
         <mark key="^" line="462" column="63" />
         <mark key="." line="462" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1512833191173">
-        <mark key="'" line="332" column="9" />
-        <mark key="[" line="342" column="23" />
-        <mark key="]" line="342" column="40" />
-        <mark key="^" line="342" column="40" />
-        <mark key="." line="342" column="40" />
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1512891841547">
+        <mark key="'" line="367" column="8" />
+        <mark key="[" line="407" column="10" />
+        <mark key="]" line="407" column="9" />
+        <mark key="^" line="407" column="9" />
+        <mark key="." line="407" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/act_form/test/test_helper.rb" timestamp="1512458050621">
         <mark key="[" line="86" column="14" />
@@ -219,8 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Documents/sesame/app/models/visitor/cell_view.rb" />
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/sesame/app/models/visitor/cell_view.rb" />
       <jump line="52" column="18" filename="$USER_HOME$/Documents/sesame/app/models/visitor/cell_view.rb" />
       <jump line="53" column="18" filename="$USER_HOME$/Documents/sesame/app/models/visitor/cell_view.rb" />
       <jump line="57" column="8" filename="$USER_HOME$/Documents/sesame/app/models/visitor/cell_view.rb" />
@@ -319,49 +317,51 @@
       <jump line="73" column="78" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Welcome.jsx" />
       <jump line="19" column="26" filename="$USER_HOME$/Documents/sesame/app/views/api/welcome/index.json.jb" />
       <jump line="20" column="5" filename="$USER_HOME$/Documents/sesame/app/views/api/welcome/index.json.jb" />
+      <jump line="402" column="7" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
+      <jump line="367" column="8" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">5bCP5Y+35oC754K56LWe5qyh5pWwIOWwj+WPt+aAu+eCuei1nuS6uuaVsCA=</text>
+        <text>range</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">5bCP5Y+35oC754K56LWe5qyh5pWwIOWwj+WPt+aAu+eCuei1nuS6uuaVsCA=</text>
+        <text>range</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYWdlX25vXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY3N2IDw8IFtdCiAgICAgIGNzdiA8PCBbXQogICAgICBjc3YgPDwgWyfmnKzlkajmgLvorqHvvJonXQogICAgICBjc3YgPDwgJXco5oC75Zue562U5pWwIOaAu+acieaViOWbnuetlOaVsCDmgLvmipjlj6Dlm57nrZTmlbAg5oC754K56LWe5qyh5pWwIOaAu+eCuei1nuS6uuaVsCDmgLvplb/lm57nrZTkuKrmlbApCiAgICAgIGNzdiA8PCBbCiAgICAgICAgQGFuc3dlcnMuY291bnQsCiAgICAgICAgQGFuc3dlcnMuYWN0aXZlLmNvdW50LAogICAgICAgIEBhbnN3ZXJzLnRvZ2dsZWQuY291bnQsCiAgICAgICAgVm90ZS53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkuY291bnQsCiAgICAgICAgVm90ZS53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkuc2VsZWN0KDp1c2VyX2lkKS5kaXN0aW5jdC5jb3VudCwKICAgICAgICBAYW5zd2Vycy5sb25nLmNvdW50LAogICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICByciA9IGRhdGUudG9fdGltZS4uZGF0ZS50b190aW1lLmVuZF9vZl9kYXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBWb3RlLndoZXJlKGNyZWF0ZWRfYXQ6IHJhbmdlKS5jb3VudCwKICAgICAgICBWb3RlLndoZXJlKGNyZWF0ZWRfYXQ6IHJhbmdlKS5zZWxlY3QoOnVzZXJfaWQpLmRpc3RpbmN0LmNvdW50LAo=</text>
+        <text encoding="base64">ICAgICAgICBjc3YgPDwgJXco5pel5pyfIOmXrumimOaVsCDlm57nrZTmlbApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBAYW5zd2Vycy50b2dnbGVkLmNvdW50LAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY3N2IDw8ICV3KOmXrumimOaVsCDmgLvkuIrmiqXpl67popjmlbAg5Zue562U5pWwIOaAu+S4iuaKpeWbnuetlOaVsCkKICAgICAgY3N2IDw8IFsKICAgICAgICAoZ2V0X2lkcygnaGFveXVlX3F1ZXN0aW9uJywgcmFuZ2UpIC0gZ2V0X2lkcygnb2ZmbGluZV9xdWVzdGlvbicsIHJhbmdlKSkudW5pcS5jb3VudCwKICAgICAgICAoZ2V0X2lkcygnaGFveXVlX3F1ZXN0aW9uJykgLSBnZXRfaWRzKCdvZmZsaW5lX3F1ZXN0aW9uJykpLnVuaXEuY291bnQgKyAxNDAwLAogICAgICAgIChnZXRfaWRzKCdoYW95dWVfYW5zd2VyJywgcmFuZ2UpIC0gZ2V0X2lkcygnb2ZmbGluZV9hbnN3ZXInLCByYW5nZSkpLnVuaXEuY291bnQsCiAgICAgICAgKGdldF9pZHMoJ2hhb3l1ZV9hbnN3ZXInKSAtIGdldF9pZHMoJ29mZmxpbmVfYW5zd2VyJykpLnVuaXEuY291bnQgKyAxMl8yMTAKICAgICAgXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY3N2IDw8IFtdCiAgICAgIGNzdiA8PCBbXQogICAgICBjc3YgPDwgWyfmnKzlkajmgLvorqHvvJonXQogICAgICBjc3YgPDwgJXco5oC75Zue562U5pWwIOaAu+acieaViOWbnuetlOaVsCDmgLvmipjlj6Dlm57nrZTmlbAg5oC754K56LWe5qyh5pWwIOaAu+eCuei1nuS6uuaVsCDmgLvplb/lm57nrZTkuKrmlbApCiAgICAgIGNzdiA8PCBbCiAgICAgICAgQGFuc3dlcnMuY291bnQsCiAgICAgICAgQGFuc3dlcnMuYWN0aXZlLmNvdW50LAogICAgICAgIEBhbnN3ZXJzLnRvZ2dsZWQuY291bnQsCiAgICAgICAgVm90ZS53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkuY291bnQsCiAgICAgICAgVm90ZS53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkuc2VsZWN0KDp1c2VyX2lkKS5kaXN0aW5jdC5jb3VudCwKICAgICAgICBAYW5zd2Vycy5sb25nLmNvdW50LAogICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICBWb3RlLndoZXJlKGNyZWF0ZWRfYXQ6IHJhbmdlKS5jb3VudCwKICAgICAgICBWb3RlLndoZXJlKGNyZWF0ZWRfYXQ6IHJhbmdlKS5zZWxlY3QoOnVzZXJfaWQpLmRpc3RpbmN0LmNvdW50LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBAYW5zd2Vycy50b2dnbGVkLmNvdW50LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWN0aW9uX2VuZHBvaW50OiAnaHR0cDovL21lZGlhLXN1Yi1kZXZlbG9wLjUxeTUubmV0Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWN0aW9uX2VuZHBvaW50OiAnaHR0cDovL21lZGlhLXN1Yi1kZXZlbG9wLjUxeTUubmV0Jwo=</text>
+        <text encoding="base64">ICAgICAgY3N2IDw8IFtdCiAgICAgIGNzdiA8PCBbXQogICAgICBjc3YgPDwgWyfmnKzlkajmgLvorqHvvJonXQogICAgICBjc3YgPDwgJXco5oC75Zue562U5pWwIOaAu+acieaViOWbnuetlOaVsCDmgLvmipjlj6Dlm57nrZTmlbAg5oC754K56LWe5qyh5pWwIOaAu+eCuei1nuS6uuaVsCDmgLvplb/lm57nrZTkuKrmlbApCiAgICAgIGNzdiA8PCBbCiAgICAgICAgQGFuc3dlcnMuY291bnQsCiAgICAgICAgQGFuc3dlcnMuYWN0aXZlLmNvdW50LAogICAgICAgIEBhbnN3ZXJzLnRvZ2dsZWQuY291bnQsCiAgICAgICAgVm90ZS53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkuY291bnQsCiAgICAgICAgVm90ZS53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkuc2VsZWN0KDp1c2VyX2lkKS5kaXN0aW5jdC5jb3VudCwKICAgICAgICBAYW5zd2Vycy5sb25nLmNvdW50LAogICAgICBdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWN0aW9uX2VuZHBvaW50OiAnaHR0cDovL21lZGlhLXN1Yi1kZXZlbG9wLjUxeTUubmV0Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
