@@ -109,11 +109,12 @@
         <mark key="." line="8" column="44" />
         <mark key="^" line="8" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1512459546721">
-        <mark key="[" line="21" column="42" />
-        <mark key="]" line="21" column="57" />
-        <mark key="." line="21" column="57" />
-        <mark key="^" line="21" column="57" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1512981226290">
+        <mark key="'" line="4" column="15" />
+        <mark key="[" line="70" column="4" />
+        <mark key="]" line="70" column="8" />
+        <mark key="." line="70" column="8" />
+        <mark key="^" line="70" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.js" timestamp="1512832660860">
         <mark key="[" line="139" column="35" />
@@ -270,7 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="8" filename="$USER_HOME$/Documents/sesame/app/commands/questions/create_utms.rb" />
       <jump line="20" column="43" filename="$USER_HOME$/Documents/sesame/app/commands/questions/create_utms.rb" />
       <jump line="12" column="21" filename="$USER_HOME$/Documents/sesame/app/commands/questions/create_utms.rb" />
       <jump line="103" column="16" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/actions/questionActionCreators.jsx" />
@@ -370,6 +370,7 @@
       <jump line="23" column="21" filename="$USER_HOME$/Documents/sesame/app/jobs/answer_to_cell_job.rb" />
       <jump line="22" column="9" filename="$USER_HOME$/Documents/sesame/app/jobs/answer_to_cell_job.rb" />
       <jump line="51" column="6" filename="$USER_HOME$/Documents/sesame/app/models/answer.rb" />
+      <jump line="4" column="15" filename="$USER_HOME$/Documents/sesame/app/models/user.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
