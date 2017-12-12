@@ -46,7 +46,6 @@
         <mark key="^" line="49" column="37" />
         <mark key="." line="49" column="37" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/act_form-0.3.1/lib/act_form/runnable.rb" timestamp="1512973351804" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/Item.jsx" timestamp="1510911472744">
         <mark key="[" line="1" column="35" />
       </file>
@@ -115,7 +114,6 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/questions/states.rb" timestamp="1512990805386" />
       <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1512983145023">
         <mark key="'" line="68" column="36" />
         <mark key="[" line="68" column="35" />
@@ -141,6 +139,12 @@
         <mark key="]" line="34" column="21" />
         <mark key="^" line="34" column="21" />
         <mark key="." line="34" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/wifikey_inject.js" timestamp="1513045372958">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="44" />
+        <mark key="^" line="4" column="44" />
+        <mark key="." line="4" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen.rb" timestamp="1512982965155">
         <mark key="'" line="0" column="0" />
@@ -250,7 +254,6 @@
         <mark key="^" line="11" column="42" />
         <mark key="." line="11" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/states.rb" timestamp="1512990310281" />
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1512989997106">
         <mark key="'" line="367" column="8" />
         <mark key="[" line="407" column="10" />
@@ -283,8 +286,6 @@
         <mark key="^" line="21" column="37" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/_show.json.jbuilder" timestamp="1512965088894" />
-      <file name="$USER_HOME$/Documents/sesame/Gemfile" timestamp="1512975395009" />
       <file name="$USER_HOME$/Documents/sesame/config/pre_commit.yml" timestamp="1512809049262">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -309,7 +310,6 @@
         <mark key="^" line="46" column="9" />
         <mark key="." line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/comments_controller.rb" timestamp="1512985656778" />
     </filemarks>
     <jumps>
       <jump line="503" column="4" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
@@ -467,27 +467,10 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBY3Rpb25cPg==</entry>
-        <entry encoding="base64">XDxfc2VuZF9yZXF1ZXN0XD4=</entry>
-        <entry encoding="base64">XDxjYW5TdHJpbmdpZnlcPg==</entry>
-        <entry encoding="base64">XDxldmVudFF1ZXVlXD4=</entry>
-        <entry encoding="base64">XDx0cmFja0V2ZW50XD4=</entry>
-        <entry encoding="base64">XDxFdmVudFw+</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZUlkXD4=</entry>
-        <entry encoding="base64">XDxzZXRDb29raWVcPg==</entry>
-        <entry encoding="base64">XDxkb21haW5cPg==</entry>
-        <entry encoding="base64">XDxvYmpUb1BhcmFtc1w+</entry>
-        <entry encoding="base64">XDxfX2Fzc2lnblw+</entry>
-        <entry encoding="base64">XDxzZXRfdXNlclw+</entry>
-        <entry encoding="base64">XDx2aXNpdG9yVHRsXD4=</entry>
-        <entry encoding="base64">XDxyYW5nZVw+</entry>
-        <entry encoding="base64">XDxhbnN3ZXJzXD4=</entry>
-        <entry encoding="base64">XDx0cmFja1w+</entry>
-        <entry encoding="base64">XDx0b01vb25cPg==</entry>
         <entry encoding="base64">XDxjaGVja1Zpc2libGVJdGVtXD4=</entry>
         <entry encoding="base64">XDxpbmRleFw+</entry>
         <entry encoding="base64">XDxwYWdlX25vXD4=</entry>
