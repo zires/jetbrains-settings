@@ -189,7 +189,7 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/comment.rb" timestamp="1512992246566">
+      <file name="$USER_HOME$/Documents/sesame/app/models/comment.rb" timestamp="1513062040200">
         <mark key="[" line="37" column="9" />
         <mark key="]" line="37" column="9" />
         <mark key="." line="37" column="9" />
@@ -270,7 +270,7 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512984829834">
+      <file name="/Dummy.txt" timestamp="1513062008355">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1513051507439">
@@ -415,14 +415,14 @@
       <jump line="71" column="6" filename="$USER_HOME$/Documents/sesame/app/services/sms_service.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE9SREVSKQo=</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxZYWNmXD4=</text>
@@ -434,22 +434,22 @@
         <text encoding="base64">ICAgIE9SREVSKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGkK</text>
+        <text encoding="base64">ICAgIE9SREVSKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
