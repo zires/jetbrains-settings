@@ -166,12 +166,6 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1512983312562">
-        <mark key="'" line="156" column="38" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" timestamp="1512960490375">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -270,7 +264,7 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513065391509">
+      <file name="/Dummy.txt" timestamp="1513074049271">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1513051507439">
