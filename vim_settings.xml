@@ -189,11 +189,10 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/comment.rb" timestamp="1513062040200">
-        <mark key="[" line="37" column="9" />
-        <mark key="]" line="37" column="9" />
-        <mark key="." line="37" column="9" />
-        <mark key="^" line="37" column="9" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/comment.rb" timestamp="1513063778367">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/answer_to_cell_job.rb" timestamp="1512964879200">
         <mark key="[" line="22" column="8" />
@@ -415,14 +414,14 @@
       <jump line="71" column="6" filename="$USER_HOME$/Documents/sesame/app/services/sms_service.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxZYWNmXD4=</text>
@@ -431,28 +430,28 @@
         <text encoding="base64">ICAgICAgICByciA9IGRhdGUudG9fdGltZS4uZGF0ZS50b190aW1lLmVuZF9vZl9kYXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE9SREVSKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIE9SREVSKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDw8T1JERVIKICAgICAgQ0FTRQogICAgT1JERVIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIE9SREVSKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIE9SREVSKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
