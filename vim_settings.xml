@@ -189,11 +189,11 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/comment.rb" timestamp="1513065826352">
-        <mark key="[" line="37" column="6" />
-        <mark key="]" line="37" column="3" />
-        <mark key="^" line="37" column="3" />
-        <mark key="." line="37" column="3" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/comment.rb" timestamp="1513072435382">
+        <mark key="[" line="32" column="101" />
+        <mark key="]" line="32" column="111" />
+        <mark key="^" line="32" column="111" />
+        <mark key="." line="32" column="111" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/answer_to_cell_job.rb" timestamp="1512964879200">
         <mark key="[" line="22" column="8" />
@@ -311,11 +311,11 @@
         <mark key="^" line="46" column="9" />
         <mark key="." line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/comments_controller.rb" timestamp="1513065696750">
-        <mark key="[" line="8" column="39" />
-        <mark key="]" line="8" column="37" />
-        <mark key="." line="8" column="37" />
-        <mark key="^" line="8" column="37" />
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/comments_controller.rb" timestamp="1513072619125">
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="8" column="50" />
+        <mark key="." line="8" column="50" />
+        <mark key="^" line="8" column="50" />
       </file>
     </filemarks>
     <jumps>
@@ -422,43 +422,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQGNvbW1lbnRzID0gQ29tbWVudC5hdmFpbGFibGUoQGFuc3dlciwgY3VycmVudF91c2VyKS5vcmRlcl93aXRoX3VzZXIoY3VycmVudF91c2VyKS5kZWZhdWx0X2Rlc2MucGFnZShwYXJhbXNbOnBhZ2VdKS5wZXIocGFyYW1zWzpwZXJfcGFnZV0pCiAgICAgIEBib3VuZGFyeSA9IEBjb21tZW50cy5sYXN0X3BhZ2U/IHx8IEBjb21tZW50cy5jb3VudC56ZXJvPwo+Pj4+Pj4+IGZlYXR1cmUvY29tbWVudHMK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2hlcmUoY29tbWVudGFibGU6IGNvbW1lbnRhYmxlKSA=</text>
+        <text>aasm_state: %i(draft approved)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxZYWNmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByciA9IGRhdGUudG9fdGltZS4uZGF0ZS50b190aW1lLmVuZF9vZl9kYXkK</text>
+        <text encoding="base64">ICAgICAgIyBAY29tbWVudHMgPSBAYW5zd2VyLmNvbW1lbnRzLmFwcHJvdmVkLm9yZGVyKCd2b3Rlc193ZWlnaHQgZGVzYywgaWQgZGVzYycpLnBhZ2UocGFyYW1zWzpwYWdlXSkucGVyKHBhcmFtc1s6cGVyX3BhZ2VdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQGNvbW1lbnRzID0gQ29tbWVudC5hdmFpbGFibGUoQGFuc3dlciwgY3VycmVudF91c2VyKS5vcmRlcl93aXRoX3VzZXIoY3VycmVudF91c2VyKS5kZWZhdWx0X2Rlc2MucGFnZShwYXJhbXNbOnBhZ2VdKS5wZXIocGFyYW1zWzpwZXJfcGFnZV0pCiAgICAgIEBib3VuZGFyeSA9IEBjb21tZW50cy5sYXN0X3BhZ2U/IHx8IEBjb21tZW50cy5jb3VudC56ZXJvPwo+Pj4+Pj4+IGZlYXR1cmUvY29tbWVudHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIHVzZXIgPT0gY29tbWVudGFibGUudXNlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgIyBAY29tbWVudHMgPSBAYW5zd2VyLmNvbW1lbnRzLmFwcHJvdmVkLm9yZGVyKCd2b3Rlc193ZWlnaHQgZGVzYywgaWQgZGVzYycpLnBhZ2UocGFyYW1zWzpwYWdlXSkucGVyKHBhcmFtc1s6cGVyX3BhZ2VdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdoZXJlKCkK</text>
+        <text encoding="base64">PT09PT09PQogIHNjb3BlIDpkZWZhdWx0X2Rlc2MsIC0+IHsKICAgIG9yZGVyKCJDQVNFIGFhc21fc3RhdGUgV0hFTiAnZHJhZnQnIFRIRU4gMCBXSEVOICdyZWplY3RlZCcgVEhFTiAxIEVMU0UgMiBFTkQiKQogICAgICAub3JkZXIoImNyZWF0ZWRfYXQgZGVzYyIpCiAgfQogICMgc2NvcGUgOndpdGhfdXNlciwgLT4geyB8dXNlcnwgMTF9CiAgc2NvcGUgOmRlZmF1bHRfZGVzYywgLT4geyBvcmRlcigndm90ZXNfd2VpZ2h0IGRlc2MsIGlkIGRlc2MnKSB9Cj4+Pj4+Pj4gU3Rhc2hlZCBjaGFuZ2VzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
