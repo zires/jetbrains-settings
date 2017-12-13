@@ -34,6 +34,12 @@
         <mark key="^" line="29" column="9" />
         <mark key="." line="29" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/users_controller.rb" timestamp="1513161220003">
+        <mark key="[" line="57" column="58" />
+        <mark key="]" line="57" column="70" />
+        <mark key="^" line="57" column="70" />
+        <mark key="." line="57" column="70" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/followings.json.jbuilder" timestamp="1512640088165">
         <mark key="[" line="5" column="57" />
         <mark key="]" line="5" column="64" />
@@ -275,6 +281,7 @@
         <mark key="." line="56" column="27" />
         <mark key="^" line="56" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/question.rb" timestamp="1513161211506" />
       <file name="$USER_HOME$/Documents/sesame/app/models/error.rb" timestamp="1512969658943">
         <mark key="[" line="12" column="61" />
         <mark key="]" line="12" column="60" />
