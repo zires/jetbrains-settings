@@ -55,6 +55,12 @@
         <mark key="." line="17" column="27" />
         <mark key="^" line="17" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/administrator/questions_controller.rb" timestamp="1513156882764">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="89" column="66" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/online.rb" timestamp="1512973353540">
         <mark key="[" line="10" column="18" />
         <mark key="]" line="10" column="27" />
@@ -67,6 +73,7 @@
         <mark key="^" line="24" column="106" />
         <mark key="." line="24" column="106" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/commands/questions/approve.rb" timestamp="1513156458993" />
       <file name="$USER_HOME$/Documents/act_form/test/test_helper.rb" timestamp="1512458050621">
         <mark key="[" line="86" column="14" />
         <mark key="]" line="86" column="18" />
@@ -129,6 +136,7 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/update.rb" timestamp="1513156390462" />
       <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.js" timestamp="1512832660860">
         <mark key="[" line="139" column="35" />
         <mark key="]" line="139" column="33" />
@@ -166,11 +174,6 @@
         <mark key="]" line="4" column="25" />
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" timestamp="1512960490375">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/client/welcome/_question.json.jb" timestamp="1512724517656">
         <mark key="[" line="6" column="20" />
@@ -254,35 +257,17 @@
         <mark key="^" line="407" column="9" />
         <mark key="." line="407" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/services/short_url_service.rb" timestamp="1512984721391">
-        <mark key="'" line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/app/services/sms_service.rb" timestamp="1512984849390">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1513074646151">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1513051507439">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/roles/user_roles.rb" timestamp="1512704603155">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/errors_controller.rb" timestamp="1512964735656">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="^" line="21" column="37" />
         <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/config/pre_commit.yml" timestamp="1512809049262">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/visitor/cell_view.rb" timestamp="1512964242646">
         <mark key="[" line="56" column="27" />
@@ -414,8 +399,8 @@
       <jump line="4" column="19" filename="$USER_HOME$/Documents/sesame/app/controllers/api/comments_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -430,31 +415,31 @@
         <text encoding="base64">ICAgICAgIyBAY29tbWVudHMgPSBAYW5zd2VyLmNvbW1lbnRzLmFwcHJvdmVkLm9yZGVyKCd2b3Rlc193ZWlnaHQgZGVzYywgaWQgZGVzYycpLnBhZ2UocGFyYW1zWzpwYWdlXSkucGVyKHBhcmFtc1s6cGVyX3BhZ2VdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICBAY29tbWVudHMgPSBDb21tZW50LmF2YWlsYWJsZShAYW5zd2VyLCBjdXJyZW50X3VzZXIpLm9yZGVyX3dpdGhfdXNlcihjdXJyZW50X3VzZXIpLm9yZGVyKCd2b3Rlc193ZWlnaHQgREVTQycpLnBhZ2UocGFyYW1zWzpwYWdlXSkucGVyKHBhcmFtc1s6cGVyX3BhZ2VdKQo+Pj4+Pj4+IGZlYXR1cmUvY29tbWVudHMK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQGNvbW1lbnRzID0gQ29tbWVudC5hdmFpbGFibGUoQGFuc3dlciwgY3VycmVudF91c2VyKS5vcmRlcl93aXRoX3VzZXIoY3VycmVudF91c2VyKS5kZWZhdWx0X2Rlc2MucGFnZShwYXJhbXNbOnBhZ2VdKS5wZXIocGFyYW1zWzpwZXJfcGFnZV0pCiAgICAgIEBib3VuZGFyeSA9IEBjb21tZW50cy5sYXN0X3BhZ2U/IHx8IEBjb21tZW50cy5jb3VudC56ZXJvPwo+Pj4+Pj4+IGZlYXR1cmUvY29tbWVudHMK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PT09PT09PQogICAgICBAY29tbWVudHMgPSBDb21tZW50LmF2YWlsYWJsZShAYW5zd2VyLCBjdXJyZW50X3VzZXIpLm9yZGVyX3dpdGhfdXNlcihjdXJyZW50X3VzZXIpLm9yZGVyKCd2b3Rlc193ZWlnaHQgREVTQycpLnBhZ2UocGFyYW1zWzpwYWdlXSkucGVyKHBhcmFtc1s6cGVyX3BhZ2VdKQo+Pj4+Pj4+IGZlYXR1cmUvY29tbWVudHMK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgQGNvbW1lbnRzID0gQ29tbWVudC5hdmFpbGFibGUoQGFuc3dlciwgY3VycmVudF91c2VyKS5vcmRlcl93aXRoX3VzZXIoY3VycmVudF91c2VyKS5kZWZhdWx0X2Rlc2MucGFnZShwYXJhbXNbOnBhZ2VdKS5wZXIocGFyYW1zWzpwZXJfcGFnZV0pCiAgICAgIEBib3VuZGFyeSA9IEBjb21tZW50cy5sYXN0X3BhZ2U/IHx8IEBjb21tZW50cy5jb3VudC56ZXJvPwo+Pj4+Pj4+IGZlYXR1cmUvY29tbWVudHMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyBAY29tbWVudHMgPSBAYW5zd2VyLmNvbW1lbnRzLmFwcHJvdmVkLm9yZGVyKCd2b3Rlc193ZWlnaHQgZGVzYywgaWQgZGVzYycpLnBhZ2UocGFyYW1zWzpwYWdlXSkucGVyKHBhcmFtc1s6cGVyX3BhZ2VdKQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQogIHNjb3BlIDpkZWZhdWx0X2Rlc2MsIC0+IHsKICAgIG9yZGVyKCJDQVNFIGFhc21fc3RhdGUgV0hFTiAnZHJhZnQnIFRIRU4gMCBXSEVOICdyZWplY3RlZCcgVEhFTiAxIEVMU0UgMiBFTkQiKQogICAgICAub3JkZXIoImNyZWF0ZWRfYXQgZGVzYyIpCiAgfQogICMgc2NvcGUgOndpdGhfdXNlciwgLT4geyB8dXNlcnwgMTF9CiAgc2NvcGUgOmRlZmF1bHRfZGVzYywgLT4geyBvcmRlcigndm90ZXNfd2VpZ2h0IGRlc2MsIGlkIGRlc2MnKSB9Cj4+Pj4+Pj4gU3Rhc2hlZCBjaGFuZ2VzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgICAgIyBAY29tbWVudHMgPSBAYW5zd2VyLmNvbW1lbnRzLmFwcHJvdmVkLm9yZGVyKCd2b3Rlc193ZWlnaHQgZGVzYywgaWQgZGVzYycpLnBhZ2UocGFyYW1zWzpwYWdlXSkucGVyKHBhcmFtc1s6cGVyX3BhZ2VdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
