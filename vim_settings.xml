@@ -52,7 +52,6 @@
         <mark key="^" line="5" column="64" />
         <mark key="." line="5" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" timestamp="1513051217712" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" timestamp="1512715204104">
         <mark key="[" line="49" column="37" />
         <mark key="]" line="49" column="37" />
@@ -77,7 +76,6 @@
         <mark key="^" line="24" column="106" />
         <mark key="." line="24" column="106" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/questions/approve.rb" timestamp="1513156458993" />
       <file name="$USER_HOME$/Documents/act_form/test/test_helper.rb" timestamp="1512458050621">
         <mark key="[" line="86" column="14" />
         <mark key="]" line="86" column="18" />
@@ -104,7 +102,6 @@
         <mark key="." line="24" column="21" />
         <mark key="^" line="24" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/web/Question/components/Question.jsx" timestamp="1513074774119" />
       <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1512983124798">
         <mark key="'" line="8" column="58" />
         <mark key="[" line="57" column="43" />
@@ -149,7 +146,6 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/update.rb" timestamp="1513156390462" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Header.jsx" timestamp="1513221692524">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="6" />
@@ -280,7 +276,7 @@
         <mark key="^" line="407" column="9" />
         <mark key="." line="407" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513222020508">
+      <file name="/Dummy.txt" timestamp="1513222459876">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/components/QuestionPreview.jsx" timestamp="1513221467086">
@@ -309,7 +305,6 @@
         <mark key="^" line="21" column="37" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/lib/components/buttons/VoteButton.jsx" timestamp="1513218957962" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/comments/remove.rb" timestamp="1513164086260">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="9" column="22" />
@@ -323,7 +318,6 @@
         <mark key="." line="56" column="27" />
         <mark key="^" line="56" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/question.rb" timestamp="1513161211506" />
       <file name="$USER_HOME$/Documents/sesame/app/models/error.rb" timestamp="1512969658943">
         <mark key="[" line="12" column="61" />
         <mark key="]" line="12" column="60" />
@@ -509,15 +503,10 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGVja1Zpc2libGVJdGVtXD4=</entry>
-        <entry encoding="base64">XDxpbmRleFw+</entry>
-        <entry encoding="base64">XDxwYWdlX25vXD4=</entry>
-        <entry encoding="base64">XDxldnRcPg==</entry>
-        <entry encoding="base64">XDxlcnJvclw+</entry>
         <entry encoding="base64">XDxFcnJvclw+</entry>
         <entry encoding="base64">XDxhbnN3ZXJfaWRcPg==</entry>
         <entry encoding="base64">XDxfcGFyYW1zXD4=</entry>
