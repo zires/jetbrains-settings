@@ -15,13 +15,6 @@
         <mark key="." line="45" column="27" />
         <mark key="^" line="45" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/answer.rb" timestamp="1513060216311">
-        <mark key="'" line="52" column="6" />
-        <mark key="[" line="69" column="9" />
-        <mark key="]" line="69" column="5" />
-        <mark key="^" line="69" column="5" />
-        <mark key="." line="69" column="5" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/MessageEntrance.jsx" timestamp="1513221573153">
         <mark key="[" line="33" column="19" />
         <mark key="]" line="33" column="20" />
@@ -70,12 +63,6 @@
         <mark key="]" line="49" column="37" />
         <mark key="^" line="49" column="37" />
         <mark key="." line="49" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/administrator/questions_controller.rb" timestamp="1513156882764">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="89" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/online.rb" timestamp="1512973353540">
         <mark key="[" line="10" column="18" />
