@@ -88,6 +88,9 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/db/schema.rb" timestamp="1513586447296">
+        <mark key="'" line="63" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/my_questions.json.jbuilder" timestamp="1513236628789">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -413,8 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="384" column="8" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
-      <jump line="2" column="2" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
       <jump line="81" column="37" filename="$USER_HOME$/Documents/sesame/app/controllers/api/dc/welcome_controller.rb" />
       <jump line="332" column="9" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
       <jump line="150" column="38" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" />
@@ -513,6 +514,8 @@
       <jump line="2" column="7" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/actions/answerDetailActionCreators.jsx" />
       <jump line="87" column="2" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
       <jump line="352" column="2" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/sesame/db/schema.rb" />
+      <jump line="63" column="15" filename="$USER_HOME$/Documents/sesame/db/schema.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -525,7 +528,7 @@
         <text encoding="base64">dHJhY2ssIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21wb25lbnRXaWxsTW91bnRcPg==</text>
+        <text>comments</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLnVpLmxhYmVsID0gIuaAu+aVsO+8miN7QGdyaWQuYXNzZXRzLnRvdGFsX2NvdW50fSIK</text>
@@ -562,9 +565,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21wb25lbnRXaWxsTW91bnRcPg==</last-search>
+      <last-search>comments</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21wb25lbnRXaWxsTW91bnRcPg==</last-pattern>
+      <last-pattern>comments</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -593,6 +596,7 @@
         <entry encoding="base64">XDxoYW5kbGVEb21Db250ZW50TG9hZGVkXD4=</entry>
         <entry encoding="base64">XDxFcnJvclRvYXN0XD4=</entry>
         <entry encoding="base64">XDxjb21wb25lbnRXaWxsTW91bnRcPg==</entry>
+        <entry>comments</entry>
       </history-search>
       <history-cmd />
       <history-expr />
