@@ -120,6 +120,12 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/web/CouldAnswer/reducers/couldAnswerReducer.jsx" timestamp="1513594526347">
+        <mark key="[" line="29" column="48" />
+        <mark key="]" line="29" column="39" />
+        <mark key="^" line="29" column="39" />
+        <mark key="." line="29" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/grids/comment_grid.rb" timestamp="1513164639603">
         <mark key="[" line="19" column="94" />
         <mark key="]" line="19" column="93" />
@@ -246,7 +252,13 @@
         <mark key="." line="0" column="89" />
         <mark key="^" line="0" column="88" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513565022705">
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/DefaultLayout.jsx" timestamp="1513594419586">
+        <mark key="[" line="47" column="31" />
+        <mark key="]" line="48" column="11" />
+        <mark key="^" line="48" column="11" />
+        <mark key="." line="48" column="11" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1513594300664">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/components/FooterAction.jsx" timestamp="1513219798972">
