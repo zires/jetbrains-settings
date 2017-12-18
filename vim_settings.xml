@@ -84,11 +84,23 @@
       <file name="$USER_HOME$/Documents/sesame/db/schema.rb" timestamp="1513586447296">
         <mark key="'" line="63" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/web/CouldAnswer/containers/CouldAnswerContainer.jsx" timestamp="1513596018799">
+        <mark key="[" line="5" column="82" />
+        <mark key="]" line="5" column="131" />
+        <mark key="^" line="5" column="131" />
+        <mark key="." line="5" column="131" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/my_questions.json.jbuilder" timestamp="1513236628789">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/web/Profile/components/Profile.jsx" timestamp="1513596533918">
+        <mark key="[" line="173" column="149" />
+        <mark key="]" line="173" column="173" />
+        <mark key="^" line="173" column="173" />
+        <mark key="." line="173" column="173" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Waitlist/actions/waitlistActionCreators.jsx" timestamp="1513233080297">
         <mark key="[" line="113" column="57" />
@@ -120,11 +132,17 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/web/CouldAnswer/reducers/couldAnswerReducer.jsx" timestamp="1513594526347">
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/web/CouldAnswer/reducers/couldAnswerReducer.jsx" timestamp="1513596010659">
         <mark key="[" line="29" column="48" />
         <mark key="]" line="29" column="39" />
         <mark key="^" line="29" column="39" />
         <mark key="." line="29" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/web/CouldAnswer/components/CouldAnswer.jsx" timestamp="1513596523003">
+        <mark key="[" line="39" column="33" />
+        <mark key="]" line="39" column="31" />
+        <mark key="^" line="39" column="31" />
+        <mark key="." line="39" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/grids/comment_grid.rb" timestamp="1513164639603">
         <mark key="[" line="19" column="94" />
