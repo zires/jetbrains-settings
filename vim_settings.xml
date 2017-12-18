@@ -157,7 +157,6 @@
         <mark key="^" line="229" column="20" />
         <mark key="." line="229" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/questions/states.rb" timestamp="1513318966357" />
       <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1512983145023">
         <mark key="'" line="68" column="36" />
         <mark key="[" line="68" column="35" />
@@ -209,7 +208,6 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1513322589830" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/client/welcome/_question.json.jb" timestamp="1512724517656">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="7" column="23" />
@@ -295,7 +293,6 @@
         <mark key="." line="169" column="29" />
         <mark key="^" line="169" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1513324059969" />
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1512989997106">
         <mark key="'" line="367" column="8" />
         <mark key="[" line="407" column="10" />
@@ -303,7 +300,7 @@
         <mark key="^" line="407" column="9" />
         <mark key="." line="407" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513234288409">
+      <file name="/Dummy.txt" timestamp="1513565022705">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/components/QuestionPreview.jsx" timestamp="1513234271208">
