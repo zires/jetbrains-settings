@@ -51,11 +51,11 @@
         <mark key="^" line="5" column="64" />
         <mark key="." line="5" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" timestamp="1513664782463">
-        <mark key="[" line="69" column="3" />
-        <mark key="]" line="72" column="7" />
-        <mark key="^" line="72" column="7" />
-        <mark key="." line="72" column="7" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" timestamp="1513670046930">
+        <mark key="[" line="72" column="37" />
+        <mark key="]" line="72" column="54" />
+        <mark key="^" line="72" column="54" />
+        <mark key="." line="72" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" timestamp="1512715204104">
         <mark key="[" line="49" column="37" />
@@ -234,7 +234,7 @@
         <mark key="^" line="24" column="117" />
         <mark key="." line="24" column="117" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/routes/api_routes.rb" timestamp="1513664929688">
+      <file name="$USER_HOME$/Documents/sesame/config/routes/api_routes.rb" timestamp="1513669605229">
         <mark key="[" line="67" column="37" />
         <mark key="]" line="67" column="58" />
         <mark key="^" line="67" column="58" />
