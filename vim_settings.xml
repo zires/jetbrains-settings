@@ -83,6 +83,7 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/mutations/authorizations/provider.rb" timestamp="1513743524527" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/web/CouldAnswer/containers/CouldAnswerContainer.jsx" timestamp="1513596018799">
         <mark key="[" line="5" column="82" />
         <mark key="]" line="5" column="131" />
@@ -157,6 +158,7 @@
         <mark key="^" line="229" column="20" />
         <mark key="." line="229" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/commands/upload_image_command.rb" timestamp="1513743624835" />
       <file name="$USER_HOME$/Documents/sesame/app/models/report.rb" timestamp="1512985079867">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="5" />
@@ -290,13 +292,13 @@
         <mark key="^" line="48" column="11" />
         <mark key="." line="48" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/wifikey_login_command.rb" timestamp="1513741991616">
-        <mark key="[" line="10" column="60" />
-        <mark key="]" line="10" column="74" />
-        <mark key="^" line="10" column="74" />
-        <mark key="." line="10" column="74" />
+      <file name="$USER_HOME$/Documents/sesame/app/commands/wifikey_login_command.rb" timestamp="1513743640904">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513737558305">
+      <file name="/Dummy.txt" timestamp="1513742913498">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/components/FooterAction.jsx" timestamp="1513219798972">
@@ -339,6 +341,10 @@
         <mark key="]" line="12" column="60" />
         <mark key="^" line="12" column="60" />
         <mark key="." line="12" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/auth_controller.rb" timestamp="1513743600034">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="107" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/administrator/users/index.html.slim" timestamp="1513319009313">
         <mark key="[" line="5" column="0" />
@@ -463,25 +469,25 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZWxzZQogICAgICAgIGVycm9ycy5hZGQoOiwganNvblsnZXJyb3InXSkK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcXVlcnkgPSB7IGFwcElkOiBFTlZbJ1dJRklLRVlfQVBQSUQnXSwgcGlkOiAncXJ5VXNlclRva2VuVXNlckluZm8nLCB1c2VyVG9rZW46IHVzZXJfdG9rZW4sIHRva2VuQXBwSWQ6ICcnLCB1aGlkOiB1aGlkLCBzdDogJ20nIH0K</text>
+      <register name="0" type="4">
+        <text>outcome = Authorizations::Provider.run auth: request.env['omniauth.auth'], provider: params[:provider]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZWxzZQogICAgICAgIGVycm9ycy5hZGQoOiwganNvblsnZXJyb3InXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgdG9fcXVlcnkocXVlcnkpCiAgICBxdWVyeS50b19xdWVyeQogIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -490,19 +496,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgcXVlcnkKICAgIEBxdWVyeSB8fD0geyBhcHBJZDogRU5WWydXSUZJS0VZX0FQUElEJ10sIHBpZDogJ3FyeVVzZXJUb2tlblVzZXJJbmZvJywgdXNlclRva2VuOiB1c2VyX3Rva2VuLCB0b2tlbkFwcElkOiAnJywgdWhpZDogdWhpZCwgc3Q6ICdtJyB9CiAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcXVlcnkgPSB7IGFwcElkOiBFTlZbJ1dJRklLRVlfQVBQSUQnXSwgcGlkOiAncXJ5VXNlclRva2VuVXNlckluZm8nLCB1c2VyVG9rZW46IHVzZXJfdG9rZW4sIHRva2VuQXBwSWQ6ICcnLCB1aGlkOiB1aGlkLCBzdDogJ20nIH0K</text>
+        <text encoding="base64">ICAgICAgYXV0aCA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
