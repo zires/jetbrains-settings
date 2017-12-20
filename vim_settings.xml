@@ -146,6 +146,7 @@
         <mark key="." line="30" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/initializers/omniauth.rb" timestamp="1513740068672" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1513765244594" />
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/tracker.js" timestamp="1513220036968">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="34" />
@@ -208,7 +209,7 @@
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/sessions_controller.rb" timestamp="1513759134541">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/sessions_controller.rb" timestamp="1513764946691">
         <mark key="[" line="41" column="30" />
         <mark key="]" line="42" column="29" />
         <mark key="^" line="42" column="29" />
@@ -251,7 +252,7 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1513679267575">
+      <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1513765282950">
         <mark key="[" line="28" column="68" />
         <mark key="]" line="29" column="47" />
         <mark key="." line="29" column="47" />
@@ -386,6 +387,12 @@
         <mark key="]" line="44" column="62" />
         <mark key="." line="44" column="62" />
         <mark key="^" line="44" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/config/settings/staging.yml" timestamp="1513765289916">
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="10" column="34" />
+        <mark key="^" line="10" column="34" />
+        <mark key="." line="10" column="34" />
       </file>
     </filemarks>
     <jumps>
