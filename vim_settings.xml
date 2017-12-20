@@ -77,6 +77,12 @@
         <mark key="^" line="24" column="106" />
         <mark key="." line="24" column="106" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Welcome.jsx" timestamp="1513757096908">
+        <mark key="[" line="144" column="18" />
+        <mark key="]" line="144" column="22" />
+        <mark key="^" line="144" column="22" />
+        <mark key="." line="144" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/act_form/test/test_helper.rb" timestamp="1512458050621">
         <mark key="[" line="86" column="14" />
         <mark key="]" line="86" column="18" />
@@ -182,12 +188,6 @@
         <mark key="]" line="4" column="44" />
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/sessions_controller.rb" timestamp="1513752784841">
-        <mark key="[" line="43" column="26" />
-        <mark key="]" line="43" column="32" />
-        <mark key="." line="43" column="32" />
-        <mark key="^" line="43" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/show.json.jbuilder" timestamp="1512984522123">
         <mark key="[" line="4" column="29" />
@@ -299,7 +299,7 @@
         <mark key="^" line="7" column="41" />
         <mark key="." line="7" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513751202114">
+      <file name="/Dummy.txt" timestamp="1513756842982">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/components/FooterAction.jsx" timestamp="1513219798972">
@@ -470,7 +470,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -485,13 +485,13 @@
         <text>outcome = Authorizations::Provider.run auth: request.env['omniauth.auth'], provider: params[:provider]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
@@ -500,16 +500,16 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
