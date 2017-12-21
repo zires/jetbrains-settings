@@ -9,10 +9,11 @@
         <mark key="." line="38" column="91" />
         <mark key="^" line="38" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerToggled/components/AnswerToggled.jsx" timestamp="1513234427864">
-        <mark key="[" line="42" column="3" />
-        <mark key="]" line="45" column="27" />
-        <mark key="." line="45" column="27" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerToggled/components/AnswerToggled.jsx" timestamp="1513839626118">
+        <mark key="'" line="7" column="16" />
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
         <mark key="^" line="45" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/MessageEntrance.jsx" timestamp="1513221573153">
@@ -411,7 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="7" filename="$USER_HOME$/Documents/sesame/app/controllers/api/errors_controller.rb" />
       <jump line="29" column="13" filename="$USER_HOME$/Documents/sesame/app/controllers/api/errors_controller.rb" />
       <jump line="40" column="15" filename="$USER_HOME$/Documents/sesame/app/controllers/api/errors_controller.rb" />
       <jump line="7" column="6" filename="$USER_HOME$/Documents/sesame/app/controllers/api/errors_controller.rb" />
@@ -511,19 +511,20 @@
       <jump line="31" column="0" filename="$USER_HOME$/Documents/sesame/app/commands/wifikey_login_command.rb" />
       <jump line="45" column="13" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame.js" />
       <jump line="0" column="4" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame.js" />
+      <jump line="7" column="16" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerToggled/components/AnswerToggled.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>question</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbkVudlw+</text>
+        <text encoding="base64">XDx0b01vb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgQGZvbGxvd2luZ3MgPSBwYWdpbmF0ZV9yZWxhdGlvbihAZm9sbG93aW5ncywgMjAsICdjcmVhdGVkX2F0JykK</text>
@@ -560,9 +561,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbkVudlw+</last-search>
+      <last-search encoding="base64">XDx0b01vb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbkVudlw+</last-pattern>
+      <last-pattern encoding="base64">XDx0b01vb25cPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -583,7 +584,6 @@
         <entry encoding="base64">XDxBbnN3ZXJMaXN0SXRlbVw+</entry>
         <entry encoding="base64">XDxnb0Fuc3dlckRldGFpbFw+</entry>
         <entry encoding="base64">XDxsb2dpbkNhbGxiYWNrXD4=</entry>
-        <entry encoding="base64">XDx0b01vb25cPg==</entry>
         <entry encoding="base64">XDx0cmFja1w+</entry>
         <entry encoding="base64">XDxoYW5kbGVEb21Db250ZW50TG9hZGVkXD4=</entry>
         <entry encoding="base64">XDxFcnJvclRvYXN0XD4=</entry>
@@ -592,6 +592,7 @@
         <entry encoding="base64">XDxjb21wb25lbnREaWRNb3VudFw+</entry>
         <entry encoding="base64">XDxxdWVyeVw+</entry>
         <entry encoding="base64">XDxpbkVudlw+</entry>
+        <entry encoding="base64">XDx0b01vb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
