@@ -153,7 +153,7 @@
         <mark key="." line="30" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/initializers/omniauth.rb" timestamp="1513740068672" />
-      <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1513840485117" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1513843277731" />
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/tracker.js" timestamp="1513220036968">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="34" />
@@ -240,7 +240,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/.env" timestamp="1513741614164" />
+      <file name="$USER_HOME$/Documents/sesame/.env" timestamp="1513843339230" />
       <file name="$USER_HOME$/Documents/sesame/app/jobs/answer_to_cell_job.rb" timestamp="1512964879200">
         <mark key="[" line="22" column="8" />
         <mark key="]" line="22" column="5" />
