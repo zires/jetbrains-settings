@@ -57,12 +57,12 @@
         <mark key="^" line="5" column="64" />
         <mark key="." line="5" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" timestamp="1513827969960">
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" timestamp="1513829949180">
         <mark key="'" line="71" column="2" />
-        <mark key="[" line="86" column="24" />
-        <mark key="]" line="86" column="27" />
-        <mark key="." line="86" column="27" />
-        <mark key="^" line="86" column="27" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="74" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" timestamp="1512715204104">
         <mark key="[" line="49" column="37" />
@@ -214,11 +214,10 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/sessions_controller.rb" timestamp="1513764946691">
-        <mark key="[" line="41" column="30" />
-        <mark key="]" line="42" column="29" />
-        <mark key="^" line="42" column="29" />
-        <mark key="." line="42" column="29" />
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/sessions_controller.rb" timestamp="1513830082823">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/show.json.jbuilder" timestamp="1512984522123">
         <mark key="[" line="4" column="29" />
@@ -323,12 +322,12 @@
         <mark key="^" line="48" column="11" />
         <mark key="." line="48" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/wifikey_login_command.rb" timestamp="1513768015945">
+      <file name="$USER_HOME$/Documents/sesame/app/commands/wifikey_login_command.rb" timestamp="1513830042094">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="30" column="37" />
-        <mark key="." line="48" column="0" />
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="7" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1513826220059">
         <mark key="[" line="0" column="0" />
@@ -509,13 +508,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBfdGhpcy5hdXRvTG9naW4oKQo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>env.info</text>
+        <text encoding="base64">OnVzZXJfdG9rZW4sIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbkVudlw+</text>
@@ -524,31 +523,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICBfdGhpcy5hdXRvTG9naW4oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGluZm8gPSBlbnYuaW5mbwogICAgICAgICAgICBnZXQoJy9hcGkvc2Vzc2lvbnMvd2lmaWtleV9sb2dpbicsIHsgaWQ6IGluZm8udWhpZCwgdDogaW5mby51c2VyVG9rZW4sIHBsYXRmb3JtOiBlbnYucGxhdGZvcm0gfSkKICAgICAgICAgICAgICAudGhlbihyZXNwb25zZSA9PiBfdGhpcy5wcm9wcy5sb2dpblN1Y2Nlc3MocmVzcG9uc2UuZGF0YSkpCg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsZXQgaW5mbyA9IGVudi5pbmZvCiAgICAgICAgICAgICAgZ2V0KCcvYXBpL3Nlc3Npb25zL3dpZmlrZXlfbG9naW4nLCB7IGlkOiBpbmZvLnVoaWQsIHQ6IGluZm8udXNlclRva2VuLCBwbGF0Zm9ybTogZW52LnBsYXRmb3JtIH0pCiAgICAgICAgICAgICAgICAudGhlbihyZXNwb25zZSA9PiBfdGhpcy5wcm9wcy5sb2dpblN1Y2Nlc3MocmVzcG9uc2UuZGF0YSkpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGluZm8sICcrKysrKysrKysrKysrKysrKysrKysrKysrJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgd2sgPSBTZXNhbWUuc2RrLmdldCgnd2lmaWtleScsIGVudi5wbGF0Zm9ybSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBpbmZvID0gZW52LmluZm8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHdrLmlzR3Vlc3QoZnVuY3Rpb24gKGRhdGEpIHsKICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSkKICAgICAgICAgICAgaWYgKHBhcnNlSW50KGRhdGEpID09PSAtMSkgX3RoaXMuYXV0b0xvZ2luKCkKICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGluZm8gPSBlbnYuaW5mbwogICAgICAgICAgICBnZXQoJy9hcGkvc2Vzc2lvbnMvd2lmaWtleV9sb2dpbicsIHsgaWQ6IGluZm8udWhpZCwgdDogaW5mby51c2VyVG9rZW4sIHBsYXRmb3JtOiBlbnYucGxhdGZvcm0gfSkKICAgICAgICAgICAgICAudGhlbihyZXNwb25zZSA9PiBfdGhpcy5wcm9wcy5sb2dpblN1Y2Nlc3MocmVzcG9uc2UuZGF0YSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBsZXQgaW5mbyA9IGVudi5pbmZvCiAgICAgICAgICAgICAgZ2V0KCcvYXBpL3Nlc3Npb25zL3dpZmlrZXlfbG9naW4nLCB7IGlkOiBpbmZvLnVoaWQsIHQ6IGluZm8udXNlclRva2VuLCBwbGF0Zm9ybTogZW52LnBsYXRmb3JtIH0pCiAgICAgICAgICAgICAgICAudGhlbihyZXNwb25zZSA9PiBfdGhpcy5wcm9wcy5sb2dpblN1Y2Nlc3MocmVzcG9uc2UuZGF0YSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
