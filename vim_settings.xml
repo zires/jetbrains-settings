@@ -124,11 +124,11 @@
         <mark key="." line="27" column="14" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Waitlist/actions/waitlistActionCreators.jsx" timestamp="1513925643674">
-        <mark key="[" line="113" column="57" />
-        <mark key="]" line="114" column="27" />
-        <mark key="." line="114" column="27" />
-        <mark key="^" line="114" column="27" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Waitlist/actions/waitlistActionCreators.jsx" timestamp="1513927380743">
+        <mark key="[" line="66" column="10" />
+        <mark key="]" line="66" column="21" />
+        <mark key="." line="66" column="21" />
+        <mark key="^" line="66" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/_show.json.jbuilder" timestamp="1513315372780">
         <mark key="[" line="1" column="22" />
@@ -202,6 +202,7 @@
         <mark key="." line="5" column="6" />
         <mark key="^" line="5" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Index/index.jsx" timestamp="1513927708288" />
       <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.js" timestamp="1512832660860">
         <mark key="[" line="139" column="35" />
         <mark key="]" line="139" column="33" />
@@ -335,7 +336,7 @@
         <mark key="." line="48" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/CommentItem.jsx" timestamp="1513920304128" />
-      <file name="/Dummy.txt" timestamp="1513925644428">
+      <file name="/Dummy.txt" timestamp="1513927587367">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/components/FooterAction.jsx" timestamp="1513219798972">
@@ -397,11 +398,11 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerToggled/actions/answerToggledActionCreators.jsx" timestamp="1513231732748">
-        <mark key="[" line="44" column="60" />
-        <mark key="]" line="44" column="62" />
-        <mark key="." line="44" column="62" />
-        <mark key="^" line="44" column="62" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerToggled/actions/answerToggledActionCreators.jsx" timestamp="1513927529517">
+        <mark key="[" line="42" column="10" />
+        <mark key="]" line="42" column="21" />
+        <mark key="." line="42" column="21" />
+        <mark key="^" line="42" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/settings/staging.yml" timestamp="1513765289916">
         <mark key="[" line="10" column="39" />
@@ -409,7 +410,7 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" timestamp="1513913535976">
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" timestamp="1513927163399">
         <mark key="'" line="200" column="6" />
         <mark key="[" line="188" column="14" />
         <mark key="]" line="188" column="27" />
@@ -520,14 +521,14 @@
       <jump line="73" column="8" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerToggled/components/AnswerToggled.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">TGludC9SZXNjdWVXaXRob3V0RXJyb3JDbGFzczoK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3RhdGUuYW5zd2VyLnBhZ2UgPiAx</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2V0VHJhY2tUYWdMaXN0LCA=</text>
+        <text encoding="base64">c3RhdGUuYW5zd2VyLnBhZ2UgPiAx</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b01vb25cPg==</text>
