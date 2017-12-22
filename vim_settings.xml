@@ -70,6 +70,12 @@
         <mark key="^" line="49" column="37" />
         <mark key="." line="49" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/.rubocop.yml" timestamp="1513923891892">
+        <mark key="[" line="73" column="25" />
+        <mark key="]" line="73" column="25" />
+        <mark key="." line="73" column="25" />
+        <mark key="^" line="73" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/online.rb" timestamp="1512973353540">
         <mark key="[" line="10" column="18" />
         <mark key="]" line="10" column="27" />
@@ -515,7 +521,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TGludC9SZXNjdWVXaXRob3V0RXJyb3JDbGFzczoK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -530,31 +536,31 @@
         <text encoding="base64">ICAgICAgcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIHN0YXRlLCB7CiAgICAgICAgZGF0YTogc3RhdGUuZGF0YS5tYXAoKG9BbnN3ZXIpID0+IG9BbnN3ZXIudXNlci5pZCA9PSBhY3Rpb24udXNlci5pZCA/CiAgICAgICAgICB7IC4uLm9BbnN3ZXIsIHVzZXI6IGFjdGlvbi51c2VyIH0KICAgICAgICAgIDogb0Fuc3dlcikKICAgICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TGludC9SZXNjdWVXaXRob3V0RXJyb3JDbGFzczoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdldCgnL2FwaS9zZXNzaW9ucy93aWZpa2V5X2xvZ2luJywgeyBpZDogaW5mby51aGlkLCB0OiBpbmZvLnVzZXJUb2tlbiwgcGxhdGZvcm06IGVudi5wbGF0Zm9ybSB9KQogICAgICAudGhlbihyZXNwb25zZSA9PiB0aGlzLnByb3BzLmxvZ2luU3VjY2VzcyhyZXNwb25zZS5kYXRhKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdldCgnL2FwaS9zZXNzaW9ucy93aWZpa2V5X2xvZ2luJywgeyBpZDogaW5mby51aGlkLCB0OiBpbmZvLnVzZXJUb2tlbiwgcGxhdGZvcm06IGVudi5wbGF0Zm9ybSB9KQogICAgICAudGhlbihyZXNwb25zZSA9PiB0aGlzLnByb3BzLmxvZ2luU3VjY2VzcyhyZXNwb25zZS5kYXRhKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBRdWVzdGlvbi53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkuY291bnQsCiAgICAgICAgUXVlc3Rpb24ud2hlcmUoY3JlYXRlZF9hdDogcmFuZ2UpLmNvdW50LAogICAgICAgIFF1ZXN0aW9uLndoZXJlKGNyZWF0ZWRfYXQ6IHJhbmdlKS5jb3VudCwKICAgICAgICBRdWVzdGlvbi53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkuY291bnQsCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBRdWVzdGlvbi53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkuY291bnQsCiAgICAgICAgUXVlc3Rpb24ud2hlcmUoY3JlYXRlZF9hdDogcmFuZ2UpLmNvdW50LAogICAgICAgIFF1ZXN0aW9uLndoZXJlKGNyZWF0ZWRfYXQ6IHJhbmdlKS5jb3VudCwKICAgICAgICBRdWVzdGlvbi53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkuY291bnQsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
