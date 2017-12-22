@@ -9,12 +9,12 @@
         <mark key="." line="38" column="91" />
         <mark key="^" line="38" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerToggled/components/AnswerToggled.jsx" timestamp="1513913932066">
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerToggled/components/AnswerToggled.jsx" timestamp="1513934282784">
         <mark key="'" line="74" column="8" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="74" column="29" />
+        <mark key="[" line="27" column="48" />
+        <mark key="]" line="27" column="49" />
+        <mark key="." line="27" column="49" />
+        <mark key="^" line="27" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/MessageEntrance.jsx" timestamp="1513221573153">
         <mark key="[" line="33" column="19" />
@@ -319,7 +319,7 @@
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/CommentItem.jsx" timestamp="1513920304128" />
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/states.rb" timestamp="1513929266336" />
-      <file name="/Dummy.txt" timestamp="1513931389588">
+      <file name="/Dummy.txt" timestamp="1513934261372">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/components/FooterAction.jsx" timestamp="1513219798972">
