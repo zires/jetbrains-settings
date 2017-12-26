@@ -143,6 +143,11 @@
         <mark key="." line="27" column="14" />
         <mark key="^" line="27" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/config/initializers/redis.rb" timestamp="1514280239488">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Waitlist/actions/waitlistActionCreators.jsx" timestamp="1514171656340">
         <mark key="[" line="114" column="29" />
         <mark key="]" line="114" column="55" />
@@ -323,7 +328,7 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/visitor/list_view.rb" timestamp="1512964257115">
+      <file name="$USER_HOME$/Documents/sesame/app/models/visitor/list_view.rb" timestamp="1514280787698">
         <mark key="[" line="53" column="25" />
         <mark key="]" line="53" column="25" />
         <mark key="^" line="53" column="25" />
@@ -359,7 +364,7 @@
         <mark key="^" line="50" column="8" />
         <mark key="." line="50" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514276988384">
+      <file name="/Dummy.txt" timestamp="1514280223127">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/components/QuestionPreview.jsx" timestamp="1514199319386">
@@ -454,12 +459,12 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" timestamp="1514279574149">
-        <mark key="'" line="11" column="3" />
-        <mark key="[" line="1" column="19" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="23" />
-        <mark key="^" line="2" column="23" />
+      <file name="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" timestamp="1514280809652">
+        <mark key="'" line="16" column="3" />
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="11" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/administrator/users/index.html.slim" timestamp="1513319009313">
         <mark key="[" line="5" column="0" />
@@ -602,13 +607,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgCiAgICAK</text>
+        <text encoding="base64">ICAgICQK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>required: true</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkTW9yZUFuc3dlcnNcPg==</text>
@@ -617,28 +622,28 @@
         <text encoding="base64">ICAgIGF0dHJpYnV0ZSA6cXVlc3Rpb24sIHJlcXVpcmVkOiB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgCiAgICAK</text>
+        <text encoding="base64">ICAgICQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKCgo=</text>
+        <text encoding="base64">ICAgIAogICAgCiAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKICAKICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAKCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAKICAKICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAK</text>
