@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,7 +16,6 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.yml</mask>
-      <mask>*.j</mask>
       <mask>*.co</mask>
       <mask>*.cof</mask>
       <mask>*.coff</mask>
@@ -30,11 +30,13 @@
       <mask>*.bu</mask>
       <mask>*.b</mask>
       <mask>*.ry</mask>
-      <mask>*.rb</mask>
       <mask>*.r</mask>
-      <mask>*.</mask>
-      <mask>*.js</mask>
       <mask>*.jsx</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.rbv</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
