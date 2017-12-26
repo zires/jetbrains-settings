@@ -422,6 +422,7 @@
         <mark key="^" line="21" column="37" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/acts_as_votable.rb" timestamp="1514261081724" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/_show.json.jbuilder" timestamp="1513928964287">
         <mark key="[" line="1" column="41" />
         <mark key="]" line="1" column="53" />
