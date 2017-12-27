@@ -136,9 +136,6 @@
         <mark key="." line="169" column="38" />
         <mark key="^" line="169" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/ListItem.jsx" timestamp="1514256057450">
-        <mark key="'" line="37" column="22" />
-      </file>
       <file name="$USER_HOME$/Documents/act_form/lib/act_form.rb" timestamp="1512458683313">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="10" column="16" />
@@ -250,7 +247,7 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" timestamp="1514357873302">
+      <file name="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" timestamp="1514359134180">
         <mark key="'" line="18" column="4" />
         <mark key="[" line="29" column="3" />
         <mark key="]" line="29" column="3" />
@@ -442,6 +439,11 @@
         <mark key="^" line="22" column="5" />
         <mark key="." line="22" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/helpers/api/question_helper.rb" timestamp="1514359387822">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/config/routes/api_routes.rb" timestamp="1514256888116">
         <mark key="[" line="20" column="19" />
         <mark key="]" line="21" column="28" />
@@ -613,13 +615,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>recommends</text>
+        <text>ApplicationHelper</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNvbW1lbmRfdXNlcnNfcG9vbFw+</text>
@@ -628,28 +630,28 @@
         <text encoding="base64">ICBqc29uLmFycmF5ISBAZGF0YVs6cmVjb21tZW5kc10gZG8gfHVzZXJ8CiAgICBqc29uLnBhcnRpYWwhICdhcGkvdXNlcnMvc2hvdycsIHVzZXI6IHVzZXIKICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBkaXNwbGF5X3NpZGViYXI/CiAgICAgICFoaWRkZW5fem9uZS5pbmNsdWRlPyg6c2lkZWJhcikKICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbmNsdWRlIFF1ZXN0aW9uczo6UmVjb21tZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBpbmNsdWRlIFF1ZXN0aW9uczo6UmVjb21tZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAK</text>
