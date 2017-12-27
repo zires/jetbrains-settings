@@ -328,7 +328,7 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/visitor/list_view.rb" timestamp="1514280787698">
+      <file name="$USER_HOME$/Documents/sesame/app/models/visitor/list_view.rb" timestamp="1514351450289">
         <mark key="[" line="53" column="25" />
         <mark key="]" line="53" column="25" />
         <mark key="^" line="53" column="25" />
@@ -459,24 +459,17 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" timestamp="1514280809652">
-        <mark key="'" line="16" column="3" />
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="11" />
-        <mark key="." line="11" column="11" />
-        <mark key="^" line="11" column="11" />
+      <file name="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" timestamp="1514351860483">
+        <mark key="'" line="18" column="31" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/administrator/users/index.html.slim" timestamp="1513319009313">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/AnswerListItem.jsx" timestamp="1514335275702">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
-        <mark key="^" line="152" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/administrator/questions/index.html.slim" timestamp="1513319001738">
         <mark key="[" line="7" column="37" />
@@ -505,7 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="33" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
       <jump line="197" column="6" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
       <jump line="9" column="16" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
       <jump line="204" column="10" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
@@ -605,10 +597,11 @@
       <jump line="102" column="29" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerToggled/components/AnswerToggled.jsx" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/sesame/app/commands/questions/recommend_users.rb" />
       <jump line="10" column="3" filename="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" />
+      <jump line="23" column="31" filename="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -623,31 +616,31 @@
         <text encoding="base64">ICAgIGF0dHJpYnV0ZSA6cXVlc3Rpb24sIHJlcXVpcmVkOiB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICA8U3R5bGVkQW5zd2VyTGlzdEl0ZW0gb25DbGljaz17KGUpID0+IHsgdGhpcy5nb0Fuc3dlckRldGFpbChlLCBpdGVtLCBpbmRleCkgfX0+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFuc3dlci1pdGVtX19oZWFkZXIiPgogICAgICAgICAgPEZvbGxvd0J1dHRvbkluTGlzdCByZWY9ImZvbGxvdyIgdXNlcj17aXRlbS51c2VyfSBjdXJVc2VyPXthZGRpdGlvbi51c2VyfSBvbkNsaWNrPXt0aGlzLmZvbGxvd0J1dHRvbkNsaWNrSGFuZGxlcn0+CiAgICAgICAgICAgIDxVc2VySXRlbUhlYWRlciB1c2VyPXtpdGVtLnVzZXJ9IC8+CiAgICAgICAgICA8L0ZvbGxvd0J1dHRvbkluTGlzdD4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGVudC13cmFwcGVyIj4KICAgICAgICAgIDxUcnVuY2F0ZUNhcmQKICAgICAgICAgICAgcmVmPSJjb250ZW50IgogICAgICAgICAgICB0ZXh0PXtpdGVtLnRleHR9CiAgICAgICAgICAgIGxlbmd0aD17dGhpcy53b3JkQ291bnRJbkxpbmUobGluZSwgMiwgZ2V0Rm9udFNpemUoJ3RpdGxlMycpKX0KICAgICAgICAgICAgbGluZT17bGluZX0KICAgICAgICAgICAgaHJlZj17YC9hbnN3ZXJzLyR7aXRlbS5pZH1gfQogICAgICAgICAgICBtb3JlVGV4dD0i5YWo5paHIgogICAgICAgICAgICBjbGFzc05hbWU9ImNvbnRlbnQiCiAgICAgICAgICAvPgogICAgICAgICAge2hhc0ltYWdlICYmICFhZGRpdGlvbi5ub3RTaG93SW1hZ2UgJiYgPEltYWdlV3JhcD48ZGl2PjxJbWFnZSBzcmM9e2l0ZW0uaW1hZ2VzWzBdfSAvPjwvZGl2PjwvSW1hZ2VXcmFwPiB9Cj4+Pj4+Pj4gZGV2ZWxvcAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIHRoaXMuY29udGV4dC5oaXN0b3J5LnB1c2goYC9hbnN3ZXJzLyR7aWR9YCkKICAgICAgdG9Nb29uKCdDbGlja19xcGFnZScpCj09PT09PT0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdHJhY2soJ2NsaWNrQW5zd2VySXRlbScsIHsgaWQgfSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICQK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJlY29tbWVuZF91c2Vyc19wb29sLnJlZGlzLnNhZGQgcmVjb21tZW5kX3VzZXJzX3Bvb2wua2V5LCBzZXQudG9fYQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgCiAgICAK</text>
+        <text encoding="base64">PT09PT09PQogICAgICA8U3R5bGVkQW5zd2VyTGlzdEl0ZW0gb25DbGljaz17KGUpID0+IHsgdGhpcy5nb0Fuc3dlckRldGFpbChlLCBpdGVtLCBpbmRleCkgfX0+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFuc3dlci1pdGVtX19oZWFkZXIiPgogICAgICAgICAgPEZvbGxvd0J1dHRvbkluTGlzdCByZWY9ImZvbGxvdyIgdXNlcj17aXRlbS51c2VyfSBjdXJVc2VyPXthZGRpdGlvbi51c2VyfSBvbkNsaWNrPXt0aGlzLmZvbGxvd0J1dHRvbkNsaWNrSGFuZGxlcn0+CiAgICAgICAgICAgIDxVc2VySXRlbUhlYWRlciB1c2VyPXtpdGVtLnVzZXJ9IC8+CiAgICAgICAgICA8L0ZvbGxvd0J1dHRvbkluTGlzdD4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGVudC13cmFwcGVyIj4KICAgICAgICAgIDxUcnVuY2F0ZUNhcmQKICAgICAgICAgICAgcmVmPSJjb250ZW50IgogICAgICAgICAgICB0ZXh0PXtpdGVtLnRleHR9CiAgICAgICAgICAgIGxlbmd0aD17dGhpcy53b3JkQ291bnRJbkxpbmUobGluZSwgMiwgZ2V0Rm9udFNpemUoJ3RpdGxlMycpKX0KICAgICAgICAgICAgbGluZT17bGluZX0KICAgICAgICAgICAgaHJlZj17YC9hbnN3ZXJzLyR7aXRlbS5pZH1gfQogICAgICAgICAgICBtb3JlVGV4dD0i5YWo5paHIgogICAgICAgICAgICBjbGFzc05hbWU9ImNvbnRlbnQiCiAgICAgICAgICAvPgogICAgICAgICAge2hhc0ltYWdlICYmICFhZGRpdGlvbi5ub3RTaG93SW1hZ2UgJiYgPEltYWdlV3JhcD48ZGl2PjxJbWFnZSBzcmM9e2l0ZW0uaW1hZ2VzWzBdfSAvPjwvZGl2PjwvSW1hZ2VXcmFwPiB9Cj4+Pj4+Pj4gZGV2ZWxvcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
