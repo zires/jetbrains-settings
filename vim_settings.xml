@@ -472,10 +472,11 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/AnswerListItem.jsx" timestamp="1514200339009">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/AnswerListItem.jsx" timestamp="1514335275702">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="152" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/administrator/questions/index.html.slim" timestamp="1513319001738">
         <mark key="[" line="7" column="37" />
@@ -607,7 +608,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICQK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -622,31 +623,31 @@
         <text encoding="base64">ICAgIGF0dHJpYnV0ZSA6cXVlc3Rpb24sIHJlcXVpcmVkOiB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICQK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PT09PT09PQogICAgICA8U3R5bGVkQW5zd2VyTGlzdEl0ZW0gb25DbGljaz17KGUpID0+IHsgdGhpcy5nb0Fuc3dlckRldGFpbChlLCBpdGVtLCBpbmRleCkgfX0+CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFuc3dlci1pdGVtX19oZWFkZXIiPgogICAgICAgICAgPEZvbGxvd0J1dHRvbkluTGlzdCByZWY9ImZvbGxvdyIgdXNlcj17aXRlbS51c2VyfSBjdXJVc2VyPXthZGRpdGlvbi51c2VyfSBvbkNsaWNrPXt0aGlzLmZvbGxvd0J1dHRvbkNsaWNrSGFuZGxlcn0+CiAgICAgICAgICAgIDxVc2VySXRlbUhlYWRlciB1c2VyPXtpdGVtLnVzZXJ9IC8+CiAgICAgICAgICA8L0ZvbGxvd0J1dHRvbkluTGlzdD4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udGVudC13cmFwcGVyIj4KICAgICAgICAgIDxUcnVuY2F0ZUNhcmQKICAgICAgICAgICAgcmVmPSJjb250ZW50IgogICAgICAgICAgICB0ZXh0PXtpdGVtLnRleHR9CiAgICAgICAgICAgIGxlbmd0aD17dGhpcy53b3JkQ291bnRJbkxpbmUobGluZSwgMiwgZ2V0Rm9udFNpemUoJ3RpdGxlMycpKX0KICAgICAgICAgICAgbGluZT17bGluZX0KICAgICAgICAgICAgaHJlZj17YC9hbnN3ZXJzLyR7aXRlbS5pZH1gfQogICAgICAgICAgICBtb3JlVGV4dD0i5YWo5paHIgogICAgICAgICAgICBjbGFzc05hbWU9ImNvbnRlbnQiCiAgICAgICAgICAvPgogICAgICAgICAge2hhc0ltYWdlICYmICFhZGRpdGlvbi5ub3RTaG93SW1hZ2UgJiYgPEltYWdlV3JhcD48ZGl2PjxJbWFnZSBzcmM9e2l0ZW0uaW1hZ2VzWzBdfSAvPjwvZGl2PjwvSW1hZ2VXcmFwPiB9Cj4+Pj4+Pj4gZGV2ZWxvcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgCiAgICAK</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIHRoaXMuY29udGV4dC5oaXN0b3J5LnB1c2goYC9hbnN3ZXJzLyR7aWR9YCkKICAgICAgdG9Nb29uKCdDbGlja19xcGFnZScpCj09PT09PT0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKCgo=</text>
+        <text encoding="base64">ICAgICAgdHJhY2soJ2NsaWNrQW5zd2VySXRlbScsIHsgaWQgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAKICAKICAK</text>
+        <text encoding="base64">ICAgICQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAogICAgCiAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
