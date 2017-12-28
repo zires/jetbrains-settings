@@ -217,12 +217,6 @@
         <mark key="^" line="21" column="37" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" timestamp="1514429802086">
-        <mark key="[" line="84" column="125" />
-        <mark key="]" line="84" column="139" />
-        <mark key="^" line="84" column="139" />
-        <mark key="." line="84" column="139" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/questions/recommend.rb" timestamp="1514357807938">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="7" column="3" />
