@@ -510,7 +510,7 @@
         <mark key="^" line="48" column="11" />
         <mark key="." line="48" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514446683363">
+      <file name="/Dummy.txt" timestamp="1514451405615">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/_show.json.jbuilder" timestamp="1514446842966">
@@ -520,7 +520,7 @@
         <mark key="." line="1" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/index.json.jb" timestamp="1514440842523" />
-      <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/util.js" timestamp="1514184820878">
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/util.js" timestamp="1514451403161">
         <mark key="'" line="3" column="21" />
         <mark key="[" line="145" column="9" />
         <mark key="]" line="145" column="12" />
