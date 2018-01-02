@@ -98,6 +98,7 @@
         <mark key="^" line="229" column="20" />
         <mark key="." line="229" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/questions/states.rb" timestamp="1514884426393" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerToggled/reducers/answerToggledReducer.jsx" timestamp="1514872133360">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -400,6 +401,7 @@
         <mark key="^" line="30" column="17" />
         <mark key="." line="30" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/commands/questions/reject.rb" timestamp="1514884611670" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/web/CouldAnswer/reducers/couldAnswerReducer.jsx" timestamp="1513596010659">
         <mark key="[" line="29" column="48" />
         <mark key="]" line="29" column="39" />
