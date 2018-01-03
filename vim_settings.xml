@@ -38,6 +38,7 @@
         <mark key="^" line="11" column="75" />
         <mark key="." line="11" column="75" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/config/deploy/production.rb" timestamp="1514982576267" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/online.rb" timestamp="1512973353540">
         <mark key="[" line="10" column="18" />
         <mark key="]" line="10" column="27" />
@@ -56,8 +57,8 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/environments/production.rb" timestamp="1514981232295">
-        <mark key="[" line="46" column="27" />
+      <file name="$USER_HOME$/Documents/sesame/config/environments/production.rb" timestamp="1514982796350">
+        <mark key="[" line="46" column="26" />
         <mark key="]" line="46" column="25" />
         <mark key="^" line="46" column="25" />
         <mark key="." line="46" column="25" />
