@@ -27,11 +27,6 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/index.json.jbuilder" timestamp="1514446706901">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/questions_controller.rb" timestamp="1514187974989">
         <mark key="[" line="11" column="52" />
         <mark key="]" line="11" column="75" />
@@ -135,11 +130,6 @@
         <mark key="]" line="16" column="54" />
         <mark key="^" line="16" column="54" />
         <mark key="." line="16" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/answers_controller.rb" timestamp="1514441806410">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/show.json.jbuilder" timestamp="1512984522123">
         <mark key="[" line="4" column="29" />
@@ -251,6 +241,7 @@
         <mark key="^" line="21" column="37" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/administrator/base_controller.rb" timestamp="1515067010744" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" timestamp="1514972784160">
         <mark key="'" line="122" column="8" />
         <mark key="[" line="136" column="0" />
@@ -314,11 +305,6 @@
         <mark key="]" line="10" column="25" />
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/AnswerListItem.jsx" timestamp="1514457700342">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/administrator/questions/index.html.slim" timestamp="1513319001738">
         <mark key="[" line="7" column="37" />
@@ -425,12 +411,6 @@
         <mark key="." line="29" column="6" />
         <mark key="^" line="29" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame.js" timestamp="1515057653956">
-        <mark key="[" line="69" column="15" />
-        <mark key="]" line="69" column="7" />
-        <mark key="." line="69" column="7" />
-        <mark key="^" line="69" column="7" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/my_questions.json.jbuilder" timestamp="1513236628789">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -485,11 +465,6 @@
         <mark key="." line="139" column="33" />
         <mark key="^" line="139" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/invitation.rb" timestamp="1514429311299">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/client/welcome/_question.json.jb" timestamp="1514168507229">
         <mark key="[" line="14" column="30" />
         <mark key="]" line="14" column="50" />
@@ -513,11 +488,6 @@
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/invitations/create.rb" timestamp="1514892535131">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/base/_question.json.jb" timestamp="1514446108045">
         <mark key="[" line="0" column="0" />
@@ -561,7 +531,7 @@
         <mark key="^" line="48" column="11" />
         <mark key="." line="48" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515064452120">
+      <file name="/Dummy.txt" timestamp="1515066998539">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/_show.json.jbuilder" timestamp="1514446842966">
