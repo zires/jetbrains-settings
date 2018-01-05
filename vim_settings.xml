@@ -137,7 +137,7 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/comment.rb" timestamp="1515119719644" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/comment.rb" timestamp="1515119999565" />
       <file name="$USER_HOME$/Documents/sesame/config/settings/development.yml" timestamp="1513671301378">
         <mark key="[" line="6" column="14" />
         <mark key="]" line="6" column="13" />
@@ -366,6 +366,7 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/commands/comments/approve.rb" timestamp="1515120086586" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/followings.json.jbuilder" timestamp="1512640088165">
         <mark key="[" line="5" column="57" />
         <mark key="]" line="5" column="64" />
@@ -397,7 +398,7 @@
         <mark key="^" line="24" column="106" />
         <mark key="." line="24" column="106" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/questions/approve.rb" timestamp="1515119789894" />
+      <file name="$USER_HOME$/Documents/sesame/app/commands/questions/approve.rb" timestamp="1515120053351" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/web/CouldAnswer/containers/CouldAnswerContainer.jsx" timestamp="1513596018799">
         <mark key="[" line="5" column="82" />
         <mark key="]" line="5" column="131" />
@@ -465,10 +466,11 @@
         <mark key="." line="139" column="33" />
         <mark key="^" line="139" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/invitation.rb" timestamp="1515119643842">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/invitation.rb" timestamp="1515120013886">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/client/welcome/_question.json.jb" timestamp="1514168507229">
         <mark key="[" line="14" column="30" />
@@ -668,14 +670,14 @@
       <jump line="35" column="15" filename="$USER_HOME$/Documents/sesame/app/models/question.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>%i(draft rejected)</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>:votes</text>
+        <text>%i(draft rejected)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBlbmRfcXVlc3Rpb25fbWFya1w+</text>
