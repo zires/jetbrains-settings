@@ -525,11 +525,11 @@
         <mark key="^" line="48" column="11" />
         <mark key="." line="48" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/wifikey_login_command.rb" timestamp="1515382996749">
-        <mark key="[" line="43" column="54" />
-        <mark key="]" line="44" column="23" />
-        <mark key="^" line="44" column="23" />
-        <mark key="." line="44" column="23" />
+      <file name="$USER_HOME$/Documents/sesame/app/commands/wifikey_login_command.rb" timestamp="1515388752398">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+        <mark key="^" line="19" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1515379361762">
         <mark key="[" line="0" column="0" />
@@ -657,7 +657,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgID0gcmVuZGVyICdiYScK</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLnVoaWQgPSB1aGlkCiAgICAgIGVuZAo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -672,31 +672,31 @@
         <text encoding="base64">ICAgICAgQF9hY3Rpb25fcmVjb3JkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgID0gcmVuZGVyICdiYScK</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLnVoaWQgPSB1aGlkCiAgICAgIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNldHRpbmdzWzplbmFibGVfc21zXQo=</text>
+        <text encoding="base64">ICAgID0gcmVuZGVyICdiYScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIFNldHRpbmdzWzplbmFibGVfc21zXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF0dHJfYWNjZXNzb3IgOmFjdGlvbl9yZWNvcmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGF0dHJfYWNjZXNzb3IgOmFjdGlvbl9yZWNvcmQK</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGF0dHJfYWNjZXNzb3IgOmFjdGlvbl9yZWNvcmQK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiAKICAgICAgCiAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
