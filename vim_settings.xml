@@ -15,9 +15,6 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/welcome_controller.rb" timestamp="1515391780797">
-        <mark key="'" line="31" column="10" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/answers_controller.rb" timestamp="1514187981388">
         <mark key="[" line="6" column="93" />
         <mark key="]" line="6" column="93" />
@@ -687,7 +684,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmNhdXNlCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -702,28 +699,28 @@
         <text encoding="base64">ICAgICAgQF9hY3Rpb25fcmVjb3JkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmNhdXNlCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdC5zdHJpbmcgOmNhdXNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXR0cl9yZWFkZXIgOnBhcmFtcwo=</text>
+        <text encoding="base64">ICAgICAgdC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
