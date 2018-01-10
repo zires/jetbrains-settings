@@ -529,13 +529,18 @@
         <mark key="." line="139" column="33" />
         <mark key="^" line="139" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" timestamp="1515566965740">
-        <mark key="[" line="111" column="40" />
-        <mark key="]" line="111" column="37" />
-        <mark key="^" line="111" column="37" />
-        <mark key="." line="111" column="37" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" timestamp="1515568393982">
+        <mark key="[" line="103" column="17" />
+        <mark key="]" line="103" column="30" />
+        <mark key="^" line="103" column="30" />
+        <mark key="." line="103" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1515566849593" />
+      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1515568330014">
+        <mark key="[" line="114" column="27" />
+        <mark key="]" line="114" column="28" />
+        <mark key="^" line="114" column="28" />
+        <mark key="." line="114" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/client/welcome/_question.json.jb" timestamp="1514168507229">
         <mark key="[" line="14" column="30" />
         <mark key="]" line="14" column="50" />
@@ -745,14 +750,14 @@
       <jump line="31" column="12" filename="$USER_HOME$/Documents/sesame/app/models/question.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Sesame.currentEnv.menu()</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>@cells.empty?</text>
+        <text>Sesame.currentEnv.menu()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHByb3ZlZF9hbnN3ZXJzXD4=</text>
