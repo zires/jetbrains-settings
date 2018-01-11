@@ -281,7 +281,7 @@
         <mark key="." line="4" column="43" />
         <mark key="^" line="4" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/Gemfile" timestamp="1515576117605">
+      <file name="$USER_HOME$/Documents/sesame/Gemfile" timestamp="1515654240419">
         <mark key="[" line="78" column="11" />
         <mark key="]" line="80" column="34" />
         <mark key="^" line="80" column="34" />
@@ -324,11 +324,10 @@
         <mark key="^" line="150" column="55" />
         <mark key="." line="150" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/incomes/create.rb" timestamp="1515642629509">
-        <mark key="[" line="35" column="49" />
-        <mark key="]" line="35" column="56" />
-        <mark key="." line="35" column="56" />
-        <mark key="^" line="35" column="56" />
+      <file name="$USER_HOME$/Documents/sesame/app/commands/incomes/create.rb" timestamp="1515654719870">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/administrator/questions/index.html.slim" timestamp="1513319001738">
         <mark key="[" line="7" column="37" />
@@ -763,13 +762,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>amount: {}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>
@@ -778,31 +777,31 @@
         <text encoding="base64">ICAgICAgICAgIHNhdmVfaW5jb21lKAogICAgICAgICAgICBBbnN3ZXIuZmluZChpbnNjcmVlblsnYW5zd2VySWQnXSksCiAgICAgICAgICAgIGluc2NyZWVuWydwZXJjZW50J10sCiAgICAgICAgICAgIHF1ZXN0aW9uWydhbW91bnQnXSwKICAgICAgICAgICAgaW5zY3JlZW4KICAgICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIG1ldGE6IHsgZnJvbTogJ2Fuc3dlcicsIGluY29tZToge30sIGFtb3VudDoge319Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIGZyb20gcXVlc3Rpb24sIGFuc3dlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUKCiAgICBkZWYgbW9vbl9pbmRleF9wYXJhbXMKICAgICAgcGFyYW1zLm1lcmdlKCdvcGVuSWQnID0+IGFob3kudmlzaXRvcl9pZCkKICAgIGVuZAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUKCiAgICBkZWYgbW9vbl9pbmRleF9wYXJhbXMKICAgICAgcGFyYW1zLm1lcmdlKCdvcGVuSWQnID0+IGFob3kudmlzaXRvcl9pZCkKICAgIGVuZAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
