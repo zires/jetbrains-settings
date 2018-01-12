@@ -225,11 +225,11 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/visitor/list_view.rb" timestamp="1514351450289">
-        <mark key="[" line="53" column="25" />
-        <mark key="]" line="53" column="25" />
-        <mark key="^" line="53" column="25" />
-        <mark key="." line="53" column="25" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/visitor/list_view.rb" timestamp="1515753894790">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="8" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/inner/welcome_controller.rb" timestamp="1515552331864">
         <mark key="[" line="84" column="67" />
@@ -318,7 +318,7 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/visitor/cell_view.rb" timestamp="1515392785822">
+      <file name="$USER_HOME$/Documents/sesame/app/models/visitor/cell_view.rb" timestamp="1515753888906">
         <mark key="[" line="56" column="27" />
         <mark key="]" line="56" column="27" />
         <mark key="." line="56" column="27" />
@@ -450,9 +450,6 @@
         <mark key="." line="18" column="2" />
         <mark key="^" line="18" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/.rubocop.yml" timestamp="1515650543216">
-        <mark key="[" line="90" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1512647012219">
         <mark key="[" line="24" column="106" />
         <mark key="]" line="24" column="106" />
@@ -508,6 +505,12 @@
         <mark key="]" line="2" column="29" />
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/visitor.rb" timestamp="1515753823831">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="9" column="64" />
+        <mark key="^" line="9" column="64" />
+        <mark key="." line="9" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/_show.json.jbuilder" timestamp="1514445611313">
         <mark key="[" line="1" column="22" />
