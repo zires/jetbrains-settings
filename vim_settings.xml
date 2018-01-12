@@ -583,6 +583,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="152" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/config/application.rb" timestamp="1515740975657" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/_tiny_show.json.jbuilder" timestamp="1513304178065">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -625,7 +626,7 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="19" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515578846623">
+      <file name="/Dummy.txt" timestamp="1515741266827">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/moon_index.json.jb" timestamp="1515564348547">
