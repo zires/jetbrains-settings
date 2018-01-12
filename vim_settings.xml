@@ -318,7 +318,8 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/visitor/cell_view.rb" timestamp="1515753888906">
+      <file name="$USER_HOME$/Documents/sesame/app/models/visitor/cell_view.rb" timestamp="1515754900410">
+        <mark key="'" line="31" column="37" />
         <mark key="[" line="56" column="27" />
         <mark key="]" line="56" column="27" />
         <mark key="." line="56" column="27" />
@@ -506,7 +507,7 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/visitor.rb" timestamp="1515753823831">
+      <file name="$USER_HOME$/Documents/sesame/app/models/visitor.rb" timestamp="1515755285169">
         <mark key="[" line="7" column="36" />
         <mark key="]" line="9" column="64" />
         <mark key="^" line="9" column="64" />
@@ -696,11 +697,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="2" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerToggled/components/AnswerToggled.jsx" />
-      <jump line="102" column="29" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerToggled/components/AnswerToggled.jsx" />
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/sesame/app/commands/questions/recommend_users.rb" />
-      <jump line="23" column="31" filename="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" />
-      <jump line="4" column="7" filename="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" />
       <jump line="10" column="6" filename="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" />
       <jump line="12" column="6" filename="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" />
       <jump line="13" column="17" filename="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" />
@@ -796,6 +792,11 @@
       <jump line="351" column="68" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
       <jump line="366" column="54" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
       <jump line="411" column="36" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
+      <jump line="45" column="17" filename="$USER_HOME$/Documents/sesame/app/models/visitor/cell_view.rb" />
+      <jump line="4" column="10" filename="$USER_HOME$/Documents/sesame/app/models/visitor/cell_view.rb" />
+      <jump line="18" column="6" filename="$USER_HOME$/Documents/sesame/app/models/visitor/cell_view.rb" />
+      <jump line="23" column="6" filename="$USER_HOME$/Documents/sesame/app/models/visitor/cell_view.rb" />
+      <jump line="31" column="37" filename="$USER_HOME$/Documents/sesame/app/models/visitor/cell_view.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -808,7 +809,7 @@
         <text>user = User.find(user_id)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2ZXN0X2lkc1w+</text>
+        <text encoding="base64">XDxzZWVuXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZmlsbF9jZWxsKAogICAgICAgIGNzdiwKICAgICAgICAnMjAxNy4wNy4wMScudG9fdGltZS4uJzIwMTcuMDcuMzEnLnRvX3RpbWUuZW5kX29mX2RheSwKICAgICAgICAn5Y2B5LiA5pyIJwogICAgICApCg==</text>
@@ -845,9 +846,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2ZXN0X2lkc1w+</last-search>
+      <last-search encoding="base64">XDxzZWVuXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2ZXN0X2lkc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxzZWVuXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -890,6 +891,7 @@
         <entry encoding="base64">XDxkY19pbmNvbWVfZW5kcG9pbnRcPg==</entry>
         <entry encoding="base64">XDx0XD4=</entry>
         <entry encoding="base64">XDx2ZXN0X2lkc1w+</entry>
+        <entry encoding="base64">XDxzZWVuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
