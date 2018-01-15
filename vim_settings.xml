@@ -121,13 +121,6 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/income.rb" timestamp="1515588177074">
-        <mark key="'" line="11" column="18" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="3" column="1" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/QuestionsCommit/components/TagsSelect.jsx" timestamp="1513221614401">
         <mark key="[" line="229" column="19" />
         <mark key="]" line="229" column="20" />
@@ -285,6 +278,7 @@
         <mark key="." line="19" column="46" />
         <mark key="^" line="19" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/roles/user_roles.rb" timestamp="1516016025671" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/errors_controller.rb" timestamp="1512964735656">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -309,7 +303,7 @@
         <mark key="." line="4" column="43" />
         <mark key="^" line="4" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/Gemfile" timestamp="1515654240419">
+      <file name="$USER_HOME$/Documents/sesame/Gemfile" timestamp="1516016420382">
         <mark key="[" line="78" column="11" />
         <mark key="]" line="80" column="34" />
         <mark key="^" line="80" column="34" />
@@ -320,13 +314,6 @@
         <mark key="]" line="7" column="3" />
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/visitor/cell_view.rb" timestamp="1515754900410">
-        <mark key="'" line="31" column="37" />
-        <mark key="[" line="56" column="27" />
-        <mark key="]" line="56" column="27" />
-        <mark key="." line="56" column="27" />
-        <mark key="^" line="56" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/question.rb" timestamp="1515490013366">
         <mark key="[" line="11" column="0" />
@@ -440,13 +427,6 @@
         <mark key="]" line="17" column="41" />
         <mark key="^" line="17" column="41" />
         <mark key="." line="17" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/administrator/incomes_controller.rb" timestamp="1515580338176">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="22" column="6" />
-        <mark key="^" line="22" column="6" />
-        <mark key="." line="22" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/_question.json.jb" timestamp="1515564247993">
         <mark key="[" line="18" column="4" />
@@ -660,15 +640,8 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="19" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516013042276">
+      <file name="/Dummy.txt" timestamp="1516016026334">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/tasks/cache.rake" timestamp="1515745354932">
-        <mark key="'" line="4" column="36" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="1" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/moon_index.json.jb" timestamp="1515985523541">
         <mark key="[" line="12" column="57" />
