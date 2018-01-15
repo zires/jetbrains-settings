@@ -195,7 +195,7 @@
         <mark key="^" line="61" column="83" />
         <mark key="." line="61" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1516001714630">
+      <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1516013040775">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -484,7 +484,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/db/schema.rb" timestamp="1516009443687" />
+      <file name="$USER_HOME$/Documents/sesame/db/schema.rb" timestamp="1516012948348" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/web/CouldAnswer/containers/CouldAnswerContainer.jsx" timestamp="1513596018799">
         <mark key="[" line="5" column="82" />
         <mark key="]" line="5" column="131" />
@@ -661,7 +661,7 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="19" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516007108839">
+      <file name="/Dummy.txt" timestamp="1516013042276">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/cache.rake" timestamp="1515745354932">
