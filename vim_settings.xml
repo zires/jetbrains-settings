@@ -57,11 +57,12 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Welcome.jsx" timestamp="1516094480156">
-        <mark key="'" line="196" column="24" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Welcome.jsx" timestamp="1516101654154">
+        <mark key="'" line="197" column="24" />
+        <mark key="[" line="82" column="143" />
+        <mark key="]" line="83" column="63" />
+        <mark key="." line="83" column="63" />
+        <mark key="^" line="83" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/admin/common.coffee" timestamp="1515746855385">
         <mark key="[" line="32" column="0" />
@@ -218,7 +219,7 @@
         <mark key="." line="169" column="38" />
         <mark key="^" line="169" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/ListItem.jsx" timestamp="1516094581231">
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/ListItem.jsx" timestamp="1516101633787">
         <mark key="[" line="32" column="25" />
         <mark key="]" line="32" column="57" />
         <mark key="." line="32" column="57" />
@@ -656,7 +657,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/moon_index.json.jb" timestamp="1516094528923">
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/moon_index.json.jb" timestamp="1516101643658">
         <mark key="[" line="14" column="62" />
         <mark key="]" line="14" column="95" />
         <mark key="^" line="14" column="95" />
