@@ -562,6 +562,9 @@
         <mark key="^" line="114" column="28" />
         <mark key="." line="114" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" timestamp="1516082632844">
+        <mark key="'" line="73" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/client/welcome/_question.json.jb" timestamp="1514168507229">
         <mark key="[" line="14" column="30" />
         <mark key="]" line="14" column="50" />
@@ -673,7 +676,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="6" filename="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" />
       <jump line="13" column="17" filename="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" />
       <jump line="18" column="4" filename="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" />
       <jump line="16" column="5" filename="$USER_HOME$/Documents/sesame/app/commands/questions/recommend_users.rb" />
@@ -773,6 +775,7 @@
       <jump line="23" column="6" filename="$USER_HOME$/Documents/sesame/app/models/visitor/cell_view.rb" />
       <jump line="31" column="37" filename="$USER_HOME$/Documents/sesame/app/models/visitor/cell_view.rb" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/sesame/config/settings.yml" />
+      <jump line="73" column="18" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -785,7 +788,7 @@
         <text>content, options = {}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW95dWVfcHVsbF9lbmRwb2ludFw+</text>
+        <text encoding="base64">XDxwYWdpbmdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZmlsbF9jZWxsKAogICAgICAgIGNzdiwKICAgICAgICAnMjAxNy4wNy4wMScudG9fdGltZS4uJzIwMTcuMDcuMzEnLnRvX3RpbWUuZW5kX29mX2RheSwKICAgICAgICAn5Y2B5LiA5pyIJwogICAgICApCg==</text>
@@ -822,13 +825,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW95dWVfcHVsbF9lbmRwb2ludFw+</last-search>
+      <last-search encoding="base64">XDxwYWdpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW95dWVfcHVsbF9lbmRwb2ludFw+</last-pattern>
+      <last-pattern encoding="base64">XDxwYWdpbmdcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -852,6 +855,7 @@
         <entry encoding="base64">XDx2ZXN0X2lkc1w+</entry>
         <entry encoding="base64">XDxzZWVuXD4=</entry>
         <entry encoding="base64">XDxoYW95dWVfcHVsbF9lbmRwb2ludFw+</entry>
+        <entry encoding="base64">XDxwYWdpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
