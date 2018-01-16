@@ -562,8 +562,12 @@
         <mark key="^" line="114" column="28" />
         <mark key="." line="114" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" timestamp="1516082632844">
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" timestamp="1516083616182">
         <mark key="'" line="73" column="18" />
+        <mark key="[" line="78" column="14" />
+        <mark key="]" line="78" column="26" />
+        <mark key="^" line="78" column="26" />
+        <mark key="." line="78" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/client/welcome/_question.json.jb" timestamp="1514168507229">
         <mark key="[" line="14" column="30" />
