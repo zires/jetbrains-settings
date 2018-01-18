@@ -72,11 +72,6 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/admin/common.coffee" timestamp="1515746855385">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/act_form/test/test_helper.rb" timestamp="1512458050621">
         <mark key="[" line="86" column="14" />
         <mark key="]" line="86" column="18" />
@@ -119,7 +114,7 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1516244104175">
+      <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1516256920837">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
@@ -213,6 +208,11 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="9" column="79" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/message_to_report_job.rb" timestamp="1516179003206">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/act_form/test/form_model_spec.rb" timestamp="1512444127301">
         <mark key="[" line="169" column="33" />
         <mark key="]" line="169" column="38" />
@@ -277,6 +277,7 @@
       <file name="/fragment.rb" timestamp="1516187848581">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/advertising_rate.rb" timestamp="1516257033721" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/components/FooterAction.jsx" timestamp="1514171395101">
         <mark key="[" line="62" column="53" />
         <mark key="]" line="62" column="54" />
@@ -378,11 +379,6 @@
         <mark key="]" line="33" column="20" />
         <mark key="^" line="33" column="20" />
         <mark key="." line="33" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/answer.rb" timestamp="1515659606440">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/admin.rb" timestamp="1512964220277">
         <mark key="[" line="3" column="34" />
@@ -529,16 +525,6 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/layouts/application.html+mobile.slim" timestamp="1515380200472">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/app/jobs/audit_question_job.rb" timestamp="1515563126084">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/config/routes.rb" timestamp="1513763179748">
         <mark key="[" line="28" column="21" />
         <mark key="]" line="30" column="17" />
@@ -568,11 +554,6 @@
         <mark key="]" line="5" column="5" />
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/client/package.json" timestamp="1515554613710">
-        <mark key="[" line="33" column="18" />
-        <mark key="]" line="33" column="19" />
-        <mark key="." line="33" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Index/index.jsx" timestamp="1514894148643">
         <mark key="[" line="3" column="8" />
@@ -649,22 +630,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/yarn.lock" timestamp="1515554769243">
-        <mark key="[" line="2361" column="0" />
-        <mark key="]" line="2361" column="0" />
-        <mark key="." line="2361" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/advertising_rates_controller.rb" timestamp="1516169307272" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Waitlist/components/Waitlist.jsx" timestamp="1514190939486">
         <mark key="[" line="111" column="46" />
         <mark key="]" line="111" column="43" />
         <mark key="^" line="111" column="43" />
         <mark key="." line="111" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1516014709806">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/acts_as_voter.rb" timestamp="1514428658377">
         <mark key="[" line="36" column="4" />
@@ -686,11 +657,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1516252206475">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/constants/messageListConstants.jsx" timestamp="1516090055950">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/moon_index.json.jb" timestamp="1516243929165">
         <mark key="[" line="2" column="22" />
