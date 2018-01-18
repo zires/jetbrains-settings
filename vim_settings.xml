@@ -66,18 +66,13 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Welcome.jsx" timestamp="1516188982653">
-        <mark key="'" line="198" column="29" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/act_form/test/test_helper.rb" timestamp="1512458050621">
         <mark key="[" line="86" column="14" />
         <mark key="]" line="86" column="18" />
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/follow.rb" timestamp="1516260495428" />
       <file name="$USER_HOME$/Documents/sesame/config/environments/production.rb" timestamp="1514982796350">
         <mark key="[" line="46" column="26" />
         <mark key="]" line="46" column="25" />
