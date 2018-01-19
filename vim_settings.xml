@@ -15,7 +15,7 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/welcome_controller.rb" timestamp="1516244492348">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/welcome_controller.rb" timestamp="1516356324396">
         <mark key="'" line="18" column="10" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -39,7 +39,7 @@
         <mark key="^" line="11" column="75" />
         <mark key="." line="11" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue/index_request.rb" timestamp="1516351766860">
+      <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue/index_request.rb" timestamp="1516356641730">
         <mark key="'" line="83" column="28" />
         <mark key="[" line="86" column="51" />
         <mark key="]" line="86" column="50" />
@@ -54,17 +54,17 @@
         <mark key="^" line="4" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/invitations/approve.rb" timestamp="1516179505997" />
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/administrator/questions_controller.rb" timestamp="1516178779316">
-        <mark key="'" line="5" column="19" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/online.rb" timestamp="1512973353540">
         <mark key="[" line="10" column="18" />
         <mark key="]" line="10" column="27" />
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Welcome.jsx" timestamp="1516188982653">
+        <mark key="'" line="198" column="29" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/admin/common.coffee" timestamp="1515746855385">
         <mark key="[" line="32" column="0" />
