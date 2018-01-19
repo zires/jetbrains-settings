@@ -72,7 +72,7 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/follow.rb" timestamp="1516260495428" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/follow.rb" timestamp="1516347680727" />
       <file name="$USER_HOME$/Documents/sesame/config/environments/production.rb" timestamp="1514982796350">
         <mark key="[" line="46" column="26" />
         <mark key="]" line="46" column="25" />
@@ -399,7 +399,7 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/users_controller.rb" timestamp="1516258475650">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/users_controller.rb" timestamp="1516348130499">
         <mark key="]" line="42" column="11" />
         <mark key="." line="42" column="11" />
         <mark key="^" line="42" column="11" />
