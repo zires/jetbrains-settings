@@ -70,6 +70,12 @@
         <mark key="^" line="16" column="21" />
         <mark key="." line="16" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/SuperTable.js" timestamp="1516548640616">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/administrator/questions_controller.rb" timestamp="1510802506024">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -100,7 +106,7 @@
         <mark key="^" line="9" column="47" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/actions/mainActions.js" timestamp="1511332171571">
+      <file name="$USER_HOME$/Documents/workplace/hera/src/actions/mainActions.js" timestamp="1516548105034">
         <mark key="[" line="24" column="2" />
         <mark key="]" line="24" column="2" />
         <mark key="." line="24" column="2" />
@@ -112,22 +118,17 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/rootReducer.js" timestamp="1511278341490">
-        <mark key="[" line="8" column="37" />
-        <mark key="]" line="8" column="34" />
-        <mark key="." line="8" column="34" />
-        <mark key="^" line="8" column="34" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/rootReducer.js" timestamp="1516548915606">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/toggle.rb" timestamp="1510302173763">
         <mark key="[" line="9" column="43" />
         <mark key="]" line="11" column="13" />
         <mark key="^" line="11" column="13" />
         <mark key="." line="11" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/node_modules/@blueprintjs/table/src/cell/editableCell.tsx" timestamp="1508823381715">
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/questions/reject.rb" timestamp="1510215532498">
         <mark key="[" line="12" column="0" />
@@ -171,10 +172,11 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Sheet.js" timestamp="1511328247739">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Sheet.js" timestamp="1516548225109">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/public/index.html" timestamp="1508380833160">
         <mark key="[" line="22" column="16" />
@@ -203,7 +205,7 @@
       <file name="$USER_HOME$/Documents/choudao/vendor/plugins/choudao_news/app/controllers/choudao_news/api/users_controller.rb" timestamp="1511163632569">
         <mark key="'" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/containers/SuperTableContainer.js" timestamp="1511330696897">
+      <file name="$USER_HOME$/Documents/workplace/hera/src/containers/SuperTableContainer.js" timestamp="1516548368289">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="6" column="2" />
         <mark key="^" line="6" column="2" />
@@ -232,11 +234,6 @@
         <mark key="]" line="14" column="20" />
         <mark key="^" line="14" column="45" />
         <mark key="." line="14" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/config/database.yml" timestamp="1510915144375">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/renders/renderSheet.js" timestamp="1511261949005">
         <mark key="[" line="3" column="19" />
@@ -268,11 +265,6 @@
         <mark key="]" line="1" column="56" />
         <mark key="^" line="1" column="56" />
         <mark key="." line="1" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/show.json.jbuilder" timestamp="1510915529328">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/constants.js" timestamp="1511264346996">
         <mark key="[" line="4" column="13" />
@@ -321,6 +313,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="66" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1516548107330">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/athena/src/App.js" timestamp="1501229055534">
         <mark key="[" line="0" column="0" />
@@ -423,11 +418,6 @@
         <mark key="]" line="4" column="27" />
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/components/cells/single-line-text-cell.css" timestamp="1508818790847">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -533,47 +523,47 @@
       <jump line="6" column="21" filename="$USER_HOME$/Documents/choudao/vendor/plugins/choudao_news/app/controllers/choudao_news/api/users_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE1hcCh7fSkKICBdKQo=</text>
+      <register name="&quot;" type="4">
+        <text>this.currentTableData();</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29udGVudC5maW5kKGRhdGEgPT4gZGF0YS5nZXQoJ2lkJykp</text>
+        <text>this.currentTableData();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmFibGVfd2hpdGVfbGlzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgaW5kZXhTZWxlY3RvciA9IHN0YXRlID0+IHN0YXRlLmZpbmRJbmRleCh4ID0+IHguZ2V0KCdpZCcpID09PSBzdGF0ZS5nZXQoJ2N1cnJlbnRTaGVldCcpKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGN1cnJlbnRUYWJsZURhdGEgPSB0aGlzLmN1cnJlbnRUYWJsZURhdGEoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1hcCh7fSkKICBdKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIE1hcCh7fSkKICBdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAoY29udGVudCwgaW5kZXgpID0+ICgKICAgIGNvbnRlbnQKICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb250ZW50U2VsZWN0b3IsCiAgaW5kZXhTZWxlY3RvciwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAoY29udGVudCwgaW5kZXgpID0+ICgKICAgIGNvbnRlbnQKICApCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb250ZW50U2VsZWN0b3IsCiAgaW5kZXhTZWxlY3RvciwK</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
