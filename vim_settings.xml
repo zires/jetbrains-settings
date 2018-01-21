@@ -148,11 +148,12 @@
         <mark key="." line="21" column="48" />
         <mark key="^" line="21" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Workbook.js" timestamp="1516554841941">
-        <mark key="'" line="48" column="4" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Workbook.js" timestamp="1516556476534">
+        <mark key="'" line="54" column="4" />
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="2" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithSmallImg.jsx" timestamp="1510916484594">
         <mark key="[" line="38" column="15" />
@@ -524,7 +525,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -539,22 +540,22 @@
         <text encoding="base64">ICAvLyAgIC8vIHRoaXMucHJvcHMuaGlzdG9yeS5wdXNoKGAvc2hlZXRzLyR7aWR9YCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyAgIC8vIHRoaXMucHJvcHMuaGlzdG9yeS5wdXNoKGAvc2hlZXRzLyR7aWR9YCkKICAvLyAgIGRlYnVnZ2VyCiAgLy8gKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIGRlYnVnZ2VyCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAvLyAgIC8vIHRoaXMucHJvcHMuaGlzdG9yeS5wdXNoKGAvc2hlZXRzLyR7aWR9YCkKICAvLyAgIGRlYnVnZ2VyCiAgLy8gKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -563,7 +564,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
