@@ -148,11 +148,11 @@
         <mark key="." line="21" column="48" />
         <mark key="^" line="21" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Workbook.js" timestamp="1516553046379">
-        <mark key="[" line="21" column="42" />
-        <mark key="]" line="21" column="60" />
-        <mark key="." line="21" column="60" />
-        <mark key="^" line="21" column="60" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Workbook.js" timestamp="1516554841941">
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithSmallImg.jsx" timestamp="1510916484594">
         <mark key="[" line="38" column="15" />
@@ -421,8 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="7" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
-      <jump line="56" column="10" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
       <jump line="57" column="9" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
       <jump line="58" column="9" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
       <jump line="59" column="40" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
@@ -521,49 +519,51 @@
       <jump line="230" column="0" filename="$USER_HOME$/Documents/sesame/client/app/lib/styles/font-theme.js" />
       <jump line="56" column="0" filename="$USER_HOME$/Documents/sesame/app/controllers/api/inner/welcome_controller.rb" />
       <jump line="6" column="21" filename="$USER_HOME$/Documents/choudao/vendor/plugins/choudao_news/app/controllers/choudao_news/api/users_controller.rb" />
+      <jump line="27" column="47" filename="$USER_HOME$/Documents/workplace/hera/src/components/Workbook.js" />
+      <jump line="51" column="4" filename="$USER_HOME$/Documents/workplace/hera/src/components/Workbook.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjdXJyZW50U2hlZXQ6IGN1cnJlbnRTaGVldFJlZHVjZXIK</text>
+        <text encoding="base64">ICAgIC8vIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>this.currentTableData();</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmFibGVfd2hpdGVfbGlzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGN1cnJlbnRUYWJsZURhdGEgPSB0aGlzLmN1cnJlbnRUYWJsZURhdGEoKTsK</text>
+        <text encoding="base64">ICAvLyAgIC8vIHRoaXMucHJvcHMuaGlzdG9yeS5wdXNoKGAvc2hlZXRzLyR7aWR9YCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjdXJyZW50U2hlZXQ6IGN1cnJlbnRTaGVldFJlZHVjZXIK</text>
+        <text encoding="base64">ICAgIC8vIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAvLyAgIC8vIHRoaXMucHJvcHMuaGlzdG9yeS5wdXNoKGAvc2hlZXRzLyR7aWR9YCkKICAvLyAgIGRlYnVnZ2VyCiAgLy8gKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
