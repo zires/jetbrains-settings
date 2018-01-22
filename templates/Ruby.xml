@@ -9,4 +9,25 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
+  <template name="def" value="def $METHOD_NAME$&#10;  $END$&#10;end" description="define a method" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
+    </context>
+  </template>
+  <template name="url_h" value="Rails.application.routes.url_helpers.$URL$" description="routes url helpers" toReformat="false" toShortenFQNames="true">
+    <variable name="URL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+  <template name="skip" value="skip_before_action :$END$" description="skip before action" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
