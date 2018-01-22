@@ -148,12 +148,12 @@
         <mark key="." line="21" column="48" />
         <mark key="^" line="21" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Workbook.js" timestamp="1516556476534">
-        <mark key="'" line="54" column="4" />
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-        <mark key="^" line="2" column="7" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Workbook.js" timestamp="1516611016412">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="20" column="3" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="20" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/items/ItemWithSmallImg.jsx" timestamp="1510916484594">
         <mark key="[" line="38" column="15" />
@@ -218,11 +218,11 @@
         <mark key="^" line="1" column="48" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/containers/SheetContainer.js" timestamp="1511330674762">
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="16" />
-        <mark key="." line="9" column="16" />
-        <mark key="^" line="9" column="16" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/containers/SheetContainer.js" timestamp="1516611061142">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/sesame-api/config/deploy.rb" timestamp="1509956224063">
         <mark key="[" line="15" column="23" />
@@ -422,7 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="9" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
       <jump line="58" column="9" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
       <jump line="59" column="40" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
       <jump line="60" column="18" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
@@ -522,16 +521,17 @@
       <jump line="6" column="21" filename="$USER_HOME$/Documents/choudao/vendor/plugins/choudao_news/app/controllers/choudao_news/api/users_controller.rb" />
       <jump line="27" column="47" filename="$USER_HOME$/Documents/workplace/hera/src/components/Workbook.js" />
       <jump line="51" column="4" filename="$USER_HOME$/Documents/workplace/hera/src/components/Workbook.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/Documents/workplace/hera/src/components/Workbook.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICBMaW5rLAo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>props.data.get('currentSheet');</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmFibGVfd2hpdGVfbGlzdFw+</text>
@@ -540,22 +540,22 @@
         <text encoding="base64">ICAvLyAgIC8vIHRoaXMucHJvcHMuaGlzdG9yeS5wdXNoKGAvc2hlZXRzLyR7aWR9YCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICBMaW5rLAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyAgIC8vIHRoaXMucHJvcHMuaGlzdG9yeS5wdXNoKGAvc2hlZXRzLyR7aWR9YCkKICAvLyAgIGRlYnVnZ2VyCiAgLy8gKQo=</text>
+        <text encoding="base64">ICAvLyBmdW5jdGlvbiBjYWxsYmFjayhrZXkpIHsKICAvLyAgIGNvbnNvbGUubG9nKGtleSk7CiAgLy8gfQoKICBjYWxsYmFjayA9IChrZXkpID0+ICgKICAgIGNvbnNvbGUubG9nKGtleSkKICApCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiAoCiAgICAvLyAgIDxSb3V0ZXI+CiAgICAvLyAgICAgPGRpdj4KICAgIC8vICAgICAgIDx1bD4KICAgIC8vICAgICAgICAgeyB0YWJzLm1hcCgodGFiKSA9PiAoCiAgICAvLyAgICAgICAgICAgPGxpIGtleT17YHRhYi0ke3RhYi5nZXQoJ2lkJyl9YH0+PExpbmsgdG89e2Avc2hlZXRzLyR7dGFiLmdldCgnaWQnKX1gfT57dGFiLmdldCgnbmFtZScpfTwvTGluaz48L2xpPgogICAgLy8gICAgICAgICApKSB9CiAgICAvLyAgICAgICA8L3VsPgogICAgLy8gICAgICAgPGhyLz4KICAgIC8vICAgICAgIDxSb3V0ZSBleGFjdCBwYXRoPSIvc2hlZXRzLzppZCIgcmVuZGVyPXtyZW5kZXJTaGVldH0vPgogICAgLy8gICAgIDwvZGl2PgogICAgLy8gICA8L1JvdXRlcj4KICAgIC8vICkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -564,7 +564,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiAoCiAgICAvLyAgIDxUYWJzIGRlZmF1bHRBY3RpdmVLZXk9IjEiIG9uQ2hhbmdlPXt0aGlzLmNhbGxiYWNrfT4KICAgIC8vICAgICA8VGFiUGFuZSB0YWI9IlRhYiAxIiBrZXk9IjEiPkNvbnRlbnQgb2YgVGFiIFBhbmUgMTwvVGFiUGFuZT4KICAgIC8vICAgICA8VGFiUGFuZSB0YWI9IlRhYiAyIiBrZXk9IjIiPkNvbnRlbnQgb2YgVGFiIFBhbmUgMjwvVGFiUGFuZT4KICAgIC8vICAgICA8VGFiUGFuZSB0YWI9IlRhYiAzIiBrZXk9IjMiPkNvbnRlbnQgb2YgVGFiIFBhbmUgMzwvVGFiUGFuZT4KICAgIC8vICAgPC9UYWJzPgogICAgLy8gKQo=</text>
       </register>
       <register name=":" type="4">
         <text>m+</text>
