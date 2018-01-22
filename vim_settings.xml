@@ -187,12 +187,6 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/forms/login_form.rb" timestamp="1516594398836">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="17" />
-        <mark key="^" line="12" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/config/settings/development.yml" timestamp="1513671301378">
         <mark key="[" line="6" column="14" />
         <mark key="]" line="6" column="13" />
@@ -276,11 +270,11 @@
         <mark key="^" line="50" column="8" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1516170955624">
-        <mark key="[" line="6" column="46" />
-        <mark key="]" line="6" column="125" />
-        <mark key="^" line="6" column="125" />
-        <mark key="." line="6" column="125" />
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1516600244794">
+        <mark key="'" line="67" column="9" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="/fragment.rb" timestamp="1516187848581">
         <mark key="[" line="0" column="0" />
@@ -736,13 +730,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="14" filename="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue/index_request.rb" />
-      <jump line="40" column="97" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
-      <jump line="31" column="0" filename="$USER_HOME$/Documents/sesame/config/settings.yml" />
-      <jump line="32" column="0" filename="$USER_HOME$/Documents/sesame/config/settings.yml" />
-      <jump line="37" column="0" filename="$USER_HOME$/Documents/sesame/config/settings.yml" />
-      <jump line="20" column="0" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
-      <jump line="29" column="9" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
       <jump line="563" column="4" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
       <jump line="55" column="0" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
       <jump line="230" column="57" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
@@ -836,49 +823,56 @@
       <jump line="97" column="6" filename="$USER_HOME$/Documents/sesame/app/models/question.rb" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/sesame/app/models/concerns/set_uuid.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/sesame/app/models/concerns/set_uuid.rb" />
+      <jump line="17" column="8" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
+      <jump line="40" column="4" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
+      <jump line="655" column="0" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
+      <jump line="42" column="31" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
+      <jump line="41" column="54" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
+      <jump line="67" column="9" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>words_count: 30...100</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRfdXVpZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3JzLmFkZCg6Y29kZSwgOmludmFsaWQsIG1lc3NhZ2U6ICfliqjmgIHnoIHplJnor68nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHVzZXIuYW5zd2Vycy53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkud2hlcmUod29yZHNfY291bnQ6IDAuLi4zMCkuY291bnQsCiAgICAgICAgICB1c2VyLmFuc3dlcnMud2hlcmUoY3JlYXRlZF9hdDogcmFuZ2UpLndoZXJlKHdvcmRzX2NvdW50OiAzMC4uLjEwMCkuY291bnQsCiAgICAgICAgICB1c2VyLmFuc3dlcnMud2hlcmUoY3JlYXRlZF9hdDogcmFuZ2UpLndoZXJlKCd3b3Jkc19jb3VudCA+PSA/JywgMTAwKS5jb3VudCwKICAgICAgICAgIHVzZXIuYW5zd2Vycy53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkud2hlcmUoJ3dvcmRzX2NvdW50ID49ID8nLCA1MDApLmNvdW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBkZXNjICcnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWxpZGF0ZSA6dmFsaWRhdGVfY29kZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHVzZXIuYW5zd2Vycy53aGVyZSh3b3Jkc19jb3VudDogMC4uLjMwKS5jb3VudCwKICAgICAgICAgIHVzZXIuYW5zd2Vycy53aGVyZSh3b3Jkc19jb3VudDogMzAuLi4xMDApLmNvdW50LAogICAgICAgICAgdXNlci5hbnN3ZXJzLndoZXJlKCd3b3Jkc19jb3VudCA+PSA/JywgMTAwKS5jb3VudCwKICAgICAgICAgIHVzZXIuYW5zd2Vycy53aGVyZSgnd29yZHNfY291bnQgPj0gPycsIDUwMCkuY291bnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICMgQGFuc3dlcnMuYWN0aXZlLndoZXJlKHdvcmRzX2NvdW50OiAwLi4uMzApLmNvdW50LAogICAgIyAgIEBhbnN3ZXJzLmFjdGl2ZS53aGVyZSh3b3Jkc19jb3VudDogMzAuLi41MCkuY291bnQsCiAgICAjICAgQGFuc3dlcnMuYWN0aXZlLndoZXJlKHdvcmRzX2NvdW50OiA1MC4uLjEwMCkuY291bnQsCiAgICAjICAgQGFuc3dlcnMuYWN0aXZlLndoZXJlKHdvcmRzX2NvdW50OiAxMDAuLi4yMDApLmNvdW50LAogICAgIyAgIEBhbnN3ZXJzLmFjdGl2ZS53aGVyZSgnd29yZHNfY291bnQgPj0gPycsIDIwMCkuY291bnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHVzZXIuYW5zd2Vycy53aGVyZSh3b3Jkc19jb3VudDogMC4uLjMwKS5jb3VudCwKICAgICAgICAgIHVzZXIuYW5zd2Vycy53aGVyZSh3b3Jkc19jb3VudDogMC4uLjMwKS5jb3VudCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHV1aWQgPSBiZWdpbgogICAgICAkdXVpZF9zZXJ2ZXIubmV4dAogICAgcmVzY3VlCiAgICAgIG5pbAogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
