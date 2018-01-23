@@ -82,11 +82,11 @@
         <mark key="." line="6" column="5" />
         <mark key="^" line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/set_uuid.rb" timestamp="1516592385514">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="10" column="38" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/set_uuid.rb" timestamp="1516686153012">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="14" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/users_controller.rb" timestamp="1516089034088">
         <mark key="[" line="27" column="14" />
@@ -304,7 +304,7 @@
         <mark key="." line="7" column="3" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/question.rb" timestamp="1516592358932">
+      <file name="$USER_HOME$/Documents/sesame/app/models/question.rb" timestamp="1516686142818">
         <mark key="'" line="97" column="6" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="67" />
@@ -431,11 +431,11 @@
         <mark key="^" line="16" column="29" />
         <mark key="." line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/.rubocop.yml" timestamp="1516170880542">
-        <mark key="[" line="65" column="16" />
-        <mark key="]" line="68" column="15" />
-        <mark key="^" line="68" column="15" />
-        <mark key="." line="68" column="15" />
+      <file name="$USER_HOME$/Documents/sesame/.rubocop.yml" timestamp="1516686087754">
+        <mark key="[" line="96" column="7" />
+        <mark key="]" line="96" column="7" />
+        <mark key="^" line="96" column="19" />
+        <mark key="." line="96" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1516092342740">
         <mark key="[" line="24" column="106" />
@@ -646,11 +646,11 @@
       <file name="/Dummy.txt" timestamp="1516623432688">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/initializers/rack_attack.rb" timestamp="1516609157011">
-        <mark key="[" line="3" column="45" />
-        <mark key="]" line="3" column="53" />
-        <mark key="." line="3" column="53" />
-        <mark key="^" line="3" column="53" />
+      <file name="$USER_HOME$/Documents/sesame/config/initializers/rack_attack.rb" timestamp="1516686434371">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="31" />
+        <mark key="." line="2" column="31" />
+        <mark key="^" line="2" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/moon_index.json.jb" timestamp="1516678386619">
         <mark key="[" line="21" column="23" />
@@ -788,13 +788,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgQHF1ZXN0aW9uID0gZmluZF9tb2RlbChwYXJhbXNbOmlkXSkKICAgICMgaWYgIWJyb3dzZXIuZGV2aWNlLm1vYmlsZT8KICAgICMgICBsaXN0ID0gUmVkaXM6Okxpc3QubmV3KCdleHRlcm5hbC1xdWVzdGlvbi1pZHMnKQogICAgIyAgIGlmICFsaXN0LmluY2x1ZGU/KHBhcmFtc1s6aWRdKQogICAgIyAgICAgQHF1ZXNpdG9uID0gZmluZF9tb2RlbChwYXJhbXNbOmlkXSwgOmFwcHJvdmVkKQogICAgIyAgIGVuZAogICAgIyBlbmQK</text>
+        <text encoding="base64">ICAgIHV1aWQgPSAkdXVpZF9zZXJ2ZXIubmV4dCByZXNjdWUgbmlsCg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QHF1ZXN0aW9uID0g</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRfdXVpZFw+</text>
@@ -803,31 +803,31 @@
         <text encoding="base64">ICAgICAgQHF1ZXN0aW9uID0gZmluZF9tb2RlbChwYXJhbXNbOmlkXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgQHF1ZXN0aW9uID0gZmluZF9tb2RlbChwYXJhbXNbOmlkXSkKICAgICMgaWYgIWJyb3dzZXIuZGV2aWNlLm1vYmlsZT8KICAgICMgICBsaXN0ID0gUmVkaXM6Okxpc3QubmV3KCdleHRlcm5hbC1xdWVzdGlvbi1pZHMnKQogICAgIyAgIGlmICFsaXN0LmluY2x1ZGU/KHBhcmFtc1s6aWRdKQogICAgIyAgICAgQHF1ZXNpdG9uID0gZmluZF9tb2RlbChwYXJhbXNbOmlkXSwgOmFwcHJvdmVkKQogICAgIyAgIGVuZAogICAgIyBlbmQK</text>
+        <text encoding="base64">ICAgIHV1aWQgPSAkdXVpZF9zZXJ2ZXIubmV4dCByZXNjdWUgbmlsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICMgQHF1ZXN0aW9uID0gZmluZF9tb2RlbChwYXJhbXNbOmlkXSkKICAgICMgaWYgIWJyb3dzZXIuZGV2aWNlLm1vYmlsZT8KICAgICMgICBsaXN0ID0gUmVkaXM6Okxpc3QubmV3KCdleHRlcm5hbC1xdWVzdGlvbi1pZHMnKQogICAgIyAgIGlmICFsaXN0LmluY2x1ZGU/KHBhcmFtc1s6aWRdKQogICAgIyAgICAgQHF1ZXNpdG9uID0gZmluZF9tb2RlbChwYXJhbXNbOmlkXSwgOmFwcHJvdmVkKQogICAgIyAgIGVuZAogICAgIyBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgZmluZF9xdWVzdGlvbihpZF9vcl91dWlkKQogICAgUXVlc3Rpb24KICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBkZWYgZmluZF9xdWVzdGlvbihpZF9vcl91dWlkKQogICAgUXVlc3Rpb24KICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
