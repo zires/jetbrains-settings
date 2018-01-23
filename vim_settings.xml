@@ -631,10 +631,12 @@
       <file name="/Dummy.txt" timestamp="1516694512570">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/initializers/rack_attack.rb" timestamp="1516695515100">
+      <file name="$USER_HOME$/Documents/sesame/config/initializers/rack_attack.rb" timestamp="1516696593293">
         <mark key="[" line="4" column="0" />
+        <mark key="m" line="4" column="15" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+        <mark key="^" line="2" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/moon_index.json.jb" timestamp="1516678386619">
         <mark key="[" line="21" column="23" />
@@ -772,7 +774,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -787,31 +789,31 @@
         <text encoding="base64">ICB0aHJvdHRsZSgndm90ZS9hbnN3ZXInLCBsaW1pdDogNiwgcGVyaW9kOiAzMC5zZWNvbmRzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0aHJvdHRsZSgndm90ZS9hbnN3ZXInLCBsaW1pdDogNiwgcGVyaW9kOiAzMC5zZWNvbmRzKQogIHRocm90dGxlKCd2b3RlL2Fuc3dlcicsIGxpbWl0OiA2LCBwZXJpb2Q6IDMwLnNlY29uZHMpCiAgdGhyb3R0bGUoJ3ZvdGUvYW5zd2VyJywgbGltaXQ6IDYsIHBlcmlvZDogMzAuc2Vjb25kcykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0aHJvdHRsZSgncG9zdC9hbnN3ZXInLCBsaW1pdDogNiwgcGVyaW9kOiAzMC5zZWNvbmRzKQogIHRocm90dGxlKCdwb3N0L2Fuc3dlcicsIGxpbWl0OiA2LCBwZXJpb2Q6IDMwLnNlY29uZHMpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0aHJvdHRsZSgncG9zdC9hbnN3ZXInLCBsaW1pdDogNiwgcGVyaW9kOiAzMC5zZWNvbmRzKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0aHJvdHRsZSgndm90ZS9hbnN3ZXInLCBsaW1pdDogNiwgcGVyaW9kOiAzMC5zZWNvbmRzKQogIHRocm90dGxlKCd2b3RlL2Fuc3dlcicsIGxpbWl0OiA2LCBwZXJpb2Q6IDMwLnNlY29uZHMpCiAgdGhyb3R0bGUoJ3ZvdGUvYW5zd2VyJywgbGltaXQ6IDYsIHBlcmlvZDogMzAuc2Vjb25kcykK</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
