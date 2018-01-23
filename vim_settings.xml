@@ -256,7 +256,6 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" timestamp="1516623006995" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/components/FooterAction.jsx" timestamp="1514171395101">
         <mark key="[" line="62" column="53" />
         <mark key="]" line="62" column="54" />
@@ -665,11 +664,12 @@
         <mark key="^" line="1" column="53" />
         <mark key="." line="1" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/questions_controller.rb" timestamp="1516623543864">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="37" column="15" />
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/questions_controller.rb" timestamp="1516676097730">
+        <mark key="'" line="16" column="31" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="18" column="5" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/replace_answer_images_job.rb" timestamp="1514198245327">
         <mark key="[" line="15" column="25" />
@@ -685,7 +685,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="563" column="4" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
       <jump line="55" column="0" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
       <jump line="230" column="57" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
       <jump line="5" column="36" filename="$USER_HOME$/Documents/sesame/lib/tasks/cache.rake" />
@@ -785,49 +784,50 @@
       <jump line="42" column="31" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
       <jump line="41" column="54" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
       <jump line="67" column="9" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
+      <jump line="16" column="31" filename="$USER_HOME$/Documents/sesame/app/controllers/questions_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICMgQHF1ZXN0aW9uID0gZmluZF9tb2RlbChwYXJhbXNbOmlkXSkKICAgICMgaWYgIWJyb3dzZXIuZGV2aWNlLm1vYmlsZT8KICAgICMgICBsaXN0ID0gUmVkaXM6Okxpc3QubmV3KCdleHRlcm5hbC1xdWVzdGlvbi1pZHMnKQogICAgIyAgIGlmICFsaXN0LmluY2x1ZGU/KHBhcmFtc1s6aWRdKQogICAgIyAgICAgQHF1ZXNpdG9uID0gZmluZF9tb2RlbChwYXJhbXNbOmlkXSwgOmFwcHJvdmVkKQogICAgIyAgIGVuZAogICAgIyBlbmQK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>req.ip</text>
+        <text encoding="base64">QHF1ZXN0aW9uID0g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRfdXVpZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlcS5pcCBpZiByZXEucG9zdD8K</text>
+        <text encoding="base64">ICAgICAgQHF1ZXN0aW9uID0gZmluZF9tb2RlbChwYXJhbXNbOmlkXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICMgQHF1ZXN0aW9uID0gZmluZF9tb2RlbChwYXJhbXNbOmlkXSkKICAgICMgaWYgIWJyb3dzZXIuZGV2aWNlLm1vYmlsZT8KICAgICMgICBsaXN0ID0gUmVkaXM6Okxpc3QubmV3KCdleHRlcm5hbC1xdWVzdGlvbi1pZHMnKQogICAgIyAgIGlmICFsaXN0LmluY2x1ZGU/KHBhcmFtc1s6aWRdKQogICAgIyAgICAgQHF1ZXNpdG9uID0gZmluZF9tb2RlbChwYXJhbXNbOmlkXSwgOmFwcHJvdmVkKQogICAgIyAgIGVuZAogICAgIyBlbmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgZmluZF9xdWVzdAogICAgCiAgZW5kCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcS5pcCBpZiByZXEucG9zdD8K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFJhaWxzLmxvZ2dlci5pbmZvIHJlcS5pcAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkZWYgZmluZF9xdWVzdGlvbihpZF9vcl91dWlkKQogICAgUXVlc3Rpb24KICBlbmQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5CiAgICBwICcxMjMnCiAgICAjIHJlcS5wYXJhbXNbJ2VtYWlsJ10gaWYgcmVxLnBhdGggPT0gJy9sb2dpbicgJiYgcmVxLnBvc3Q/Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
