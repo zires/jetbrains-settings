@@ -40,11 +40,11 @@
         <mark key="." line="4" column="56" />
         <mark key="^" line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/administrator/questions_controller.rb" timestamp="1516783353876">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
-        <mark key="^" line="145" column="3" />
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/administrator/questions_controller.rb" timestamp="1516784128678">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="52" />
+        <mark key="." line="6" column="52" />
+        <mark key="^" line="6" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/online.rb" timestamp="1512973353540">
         <mark key="[" line="10" column="18" />
@@ -267,12 +267,12 @@
         <mark key="^" line="21" column="37" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/administrator/base_controller.rb" timestamp="1516783270163">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/administrator/base_controller.rb" timestamp="1516784083835">
         <mark key="'" line="7" column="18" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="30" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="41" column="62" />
+        <mark key="[" line="33" column="31" />
+        <mark key="]" line="33" column="36" />
+        <mark key="." line="33" column="36" />
+        <mark key="^" line="33" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/invite.rb" timestamp="1515411036594">
         <mark key="[" line="1" column="18" />
@@ -795,20 +795,20 @@
       <jump line="7" column="18" filename="$USER_HOME$/Documents/sesame/app/controllers/administrator/base_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhY3Rpb25fcmVjb3JkID0gaWRzCg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">YWN0aW9uX3JlY29yZCYudG9fZ2xvYmFsX2lkLnRvX3M=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVfbG9nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgYWZ0ZXJfYWN0aW9uIDpjcmVhdGVfbG9nCg==</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb25fcmVjb3JkID0gaWRzCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFmdGVyX2FjdGlvbiA6Y3JlYXRlX2xvZwo=</text>
