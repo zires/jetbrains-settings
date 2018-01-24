@@ -419,7 +419,7 @@
         <mark key="^" line="96" column="19" />
         <mark key="." line="96" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1516707019652">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1516779953109">
         <mark key="[" line="24" column="106" />
         <mark key="]" line="24" column="106" />
         <mark key="^" line="24" column="106" />
@@ -491,6 +491,7 @@
         <mark key="^" line="30" column="17" />
         <mark key="." line="30" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/lib/utils/json_web_token.rb" timestamp="1516779960516" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/web/CouldAnswer/reducers/couldAnswerReducer.jsx" timestamp="1513596010659">
         <mark key="[" line="29" column="48" />
         <mark key="]" line="29" column="39" />
@@ -623,7 +624,7 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="19" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516706280738">
+      <file name="/Dummy.txt" timestamp="1516779961291">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/initializers/rack_attack.rb" timestamp="1516765734731">
