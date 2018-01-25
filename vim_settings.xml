@@ -166,12 +166,12 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/sessions_controller.rb" timestamp="1516848910158">
-        <mark key="'" line="69" column="8" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="75" column="44" />
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/sessions_controller.rb" timestamp="1516858876246">
+        <mark key="'" line="70" column="8" />
+        <mark key="[" line="44" column="43" />
+        <mark key="]" line="44" column="47" />
+        <mark key="." line="44" column="47" />
+        <mark key="^" line="44" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/order_by_ids.rb" timestamp="1515564930016">
         <mark key="[" line="13" column="29" />
@@ -839,14 +839,14 @@
       <jump line="100" column="24" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/datagrid-1.5.3/lib/datagrid/core.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBqd3RfYmFzZTogMDQzN2UzYzA0MTM1MzE3OTRhODBkZDMxMjJhNTA2ODliZGQ4ZjAxMzMwMjZkN2U2NjY1Yjk4ZTliZmM4OWQ2Zjc4Nzc5MWY0ZGQzNWQyN2FlMDg1YTZhMDM5N2JhN2MxZmYxYzNkNjIyMDRkOThhOWFhZDY2ZjlkZWNiN2IxOGEK</text>
+      <register name="&quot;" type="4">
+        <text>cookies[:loginCause]</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>cookies[:loginCause]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY29wZVw+</text>
