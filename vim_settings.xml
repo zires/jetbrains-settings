@@ -208,6 +208,7 @@
         <mark key="." line="169" column="38" />
         <mark key="^" line="169" column="38" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activerecord-5.1.1/lib/active_record/scoping/named.rb" timestamp="1517209770955" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/ListItem.jsx" timestamp="1516181539227">
         <mark key="[" line="32" column="44" />
         <mark key="]" line="32" column="39" />
@@ -330,6 +331,12 @@
         <mark key="." line="39" column="26" />
         <mark key="^" line="39" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180129071214_add_union_id_to_authorizations.rb" timestamp="1517209957577">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="40" />
+        <mark key="^" line="3" column="40" />
+        <mark key="." line="3" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/administrator/questions/index.html.slim" timestamp="1513319001738">
         <mark key="[" line="7" column="37" />
         <mark key="]" line="7" column="50" />
@@ -390,6 +397,7 @@
         <mark key="." line="55" column="160" />
         <mark key="^" line="55" column="160" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" timestamp="1517210090636" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" timestamp="1516864898531">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -564,7 +572,7 @@
         <mark key="^" line="69" column="27" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/db/migrate/20170503063209_create_authorizations.rb" timestamp="1517205842440" />
+      <file name="$USER_HOME$/Documents/sesame/db/migrate/20170503063209_create_authorizations.rb" timestamp="1517209947984" />
       <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1516861902395">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -660,6 +668,12 @@
         <mark key="]" line="1" column="53" />
         <mark key="^" line="1" column="53" />
         <mark key="." line="1" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/auth_controller.rb" timestamp="1517210069761">
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/replace_answer_images_job.rb" timestamp="1514198245327">
         <mark key="[" line="15" column="25" />
