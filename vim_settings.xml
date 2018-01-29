@@ -405,6 +405,7 @@
         <mark key="^" line="2" column="37" />
         <mark key="." line="2" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/authorization.rb" timestamp="1517205658099" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/_question.json.jb" timestamp="1515564247993">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="2" />
@@ -561,6 +562,7 @@
         <mark key="^" line="69" column="27" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/db/migrate/20170503063209_create_authorizations.rb" timestamp="1517205842440" />
       <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1516861902395">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
