@@ -550,6 +550,7 @@
         <mark key="^" line="30" column="17" />
         <mark key="." line="30" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/config/initializers/omniauth.rb" timestamp="1517219089167" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/web/CouldAnswer/reducers/couldAnswerReducer.jsx" timestamp="1513596010659">
         <mark key="[" line="29" column="48" />
         <mark key="]" line="29" column="39" />
