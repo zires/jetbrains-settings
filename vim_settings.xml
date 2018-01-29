@@ -99,6 +99,13 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/web/Question/components/Question.jsx" timestamp="1517196470089">
+        <mark key="'" line="318" column="8" />
+        <mark key="[" line="318" column="31" />
+        <mark key="]" line="318" column="31" />
+        <mark key="^" line="318" column="31" />
+        <mark key="." line="318" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/tracker.js" timestamp="1513220036968">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="34" />
@@ -345,6 +352,7 @@
         <mark key="^" line="33" column="20" />
         <mark key="." line="33" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/FixHeaderLayout.jsx" timestamp="1517196394562" />
       <file name="$USER_HOME$/Documents/sesame/app/models/admin.rb" timestamp="1512964220277">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="34" />
@@ -524,7 +532,7 @@
         <mark key="^" line="19" column="93" />
         <mark key="." line="19" column="93" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1517195275112">
+      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1517195978686">
         <mark key="'" line="39" column="16" />
         <mark key="[" line="121" column="0" />
         <mark key="]" line="121" column="0" />
@@ -664,7 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="32" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/constants/messageListConstants.jsx" />
       <jump line="7" column="33" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/constants/messageListConstants.jsx" />
       <jump line="8" column="35" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/constants/messageListConstants.jsx" />
       <jump line="9" column="37" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/constants/messageListConstants.jsx" />
@@ -764,6 +771,7 @@
       <jump line="12" column="11" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" />
       <jump line="120" column="6" filename="$USER_HOME$/Documents/sesame/app/models/user.rb" />
       <jump line="39" column="16" filename="$USER_HOME$/Documents/sesame/app/models/user.rb" />
+      <jump line="318" column="8" filename="$USER_HOME$/Documents/sesame/client/app/bundles/web/Question/components/Question.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -776,7 +784,7 @@
         <text>unless URI(avatar).host == URI(Settings.qiniu_asset_host).host</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXBsYWNlX2F2YXRhclw+</text>
+        <text encoding="base64">XDx1bnJlYWRfbWVzc2FnZXNfY291bnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgUmVwbGFjZVVzZXJBdmF0YXJKb2IucGVyZm9ybV9sYXRlcihzZWxmKSB1bmxlc3MgVVJJKGF2YXRhcikuaG9zdCA9PSBVUkkoU2V0dGluZ3MucWluaXVfYXNzZXRfaG9zdCkuaG9zdAo=</text>
@@ -813,13 +821,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXBsYWNlX2F2YXRhclw+</last-search>
+      <last-search encoding="base64">XDx1bnJlYWRfbWVzc2FnZXNfY291bnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXBsYWNlX2F2YXRhclw+</last-pattern>
+      <last-pattern encoding="base64">XDx1bnJlYWRfbWVzc2FnZXNfY291bnRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -843,6 +851,7 @@
         <entry encoding="base64">XDxzZXRDb29raWVcPg==</entry>
         <entry encoding="base64">XDxnZXRDb29raWVcPg==</entry>
         <entry encoding="base64">XDxyZXBsYWNlX2F2YXRhclw+</entry>
+        <entry encoding="base64">XDx1bnJlYWRfbWVzc2FnZXNfY291bnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
