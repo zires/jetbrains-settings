@@ -106,6 +106,12 @@
         <mark key="^" line="318" column="31" />
         <mark key="." line="318" column="31" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/oauth2-1.3.1/lib/oauth2/access_token.rb" timestamp="1517218654736">
+        <mark key="[" line="151" column="87" />
+        <mark key="]" line="152" column="16" />
+        <mark key="^" line="152" column="16" />
+        <mark key="." line="152" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/tracker.js" timestamp="1513220036968">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="34" />
@@ -178,11 +184,11 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/.env" timestamp="1517212883806">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="12" />
-        <mark key="^" line="8" column="12" />
-        <mark key="." line="8" column="12" />
+      <file name="$USER_HOME$/Documents/sesame/.env" timestamp="1517214721641">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="8" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/settings/development.yml" timestamp="1513671301378">
         <mark key="[" line="6" column="14" />
@@ -331,11 +337,12 @@
         <mark key="^" line="150" column="55" />
         <mark key="." line="150" column="55" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/strategies/wifikey.rb" timestamp="1517212080141">
-        <mark key="[" line="9" column="68" />
-        <mark key="]" line="9" column="68" />
-        <mark key="." line="9" column="68" />
-        <mark key="^" line="9" column="68" />
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/strategies/wifikey.rb" timestamp="1517219063383">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="55" column="80" />
+        <mark key="]" line="55" column="80" />
+        <mark key="." line="55" column="80" />
+        <mark key="^" line="55" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/incomes/create.rb" timestamp="1516589607904">
         <mark key="[" line="38" column="46" />
@@ -385,11 +392,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/wifikey/oauth2_client.rb" timestamp="1517212497344">
-        <mark key="[" line="22" column="32" />
-        <mark key="]" line="23" column="18" />
-        <mark key="^" line="23" column="18" />
-        <mark key="." line="23" column="18" />
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/wifikey/oauth2_client.rb" timestamp="1517218436914">
+        <mark key="'" line="31" column="56" />
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="28" />
+        <mark key="." line="31" column="28" />
+        <mark key="^" line="31" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/questions/selector.rb" timestamp="1512975359848">
         <mark key="[" line="29" column="11" />
@@ -554,6 +562,12 @@
         <mark key="^" line="39" column="31" />
         <mark key="." line="39" column="31" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/wifikey/signer.rb" timestamp="1517218409345">
+        <mark key="[" line="24" column="64" />
+        <mark key="]" line="24" column="71" />
+        <mark key="^" line="24" column="71" />
+        <mark key="." line="24" column="71" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/grids/comment_grid.rb" timestamp="1513164639603">
         <mark key="[" line="19" column="94" />
         <mark key="]" line="19" column="93" />
@@ -669,7 +683,7 @@
         <mark key="^" line="48" column="11" />
         <mark key="." line="48" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/wifikey_login_command.rb" timestamp="1515388752398">
+      <file name="$USER_HOME$/Documents/sesame/app/commands/wifikey_login_command.rb" timestamp="1517216095438">
         <mark key="[" line="18" column="18" />
         <mark key="]" line="19" column="12" />
         <mark key="." line="19" column="12" />
@@ -706,13 +720,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="35" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/constants/messageListConstants.jsx" />
-      <jump line="9" column="37" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/constants/messageListConstants.jsx" />
-      <jump line="12" column="31" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/constants/messageListConstants.jsx" />
-      <jump line="10" column="31" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/constants/messageListConstants.jsx" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/constants/messageListConstants.jsx" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/sesame/app/jobs/redirect_to_path_job.rb" />
-      <jump line="198" column="4" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" />
       <jump line="76" column="4" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" />
       <jump line="77" column="15" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" />
       <jump line="5" column="24" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Welcome.jsx" />
@@ -806,58 +813,65 @@
       <jump line="39" column="16" filename="$USER_HOME$/Documents/sesame/app/models/user.rb" />
       <jump line="318" column="8" filename="$USER_HOME$/Documents/sesame/client/app/bundles/web/Question/components/Question.jsx" />
       <jump line="509" column="0" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
+      <jump line="57" column="10" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/strategies/wifikey.rb" />
+      <jump line="6" column="28" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/wifikey/oauth2_client.rb" />
+      <jump line="19" column="46" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/wifikey/oauth2_client.rb" />
+      <jump line="31" column="56" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/wifikey/oauth2_client.rb" />
+      <jump line="59" column="52" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/strategies/wifikey.rb" />
+      <jump line="55" column="34" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/strategies/wifikey.rb" />
+      <jump line="23" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/strategies/wifikey.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>unless URI(avatar).host == URI(Settings.qiniu_asset_host).host</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1bnJlYWRfbWVzc2FnZXNfY291bnRcPg==</text>
+        <text encoding="base64">XDxhdXRoX3Rva2VuX3BhcmFtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgb3B0aW9uIDpjbGllbnRfb3B0aW9ucywgc2l0ZTogJycsIHRva2VuX3VybDogJy9zc28vZmEuc2VjJwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJzZWRbOmFjY2Vzc190b2tlbl0gPSBwYXJzZWQuZGVsZXRlKCdhY2Nlc3NUb2tlbicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICBzY29wZSA6bmFtZSwgLT4oYXJnMSwgYXJnMikgeyB3aGVyZSgpIH0KICAKICBBZG1pbi5uYW1lKGFyZzEsIGFyZzIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgZGVmIGdldF9yYXdfaW5mbwogICAgICAgIAogICAgICBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpZiAK</text>
+        <text encoding="base64">ICAgICAgYXV0aF90b2tlbl9wYXJhbXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpZiAK</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMubG9jYXRpb24pCiAgICBjb25zb2xlLmxvZyhTZXNhbWUuY3VycmVudEVudi5yZWZlcnJlcikK</text>
+        <text encoding="base64">ICAgICAgICAjIGJpbmRpbmcucHJ5CiAgICAgICAgIyBwICcxJwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMubG9jYXRpb24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgJHJvbGxvdXQmLmFjdGl2ZT8oZmVhdHVyZSwgY3VycmVudF91c2VyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1bnJlYWRfbWVzc2FnZXNfY291bnRcPg==</last-search>
+      <last-search encoding="base64">XDxhdXRoX3Rva2VuX3BhcmFtc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1bnJlYWRfbWVzc2FnZXNfY291bnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRoX3Rva2VuX3BhcmFtc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -886,6 +900,8 @@
         <entry encoding="base64">XDxnZXRDb29raWVcPg==</entry>
         <entry encoding="base64">XDxyZXBsYWNlX2F2YXRhclw+</entry>
         <entry encoding="base64">XDx1bnJlYWRfbWVzc2FnZXNfY291bnRcPg==</entry>
+        <entry encoding="base64">XDxhY2Nlc3NfdG9rZW5fb3B0c1w+</entry>
+        <entry encoding="base64">XDxhdXRoX3Rva2VuX3BhcmFtc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
