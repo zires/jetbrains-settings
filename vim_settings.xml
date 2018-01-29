@@ -263,7 +263,7 @@
         <mark key="^" line="50" column="8" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" timestamp="1517207801338" />
+      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" timestamp="1517208994471" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/components/FooterAction.jsx" timestamp="1514171395101">
         <mark key="[" line="62" column="53" />
         <mark key="]" line="62" column="54" />
@@ -675,7 +675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="33" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/constants/messageListConstants.jsx" />
       <jump line="8" column="35" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/constants/messageListConstants.jsx" />
       <jump line="9" column="37" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/constants/messageListConstants.jsx" />
       <jump line="12" column="31" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/constants/messageListConstants.jsx" />
@@ -775,6 +774,7 @@
       <jump line="120" column="6" filename="$USER_HOME$/Documents/sesame/app/models/user.rb" />
       <jump line="39" column="16" filename="$USER_HOME$/Documents/sesame/app/models/user.rb" />
       <jump line="318" column="8" filename="$USER_HOME$/Documents/sesame/client/app/bundles/web/Question/components/Question.jsx" />
+      <jump line="509" column="0" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
