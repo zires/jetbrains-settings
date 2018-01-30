@@ -15,6 +15,12 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/omniauth-wifikey/lib/omniauth/wifikey/signer.rb" timestamp="1517283553554">
+        <mark key="[" line="7" column="61" />
+        <mark key="]" line="8" column="71" />
+        <mark key="^" line="8" column="71" />
+        <mark key="." line="8" column="71" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/answers_controller.rb" timestamp="1514187981388">
         <mark key="[" line="6" column="93" />
         <mark key="]" line="6" column="93" />
@@ -202,6 +208,12 @@
         <mark key="^" line="61" column="83" />
         <mark key="." line="61" column="83" />
       </file>
+      <file name="$USER_HOME$/Documents/omniauth-wifikey/lib/omniauth/strategies/wifikey.rb" timestamp="1517283878269">
+        <mark key="[" line="64" column="66" />
+        <mark key="]" line="64" column="63" />
+        <mark key="^" line="64" column="63" />
+        <mark key="." line="64" column="63" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/index.json.jb" timestamp="1514449960715">
         <mark key="[" line="8" column="2" />
         <mark key="]" line="8" column="2" />
@@ -307,11 +319,11 @@
         <mark key="." line="4" column="43" />
         <mark key="^" line="4" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/Gemfile" timestamp="1516606701349">
-        <mark key="[" line="54" column="5" />
-        <mark key="]" line="54" column="15" />
+      <file name="$USER_HOME$/Documents/sesame/Gemfile" timestamp="1517284066837">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="32" />
         <mark key="^" line="54" column="15" />
-        <mark key="." line="54" column="15" />
+        <mark key="." line="18" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/questions/recommend.rb" timestamp="1514357807938">
         <mark key="[" line="6" column="7" />
@@ -337,12 +349,17 @@
         <mark key="^" line="150" column="55" />
         <mark key="." line="150" column="55" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/strategies/wifikey.rb" timestamp="1517281173942">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="58" column="44" />
-        <mark key="]" line="58" column="44" />
-        <mark key="." line="58" column="44" />
-        <mark key="^" line="58" column="60" />
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/strategies/wifikey.rb" timestamp="1517283474071">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="37" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/omniauth-wifikey/lib/omniauth/wifikey/version.rb" timestamp="1517284033138">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/incomes/create.rb" timestamp="1516589607904">
         <mark key="[" line="38" column="46" />
@@ -355,6 +372,12 @@
         <mark key="]" line="3" column="40" />
         <mark key="^" line="3" column="40" />
         <mark key="." line="3" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/omniauth-wifikey/lib/omniauth/wifikey/oauth2_client.rb" timestamp="1517283880229">
+        <mark key="[" line="28" column="11" />
+        <mark key="]" line="31" column="58" />
+        <mark key="^" line="31" column="58" />
+        <mark key="." line="31" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/administrator/questions/index.html.slim" timestamp="1513319001738">
         <mark key="[" line="7" column="37" />
@@ -392,12 +415,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/wifikey/oauth2_client.rb" timestamp="1517280096239">
-        <mark key="'" line="31" column="56" />
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="28" />
-        <mark key="." line="31" column="28" />
-        <mark key="^" line="31" column="28" />
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/wifikey/oauth2_client.rb" timestamp="1517283863653">
+        <mark key="'" line="30" column="56" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="30" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/questions/selector.rb" timestamp="1512975359848">
         <mark key="[" line="29" column="11" />
@@ -563,7 +586,7 @@
         <mark key="^" line="39" column="31" />
         <mark key="." line="39" column="31" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/wifikey/signer.rb" timestamp="1517280093816">
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/wifikey/signer.rb" timestamp="1517283539779">
         <mark key="[" line="24" column="64" />
         <mark key="]" line="24" column="71" />
         <mark key="^" line="24" column="71" />
@@ -721,9 +744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="4" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" />
-      <jump line="77" column="15" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" />
-      <jump line="5" column="24" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Welcome.jsx" />
       <jump line="196" column="24" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Welcome.jsx" />
       <jump line="138" column="8" filename="$USER_HOME$/Documents/sesame/app/controllers/administrator/questions_controller.rb" />
       <jump line="5" column="19" filename="$USER_HOME$/Documents/sesame/app/controllers/administrator/questions_controller.rb" />
@@ -814,65 +834,68 @@
       <jump line="39" column="16" filename="$USER_HOME$/Documents/sesame/app/models/user.rb" />
       <jump line="318" column="8" filename="$USER_HOME$/Documents/sesame/client/app/bundles/web/Question/components/Question.jsx" />
       <jump line="509" column="0" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
-      <jump line="57" column="10" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/strategies/wifikey.rb" />
       <jump line="6" column="28" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/wifikey/oauth2_client.rb" />
       <jump line="19" column="46" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/wifikey/oauth2_client.rb" />
       <jump line="31" column="56" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/wifikey/oauth2_client.rb" />
       <jump line="59" column="52" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/strategies/wifikey.rb" />
       <jump line="55" column="34" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/strategies/wifikey.rb" />
       <jump line="23" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/strategies/wifikey.rb" />
+      <jump line="49" column="24" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/strategies/wifikey.rb" />
+      <jump line="57" column="22" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/strategies/wifikey.rb" />
+      <jump line="60" column="30" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/strategies/wifikey.rb" />
+      <jump line="67" column="78" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/strategies/wifikey.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text></text>
+        <text encoding="base64">J3JlZnJlc2hUb2tlbicgPT4gYWNjZXNzX3Rva2VuLnJlZnJlc2hfdG9rZW4=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text></text>
+        <text encoding="base64">J3JlZnJlc2hUb2tlbicgPT4gYWNjZXNzX3Rva2VuLnJlZnJlc2hfdG9rZW4=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRoX3Rva2VuX3BhcmFtc1w+</text>
+        <text encoding="base64">XDxhY2Nlc3NfdG9rZW5cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIEByYXdfaW5mbyB8fD0gYWNjZXNzX3Rva2VuLnBhcmFtcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGdldF9yYXdfaW5mbwogICAgICAgIAogICAgICBlbmQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXV0aF90b2tlbl9wYXJhbXMK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIGFjY2Vzc190b2tlbi5wb3N0KCcvb3Blbi1zc28vZmEuc2NtZCcsIHsgYm9keTogb3B0cyB9KS5tZXJnZSh1bmlvbklkOiBhY2Nlc3NfdG9rZW4ucGFyYW1zWyd1bmlvbklkJ10pCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIEByYXdfaW5mbyB8fD0gYWNjZXNzX3Rva2VuLnBhcmFtcwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGJpbmRpbmcucHJ5CiAgICAgICAgIyBwICcxJwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRoX3Rva2VuX3BhcmFtc1w+</last-search>
+      <last-search encoding="base64">XDxhY2Nlc3NfdG9rZW5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRoX3Rva2VuX3BhcmFtc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxhY2Nlc3NfdG9rZW5cPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -903,6 +926,7 @@
         <entry encoding="base64">XDx1bnJlYWRfbWVzc2FnZXNfY291bnRcPg==</entry>
         <entry encoding="base64">XDxhY2Nlc3NfdG9rZW5fb3B0c1w+</entry>
         <entry encoding="base64">XDxhdXRoX3Rva2VuX3BhcmFtc1w+</entry>
+        <entry encoding="base64">XDxhY2Nlc3NfdG9rZW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>

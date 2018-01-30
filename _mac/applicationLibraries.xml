@@ -17487,6 +17487,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/omniauth-1.6.1/.github" />
       </SOURCES>
     </library>
+    <library name="omniauth (v1.8.1, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/omniauth-1.8.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/omniauth-1.8.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/omniauth-1.8.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/omniauth-1.8.1/.github" />
+      </SOURCES>
+    </library>
     <library name="omniauth-oauth2 (v1.4.0, rbenv: 2.3.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/omniauth-oauth2-1.4.0/lib" />
@@ -17501,6 +17511,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/omniauth-oauth2-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="omniauth-oauth2 (v1.5.0, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/omniauth-oauth2-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/omniauth-oauth2-1.5.0/lib" />
       </SOURCES>
     </library>
     <library name="omniauth-wifikey (v0.1.0@409b8d, rbenv: 2.3.0) [gem]">
@@ -17581,6 +17599,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib" />
+      </SOURCES>
+    </library>
+    <library name="omniauth-wifikey (v0.2.0@59fba4, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-59fba4299a27/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-59fba4299a27/lib" />
       </SOURCES>
     </library>
     <library name="oneapm_rpm (v1.3.5, rbenv: 2.2.2) [gem]">
