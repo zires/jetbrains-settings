@@ -106,11 +106,11 @@
         <mark key="^" line="318" column="31" />
         <mark key="." line="318" column="31" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/oauth2-1.3.1/lib/oauth2/access_token.rb" timestamp="1517218654736">
-        <mark key="[" line="151" column="87" />
-        <mark key="]" line="152" column="16" />
-        <mark key="^" line="152" column="16" />
-        <mark key="." line="152" column="16" />
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/oauth2-1.3.1/lib/oauth2/access_token.rb" timestamp="1517280341380">
+        <mark key="[" line="105" column="37" />
+        <mark key="]" line="106" column="16" />
+        <mark key="^" line="106" column="16" />
+        <mark key="." line="106" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/tracker.js" timestamp="1513220036968">
         <mark key="[" line="9" column="29" />
@@ -337,12 +337,12 @@
         <mark key="^" line="150" column="55" />
         <mark key="." line="150" column="55" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/strategies/wifikey.rb" timestamp="1517219063383">
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/strategies/wifikey.rb" timestamp="1517281173942">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="55" column="80" />
-        <mark key="]" line="55" column="80" />
-        <mark key="." line="55" column="80" />
-        <mark key="^" line="55" column="80" />
+        <mark key="[" line="58" column="44" />
+        <mark key="]" line="58" column="44" />
+        <mark key="." line="58" column="44" />
+        <mark key="^" line="58" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/incomes/create.rb" timestamp="1516589607904">
         <mark key="[" line="38" column="46" />
@@ -392,7 +392,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/wifikey/oauth2_client.rb" timestamp="1517218436914">
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/wifikey/oauth2_client.rb" timestamp="1517280096239">
         <mark key="'" line="31" column="56" />
         <mark key="[" line="31" column="16" />
         <mark key="]" line="31" column="28" />
@@ -563,7 +563,7 @@
         <mark key="^" line="39" column="31" />
         <mark key="." line="39" column="31" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/wifikey/signer.rb" timestamp="1517218409345">
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/bundler/gems/omniauth-wifikey-a9776816c9ca/lib/omniauth/wifikey/signer.rb" timestamp="1517280093816">
         <mark key="[" line="24" column="64" />
         <mark key="]" line="24" column="71" />
         <mark key="^" line="24" column="71" />
@@ -824,19 +824,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text></text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text></text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdXRoX3Rva2VuX3BhcmFtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZWRbOmFjY2Vzc190b2tlbl0gPSBwYXJzZWQuZGVsZXRlKCdhY2Nlc3NUb2tlbicpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIEByYXdfaW5mbyB8fD0gYWNjZXNzX3Rva2VuLnBhcmFtcwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
