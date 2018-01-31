@@ -785,14 +785,14 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517391856110">
+      <file name="/Dummy.txt" timestamp="1517395154248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/tasks/cache.rake" timestamp="1517394457699">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="18" column="3" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/cache.rake" timestamp="1517396566380">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="48" />
+        <mark key="." line="20" column="48" />
+        <mark key="^" line="20" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/moon_index.json.jb" timestamp="1516678386619">
         <mark key="[" line="21" column="23" />
@@ -946,7 +946,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN1Cg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -957,35 +957,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydE9uUmVhZHlcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>redis = Redis.new(url: Settings[:cache_store_redis_url])</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmIGtleXMuY291bnQgPiAwCiAgICAgIFNURE9VVC5wdXRzICLkvaDnoa7orqTliKDpmaTov5nkuptrZXnlkJc/77yIWS9O77yJIgogICAgICBpZiBTVERJTi5nZXRzLmNob21wLnVwY2FzZSA9PSAnWScKICAgICAgICBpaSA9IDAKICAgICAgICBrZXlzLmVhY2ggeyB8a2V5fCBpaSArPSAxIGlmIHJlZGlzLmRlbChrZXkpID09IDEgfQogICAgICAgIHB1dHMgIlN1Y2Nlc3MhIFRvdGFsIC0gI3tpaX0iCiAgICAgIGVuZAogICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN1Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgIGN1Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHR5cGVvZiBhaG95ICE9PSAndW5kZWZpbmVkJyAmJiBhaG95LnBhZ2VWaWV3KCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuaW5pdEFuc3dlcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHR5cGVvZiBhaG95ICE9PSAndW5kZWZpbmVkJyAmJiBhaG95LnBhZ2VWaWV3KCkK</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHR5cGVvZiBhaG95ICE9PSAndW5kZWZpbmVkJyAmJiBhaG95LnBhZ2VWaWV3KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHR5cGVvZiBhaG95ICE9PSAndW5kZWZpbmVkJyAmJiBhaG95LnBhZ2VWaWV3KCkK</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMuaW5pdEFuc3dlcigpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHR5cGVvZiBhaG95ICE9PSAndW5kZWZpbmVkJyAmJiBhaG95LnBhZ2VWaWV3KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHR5cGVvZiBhaG95ICE9PSAndW5kZWZpbmVkJyAmJiBhaG95LnBhZ2VWaWV3KCkK</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
