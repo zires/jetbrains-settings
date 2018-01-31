@@ -333,6 +333,7 @@
         <mark key="^" line="62" column="54" />
         <mark key="." line="62" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/config/initializers/identity_cache.rb" timestamp="1517391869886" />
       <file name="$USER_HOME$/Documents/sesame/app/views/administrator/answers/index.html.slim" timestamp="1513319067737">
         <mark key="[" line="19" column="35" />
         <mark key="]" line="19" column="46" />
@@ -362,7 +363,7 @@
         <mark key="." line="4" column="43" />
         <mark key="^" line="4" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/Gemfile" timestamp="1517284066837">
+      <file name="$USER_HOME$/Documents/sesame/Gemfile" timestamp="1517392224280">
         <mark key="[" line="18" column="31" />
         <mark key="]" line="18" column="32" />
         <mark key="^" line="54" column="15" />
@@ -781,7 +782,7 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517391006770">
+      <file name="/Dummy.txt" timestamp="1517391856110">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/moon_index.json.jb" timestamp="1516678386619">
