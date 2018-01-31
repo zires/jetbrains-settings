@@ -333,7 +333,12 @@
         <mark key="^" line="62" column="54" />
         <mark key="." line="62" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/initializers/identity_cache.rb" timestamp="1517391869886" />
+      <file name="$USER_HOME$/Documents/sesame/config/initializers/identity_cache.rb" timestamp="1517394251067">
+        <mark key="[" line="0" column="110" />
+        <mark key="]" line="0" column="131" />
+        <mark key="^" line="0" column="131" />
+        <mark key="." line="0" column="131" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/administrator/answers/index.html.slim" timestamp="1513319067737">
         <mark key="[" line="19" column="35" />
         <mark key="]" line="19" column="46" />
@@ -740,11 +745,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="152" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/application.rb" timestamp="1516606756577">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="32" column="37" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Documents/sesame/config/application.rb" timestamp="1517393645806">
+        <mark key="[" line="18" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/_tiny_show.json.jbuilder" timestamp="1513304178065">
         <mark key="[" line="3" column="0" />
@@ -764,6 +766,7 @@
         <mark key="^" line="111" column="43" />
         <mark key="." line="111" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1517394427752" />
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/acts_as_voter.rb" timestamp="1514428658377">
         <mark key="[" line="36" column="4" />
         <mark key="]" line="36" column="21" />
@@ -784,6 +787,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1517391856110">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/cache.rake" timestamp="1517394457699">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/moon_index.json.jb" timestamp="1516678386619">
         <mark key="[" line="21" column="23" />
@@ -936,32 +945,32 @@
       <jump line="23" column="4" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dG9Nb29uLCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dG9Nb29uLCA=</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydE9uUmVhZHlcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIEByYXdfaW5mbyB8fD0gYWNjZXNzX3Rva2VuLnBhcmFtcwo=</text>
+      <register name="0" type="4">
+        <text>redis = Redis.new(url: Settings[:cache_store_redis_url])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHR5cGVvZiBhaG95ICE9PSAndW5kZWZpbmVkJyAmJiBhaG95LnBhZ2VWaWV3KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuaW5pdEFuc3dlcigpCg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIHR5cGVvZiBhaG95ICE9PSAndW5kZWZpbmVkJyAmJiBhaG95LnBhZ2VWaWV3KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHR5cGVvZiBhaG95ICE9PSAndW5kZWZpbmVkJyAmJiBhaG95LnBhZ2VWaWV3KCkK</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMuaW5pdEFuc3dlcigpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHR5cGVvZiBhaG95ICE9PSAndW5kZWZpbmVkJyAmJiBhaG95LnBhZ2VWaWV3KCkK</text>
@@ -970,13 +979,13 @@
         <text encoding="base64">ICAgIHR5cGVvZiBhaG95ICE9PSAndW5kZWZpbmVkJyAmJiBhaG95LnBhZ2VWaWV3KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHR5cGVvZiBhaG95ICE9PSAndW5kZWZpbmVkJyAmJiBhaG95LnBhZ2VWaWV3KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIFZvdGUud2hlcmUodXNlcjogdXNlciwgY3JlYXRlZF9hdDogQHJhbmdlKS5jb3VudC4K</text>
+        <text encoding="base64">ICAgIHR5cGVvZiBhaG95ICE9PSAndW5kZWZpbmVkJyAmJiBhaG95LnBhZ2VWaWV3KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEludml0ZS5wbHVjayg6dXNlcl9pZCkuZWFjaCBkbyB8fAogICAgZW5kCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
