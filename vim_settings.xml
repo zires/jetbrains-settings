@@ -446,7 +446,7 @@
         <mark key="." line="38" column="91" />
         <mark key="^" line="38" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/jobs/audit_answer_job.rb" timestamp="1517378109111" />
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/audit_answer_job.rb" timestamp="1517401208787" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerToggled/components/AnswerToggled.jsx" timestamp="1517388333303">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -640,7 +640,7 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/jobs/audit_question_job.rb" timestamp="1517378127712" />
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/audit_question_job.rb" timestamp="1517401216707" />
       <file name="$USER_HOME$/Documents/sesame/config/routes.rb" timestamp="1513763179748">
         <mark key="[" line="28" column="21" />
         <mark key="]" line="30" column="17" />
@@ -785,14 +785,14 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517395154248">
+      <file name="/Dummy.txt" timestamp="1517401217320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/tasks/cache.rake" timestamp="1517397238718">
-        <mark key="[" line="20" column="31" />
-        <mark key="]" line="20" column="48" />
-        <mark key="." line="20" column="48" />
-        <mark key="^" line="20" column="48" />
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/cache.rake" timestamp="1517401128057">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="13" />
+        <mark key="." line="27" column="13" />
+        <mark key="^" line="27" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/moon_index.json.jb" timestamp="1516678386619">
         <mark key="[" line="21" column="23" />
@@ -946,46 +946,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGN1Cg==</text>
+        <text encoding="base64">ICAgICMgICAgIGlpID0gMAogICAgIyAgICAga2V5cy5lYWNoIHsgfGtleXwgaWkgKz0gMSBpZiByZWRpcy5kZWwoa2V5KSA9PSAxIH0KICAgICMgICAgIHB1dHMgIlN1Y2Nlc3MhIFRvdGFsIC0gI3tpaX0iCg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>(args[:cursor] || 0)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydE9uUmVhZHlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIGtleXMuY291bnQgPiAwCiAgICAgIFNURE9VVC5wdXRzICLkvaDnoa7orqTliKDpmaTov5nkuptrZXnlkJc/77yIWS9O77yJIgogICAgICBpZiBTVERJTi5nZXRzLmNob21wLnVwY2FzZSA9PSAnWScKICAgICAgICBpaSA9IDAKICAgICAgICBrZXlzLmVhY2ggeyB8a2V5fCBpaSArPSAxIGlmIHJlZGlzLmRlbChrZXkpID09IDEgfQogICAgICAgIHB1dHMgIlN1Y2Nlc3MhIFRvdGFsIC0gI3tpaX0iCiAgICAgIGVuZAogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICMgICAgIGlpID0gMAogICAgIyAgICAga2V5cy5lYWNoIHsgfGtleXwgaWkgKz0gMSBpZiByZWRpcy5kZWwoa2V5KSA9PSAxIH0KICAgICMgICAgIHB1dHMgIlN1Y2Nlc3MhIFRvdGFsIC0gI3tpaX0iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGN1Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGN1Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGN1cnNvciwga2V5cyA9IHJlZGlzLnNjYW4oKGFyZ3NbOmN1cnNvcl0gfHwgMCksIGNvdW50OiBudW0sIG1hdGNoOiAndmlzaXRvcjoqOmNsaWNrZWQnKQogICAgcHV0cyAi5LiA5YWx5om+5YiwICN7a2V5cy5jb3VudH0g5Liqa2V5c+OAguW9k+WJjWN1cnNvciA9ICN7Y3Vyc29yfSIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGN1Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGN1Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHR5cGVvZiBhaG95ICE9PSAndW5kZWZpbmVkJyAmJiBhaG95LnBhZ2VWaWV3KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuaW5pdEFuc3dlcigpCg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHR5cGVvZiBhaG95ICE9PSAndW5kZWZpbmVkJyAmJiBhaG95LnBhZ2VWaWV3KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHR5cGVvZiBhaG95ICE9PSAndW5kZWZpbmVkJyAmJiBhaG95LnBhZ2VWaWV3KCkK</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMuaW5pdEFuc3dlcigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
