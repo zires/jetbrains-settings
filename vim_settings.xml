@@ -68,11 +68,11 @@
         <mark key="^" line="86" column="18" />
         <mark key="." line="86" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/mutations/authorizations/provider.rb" timestamp="1517292648878">
-        <mark key="[" line="14" column="52" />
-        <mark key="]" line="14" column="60" />
-        <mark key="^" line="14" column="60" />
-        <mark key="." line="14" column="60" />
+      <file name="$USER_HOME$/Documents/sesame/app/mutations/authorizations/provider.rb" timestamp="1517467079822">
+        <mark key="[" line="13" column="100" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/environments/production.rb" timestamp="1514982796350">
         <mark key="[" line="46" column="26" />
@@ -489,7 +489,7 @@
         <mark key="^" line="2" column="37" />
         <mark key="." line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/authorization.rb" timestamp="1517465470159" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/authorization.rb" timestamp="1517466640079" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/_question.json.jb" timestamp="1515564247993">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="2" />
@@ -726,11 +726,10 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/wifikey_login_command.rb" timestamp="1517298581206">
-        <mark key="[" line="11" column="96" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-        <mark key="^" line="12" column="16" />
+      <file name="$USER_HOME$/Documents/sesame/app/commands/wifikey_login_command.rb" timestamp="1517467082751">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1517454497782">
         <mark key="[" line="0" column="0" />
@@ -893,7 +892,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgICAgIGlpID0gMAogICAgIyAgICAga2V5cy5lYWNoIHsgfGtleXwgaWkgKz0gMSBpZiByZWRpcy5kZWwoa2V5KSA9PSAxIH0KICAgICMgICAgIHB1dHMgIlN1Y2Nlc3MhIFRvdGFsIC0gI3tpaX0iCg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -908,31 +907,31 @@
         <text encoding="base64">ICAgICMgICAgIGlpID0gMAogICAgIyAgICAga2V5cy5lYWNoIHsgfGtleXwgaWkgKz0gMSBpZiByZWRpcy5kZWwoa2V5KSA9PSAxIH0KICAgICMgICAgIHB1dHMgIlN1Y2Nlc3MhIFRvdGFsIC0gI3tpaX0iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGN1cnNvciwga2V5cyA9IHJlZGlzLnNjYW4oKGFyZ3NbOmN1cnNvcl0gfHwgMCksIGNvdW50OiBudW0sIG1hdGNoOiAndmlzaXRvcjoqOmNsaWNrZWQnKQogICAgcHV0cyAi5LiA5YWx5om+5YiwICN7a2V5cy5jb3VudH0g5Liqa2V5c+OAguW9k+WJjWN1cnNvciA9ICN7Y3Vyc29yfSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGN1Cg==</text>
+        <text encoding="base64">ICAgIGN1cnNvciwga2V5cyA9IHJlZGlzLnNjYW4oKGFyZ3NbOmN1cnNvcl0gfHwgMCksIGNvdW50OiBudW0sIG1hdGNoOiAndmlzaXRvcjoqOmNsaWNrZWQnKQogICAgcHV0cyAi5LiA5YWx5om+5YiwICN7a2V5cy5jb3VudH0g5Liqa2V5c+OAguW9k+WJjWN1cnNvciA9ICN7Y3Vyc29yfSIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGN1Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGN1Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHR5cGVvZiBhaG95ICE9PSAndW5kZWZpbmVkJyAmJiBhaG95LnBhZ2VWaWV3KCkK</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuaW5pdEFuc3dlcigpCg==</text>
+        <text encoding="base64">ICAgIHR5cGVvZiBhaG95ICE9PSAndW5kZWZpbmVkJyAmJiBhaG95LnBhZ2VWaWV3KCkK</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
