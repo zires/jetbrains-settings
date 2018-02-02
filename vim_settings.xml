@@ -45,6 +45,7 @@
         <mark key="." line="4" column="56" />
         <mark key="^" line="4" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/question_to_moon_job.rb" timestamp="1517566989391" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/web/Welcome/components/questionItem.jsx" timestamp="1517558666580">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="1" column="0" />
@@ -622,6 +623,7 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" timestamp="1517567231505" />
       <file name="$USER_HOME$/Documents/sesame/app/models/report.rb" timestamp="1512985079867">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="5" />
