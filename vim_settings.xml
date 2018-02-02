@@ -494,11 +494,11 @@
         <mark key="^" line="30" column="17" />
         <mark key="." line="30" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Workbook.js" timestamp="1516641381601">
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="18" />
-        <mark key="^" line="23" column="18" />
-        <mark key="." line="23" column="18" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Workbook.js" timestamp="1517555596678">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="22" column="18" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/web/CouldAnswer/reducers/couldAnswerReducer.jsx" timestamp="1513596010659">
         <mark key="[" line="29" column="48" />
@@ -745,8 +745,8 @@
       <jump line="7" column="26" filename="$USER_HOME$/Documents/workplace/hera/src/components/panels/RenamePanel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this.nameInput.value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0ICdhbnRkL2xpYi90YWJzL3N0eWxlL2Nzcyc7Cg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -761,31 +761,31 @@
         <text encoding="base64">aW1wb3J0ICdhbnRkL2xpYi9idXR0b24vc3R5bGUvY3NzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">aW1wb3J0ICdhbnRkL2xpYi90YWJzL3N0eWxlL2Nzcyc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZj17KGlucHV0KSA9PiB0aGlzLm5hbWVJbnB1dCA9IGlucHV0fQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZj17KGlucHV0KSA9PiB0aGlzLm5hbWVJbnB1dCA9IGlucHV0fQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlPXt0aGlzLnByb3BzLm5hbWV9CiAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9e3RoaXMucHJvcHMudGl0bGV9CiAgICAgICAgICAgICAgcmVmPXsoaW5wdXQpID0+IHRoaXMubmFtZUlucHV0ID0gaW5wdXR9CiAgICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlPXt0aGlzLnByb3BzLm5hbWV9CiAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9e3RoaXMucHJvcHMudGl0bGV9CiAgICAgICAgICAgICAgcmVmPXsoaW5wdXQpID0+IHRoaXMubmFtZUlucHV0ID0gaW5wdXR9CiAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICdhbnRkL2Rpc3QvYW50ZC5jc3MnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICdhbnRkL2xpYi9mb3JtL3N0eWxlL2Nzcyc7CmltcG9ydCAnYW50ZC9saWIvaW5wdXQvc3R5bGUvY3NzJzsKaW1wb3J0ICdhbnRkL2xpYi9idXR0b24vc3R5bGUvY3NzJzsKaW1wb3J0ICdhbnRkL2xpYi9jYXJkL3N0eWxlL2Nzcyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdhbnRkL2Rpc3QvYW50ZC5jc3MnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdhbnRkL2xpYi9mb3JtL3N0eWxlL2Nzcyc7CmltcG9ydCAnYW50ZC9saWIvaW5wdXQvc3R5bGUvY3NzJzsKaW1wb3J0ICdhbnRkL2xpYi9idXR0b24vc3R5bGUvY3NzJzsKaW1wb3J0ICdhbnRkL2xpYi9jYXJkL3N0eWxlL2Nzcyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
