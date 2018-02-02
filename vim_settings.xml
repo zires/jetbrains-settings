@@ -428,12 +428,11 @@
         <mark key="^" line="24" column="106" />
         <mark key="." line="24" column="106" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/components/panels/RenamePanel.js" timestamp="1517540625375">
-        <mark key="'" line="35" column="26" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="10" column="11" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/panels/RenamePanel.js" timestamp="1517542070243">
+        <mark key="'" line="38" column="26" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/sms_auth_command.rb" timestamp="1515151103660">
         <mark key="[" line="12" column="17" />
@@ -746,13 +745,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>// `style: true` 会加载 less 文件</text>
+        <text>getFieldsError, getFieldError, isFieldTouched</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNZW51XD4=</text>
@@ -761,31 +760,31 @@
         <text encoding="base64">aW1wb3J0ICdhbnRkL2xpYi9idXR0b24vc3R5bGUvY3NzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICdhbnRkL2Rpc3QvYW50ZC5jc3MnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlPXt0aGlzLnByb3BzLm5hbWV9CiAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9e3RoaXMucHJvcHMudGl0bGV9CiAgICAgICAgICAgICAgcmVmPXsoaW5wdXQpID0+IHRoaXMubmFtZUlucHV0ID0gaW5wdXR9CiAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICdhbnRkL2xpYi9mb3JtL3N0eWxlL2Nzcyc7CmltcG9ydCAnYW50ZC9saWIvaW5wdXQvc3R5bGUvY3NzJzsKaW1wb3J0ICdhbnRkL2xpYi9idXR0b24vc3R5bGUvY3NzJzsKaW1wb3J0ICdhbnRkL2xpYi9jYXJkL3N0eWxlL2Nzcyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdhbnRkL2Rpc3QvYW50ZC5jc3MnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdhbnRkL2xpYi9mb3JtL3N0eWxlL2Nzcyc7CmltcG9ydCAnYW50ZC9saWIvaW5wdXQvc3R5bGUvY3NzJzsKaW1wb3J0ICdhbnRkL2xpYi9idXR0b24vc3R5bGUvY3NzJzsKaW1wb3J0ICdhbnRkL2xpYi9jYXJkL3N0eWxlL2Nzcyc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZm9ybUl0ZW1MYXlvdXRXaXRoT3V0TGFiZWwgPSB7CiAgd3JhcHBlckNvbDogewogICAgeHM6IHsgc3BhbjogMjQsIG9mZnNldDogMCB9LAogICAgc206IHsgc3BhbjogMjAsIG9mZnNldDogNCB9LAogIH0sCn07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPElucHV0IHBsYWNlaG9sZGVyPSJVc2VybmFtZSIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Y29uc3QgZm9ybUl0ZW1MYXlvdXRXaXRoT3V0TGFiZWwgPSB7CiAgd3JhcHBlckNvbDogewogICAgeHM6IHsgc3BhbjogMjQsIG9mZnNldDogMCB9LAogICAgc206IHsgc3BhbjogMjAsIG9mZnNldDogNCB9LAogIH0sCn07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8Q2FyZCBzdHlsZT17eyB3aWR0aDogMjU2IH19PgogICAgICAgICAgICAgICAgMTIzCiAgICAgICAgICAgICAgPC9DYXJkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPElucHV0IHBsYWNlaG9sZGVyPSJVc2VybmFtZSIgLz4K</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
