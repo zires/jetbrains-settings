@@ -40,7 +40,11 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/selectors/contentSelectors.js" timestamp="1517558115334" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/selectors/contentSelectors.js" timestamp="1517560593909">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/initialState.js" timestamp="1516640948754">
         <mark key="[" line="77" column="4" />
         <mark key="]" line="77" column="9" />
@@ -748,7 +752,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZS5maW5kSW5kZXgoeCA9PiB4LmdldCgnaWQnKSA9PT0gYWN0aW9uLnNoZWV0SUQpLAogICAgICAgIG1hcHBlciA9PiBtYXBwZXIudXBkYXRlSW4oWydjb2x1bW5zJ10sIGxpc3QgPT4gbGlzdC5zZXQoYWN0aW9uLmluZGV4LCBhY3Rpb24ubmFtZSkpCiAgICAgICk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNoYW5nZUNvbHVtbk5hbWVTZWxlY3RvciA9IGNyZWF0ZVNlbGVjdG9yKAogICgpID0+Cik7Cg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -763,31 +767,31 @@
         <text encoding="base64">aW1wb3J0ICdhbnRkL2xpYi9idXR0b24vc3R5bGUvY3NzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZS5maW5kSW5kZXgoeCA9PiB4LmdldCgnaWQnKSA9PT0gYWN0aW9uLnNoZWV0SUQpLAogICAgICAgIG1hcHBlciA9PiBtYXBwZXIudXBkYXRlSW4oWydjb2x1bW5zJ10sIGxpc3QgPT4gbGlzdC5zZXQoYWN0aW9uLmluZGV4LCBhY3Rpb24ubmFtZSkpCiAgICAgICk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNoYW5nZUNvbHVtbk5hbWVTZWxlY3RvciA9IGNyZWF0ZVNlbGVjdG9yKAogICgpID0+Cik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICdhbnRkL2xpYi90YWJzL3N0eWxlL2Nzcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZS5maW5kSW5kZXgoeCA9PiB4LmdldCgnaWQnKSA9PT0gYWN0aW9uLnNoZWV0SUQpLAogICAgICAgIG1hcHBlciA9PiBtYXBwZXIudXBkYXRlSW4oWydjb2x1bW5zJ10sIGxpc3QgPT4gbGlzdC5zZXQoYWN0aW9uLmluZGV4LCBhY3Rpb24ubmFtZSkpCiAgICAgICk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">aW1wb3J0ICdhbnRkL2xpYi90YWJzL3N0eWxlL2Nzcyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZj17KGlucHV0KSA9PiB0aGlzLm5hbWVJbnB1dCA9IGlucHV0fQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZj17KGlucHV0KSA9PiB0aGlzLm5hbWVJbnB1dCA9IGlucHV0fQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlPXt0aGlzLnByb3BzLm5hbWV9CiAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9e3RoaXMucHJvcHMudGl0bGV9CiAgICAgICAgICAgICAgcmVmPXsoaW5wdXQpID0+IHRoaXMubmFtZUlucHV0ID0gaW5wdXR9CiAgICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlPXt0aGlzLnByb3BzLm5hbWV9CiAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9e3RoaXMucHJvcHMudGl0bGV9CiAgICAgICAgICAgICAgcmVmPXsoaW5wdXQpID0+IHRoaXMubmFtZUlucHV0ID0gaW5wdXR9CiAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICdhbnRkL2Rpc3QvYW50ZC5jc3MnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
