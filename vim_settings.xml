@@ -417,12 +417,12 @@
         <mark key="^" line="24" column="106" />
         <mark key="." line="24" column="106" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/components/panels/RenamePanel.js" timestamp="1517499469010">
-        <mark key="'" line="28" column="26" />
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="47" />
-        <mark key="^" line="16" column="47" />
-        <mark key="." line="16" column="47" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/panels/RenamePanel.js" timestamp="1517539275078">
+        <mark key="'" line="38" column="26" />
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="25" column="40" />
+        <mark key="^" line="25" column="38" />
+        <mark key="." line="25" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/sms_auth_command.rb" timestamp="1515151103660">
         <mark key="[" line="12" column="17" />
@@ -735,13 +735,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{...formItemLayoutWithOutLabel}</text>
+        <text>this.props.changeColumnName(this.input.value, this.props.index, this.props.sheetID);</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>{...formItemLayoutWithOutLabel}</text>
+        <text>this.props.changeColumnName(this.input.value, this.props.index, this.props.sheetID);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNZW51XD4=</text>
