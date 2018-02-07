@@ -51,11 +51,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/administrator/questions_controller.rb" timestamp="1517973030484">
-        <mark key="[" line="71" column="8" />
-        <mark key="]" line="71" column="8" />
-        <mark key="." line="71" column="8" />
-        <mark key="^" line="71" column="8" />
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/administrator/questions_controller.rb" timestamp="1517986837641">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="17" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/online.rb" timestamp="1512973353540">
         <mark key="[" line="10" column="18" />
@@ -893,7 +892,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -908,31 +907,31 @@
         <text encoding="base64">ICAgIGpzb25bOmZvbGxvd190eXBlXSA9IGZvbGxvd190eXBlKG9wdGlvbnNbOmN1cnJlbnRfdXNlcl0pIGlmIG9wdGlvbnNbOmN1cnJlbnRfdXNlcl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYWFhCg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgYWFhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE5va29naXJpOjpIVE1MKGNvbnRlbnQpLmNzcygnaW1nJykubWFwIHsgfG5vZGV8IG5vZGVbOnNyY10ubWF0Y2g/KC9eZGF0YTovaSkgPyBuaWwgOiBub2RlWzpzcmNdIH0uY29tcGFjdAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQF9hY3Rpb25fcmVjb3JkCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
