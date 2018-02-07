@@ -786,10 +786,10 @@
         <mark key="^" line="16" column="123" />
         <mark key="." line="16" column="123" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/modify_images_command.rb" timestamp="1517990060949">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/sesame/app/commands/modify_images_command.rb" timestamp="1517994216764">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -896,7 +896,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBhdHRyaWJ1dGUgOm1vZCwgcmVxdWlyZWQ6IHRydWUK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -911,16 +911,16 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFjdGlvbl9yZWNvcmQgPSBpZHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBhdHRyaWJ1dGUgOm1vZCwgcmVxdWlyZWQ6IHRydWUK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBAX2FjdGlvbl9yZWNvcmQgPSBpZHMK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBAX2FjdGlvbl9yZWNvcmQgPSBpZHMK</text>
@@ -929,13 +929,13 @@
         <text encoding="base64">ICAgICAgICBAX2FjdGlvbl9yZWNvcmQgPSBpZHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi5hY3Rpb25fcmVjb3JkID0gaWRzCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBAX2FjdGlvbl9yZWNvcmQgPSBpZHMK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgc2VsZi5hY3Rpb25fcmVjb3JkID0gaWRzCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgICBAX2FjdGlvbl9yZWNvcmQgPSBpZHMK</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
