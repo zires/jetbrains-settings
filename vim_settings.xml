@@ -55,11 +55,6 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Welcome.jsx" timestamp="1517972322162">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/administrator/comments_controller.rb" timestamp="1517989443546">
         <mark key="[" line="69" column="14" />
         <mark key="]" line="69" column="22" />
@@ -531,6 +526,12 @@
         <mark key="^" line="16" column="29" />
         <mark key="." line="16" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/.rubocop.yml" timestamp="1518083077376">
+        <mark key="[" line="15" column="46" />
+        <mark key="]" line="18" column="15" />
+        <mark key="^" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1516779953109">
         <mark key="[" line="24" column="106" />
         <mark key="]" line="24" column="106" />
@@ -585,6 +586,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/image_modifier.js" timestamp="1518082852096" />
       <file name="$USER_HOME$/Documents/sesame/config/initializers/redis.rb" timestamp="1515576186352">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="2" column="29" />
@@ -775,6 +777,7 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/templates.rb" timestamp="1518082676863" />
       <file name="$USER_HOME$/Documents/sesame/app/jobs/replace_answer_images_job.rb" timestamp="1514198245327">
         <mark key="[" line="15" column="25" />
         <mark key="]" line="15" column="48" />
@@ -793,14 +796,14 @@
         <mark key="^" line="16" column="123" />
         <mark key="." line="16" column="123" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/modify_images_command.rb" timestamp="1517994216764">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/sesame/app/commands/modify_images_command.rb" timestamp="1518083792325">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="4" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" />
       <jump line="194" column="19" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" />
       <jump line="110" column="71" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" />
       <jump line="109" column="73" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" />
@@ -900,16 +903,17 @@
       <jump line="56" column="0" filename="$USER_HOME$/Documents/sesame/app/controllers/administrator/answers_controller.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/sesame/app/controllers/administrator/incomes_controller.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activejob-5.1.1/lib/active_job/core.rb" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/sesame/app/commands/modify_images_command.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>== URI(Settings.qiniu_asset_host).host</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>== URI(Settings.qiniu_asset_host).host</text>
+        <text encoding="base64">eyBzbV9pbWFnZTogJzE3MngxMjAnLCBsZ19pbWFnZTogJzY0MHgzNjAnLCBtdWx0aV9pbWFnZXM6ICcnIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2ZvbGxvd2luZ3NcPg==</text>
@@ -918,31 +922,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFjdGlvbl9yZWNvcmQgPSBpZHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhdHRyaWJ1dGUgOm1vZCwgcmVxdWlyZWQ6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIAogICAgCiAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBhdHRyaWJ1dGUgOm1vZCwgcmVxdWlyZWQ6IHRydWUsIGRlZmF1bHQ6IDp3aWZpa2V5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGVsc2UgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBAX2FjdGlvbl9yZWNvcmQgPSBpZHMK</text>
+        <text encoding="base64">ICAgICAgcGFyc2VkX2ltYWdlcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAX2FjdGlvbl9yZWNvcmQgPSBpZHMK</text>
+        <text encoding="base64">ICAgICAgICAnJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAX2FjdGlvbl9yZWNvcmQgPSBpZHMK</text>
+        <text encoding="base64">ICAgICAgICAnJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi5hY3Rpb25fcmVjb3JkID0gaWRzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
