@@ -603,7 +603,7 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/_show.json.jbuilder" timestamp="1514445611313">
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/_show.json.jbuilder" timestamp="1518073141296">
         <mark key="[" line="1" column="22" />
         <mark key="]" line="1" column="28" />
         <mark key="^" line="1" column="28" />
@@ -728,6 +728,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="65" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/show.json.jbuilder" timestamp="1518073181447" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Waitlist/components/Waitlist.jsx" timestamp="1514190939486">
         <mark key="[" line="111" column="46" />
         <mark key="]" line="111" column="43" />
@@ -753,7 +754,7 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517989426453">
+      <file name="/Dummy.txt" timestamp="1518073142572">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/moon_index.json.jb" timestamp="1516678386619">
