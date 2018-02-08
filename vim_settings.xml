@@ -240,6 +240,7 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="9" column="79" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1518061725663" />
       <file name="$USER_HOME$/Documents/sesame/app/views/questions/show.html.slim" timestamp="1516847809813">
         <mark key="[" line="0" column="111" />
         <mark key="]" line="0" column="136" />
@@ -637,6 +638,12 @@
         <mark key="^" line="19" column="93" />
         <mark key="." line="19" column="93" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/commands/upload_image_command.rb" timestamp="1518061353076">
+        <mark key="[" line="29" column="18" />
+        <mark key="]" line="29" column="49" />
+        <mark key="." line="29" column="49" />
+        <mark key="^" line="29" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/report.rb" timestamp="1512985079867">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="5" />
@@ -892,14 +899,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activejob-5.1.1/lib/active_job/core.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+      <register name="&quot;" type="4">
+        <text>== URI(Settings.qiniu_asset_host).host</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>== URI(Settings.qiniu_asset_host).host</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2ZvbGxvd2luZ3NcPg==</text>
