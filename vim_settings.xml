@@ -804,12 +804,12 @@
         <mark key="^" line="16" column="123" />
         <mark key="." line="16" column="123" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/modify_images_command.rb" timestamp="1518167116187">
+      <file name="$USER_HOME$/Documents/sesame/app/commands/modify_images_command.rb" timestamp="1518167373683">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="3" />
-        <mark key="." line="23" column="3" />
-        <mark key="^" line="23" column="3" />
+        <mark key="]" line="23" column="27" />
+        <mark key="." line="23" column="27" />
+        <mark key="^" line="23" column="27" />
       </file>
     </filemarks>
     <jumps>
