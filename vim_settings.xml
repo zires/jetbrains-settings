@@ -21,7 +21,6 @@
         <mark key="^" line="8" column="71" />
         <mark key="." line="8" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/create.rb" timestamp="1518071404612" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/answers_controller.rb" timestamp="1514187981388">
         <mark key="[" line="6" column="93" />
         <mark key="]" line="6" column="93" />
@@ -40,13 +39,13 @@
         <mark key="^" line="11" column="75" />
         <mark key="." line="11" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/client/welcome/index.json.jb" timestamp="1518144299929" />
       <file name="$USER_HOME$/Documents/sesame/app/jobs/invitations_to_approved_job.rb" timestamp="1515999595262">
         <mark key="[" line="4" column="56" />
         <mark key="]" line="4" column="56" />
         <mark key="." line="4" column="56" />
         <mark key="^" line="4" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/workplace/hera/src/initialState.js" timestamp="1518238117733" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/online.rb" timestamp="1512973353540">
         <mark key="[" line="10" column="18" />
         <mark key="]" line="10" column="27" />
@@ -180,6 +179,13 @@
         <mark key="^" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/workplace/hera/src/updaters/dataUpdater.js" timestamp="1518238235295">
+        <mark key="'" line="15" column="25" />
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="70" />
+        <mark key="." line="10" column="70" />
+        <mark key="^" line="10" column="70" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/administrator/user_incomes/index.html.slim" timestamp="1516851043958">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="35" />
@@ -206,6 +212,12 @@
         <mark key="]" line="4" column="25" />
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/workplace/hera/src/reducers/dataReducer.js" timestamp="1518238375667">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="34" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/.env" timestamp="1517295276068">
         <mark key="[" line="8" column="21" />
@@ -237,7 +249,6 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="9" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1518061725663" />
       <file name="$USER_HOME$/Documents/sesame/app/views/questions/show.html.slim" timestamp="1516847809813">
         <mark key="[" line="0" column="111" />
         <mark key="]" line="0" column="136" />
@@ -537,7 +548,6 @@
         <mark key="^" line="0" column="70" />
         <mark key="." line="0" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/users/_show.json.jbuilder" timestamp="1518143486799" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1516779953109">
         <mark key="[" line="24" column="106" />
         <mark key="]" line="24" column="106" />
@@ -550,6 +560,7 @@
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/workplace/hera/src/actions/mainActions.js" timestamp="1518237265762" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/sms_auth_command.rb" timestamp="1516689824300">
         <mark key="[" line="24" column="66" />
         <mark key="]" line="24" column="65" />
@@ -568,7 +579,6 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/db/schema.rb" timestamp="1518161409956" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/web/CouldAnswer/containers/CouldAnswerContainer.jsx" timestamp="1513596018799">
         <mark key="[" line="5" column="82" />
         <mark key="]" line="5" column="131" />
@@ -593,7 +603,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/image_modifier.js" timestamp="1518082852096" />
       <file name="$USER_HOME$/Documents/sesame/config/initializers/redis.rb" timestamp="1515576186352">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="2" column="29" />
@@ -606,6 +615,7 @@
         <mark key="^" line="9" column="64" />
         <mark key="." line="9" column="64" />
       </file>
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/ColMenu.js" timestamp="1518236769329" />
       <file name="$USER_HOME$/Documents/sesame/app/jobs/replace_user_avatar_job.rb" timestamp="1516870242977">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="4" column="14" />
@@ -618,7 +628,6 @@
         <mark key="^" line="0" column="71" />
         <mark key="." line="0" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/jobs/audit_question_job.rb" timestamp="1518070843673" />
       <file name="$USER_HOME$/Documents/sesame/config/routes.rb" timestamp="1513763179748">
         <mark key="[" line="28" column="21" />
         <mark key="]" line="30" column="17" />
@@ -737,7 +746,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/show.json.jbuilder" timestamp="1518073181447" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Waitlist/components/Waitlist.jsx" timestamp="1514190939486">
         <mark key="[" line="111" column="46" />
         <mark key="]" line="111" column="43" />
@@ -750,7 +758,6 @@
         <mark key="^" line="26" column="75" />
         <mark key="." line="26" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1518058776777" />
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/acts_as_voter.rb" timestamp="1514428658377">
         <mark key="[" line="36" column="4" />
         <mark key="]" line="36" column="21" />
@@ -785,7 +792,6 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/templates.rb" timestamp="1518082676863" />
       <file name="$USER_HOME$/Documents/sesame/app/jobs/replace_answer_images_job.rb" timestamp="1514198245327">
         <mark key="[" line="15" column="25" />
         <mark key="]" line="15" column="48" />
@@ -813,7 +819,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="6" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" />
       <jump line="148" column="6" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" />
       <jump line="143" column="10" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" />
       <jump line="168" column="10" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" />
@@ -913,16 +918,17 @@
       <jump line="22" column="10" filename="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue.rb" />
       <jump line="52" column="36" filename="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue.rb" />
       <jump line="13" column="39" filename="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue.rb" />
+      <jump line="6" column="25" filename="$USER_HOME$/Documents/workplace/hera/src/updaters/dataUpdater.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIHBhcnNlZF9pbWFnZXMuc2l6ZSA+PSAzCgogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdXBkYXRlciA9IG5ldyBEYXRhVXBkYXRlcihzdGF0ZSk7Cg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>mod.to_sym</text>
+        <text>name, index</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWFnZXNcPg==</text>
@@ -931,31 +937,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBlcmZvcm1fZm9yX3dpZmlrZXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIHBhcnNlZF9pbWFnZXMuc2l6ZSA+PSAzCgogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdXBkYXRlciA9IG5ldyBEYXRhVXBkYXRlcihzdGF0ZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIHBhcnNlZF9pbWFnZXMuc2l6ZSA+PSAzCiAgICAgIEBzaXplID0gTUVBU1VSRVttb2QudG9fc3ltXVsyXQogICAgZW5kCg==</text>
+        <text encoding="base64">ICBjb25zdCB1cGRhdGVyID0gbmV3IERhdGFVcGRhdGVyKHN0YXRlKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBzaXplID0gbW9kLnRvX3MgPT0gJycK</text>
+        <text encoding="base64">ICAgIGxldCB0YWJsZSA9IHRoaXMuc3RhdGVbc2hlZXRJRF07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIAogICAgCiAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAjIOebruWJjeS4uuatogo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgYXJyID0gTUVBU1VSRVttb2RdCiAgICAjIHNpemUgPSBjYXNlIEFuc3dlci5mZXRjaF90ZW1wbGF0ZShwYXJzZWRfaW1hZ2VzLnNpemUpCiAgICAjICAgICAgICAgIHdoZW4gOnNtX2ltYWdlIHRoZW4KICAgICMgICAgICAgICAgICBhcnJbMF0KICAgICMgICAgICAgICAgd2hlbiA6bGdfaW1hZ2UgdGhlbgogICAgIyAgICAgICAgICAgIGFyclsxXQogICAgIyAgICAgICAgICB3aGVuIDptdWx0aV9pbWFnZXMgdGhlbgogICAgIyAgICAgICAgICAgIGFyclsyXQogICAgIyAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
@@ -968,13 +974,10 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b3RhbF9jb3VudFw+</entry>
-        <entry encoding="base64">XDxjcmVhdGVfaW52aXRlXD4=</entry>
-        <entry encoding="base64">XDxzY29wZV92YWx1ZVw+</entry>
         <entry encoding="base64">XDxzY29wZVw+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUlkXD4=</entry>
         <entry encoding="base64">XDxzZXRDb29raWVcPg==</entry>
