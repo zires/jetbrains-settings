@@ -600,10 +600,11 @@
         <mark key="^" line="20" column="21" />
         <mark key="." line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/components/panels/RenamePanel.js" timestamp="1518341650627">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="27" />
-        <mark key="." line="14" column="27" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/panels/RenamePanel.js" timestamp="1518342533690">
+        <mark key="'" line="0" column="39" />
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="40" />
+        <mark key="." line="0" column="33" />
         <mark key="^" line="14" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/sms_auth_command.rb" timestamp="1516689824300">
@@ -623,6 +624,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/cells/EditableCell.js" timestamp="1518342552926">
+        <mark key="'" line="0" column="39" />
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/web/CouldAnswer/containers/CouldAnswerContainer.jsx" timestamp="1513596018799">
         <mark key="[" line="5" column="82" />
@@ -899,10 +907,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="10" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" />
-      <jump line="142" column="10" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" />
-      <jump line="166" column="10" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" />
-      <jump line="71" column="31" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" />
       <jump line="98" column="40" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" />
       <jump line="38" column="17" filename="$USER_HOME$/Documents/sesame/app/models/question.rb" />
       <jump line="97" column="6" filename="$USER_HOME$/Documents/sesame/app/models/question.rb" />
@@ -999,16 +1003,20 @@
       <jump line="6" column="25" filename="$USER_HOME$/Documents/workplace/hera/src/updaters/dataUpdater.js" />
       <jump line="23" column="36" filename="$USER_HOME$/Documents/workplace/hera/src/components/SuperTable.js" />
       <jump line="17" column="2" filename="$USER_HOME$/Documents/workplace/hera/src/components/SuperTable.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/workplace/hera/src/components/cells/EditableCell.js" />
+      <jump line="53" column="27" filename="$USER_HOME$/Documents/workplace/hera/src/components/cells/EditableCell.js" />
+      <jump line="0" column="39" filename="$USER_HOME$/Documents/workplace/hera/src/components/cells/EditableCell.js" />
+      <jump line="0" column="39" filename="$USER_HOME$/Documents/workplace/hera/src/components/panels/RenamePanel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QnV0dG9uLCBDYXJkIA==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PFJlbmFtZVBhbmVsQ29udGFpbmVyIHRpdGxlPXtjb2x1bW4uZ2V0KCd0aXRsZScpfSBpbmRleD17aW5kZXh9IC8+</text>
+        <text encoding="base64">QnV0dG9uLCBDYXJkIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbkNvbE1lbnVEaWRNb3VudFw+</text>
@@ -1017,31 +1025,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL3NoZWV0cy86aWQiIGNvbXBvbmVudD17U2hlZXRDb250YWluZXJ9Lz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvbkNvbE1lbnVEaWRNb3VudCA9IChpbmRleCkgPT4gdGhpcy5zZXRTdGF0ZSh7ZHJvcGRvd25WaXNpYmxlSW5kZXg6IGluZGV4fSk7CiAgCiAgdGVzdCA9ICgpID0+IGFsZXJ0KDEpCg==</text>
+        <text encoding="base64">aW1wb3J0IHtGb3JtfSBmcm9tICJhbnRkL2xpYi9pbmRleCI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvbkZpbHRlckRyb3Bkb3duVmlzaWJsZUNoYW5nZTogKHZpc2libGUpID0+IHRoaXMuc2V0U3RhdGUoe2ZpbHRlckRyb3Bkb3duVmlzaWJsZTogdmlzaWJsZX0pCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZpc2libGUK</text>
+        <text encoding="base64">ICBvbkNvbE1lbnVEaWRNb3VudCA9IChpbmRleCkgPT4gdGhpcy5zZXRTdGF0ZSh7ZHJvcGRvd25WaXNpYmxlSW5kZXg6IGluZGV4fSk7CiAgCiAgdGVzdCA9ICgpID0+IGFsZXJ0KDEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbHRlckRyb3Bkb3duVmlzaWJsZTogZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBvbkZpbHRlckRyb3Bkb3duVmlzaWJsZUNoYW5nZTogKHZpc2libGUpID0+IHRoaXMuc2V0U3RhdGUoe2ZpbHRlckRyb3Bkb3duVmlzaWJsZTogdmlzaWJsZX0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb3BzLmRhdGEuZ2V0KHRoaXMucHJvcHMubWF0Y2gucGFyYW1zLmlkKTsK</text>
+        <text encoding="base64">ICAgIHZpc2libGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIGZpbHRlckRyb3Bkb3duVmlzaWJsZTogZmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmKCkgewogICAgfQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb3BzLmRhdGEuZ2V0KHRoaXMucHJvcHMubWF0Y2gucGFyYW1zLmlkKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0KICAgIHJldHVybiB0aGlzLnByb3BzLmRhdGEuZ2V0KHRoaXMucHJvcHMubWF0Y2gucGFyYW1zLmlkKTsK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
