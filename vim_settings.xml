@@ -179,6 +179,13 @@
         <mark key="^" line="18" column="42" />
         <mark key="." line="18" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/answers_controller.rb" timestamp="1518346000300">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="25" column="10" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/wifikey_inject.js" timestamp="1516006504729">
         <mark key="[" line="16" column="25" />
         <mark key="]" line="16" column="54" />
@@ -326,6 +333,7 @@
         <mark key="." line="4" column="54" />
         <mark key="^" line="4" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/services/sms_service.rb" timestamp="1518345550158" />
       <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activejob-5.1.1/lib/active_job/core.rb" timestamp="1518058843943">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="69" column="0" />
@@ -854,9 +862,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="17" filename="$USER_HOME$/Documents/sesame/app/models/question.rb" />
-      <jump line="97" column="6" filename="$USER_HOME$/Documents/sesame/app/models/question.rb" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/sesame/app/models/concerns/set_uuid.rb" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/sesame/app/models/concerns/set_uuid.rb" />
       <jump line="17" column="8" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
       <jump line="40" column="4" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
@@ -954,10 +959,13 @@
       <jump line="13" column="0" filename="$USER_HOME$/Documents/sesame/app/models/comment.rb" />
       <jump line="53" column="0" filename="$USER_HOME$/Documents/sesame/app/models/comment.rb" />
       <jump line="59" column="14" filename="$USER_HOME$/Documents/sesame/app/controllers/api/comments_controller.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/sesame/app/controllers/answers_controller.rb" />
+      <jump line="9" column="1" filename="$USER_HOME$/Documents/sesame/app/controllers/answers_controller.rb" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/sesame/app/controllers/answers_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>answer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -972,22 +980,22 @@
         <text encoding="base64">ICAgICAgZGVmIGNhbGxiYWNrCiAgICAgICAgIiN7U2V0dGluZ3MubWFpbl9ob3N0fS9hcGkvYW5zd2Vycy8je2VudGl0eS5pZH0vYXVkaXQuanNvbiIKICAgICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVuZAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZGVuZAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGZpbmFsX2NvbnRlbnQKICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgZGVmIGZpbmFsX2NvbnRlbnQKICAgICAgZW5kCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
