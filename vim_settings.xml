@@ -45,11 +45,17 @@
         <mark key="." line="4" column="56" />
         <mark key="^" line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/initialState.js" timestamp="1518274389762">
-        <mark key="[" line="75" column="14" />
-        <mark key="]" line="75" column="13" />
-        <mark key="^" line="75" column="13" />
-        <mark key="." line="75" column="13" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/initialState.js" timestamp="1518321939766">
+        <mark key="[" line="75" column="13" />
+        <mark key="]" line="75" column="14" />
+        <mark key="^" line="75" column="14" />
+        <mark key="." line="75" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/workplace/hera/src/reducers/currentSheetReducer.js" timestamp="1518321959836">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/online.rb" timestamp="1512973353540">
         <mark key="[" line="10" column="18" />
@@ -589,10 +595,11 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/components/panels/RenamePanel.js" timestamp="1518317547756">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/panels/RenamePanel.js" timestamp="1518321579244">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="24" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/sms_auth_command.rb" timestamp="1516689824300">
         <mark key="[" line="24" column="66" />
@@ -665,6 +672,12 @@
         <mark key="]" line="0" column="71" />
         <mark key="^" line="0" column="71" />
         <mark key="." line="0" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/workplace/hera/src/rootReducer.js" timestamp="1518322023713">
+        <mark key="[" line="2" column="45" />
+        <mark key="]" line="2" column="64" />
+        <mark key="." line="2" column="64" />
+        <mark key="^" line="2" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/routes.rb" timestamp="1513763179748">
         <mark key="[" line="28" column="21" />
@@ -791,11 +804,11 @@
         <mark key="^" line="111" column="43" />
         <mark key="." line="111" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/constants.js" timestamp="1518318852190">
-        <mark key="[" line="0" column="54" />
-        <mark key="]" line="0" column="54" />
-        <mark key="^" line="0" column="54" />
-        <mark key="." line="0" column="54" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/constants.js" timestamp="1518321915837">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="31" />
+        <mark key="^" line="4" column="31" />
+        <mark key="." line="4" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/concerns/event_tracker.rb" timestamp="1518058926049">
         <mark key="[" line="26" column="71" />
@@ -966,14 +979,14 @@
       <jump line="6" column="25" filename="$USER_HOME$/Documents/workplace/hera/src/updaters/dataUpdater.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkYXRhOwo=</text>
+      <register name="&quot;" type="4">
+        <text>currentSheetReducer</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>currentSheetReducer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWFnZXNcPg==</text>
@@ -982,28 +995,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBlcmZvcm1fZm9yX3dpZmlrZXkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkYXRhOwo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IGNvbnRlbnRSZWR1Y2VyIGZyb20gJy4vcmVkdWNlcnMvY29udGVudFJlZHVjZXInOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBkYXRhOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbmV3U3RhdGUgPSBuZXcgRGF0YVVwZGF0ZXIoc3RhdGUpLmNoYW5nZUNvbHVtblRpdGxlKGFjdGlvbi50aXRsZSwgYWN0aW9uLnBvc2l0aW9uKTsK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbmV3U3RhdGUgPSBuZXcgRGF0YVVwZGF0ZXIoc3RhdGUpLmNoYW5nZUNvbHVtblRpdGxlKGFjdGlvbi50aXRsZSwgYWN0aW9uLnBvc2l0aW9uKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
