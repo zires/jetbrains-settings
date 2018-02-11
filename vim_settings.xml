@@ -45,7 +45,8 @@
         <mark key="." line="4" column="56" />
         <mark key="^" line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/initialState.js" timestamp="1518329911141">
+      <file name="$USER_HOME$/Documents/workplace/hera/src/selectors/contentSelectors.js" timestamp="1518336017841" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/initialState.js" timestamp="1518336003688">
         <mark key="[" line="75" column="13" />
         <mark key="]" line="75" column="14" />
         <mark key="^" line="75" column="14" />
@@ -129,7 +130,7 @@
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/containers/panels/RenamePanelContainer.js" timestamp="1518316529792">
+      <file name="$USER_HOME$/Documents/workplace/hera/src/containers/panels/RenamePanelContainer.js" timestamp="1518335996992">
         <mark key="[" line="8" column="57" />
         <mark key="]" line="8" column="57" />
         <mark key="^" line="8" column="57" />
@@ -165,10 +166,11 @@
         <mark key="^" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Sheet.js" timestamp="1518333564948">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Sheet.js" timestamp="1518335877750">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="7" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/layouts/administrator/application.html.slim" timestamp="1515124835444">
         <mark key="[" line="18" column="29" />
@@ -214,9 +216,6 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen.rb" timestamp="1518161374711">
-        <mark key="'" line="13" column="10" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/order_by_ids.rb" timestamp="1515564930016">
         <mark key="[" line="13" column="29" />
         <mark key="]" line="14" column="31" />
@@ -235,6 +234,7 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/workplace/hera/src/containers/SuperTableContainer.js" timestamp="1518336191687" />
       <file name="$USER_HOME$/Documents/workplace/hera/src/reducers/dataReducer.js" timestamp="1518320067915">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -567,11 +567,11 @@
         <mark key="^" line="16" column="29" />
         <mark key="." line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/components/SuperTable.js" timestamp="1518316260487">
-        <mark key="[" line="22" column="38" />
-        <mark key="]" line="22" column="50" />
-        <mark key="^" line="22" column="50" />
-        <mark key="." line="22" column="50" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/SuperTable.js" timestamp="1518336673250">
+        <mark key="[" line="28" column="52" />
+        <mark key="]" line="28" column="96" />
+        <mark key="^" line="28" column="96" />
+        <mark key="." line="28" column="96" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/.rubocop.yml" timestamp="1518083077376">
         <mark key="[" line="15" column="46" />
@@ -690,11 +690,11 @@
         <mark key="^" line="30" column="17" />
         <mark key="." line="30" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Workbook.js" timestamp="1518334556965">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="4" column="9" />
-        <mark key="^" line="4" column="9" />
-        <mark key="." line="4" column="9" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/Workbook.js" timestamp="1518335481386">
+        <mark key="[" line="41" column="21" />
+        <mark key="]" line="41" column="26" />
+        <mark key="^" line="41" column="26" />
+        <mark key="." line="41" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/web/CouldAnswer/reducers/couldAnswerReducer.jsx" timestamp="1513596010659">
         <mark key="[" line="29" column="48" />
@@ -750,11 +750,11 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/containers/SheetContainer.js" timestamp="1518333587772">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="8" column="37" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/containers/SheetContainer.js" timestamp="1518335636348">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="40" />
+        <mark key="." line="4" column="40" />
+        <mark key="^" line="4" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/client/welcome/_question.json.jb" timestamp="1514168507229">
         <mark key="[" line="14" column="30" />
@@ -844,7 +844,7 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518333568177">
+      <file name="/Dummy.txt" timestamp="1518336006760">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/moon_index.json.jb" timestamp="1516678386619">
@@ -1001,47 +1001,47 @@
       <jump line="6" column="25" filename="$USER_HOME$/Documents/workplace/hera/src/updaters/dataUpdater.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>console.log(visible)</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>actions</text>
+        <text>console.log(visible)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWFnZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBlcmZvcm1fZm9yX3dpZmlrZXkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL3NoZWV0cy86aWQiIGNvbXBvbmVudD17U2hlZXRDb250YWluZXJ9Lz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLnByb3BzLmRhdGEuZ2V0KHRoaXMucHJvcHMubWF0Y2gucGFyYW1zLmlkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2V0Q3VycmVudFNoZWV0IH0gZnJvbSAnLi4vYWN0aW9ucy9tYWluQWN0aW9ucyc7Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgYWN0aW9ucyA9IHsKICBzZXRDdXJyZW50U2hlZXQKfTsK</text>
+        <text encoding="base64">ICAgIGlmKCkgewogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0KICAgIHJldHVybiB0aGlzLnByb3BzLmRhdGEuZ2V0KHRoaXMucHJvcHMubWF0Y2gucGFyYW1zLmlkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIHRoaXMucHJvcHMuc2V0Q3VycmVudFNoZWV0KHRoaXMucHJvcHMubWF0Y2gucGFyYW1zLmlkKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBjb21wb25lbnREaWRNb3VudCgpIHsKICAvLyAgIGhpc3RvcnkucmVwbGFjZShgL3NoZWV0cy8ke3RoaXMucHJvcHMuZGF0YS5nZXQoJ2N1cnJlbnRTaGVldCcpfWApCiAgLy8gfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGNvbnRlbnRSZWR1Y2VyIGZyb20gJy4vcmVkdWNlcnMvY29udGVudFJlZHVjZXInOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
