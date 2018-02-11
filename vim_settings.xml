@@ -854,7 +854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="40" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" />
       <jump line="38" column="17" filename="$USER_HOME$/Documents/sesame/app/models/question.rb" />
       <jump line="97" column="6" filename="$USER_HOME$/Documents/sesame/app/models/question.rb" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/sesame/app/models/concerns/set_uuid.rb" />
@@ -954,6 +953,7 @@
       <jump line="56" column="6" filename="$USER_HOME$/Documents/sesame/app/models/comment.rb" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/sesame/app/models/comment.rb" />
       <jump line="53" column="0" filename="$USER_HOME$/Documents/sesame/app/models/comment.rb" />
+      <jump line="59" column="14" filename="$USER_HOME$/Documents/sesame/app/controllers/api/comments_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
