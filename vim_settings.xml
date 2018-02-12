@@ -21,7 +21,6 @@
         <mark key="^" line="8" column="71" />
         <mark key="." line="8" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/create.rb" timestamp="1518339528484" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/answers_controller.rb" timestamp="1514187981388">
         <mark key="[" line="6" column="93" />
         <mark key="]" line="6" column="93" />
@@ -180,11 +179,10 @@
         <mark key="." line="18" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/answers_controller.rb" timestamp="1518346000300">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="25" column="10" />
-        <mark key="." line="26" column="0" />
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/wifikey_inject.js" timestamp="1516006504729">
         <mark key="[" line="16" column="25" />
@@ -223,7 +221,6 @@
         <mark key="^" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/comments/reject_by_admin.rb" timestamp="1518339760659" />
       <file name="$USER_HOME$/Documents/sesame/app/models/comment.rb" timestamp="1518339621598">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="53" column="0" />
@@ -333,7 +330,6 @@
         <mark key="." line="4" column="54" />
         <mark key="^" line="4" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/services/sms_service.rb" timestamp="1518345550158" />
       <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/activejob-5.1.1/lib/active_job/core.rb" timestamp="1518058843943">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="69" column="0" />
@@ -502,7 +498,6 @@
         <mark key="." line="45" column="31" />
         <mark key="^" line="45" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/comments/approve.rb" timestamp="1518339741641" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/followings.json.jbuilder" timestamp="1512640088165">
         <mark key="[" line="5" column="57" />
         <mark key="]" line="5" column="64" />
@@ -622,7 +617,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/comments/reject.rb" timestamp="1518339734946" />
       <file name="$USER_HOME$/Documents/sesame/config/initializers/redis.rb" timestamp="1515576186352">
         <mark key="[" line="1" column="29" />
         <mark key="]" line="2" column="29" />
