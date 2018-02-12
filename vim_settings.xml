@@ -46,11 +46,11 @@
         <mark key="^" line="4" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/selectors/contentSelectors.js" timestamp="1518336017841" />
-      <file name="$USER_HOME$/Documents/workplace/hera/src/initialState.js" timestamp="1518336003688">
-        <mark key="[" line="75" column="13" />
-        <mark key="]" line="75" column="14" />
-        <mark key="^" line="75" column="14" />
-        <mark key="." line="75" column="14" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/initialState.js" timestamp="1518424123090">
+        <mark key="[" line="70" column="16" />
+        <mark key="]" line="71" column="11" />
+        <mark key="^" line="71" column="11" />
+        <mark key="." line="71" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/reducers/currentSheetReducer.js" timestamp="1518321959836">
         <mark key="[" line="3" column="17" />
