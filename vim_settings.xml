@@ -4,11 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/workplace/hera/src/selectors/contentSelectors.js" timestamp="1518336017841" />
-      <file name="$USER_HOME$/Documents/workplace/hera/src/initialState.js" timestamp="1518432619706">
-        <mark key="[" line="70" column="19" />
-        <mark key="]" line="70" column="42" />
-        <mark key="^" line="70" column="42" />
-        <mark key="." line="70" column="42" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/initialState.js" timestamp="1518494023965">
+        <mark key="[" line="58" column="20" />
+        <mark key="]" line="59" column="10" />
+        <mark key="^" line="59" column="10" />
+        <mark key="." line="59" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/containers/panels/RenamePanelContainer.js" timestamp="1518335996992">
         <mark key="[" line="8" column="57" />
@@ -16,7 +16,7 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="8" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/components/cells/SingleLineTextCell.js" timestamp="1518432595947">
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/cells/SingleLineTextCell.js" timestamp="1518493982130">
         <mark key="[" line="29" column="27" />
         <mark key="]" line="29" column="45" />
         <mark key="." line="29" column="45" />
@@ -120,6 +120,13 @@
       <file name="/Dummy.txt" timestamp="1518405240005">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/cells/AttachmentCell.js" timestamp="1518494286676">
+        <mark key="'" line="9" column="33" />
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/Main.js" timestamp="1518333410787">
         <mark key="[" line="12" column="38" />
         <mark key="]" line="12" column="46" />
@@ -133,7 +140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="31" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
       <jump line="41" column="54" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
       <jump line="67" column="9" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
       <jump line="16" column="31" filename="$USER_HOME$/Documents/sesame/app/controllers/questions_controller.rb" />
@@ -233,10 +239,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/workplace/hera/src/matrix.js" />
       <jump line="33" column="15" filename="$USER_HOME$/Documents/workplace/hera/src/matrix.js" />
       <jump line="41" column="22" filename="$USER_HOME$/Documents/workplace/hera/src/components/SuperTable.js" />
+      <jump line="8" column="33" filename="$USER_HOME$/Documents/workplace/hera/src/components/cells/AttachmentCell.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SingleLineTextCell</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFNpbmdsZUxpbmVUZXh0Q2VsbCBmcm9tICIuL1NpbmdsZUxpbmVUZXh0Q2VsbCI7Cg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -251,13 +258,13 @@
         <text encoding="base64">aW1wb3J0IFNpbmdsZUxpbmVUZXh0Q2VsbCBmcm9tICIuL2NvbXBvbmVudHMvY2VsbHMvU2luZ2xlTGluZVRleHRDZWxsIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZ2V0RGF0YVNvdXJjZSgpKTsK</text>
+        <text encoding="base64">aW1wb3J0IFNpbmdsZUxpbmVUZXh0Q2VsbCBmcm9tICIuL1NpbmdsZUxpbmVUZXh0Q2VsbCI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7CiAgICAgIGNvbnN0IG1hdHJpeCA9IG5ldyBNYXRyaXgoc3RhdGUpOwogICAgICByZXR1cm4gbWF0cml4LnNldChhY3Rpb24uY3Vyc29yLCBhY3Rpb24udmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZ2V0RGF0YVNvdXJjZSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7CiAgICAgIGNvbnN0IG1hdHJpeCA9IG5ldyBNYXRyaXgoc3RhdGUpOwogICAgICByZXR1cm4gbWF0cml4LnNldChhY3Rpb24uY3Vyc29yLCBhY3Rpb24udmFsdWUpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAK</text>
@@ -266,16 +273,16 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1cGRhdGVDZWxsVmFsdWUoY3Vyc29yLCB2YWx1ZSl7CiAgICAKICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICB1cGRhdGVDZWxsVmFsdWUoY3Vyc29yLCB2YWx1ZSl7CiAgICAKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb2x1bW5JbmRleAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByb3dJbmRleCwK</text>
+        <text encoding="base64">ICBjb2x1bW5JbmRleAo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
