@@ -101,7 +101,12 @@
         <mark key="^" line="41" column="26" />
         <mark key="." line="41" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/cellsMapper.js" timestamp="1518405239313" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/cellsMapper.js" timestamp="1518490125113">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="60" />
+        <mark key="^" line="2" column="60" />
+        <mark key="." line="2" column="60" />
+      </file>
       <file name="$USER_HOME$/Documents/workplace/hera/src/reducers/contentReducer.js" timestamp="1518432663539" />
       <file name="$USER_HOME$/Documents/sesame/config/application.rb" timestamp="1517393645806">
         <mark key="[" line="18" column="71" />
@@ -230,20 +235,20 @@
       <jump line="41" column="22" filename="$USER_HOME$/Documents/workplace/hera/src/components/SuperTable.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZ2V0RGF0YVNvdXJjZSgpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>SingleLineTextCell</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>SingleLineTextCell</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbkNvbE1lbnVEaWRNb3VudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbWF0cml4ID0gbmV3IE1hdHJpeChzdGF0ZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IFNpbmdsZUxpbmVUZXh0Q2VsbCBmcm9tICIuL2NvbXBvbmVudHMvY2VsbHMvU2luZ2xlTGluZVRleHRDZWxsIjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZ2V0RGF0YVNvdXJjZSgpKTsK</text>
