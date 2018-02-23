@@ -118,7 +118,12 @@
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1519387259466" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1519428868023">
+        <mark key="[" line="65" column="32" />
+        <mark key="]" line="65" column="32" />
+        <mark key="^" line="65" column="32" />
+        <mark key="." line="65" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/tracker.js" timestamp="1517388282284">
         <mark key="[" line="14" column="33" />
         <mark key="]" line="15" column="24" />
@@ -149,11 +154,11 @@
         <mark key="^" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/jobs/unified_log_job.rb" timestamp="1519387138869">
-        <mark key="[" line="4" column="84" />
-        <mark key="]" line="5" column="19" />
-        <mark key="^" line="5" column="19" />
-        <mark key="." line="5" column="19" />
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/unified_log_job.rb" timestamp="1519428677996">
+        <mark key="[" line="6" column="66" />
+        <mark key="]" line="6" column="67" />
+        <mark key="^" line="6" column="67" />
+        <mark key="." line="6" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/layouts/administrator/application.html.slim" timestamp="1515124835444">
         <mark key="[" line="18" column="29" />
@@ -982,19 +987,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>phone, content, options = {}</text>
+        <text>@</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>phone, content, options = {}</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbkNsaWNrXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBzZXJ2ZXJzID0gJXcoZGVwbG95ZXJAMTIwLjEzMi42Ni43NyBkZXBsb3llckAxMjMuNTkuODkuMTQwKQo=</text>
+        <text encoding="base64">ICAgICAgVW5pZmllZExvZ0pvYi5wZXJmb3JtX2xhdGVyKEBsb2dnZXIudG9fanNvbikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFjdGlvbiA9IG9wdGlvbnNbJ21hcmtldGluZyddID8gOm1hcmtldGluZ19zbXMgOiA6c2VydmljZV9zbXMKICAgIFNtc1NlcnZpY2Uuc2VuZChhY3Rpb24sIHBob25lLCBjb250ZW50LCBvcHRpb25zWydjaGFubmVsJ10pCg==</text>
