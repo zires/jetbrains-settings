@@ -682,6 +682,12 @@
         <mark key="^" line="19" column="93" />
         <mark key="." line="19" column="93" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180223091756_add_more_indexes_to_unified_log.rb" timestamp="1519379784885">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="2" column="57" />
+        <mark key="^" line="2" column="57" />
+        <mark key="." line="2" column="57" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1518172964190">
         <mark key="'" line="49" column="16" />
         <mark key="[" line="45" column="0" />
@@ -794,6 +800,7 @@
         <mark key="^" line="26" column="75" />
         <mark key="." line="26" column="75" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/db/migrate/20171031062643_create_unified_logs.rb" timestamp="1519379771955" />
       <file name="$USER_HOME$/Documents/sesame/db/migrate/20180209093003_add_uuid_to_comments.rb" timestamp="1518172890532">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -969,14 +976,14 @@
       <jump line="98" column="28" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Waitlist/components/ListItem.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIyBjc3YgPDwgWwogICAgICAjICAgUXVlc3Rpb24uY291bnQsCiAgICAgICMgICBRdWVzdGlvbi5zZWxlY3QoOnVzZXJfaWQpLmRpc3RpbmN0LmNvdW50LAogICAgICAjICAgUXVlc3Rpb24uYXBwcm92ZWQuY291bnQsCiAgICAgICMgICBRdWVzdGlvbi5hcHByb3ZlZC5zZWxlY3QoOnVzZXJfaWQpLmRpc3RpbmN0LmNvdW50LAogICAgICAjICAgUXVlc3Rpb24ud2hlcmUoY3JlYXRlZF9hdDogcmFuZ2UpLmNvdW50LAogICAgICAjICAgUXVlc3Rpb24ud2hlcmUoY3JlYXRlZF9hdDogcmFuZ2UpLnNlbGVjdCg6dXNlcl9pZCkuZGlzdGluY3QuY291bnQsCiAgICAgICMgICBRdWVzdGlvbi53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkuYXBwcm92ZWQuY291bnQsCiAgICAgICMgICBRdWVzdGlvbi53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkuYXBwcm92ZWQuc2VsZWN0KDp1c2VyX2lkKS5kaXN0aW5jdC5jb3VudAogICAgICAjIF0K</text>
+      <register name="&quot;" type="4">
+        <text>controller</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IOaAu+acieaViOaPkOmXruS6uuaVsCDmnKzlkajmj5Dpl67mrKHmlbAg5pys5ZGo5o+Q6Zeu5Lq65pWwIOacrOWRqOacieaViOaPkOmXruasoeaVsCDmnKzlkajmnInmlYjmj5Dpl67kurrmlbA=</text>
+        <text>controller</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbkNsaWNrXD4=</text>
