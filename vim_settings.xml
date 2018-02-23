@@ -976,19 +976,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>controller</text>
+        <text>deployer@123.59.89.140</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>controller</text>
+        <text>deployer@123.59.89.140</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbkNsaWNrXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY3N2IDw8IFsn5o+Q6Zeu5pWw5o2uJ10KICAgICAgY3N2IDw8ICV3KOaAu+aPkOmXruasoeaVsCDmgLvmj5Dpl67kurrmlbAg5oC75pyJ5pWI5o+Q6Zeu5qyh5pWwIOaAu+acieaViOaPkOmXruS6uuaVsCDmnKzlkajmj5Dpl67mrKHmlbAg5pys5ZGo5o+Q6Zeu5Lq65pWwIOacrOWRqOacieaViOaPkOmXruasoeaVsCDmnKzlkajmnInmlYjmj5Dpl67kurrmlbApCiAgICAgIGNzdiA8PCBbCiAgICAgICAgUXVlc3Rpb24uY291bnQsCiAgICAgICAgUXVlc3Rpb24uc2VsZWN0KDp1c2VyX2lkKS5kaXN0aW5jdC5jb3VudCwKICAgICAgICBRdWVzdGlvbi5hcHByb3ZlZC5jb3VudCwKICAgICAgICBRdWVzdGlvbi5hcHByb3ZlZC5zZWxlY3QoOnVzZXJfaWQpLmRpc3RpbmN0LmNvdW50LAogICAgICAgIFF1ZXN0aW9uLndoZXJlKGNyZWF0ZWRfYXQ6IHJhbmdlKS5jb3VudCwKICAgICAgICBRdWVzdGlvbi53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkuc2VsZWN0KDp1c2VyX2lkKS5kaXN0aW5jdC5jb3VudCwKICAgICAgICBRdWVzdGlvbi53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkuYXBwcm92ZWQuY291bnQsCiAgICAgICAgUXVlc3Rpb24ud2hlcmUoY3JlYXRlZF9hdDogcmFuZ2UpLmFwcHJvdmVkLnNlbGVjdCg6dXNlcl9pZCkuZGlzdGluY3QuY291bnQKICAgICAgXQo=</text>
+        <text encoding="base64">IyBzZXJ2ZXJzID0gJXcoZGVwbG95ZXJAMTIwLjEzMi42Ni43NyBkZXBsb3llckAxMjMuNTkuODkuMTQwKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIyBjc3YgPDwgWwogICAgICAjICAgUXVlc3Rpb24uY291bnQsCiAgICAgICMgICBRdWVzdGlvbi5zZWxlY3QoOnVzZXJfaWQpLmRpc3RpbmN0LmNvdW50LAogICAgICAjICAgUXVlc3Rpb24uYXBwcm92ZWQuY291bnQsCiAgICAgICMgICBRdWVzdGlvbi5hcHByb3ZlZC5zZWxlY3QoOnVzZXJfaWQpLmRpc3RpbmN0LmNvdW50LAogICAgICAjICAgUXVlc3Rpb24ud2hlcmUoY3JlYXRlZF9hdDogcmFuZ2UpLmNvdW50LAogICAgICAjICAgUXVlc3Rpb24ud2hlcmUoY3JlYXRlZF9hdDogcmFuZ2UpLnNlbGVjdCg6dXNlcl9pZCkuZGlzdGluY3QuY291bnQsCiAgICAgICMgICBRdWVzdGlvbi53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkuYXBwcm92ZWQuY291bnQsCiAgICAgICMgICBRdWVzdGlvbi53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkuYXBwcm92ZWQuc2VsZWN0KDp1c2VyX2lkKS5kaXN0aW5jdC5jb3VudAogICAgICAjIF0K</text>
