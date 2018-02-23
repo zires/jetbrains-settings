@@ -118,7 +118,7 @@
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1519386165118" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1519387259466" />
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/tracker.js" timestamp="1517388282284">
         <mark key="[" line="14" column="33" />
         <mark key="]" line="15" column="24" />
@@ -149,11 +149,11 @@
         <mark key="^" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/jobs/unified_log_job.rb" timestamp="1519386304339">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="17" />
-        <mark key="^" line="3" column="17" />
-        <mark key="." line="3" column="17" />
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/unified_log_job.rb" timestamp="1519387138869">
+        <mark key="[" line="4" column="84" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/layouts/administrator/application.html.slim" timestamp="1515124835444">
         <mark key="[" line="18" column="29" />
