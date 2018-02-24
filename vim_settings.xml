@@ -117,11 +117,10 @@
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1519454843693">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="82" column="28" />
-        <mark key="^" line="82" column="28" />
-        <mark key="." line="82" column="28" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1519456395380">
+        <mark key="[" line="83" column="42" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/tracker.js" timestamp="1517388282284">
         <mark key="[" line="14" column="33" />
@@ -967,8 +966,8 @@
       <jump line="13" column="9" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/QuestionsCommit/components/ImgUpload.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -983,22 +982,22 @@
         <text encoding="base64">ICAgICAgVW5pZmllZExvZ0pvYi5wZXJmb3JtX2xhdGVyKEBsb2dnZXIudG9fanNvbikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
+        <text encoding="base64">ICAjIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
