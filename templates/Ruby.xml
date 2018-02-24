@@ -16,7 +16,6 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
-      <option name="JSP" value="false" />
     </context>
   </template>
   <template name="url_h" value="Rails.application.routes.url_helpers.$URL$" description="routes url helpers" toReformat="false" toShortenFQNames="true">
