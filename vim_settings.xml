@@ -120,6 +120,7 @@
         <mark key="^" line="106" column="16" />
         <mark key="." line="106" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/toggle.rb" timestamp="1519665860810" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/answers.json.jbuilder" timestamp="1517305531108">
         <mark key="[" line="13" column="23" />
         <mark key="]" line="13" column="16" />
@@ -595,9 +596,6 @@
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/QuestionsCommit/components/ImgUpload.jsx" timestamp="1519439565126">
-        <mark key="'" line="13" column="9" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/sms_auth_command.rb" timestamp="1516689824300">
         <mark key="[" line="24" column="66" />
         <mark key="]" line="24" column="65" />
@@ -825,9 +823,10 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519638278991">
+      <file name="/Dummy.txt" timestamp="1519665857196">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/answer_to_moon_job.rb" timestamp="1519665856257" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/moon_index.json.jb" timestamp="1516678386619">
         <mark key="[" line="21" column="23" />
         <mark key="]" line="21" column="16" />
