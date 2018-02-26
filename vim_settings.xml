@@ -529,10 +529,6 @@
       </file>
       <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue.rb" timestamp="1519626138669">
         <mark key="'" line="15" column="29" />
-        <mark key="[" line="79" column="16" />
-        <mark key="]" line="80" column="21" />
-        <mark key="." line="80" column="21" />
-        <mark key="^" line="80" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/locales/sms.zh-CN.yml" timestamp="1516593378545">
         <mark key="[" line="2" column="38" />
@@ -829,7 +825,7 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519628269575">
+      <file name="/Dummy.txt" timestamp="1519638278991">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/moon_index.json.jb" timestamp="1516678386619">
