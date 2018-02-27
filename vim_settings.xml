@@ -816,7 +816,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1519628489811" />
+      <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1519716086737" />
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/acts_as_voter.rb" timestamp="1514428658377">
         <mark key="[" line="36" column="4" />
         <mark key="]" line="36" column="21" />
@@ -829,7 +829,7 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519665857196">
+      <file name="/Dummy.txt" timestamp="1519716078301">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/answer_to_moon_job.rb" timestamp="1519665856257" />
