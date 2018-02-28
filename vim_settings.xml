@@ -816,7 +816,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1519798499787" />
+      <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1519801224267" />
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/acts_as_voter.rb" timestamp="1514428658377">
         <mark key="[" line="36" column="4" />
         <mark key="]" line="36" column="21" />
