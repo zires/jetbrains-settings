@@ -517,11 +517,11 @@
         <mark key="." line="45" column="31" />
         <mark key="^" line="45" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/webpack.config.js" timestamp="1519892940135">
-        <mark key="[" line="36" column="63" />
-        <mark key="]" line="37" column="51" />
-        <mark key="^" line="37" column="51" />
-        <mark key="." line="37" column="51" />
+      <file name="$USER_HOME$/Documents/sesame/client/webpack.config.js" timestamp="1519897753854">
+        <mark key="[" line="40" column="30" />
+        <mark key="]" line="40" column="28" />
+        <mark key="^" line="40" column="28" />
+        <mark key="." line="40" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/followings.json.jbuilder" timestamp="1512640088165">
         <mark key="[" line="5" column="57" />
@@ -733,7 +733,12 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/package.json" timestamp="1519884493011" />
+      <file name="$USER_HOME$/Documents/sesame/client/package.json" timestamp="1519898251978">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="45" />
+        <mark key="." line="7" column="45" />
+        <mark key="^" line="7" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.js" timestamp="1512832660860">
         <mark key="[" line="139" column="35" />
         <mark key="]" line="139" column="33" />
@@ -847,7 +852,7 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519873106711">
+      <file name="/Dummy.txt" timestamp="1519898458892">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/moon_index.json.jb" timestamp="1516678386619">
@@ -1018,7 +1023,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgID0gcmVuZGVyICdiYScK</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIGFuYWx5emVyTW9kZTogJ3NlcnZlcicsCiAgICAgICAgYW5hbHl6ZXJIb3N0OiAnMTI3LjAuMC4xJywKICAgICAgICBhbmFseXplclBvcnQ6IDg4ODksCiAgICAgICAgcmVwb3J0RmlsZW5hbWU6ICdyZXBvcnQuaHRtbCcsCiAgICAgICAgZGVmYXVsdFNpemVzOiAncGFyc2VkJywKICAgICAgICBvcGVuQW5hbHl6ZXI6IHRydWUsCiAgICAgICAgZ2VuZXJhdGVTdGF0c0ZpbGU6IGZhbHNlLAogICAgICAgIHN0YXRzRmlsZW5hbWU6ICdzdGF0cy5qc29uJywKICAgICAgICBzdGF0c09wdGlvbnM6IG51bGwsCiAgICAgICAgbG9nTGV2ZWw6ICdpbmZvJwogICAgICB9Cg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -1033,31 +1038,31 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IFNpbmdsZUltZ1ZpZXcgPSBuZXcgU2luZ2xldG9uKEltYWdlVmlldykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgID0gcmVuZGVyICdiYScK</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIGFuYWx5emVyTW9kZTogJ3NlcnZlcicsCiAgICAgICAgYW5hbHl6ZXJIb3N0OiAnMTI3LjAuMC4xJywKICAgICAgICBhbmFseXplclBvcnQ6IDg4ODksCiAgICAgICAgcmVwb3J0RmlsZW5hbWU6ICdyZXBvcnQuaHRtbCcsCiAgICAgICAgZGVmYXVsdFNpemVzOiAncGFyc2VkJywKICAgICAgICBvcGVuQW5hbHl6ZXI6IHRydWUsCiAgICAgICAgZ2VuZXJhdGVTdGF0c0ZpbGU6IGZhbHNlLAogICAgICAgIHN0YXRzRmlsZW5hbWU6ICdzdGF0cy5qc29uJywKICAgICAgICBzdGF0c09wdGlvbnM6IG51bGwsCiAgICAgICAgbG9nTGV2ZWw6ICdpbmZvJwogICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNpbmdsZUltZ1ZpZXcxID0gbmV3IFNpbmdsZXRvbihJbWFnZVZpZXcpCg==</text>
+        <text encoding="base64">ICAgICJhbmFseXoiOiAiTk9ERV9FTlY9cHJvZHVjdGlvbiBucG1fY29uZmlnX3JlcG9ydD10cnVlIG5wbSBydW4gYnVpbGQiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z2VtICdyZWFjdF9vbl9yYWlscycsICcnCg==</text>
+        <text encoding="base64">ICAgID0gcmVuZGVyICdiYScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNpbmdsZUltZ1ZpZXcxID0gbmV3IFNpbmdsZXRvbihJbWFnZVZpZXcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC9Vc2Vycy96c2h1YWliaW4vRG9jdW1lbnRzL3Nlc2FtZS9saWIvdGFza3MvZXhwb3J0LnJha2UK</text>
+        <text encoding="base64">Z2VtICdyZWFjdF9vbl9yYWlscycsICcnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC9Vc2Vycy96c2h1YWliaW4vRG9jdW1lbnRzL3Nlc2FtZS9saWIvdGFza3MvZXhwb3J0LnJha2UK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cmVxdWlyZSAnemVubWVuL2hhb3l1ZS9kYXRhX2NlbnRlcicK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC9Vc2Vycy96c2h1YWliaW4vRG9jdW1lbnRzL3Nlc2FtZS9saWIvdGFza3MvZXhwb3J0LnJha2UK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC9Vc2Vycy96c2h1YWliaW4vRG9jdW1lbnRzL3Nlc2FtZS9saWIvdGFza3MvZXhwb3J0LnJha2UK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjIGFiYW5kb25lZAogIGRlZiBzZWxmLmdldF9oYW95dWVfaWRzKG5hbWUsIHJhbmdlID0gbmlsKQogICAgc2NvcGUgPSB3aGVyZShuYW1lOiBuYW1lKQogICAgc2NvcGUgPSBzY29wZS53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkgaWYgcmFuZ2UKICAgIHNjb3BlLnBsdWNrKDpjb250ZW50KS51bmlxLm1hcCB7IHxsb2d8IGxvZy5zcGxpdCgnXycpLmxhc3QgfQogIGVuZAo=</text>
+        <text encoding="base64">cmVxdWlyZSAnemVubWVuL2hhb3l1ZS9kYXRhX2NlbnRlcicK</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
