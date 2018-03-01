@@ -320,6 +320,11 @@
         <mark key="^" line="24" column="19" />
         <mark key="." line="24" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/layouts/application.html.slim" timestamp="1519888048340">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/welcome/could_answer.slim" timestamp="1516242612570">
         <mark key="[" line="0" column="89" />
         <mark key="]" line="0" column="89" />
@@ -532,7 +537,7 @@
         <mark key="^" line="95" column="18" />
         <mark key="." line="95" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue.rb" timestamp="1519798476198">
+      <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue.rb" timestamp="1519887990412">
         <mark key="'" line="15" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/locales/sms.zh-CN.yml" timestamp="1516593378545">
@@ -1011,7 +1016,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNpbmdsZUltZ1ZpZXcxID0gbmV3IFNpbmdsZXRvbihJbWFnZVZpZXcpCg==</text>
+        <text encoding="base64">ICAgID0gcmVuZGVyICdiYScK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -1026,31 +1031,31 @@
         <text encoding="base64">ZXhwb3J0IGNvbnN0IFNpbmdsZUltZ1ZpZXcgPSBuZXcgU2luZ2xldG9uKEltYWdlVmlldykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNpbmdsZUltZ1ZpZXcxID0gbmV3IFNpbmdsZXRvbihJbWFnZVZpZXcpCg==</text>
+        <text encoding="base64">ICAgID0gcmVuZGVyICdiYScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2VtICdyZWFjdF9vbl9yYWlscycsICcnCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IFNpbmdsZUltZ1ZpZXcxID0gbmV3IFNpbmdsZXRvbihJbWFnZVZpZXcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2VtICdyZWFjdF9vbl9yYWlscycsICcnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC9Vc2Vycy96c2h1YWliaW4vRG9jdW1lbnRzL3Nlc2FtZS9saWIvdGFza3MvZXhwb3J0LnJha2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIC9Vc2Vycy96c2h1YWliaW4vRG9jdW1lbnRzL3Nlc2FtZS9saWIvdGFza3MvZXhwb3J0LnJha2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVxdWlyZSAnemVubWVuL2hhb3l1ZS9kYXRhX2NlbnRlcicK</text>
+        <text encoding="base64">ICAgIC9Vc2Vycy96c2h1YWliaW4vRG9jdW1lbnRzL3Nlc2FtZS9saWIvdGFza3MvZXhwb3J0LnJha2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWlyZSAnemVubWVuL2hhb3l1ZS9kYXRhX2NlbnRlcicK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAjIGFiYW5kb25lZAogIGRlZiBzZWxmLmdldF9oYW95dWVfaWRzKG5hbWUsIHJhbmdlID0gbmlsKQogICAgc2NvcGUgPSB3aGVyZShuYW1lOiBuYW1lKQogICAgc2NvcGUgPSBzY29wZS53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkgaWYgcmFuZ2UKICAgIHNjb3BlLnBsdWNrKDpjb250ZW50KS51bmlxLm1hcCB7IHxsb2d8IGxvZy5zcGxpdCgnXycpLmxhc3QgfQogIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIGFiYW5kb25lZAogIGRlZiBzZWxmLmdldF9oYW95dWVfaWRzKG5hbWUsIHJhbmdlID0gbmlsKQogICAgc2NvcGUgPSB3aGVyZShuYW1lOiBuYW1lKQogICAgc2NvcGUgPSBzY29wZS53aGVyZShjcmVhdGVkX2F0OiByYW5nZSkgaWYgcmFuZ2UKICAgIHNjb3BlLnBsdWNrKDpjb250ZW50KS51bmlxLm1hcCB7IHxsb2d8IGxvZy5zcGxpdCgnXycpLmxhc3QgfQogIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceTargetAction</text>
