@@ -224,7 +224,7 @@
         <mark key="." line="14" column="31" />
         <mark key="^" line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/answers_controller.rb" timestamp="1518339574994">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/answers_controller.rb" timestamp="1519904135027">
         <mark key="[" line="116" column="20" />
         <mark key="]" line="116" column="10" />
         <mark key="." line="116" column="10" />
@@ -752,6 +752,7 @@
         <mark key="^" line="69" column="27" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/concerns/visit_tracker.rb" timestamp="1519904168163" />
       <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1516861902395">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -853,7 +854,7 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519901599399">
+      <file name="/Dummy.txt" timestamp="1519904135690">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/moon_index.json.jb" timestamp="1516678386619">
