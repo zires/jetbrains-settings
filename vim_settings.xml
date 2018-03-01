@@ -46,7 +46,6 @@
         <mark key="^" line="11" column="75" />
         <mark key="." line="11" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue/index_request.rb" timestamp="1519628268443" />
       <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/browser-2.4.0/lib/browser/device.rb" timestamp="1519702714434">
         <mark key="'" line="78" column="6" />
       </file>
@@ -63,7 +62,6 @@
         <mark key="." line="34" column="24" />
         <mark key="^" line="34" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/jobs/question_to_moon_job.rb" timestamp="1519628229914" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/online.rb" timestamp="1512973353540">
         <mark key="[" line="10" column="18" />
         <mark key="]" line="10" column="27" />
@@ -130,7 +128,6 @@
         <mark key="^" line="106" column="16" />
         <mark key="." line="106" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/toggle.rb" timestamp="1519702634169" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/answers.json.jbuilder" timestamp="1517305531108">
         <mark key="[" line="13" column="23" />
         <mark key="]" line="13" column="16" />
@@ -348,7 +345,6 @@
         <mark key="." line="355" column="57" />
         <mark key="^" line="355" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/test-react-on-rails/config/environments/production.rb" timestamp="1519811604230" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/components/FooterAction.jsx" timestamp="1514171395101">
         <mark key="[" line="62" column="53" />
         <mark key="]" line="62" column="54" />
@@ -379,7 +375,6 @@
         <mark key="^" line="11" column="59" />
         <mark key="." line="11" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/test-react-on-rails/app/javascript/packs/hello_react.jsx" timestamp="1519811079764" />
       <file name="$USER_HOME$/Documents/sesame/app/models/invite.rb" timestamp="1515411036594">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="17" />
@@ -728,8 +723,7 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/test-react-on-rails/app/javascript/packs/hello-world-bundle.js" timestamp="1519815771535" />
-      <file name="$USER_HOME$/Documents/sesame/client/package.json" timestamp="1519816371084" />
+      <file name="$USER_HOME$/Documents/sesame/client/package.json" timestamp="1519871937251" />
       <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.js" timestamp="1512832660860">
         <mark key="[" line="139" column="35" />
         <mark key="]" line="139" column="33" />
@@ -806,7 +800,6 @@
         <mark key="." line="44" column="17" />
         <mark key="^" line="44" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/yarn.lock" timestamp="1519816632165" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Waitlist/components/Waitlist.jsx" timestamp="1514190939486">
         <mark key="[" line="111" column="46" />
         <mark key="]" line="111" column="43" />
@@ -831,7 +824,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1519801224267" />
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/acts_as_voter.rb" timestamp="1514428658377">
         <mark key="[" line="36" column="4" />
         <mark key="]" line="36" column="21" />
@@ -844,10 +836,9 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519816766800">
+      <file name="/Dummy.txt" timestamp="1519871938202">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/jobs/answer_to_moon_job.rb" timestamp="1519665856257" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/moon_index.json.jb" timestamp="1516678386619">
         <mark key="[" line="21" column="23" />
         <mark key="]" line="21" column="16" />
@@ -867,7 +858,6 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/node_modules/react-on-rails/package.json" timestamp="1519816802714" />
       <file name="$USER_HOME$/Documents/test-react-on-rails/Gemfile" timestamp="1519812026042">
         <mark key="'" line="54" column="2" />
         <mark key="[" line="37" column="0" />
@@ -1069,13 +1059,10 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGFydE9uUmVhZHlcPg==</entry>
-        <entry encoding="base64">XDxBZHNcPg==</entry>
-        <entry encoding="base64">XDxsYXlvdXRcPg==</entry>
         <entry encoding="base64">XDx1c2VyX2ZvbGxvd2luZ3NcPg==</entry>
         <entry encoding="base64">XDxwaWRcPg==</entry>
         <entry encoding="base64">XDx0aXRsZVw+</entry>
