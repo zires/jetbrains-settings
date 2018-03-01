@@ -432,6 +432,7 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Index/store/zhimaStore.js" timestamp="1519901738866" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/incomes/create.rb" timestamp="1517551898498">
         <mark key="[" line="38" column="46" />
         <mark key="]" line="39" column="26" />
@@ -815,7 +816,7 @@
         <mark key="." line="44" column="17" />
         <mark key="^" line="44" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/yarn.lock" timestamp="1519892914284" />
+      <file name="$USER_HOME$/Documents/sesame/client/yarn.lock" timestamp="1519901359724" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Waitlist/components/Waitlist.jsx" timestamp="1514190939486">
         <mark key="[" line="111" column="46" />
         <mark key="]" line="111" column="43" />
@@ -852,7 +853,7 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519898458892">
+      <file name="/Dummy.txt" timestamp="1519901599399">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/moon_index.json.jb" timestamp="1516678386619">
@@ -887,6 +888,9 @@
         <mark key="^" line="15" column="48" />
         <mark key="." line="15" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/util.js" timestamp="1519901597909">
+        <mark key="'" line="154" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/administrator/users/index.html.slim" timestamp="1513319009313">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -920,8 +924,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="32" filename="$USER_HOME$/Documents/sesame/app/models/user.rb" />
-      <jump line="49" column="16" filename="$USER_HOME$/Documents/sesame/app/models/user.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/sesame/client/app/bundles/web/Welcome/components/questionItem.jsx" />
       <jump line="56" column="0" filename="$USER_HOME$/Documents/sesame/client/app/bundles/web/Welcome/components/questionItem.jsx" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/sesame/client/app/bundles/web/Welcome/components/questionItem.jsx" />
@@ -1020,6 +1022,8 @@
       <jump line="0" column="17" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/UserArea.jsx" />
       <jump line="1" column="28" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/UserArea.jsx" />
       <jump line="2" column="14" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/UserArea.jsx" />
+      <jump line="0" column="7" filename="$USER_HOME$/Documents/sesame/client/app/lib/helpers/util.js" />
+      <jump line="154" column="16" filename="$USER_HOME$/Documents/sesame/client/app/lib/helpers/util.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1032,7 +1036,7 @@
         <text encoding="base64">PCU9IEVOVlsiU0VDUkVUX0tFWV9CQVNFIl0gJT4=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcm9tXD4=</text>
+        <text encoding="base64">XDxnZXRRdWVyeVBhcmFtZXRlcnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IFNpbmdsZUltZ1ZpZXcgPSBuZXcgU2luZ2xldG9uKEltYWdlVmlldykK</text>
@@ -1069,9 +1073,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmcm9tXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRRdWVyeVBhcmFtZXRlcnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcm9tXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRRdWVyeVBhcmFtZXRlcnNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1100,6 +1104,8 @@
         <entry encoding="base64">XDxTaW5nbGV0b25cPg==</entry>
         <entry encoding="base64">XDxzaW5nbGV0b25cPg==</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
+        <entry encoding="base64">XDxVUklcPg==</entry>
+        <entry encoding="base64">XDxnZXRRdWVyeVBhcmFtZXRlcnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
