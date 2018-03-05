@@ -102,12 +102,12 @@
         <mark key="." line="31" column="146" />
         <mark key="^" line="31" column="146" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1520127671129">
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1520217255645">
         <mark key="'" line="355" column="57" />
-        <mark key="[" line="6" column="56" />
-        <mark key="]" line="6" column="59" />
-        <mark key="." line="6" column="59" />
-        <mark key="^" line="6" column="59" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="15" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/UserArea.jsx" timestamp="1519884043578">
         <mark key="'" line="2" column="14" />
@@ -277,49 +277,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEFuc3dlci53aGVyZSh1c2VyOiB1c2VyLCBjcmVhdGVkX2F0OiBAcmFuZ2UpLnRvX2Euc3VtIHsgfGFufCBhbi52aWV3X2NvdW50ZXIudG9faSB9LAo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>find(params[:id])</text>
+        <text encoding="base64">J+WbnuetlHB2Jywg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5kX3F1ZXN0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgQHF1ZXN0aW9uID0gUXVlc3Rpb24uYXBwcm92ZWRfb3Jfb3duKGN1cnJlbnRfdXNlcikuZmluZChwYXJhbXNbOmlkXSkK</text>
+        <text encoding="base64">ICAgICAgICAgIEFuc3dlci53aGVyZSh1c2VyOiB1c2VyLCBjcmVhdGVkX2F0OiBAcmFuZ2UpLmNvdW50LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEFuc3dlci53aGVyZSh1c2VyOiB1c2VyLCBjcmVhdGVkX2F0OiBAcmFuZ2UpLnRvX2Euc3VtIHsgfGFufCBhbi52aWV3X2NvdW50ZXIudG9faSB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBmaW5kX3F1ZXN0aW9uCiAgICAgIFF1ZXN0aW9uLmZpcnN0X3dpdGhfZGltX2lkKHBhcmFtc1s6aWRdKQogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQHF1ZXN0aW9uID0gUXVlc3Rpb24uZmlyc3Rfd2l0aF9kaW1faWQocGFyYW1zWzppZF0pCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgQHRvZ2dsZWRfYW5zd2Vyc19jb3VudCA9IEBxdWVzdGlvbi5hbnN3ZXJzLnRvZ2dsZWQuY291bnQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQHRvZ2dsZWRfYW5zd2Vyc19jb3VudCA9IEBxdWVzdGlvbi5hbnN3ZXJzLnRvZ2dsZWQuY291bnQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiBmaW5kX3F1ZXN0aW9uCiAgICAgIFF1ZXN0aW9uLmZpcnN0X3dpdGhfZGltX2lkKHBhcmFtc1s6aWRdKQogICAgZW5kCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgQHF1ZXN0aW9uID0gUXVlc3Rpb24uZmlyc3Rfd2l0aF9kaW1faWQocGFyYW1zWzppZF0pCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgQHRvZ2dsZWRfYW5zd2Vyc19jb3VudCA9IEBxdWVzdGlvbi5hbnN3ZXJzLnRvZ2dsZWQuY291bnQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgQHRvZ2dsZWRfYW5zd2Vyc19jb3VudCA9IEBxdWVzdGlvbi5hbnN3ZXJzLnRvZ2dsZWQuY291bnQK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQHF1ZXN0aW9uLnZpZXdfY291bnRlci5pbmNyCiAgICAgIEB0b2dnbGVkX2Fuc3dlcnNfY291bnQgPSBAcXVlc3Rpb24uYW5zd2Vycy50b2dnbGVkLmNvdW50Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action AceTargetAction</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -360,6 +360,7 @@
         <entry>action AceAction</entry>
         <entry>action AceLineAction</entry>
         <entry>action AceTargetAction</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
