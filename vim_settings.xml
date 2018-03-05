@@ -208,11 +208,11 @@
         <mark key="." line="23" column="70" />
         <mark key="^" line="23" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame-api/app/controllers/admin/releases_controller.rb" timestamp="1520238603714">
-        <mark key="[" line="67" column="34" />
-        <mark key="]" line="67" column="35" />
-        <mark key="." line="67" column="35" />
-        <mark key="^" line="67" column="35" />
+      <file name="$USER_HOME$/Documents/sesame-api/app/controllers/admin/releases_controller.rb" timestamp="1520239609475">
+        <mark key="[" line="71" column="83" />
+        <mark key="]" line="71" column="104" />
+        <mark key="." line="71" column="104" />
+        <mark key="^" line="71" column="104" />
       </file>
     </filemarks>
     <jumps>
@@ -318,14 +318,14 @@
       <jump line="31" column="4" filename="$USER_HOME$/Documents/sesame-api/app/models/release.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBnZW0gJ3ByeScK</text>
+      <register name="&quot;" type="4">
+        <text>filePath</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>sesame</text>
+        <text>filePath</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZXJzaW9uX2F0dHJcPg==</text>
@@ -334,31 +334,31 @@
         <text encoding="base64">ICA8ZGl2IGNsYXNzPSJmaWVsZCI+CiAgICA8JT0gZm9ybS5sYWJlbCA6dmVyc2lvbiAlPgogICAgPCU9IGZvcm0udGV4dF9maWVsZCA6dmVyc2lvbiAlPgogIDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnZW0gJ3ByeScK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkKICAgICAgcCAnMTEyJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAga2V5ID0gIiN7fSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBnZW0gJ3ByeScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
