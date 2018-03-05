@@ -143,11 +143,11 @@
         <mark key="." line="11" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/sms_controller.rb" timestamp="1520237236062" />
-      <file name="$USER_HOME$/Documents/sesame-api/Gemfile" timestamp="1520237407186">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="20" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Documents/sesame-api/Gemfile" timestamp="1520238445107">
+        <mark key="[" line="47" column="53" />
+        <mark key="]" line="48" column="9" />
+        <mark key="^" line="48" column="9" />
+        <mark key="." line="48" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/_show.json.jbuilder" timestamp="1518143536287">
         <mark key="'" line="18" column="2" />
@@ -163,6 +163,7 @@
         <mark key="." line="128" column="0" />
         <mark key="^" line="3" column="72" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/Gemfile" timestamp="1520238466331" />
       <file name="$USER_HOME$/Documents/sesame/app/models/question.rb" timestamp="1519970759277">
         <mark key="'" line="40" column="0" />
         <mark key="[" line="97" column="0" />
