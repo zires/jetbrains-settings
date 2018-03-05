@@ -58,7 +58,7 @@
         <mark key="." line="35" column="28" />
         <mark key="^" line="35" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame-api/db/migrate/20180305074819_add_channel_to_releases.rb" timestamp="1520240831737">
+      <file name="$USER_HOME$/Documents/sesame-api/db/migrate/20180305074819_add_channel_to_releases.rb" timestamp="1520248176388">
         <mark key="[" line="3" column="41" />
         <mark key="]" line="3" column="38" />
         <mark key="^" line="3" column="38" />
@@ -89,7 +89,7 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520243894684">
+      <file name="/Dummy.txt" timestamp="1520248132206">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/concerns/browser_device.rb" timestamp="1520243511422">
@@ -98,6 +98,12 @@
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame-api/db/migrate/20180305110918_rebuild_indexes.rb" timestamp="1520248236630">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="47" />
+        <mark key="^" line="2" column="47" />
+        <mark key="." line="2" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/sms_controller.rb" timestamp="1520237236062" />
       <file name="$USER_HOME$/Documents/sesame-api/Gemfile" timestamp="1520238473182">
         <mark key="[" line="48" column="0" />
@@ -105,6 +111,7 @@
         <mark key="^" line="49" column="17" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame-api/db/migrate/20171106070855_create_releases.rb" timestamp="1520248163843" />
       <file name="$USER_HOME$/Documents/sesame/Gemfile" timestamp="1520238466331" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/concerns/browser_ detection.rb" timestamp="1520243755561" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/concerns/browser_detection.rb" timestamp="1520243903293" />
