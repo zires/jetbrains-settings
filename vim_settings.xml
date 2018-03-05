@@ -112,6 +112,12 @@
         <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame-api/db/migrate/20171106070855_create_releases.rb" timestamp="1520248163843" />
+      <file name="$USER_HOME$/Documents/sesame-api/app/controllers/releases_controller.rb" timestamp="1520248930099">
+        <mark key="[" line="2" column="73" />
+        <mark key="]" line="3" column="84" />
+        <mark key="^" line="3" column="84" />
+        <mark key="." line="3" column="84" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/Gemfile" timestamp="1520238466331" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/concerns/browser_ detection.rb" timestamp="1520243755561" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/concerns/browser_detection.rb" timestamp="1520243903293" />
