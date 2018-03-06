@@ -133,6 +133,7 @@
         <mark key="^" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/config/initializers/rack_attack.rb" timestamp="1520322253560" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/update_by_front.rb" timestamp="1520317264834" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/sms_controller.rb" timestamp="1520237236062" />
       <file name="$USER_HOME$/Documents/sesame-api/Gemfile" timestamp="1520238473182">
