@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/sesame/spec/commands/answers/update_spec.rb" timestamp="1520317332942" />
       <file name="$USER_HOME$/Documents/sesame-api/config/initializers/qiniu_sdk.rb" timestamp="1520237733325">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -70,6 +71,7 @@
         <mark key="." line="7" column="45" />
         <mark key="^" line="7" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/update.rb" timestamp="1520317199616" />
       <file name="$USER_HOME$/Documents/sesame-api/app/controllers/admin/releases_controller.rb" timestamp="1520241258829">
         <mark key="[" line="34" column="34" />
         <mark key="]" line="35" column="28" />
@@ -113,7 +115,7 @@
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520305787159">
+      <file name="/Dummy.txt" timestamp="1520317200720">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/concerns/browser_device.rb" timestamp="1520243511422">
@@ -128,6 +130,7 @@
         <mark key="^" line="2" column="47" />
         <mark key="." line="2" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/update_by_front.rb" timestamp="1520317264834" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/sms_controller.rb" timestamp="1520237236062" />
       <file name="$USER_HOME$/Documents/sesame-api/Gemfile" timestamp="1520238473182">
         <mark key="[" line="48" column="0" />
