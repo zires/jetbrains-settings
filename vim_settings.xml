@@ -61,9 +61,11 @@
         <mark key="^" line="11" column="9" />
         <mark key="." line="11" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520421685981">
+      <file name="/Dummy.txt" timestamp="1520478089365">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/components/FooterAction.jsx" timestamp="1520478246960" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" timestamp="1520478500995" />
       <file name="$USER_HOME$/Documents/sesame/app/models/invite.rb" timestamp="1520395187562">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="17" />
