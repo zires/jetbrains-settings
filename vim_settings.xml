@@ -36,12 +36,7 @@
         <mark key="^" line="10" column="109" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/.env" timestamp="1520495232849" />
-      <file name="$USER_HOME$/Documents/sesame/config/settings/development.yml" timestamp="1520574065347">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="67" />
-        <mark key="." line="7" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/sesame/config/settings/development.yml" timestamp="1520574065347" />
       <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1520504053859">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
