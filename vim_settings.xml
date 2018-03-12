@@ -28,11 +28,12 @@
         <mark key="^" line="51" column="39" />
         <mark key="." line="51" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1520504053859">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="29" column="47" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Documents/sesame/config/settings/development.yml" timestamp="1520840038453" />
+      <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1520840325442">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="28" column="22" />
+        <mark key="^" line="28" column="22" />
+        <mark key="." line="28" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/invitations/create.rb" timestamp="1520563096630">
         <mark key="'" line="19" column="7" />
@@ -59,23 +60,31 @@
         <mark key="^" line="13" column="47" />
         <mark key="." line="13" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520836988762">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1520838788969" />
+      <file name="/Dummy.txt" timestamp="1520840026082">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/commands/sms_auth_command.rb" timestamp="1520839994961">
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="13" column="36" />
+        <mark key="^" line="13" column="36" />
+        <mark key="." line="13" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/config/initializers/rack_attack.rb" timestamp="1520838153230" />
+      <file name="$USER_HOME$/Documents/sesame/lib/utils/json_web_token.rb" timestamp="1520838612250" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" timestamp="1520822896459">
         <mark key="[" line="18" column="88" />
         <mark key="]" line="18" column="86" />
         <mark key="^" line="18" column="86" />
         <mark key="." line="18" column="86" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1520837900363" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/orders_controller.rb" timestamp="1520573937213">
         <mark key="'" line="31" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/util.js" timestamp="1520836628286" />
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" />
-      <jump line="52" column="2" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/QuestionsCommit/components/QuesTitle.jsx" />
       <jump line="18" column="12" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/components/MessageList.jsx" />
       <jump line="93" column="18" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/components/MessageList.jsx" />
       <jump line="152" column="10" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" />
@@ -174,16 +183,18 @@
       <jump line="22" column="9" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" />
       <jump line="115" column="6" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" />
       <jump line="10" column="9" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" />
+      <jump line="27" column="7" filename="$USER_HOME$/Documents/sesame/config/settings.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/sesame/config/settings.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gYWxlcnQoJ+WKquWKm+W8gOWPkeS4re+8jOivt+WcqOeUteiEkeerr+eZu+W9leiKnem6u+mXruetlOWGjeaTjeS9nO+8mnpoaW1hd2VuZGEuY29tJykK</text>
+      <register name="&quot;" type="4">
+        <text>Settings[:mock_user_phone]</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>gon.app_info.name != 'wifikey'</text>
+        <text>Settings[:mock_user_phone]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcGVuV2lmaVdlYkxvZ2luXD4=</text>
