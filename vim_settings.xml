@@ -35,7 +35,7 @@
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/actions/questionActionCreators.jsx" timestamp="1520842472669" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1520838788969" />
-      <file name="/Dummy.txt" timestamp="1520847441971">
+      <file name="/Dummy.txt" timestamp="1520850017996">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/sms_auth_command.rb" timestamp="1520839994961">
@@ -45,7 +45,13 @@
         <mark key="." line="13" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/initializers/rack_attack.rb" timestamp="1520838153230" />
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" timestamp="1520849349151">
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/components/FooterAction.jsx" timestamp="1520850224882">
+        <mark key="[" line="73" column="30" />
+        <mark key="]" line="7" column="66" />
+        <mark key="^" line="7" column="66" />
+        <mark key="." line="7" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" timestamp="1520850216504">
         <mark key="'" line="134" column="79" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -204,25 +210,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHsgYW5zd2VyLCBxdWVzdGlvbiwgdXVpZCB9ID0gdGhpcy5wcm9wcy5oaXN0b3J5LmxvY2F0aW9uLnN0YXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgc3RhdGUgfSA9IHRoaXMucHJvcHMuaGlzdG9yeS5sb2NhdGlvbgo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHsgYW5zd2VyLCBxdWVzdGlvbiwgdXVpZCB9ID0gdGhpcy5wcm9wcy5oaXN0b3J5LmxvY2F0aW9uLnN0YXRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgc3RhdGUgfSA9IHRoaXMucHJvcHMuaGlzdG9yeS5sb2NhdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFuc3dlciA9IAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFuc3dlciA9IAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
