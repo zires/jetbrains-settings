@@ -9,12 +9,12 @@
         <mark key="^" line="113" column="46" />
         <mark key="." line="113" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" timestamp="1520499866171">
-        <mark key="'" line="21" column="9" />
-        <mark key="[" line="22" column="68" />
-        <mark key="]" line="22" column="58" />
-        <mark key="^" line="22" column="58" />
-        <mark key="." line="22" column="58" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" timestamp="1520836941578">
+        <mark key="'" line="10" column="9" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="^" line="108" column="19" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1520586428219">
         <mark key="'" line="139" column="36" />
@@ -47,13 +47,19 @@
         <mark key="[" line="15" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/comments/_show.json.jbuilder" timestamp="1520834756204" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/wifikey_helper.js" timestamp="1520836923683">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="28" />
+        <mark key="." line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1520495121686">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="47" />
         <mark key="^" line="13" column="47" />
         <mark key="." line="13" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520834555370">
+      <file name="/Dummy.txt" timestamp="1520836988762">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" timestamp="1520822896459">
@@ -65,15 +71,9 @@
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/orders_controller.rb" timestamp="1520573937213">
         <mark key="'" line="31" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/util.js" timestamp="1520836628286" />
     </filemarks>
     <jumps>
-      <jump line="0" column="7" filename="$USER_HOME$/Documents/sesame/client/app/lib/helpers/util.js" />
-      <jump line="31" column="4" filename="$USER_HOME$/Documents/sesame-api/app/models/release.rb" />
-      <jump line="68" column="6" filename="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" />
-      <jump line="9" column="17" filename="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" />
-      <jump line="69" column="15" filename="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" />
-      <jump line="42" column="0" filename="$USER_HOME$/Documents/sesame/app/controllers/concerns/browser_device.rb" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/sesame/app/controllers/concerns/browser_device.rb" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" />
       <jump line="52" column="2" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/QuestionsCommit/components/QuesTitle.jsx" />
       <jump line="18" column="12" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/components/MessageList.jsx" />
@@ -100,7 +100,6 @@
       <jump line="109" column="11" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" />
       <jump line="177" column="2" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" />
       <jump line="39" column="27" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" />
-      <jump line="21" column="9" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" />
       <jump line="139" column="36" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" />
       <jump line="321" column="6" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
       <jump line="471" column="39" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
@@ -167,67 +166,74 @@
       <jump line="293" column="4" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
       <jump line="317" column="8" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
       <jump line="511" column="6" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
+      <jump line="114" column="6" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" />
+      <jump line="21" column="9" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" />
+      <jump line="113" column="9" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" />
+      <jump line="119" column="6" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" />
+      <jump line="9" column="26" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" />
+      <jump line="22" column="9" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" />
+      <jump line="115" column="6" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" />
+      <jump line="10" column="9" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>page(params[:page] || 1).per(params[:per_page] || 20)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy8gYWxlcnQoJ+WKquWKm+W8gOWPkeS4re+8jOivt+WcqOeUteiEkeerr+eZu+W9leiKnem6u+mXruetlOWGjeaTjeS9nO+8mnpoaW1hd2VuZGEuY29tJykK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>page(params[:page] || 1).per(params[:per_page] || 20)</text>
+        <text>gon.app_info.name != 'wifikey'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYXZlRXZlbnRRdWV1ZVw+</text>
+        <text encoding="base64">XDxvcGVuV2lmaVdlYkxvZ2luXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMud2suZ2V0U2hhcmVEYXRhLCAnd2snKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL1FBREVWLTEzMjkK</text>
+        <text encoding="base64">ICAgICAgLy8gYWxlcnQoJ+WKquWKm+W8gOWPkeS4re+8jOivt+WcqOeUteiEkeerr+eZu+W9leiKnem6u+mXruetlOWGjeaTjeS9nO+8mnpoaW1hd2VuZGEuY29tJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIGlmIChlbmRwb2ludCkgewogICAgICAgIGxldCB1cmwgPSBgJHtlbmRwb2ludH0vdHJhY2Uvd2VuZGEuZG8/bXNnPSR7b2JqVG9Nc2coZXZlbnQpfWA7CiAgICAgICAgcmVxdWVzdC5vcGVuKCdHRVQnLCB1cmwsIHRydWUpOwogICAgICAgIHJlcXVlc3Qub25yZWFkeXN0YXRlY2hhbmdlID0gKCkgPT4gewogICAgICAgICAgaWYgKHJlcXVlc3QucmVhZHlTdGF0ZSA9PT0gNCAmJiByZXF1ZXN0LnN0YXR1cyA9PT0gMjAwKSB0aGlzLnJlbW92ZUV2ZW50KGV2ZW50KTsKICAgICAgICB9OwogICAgICAgIHJlcXVlc3Quc2VuZChudWxsKTsKICAgICAgfQo9PT09PT09Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGlmIChldmVudC5uYW1lID09ICdjbGlja0NlbGwnICYmIC91dG1fY29udGVudD10YWIvLnRlc3QoZXZlbnQucHJvcGVydGllc1sndXJsJ10pKSB7CiAgICAvLyAgIHJlbW92ZUV2ZW50KGV2ZW50KQogICAgLy8gICByZXR1cm4KICAgIC8vIH0K</text>
+        <text encoding="base64">ZnVuY3Rpb24gb3BlbldpZmlXZWJMb2dpbigpIHsKICBjb25zdCByZWRpcmVjdFVyaSA9IGVuY29kZVVSSUNvbXBvbmVudChgJHtsb2NhdGlvbi5vcmlnaW59L2F1dGgvd2lmaWtleS9jYWxsYmFjaz9yZWRpcmVjdF91cmk9JHtsb2NhdGlvbi5wYXRobmFtZX0mY29kZT1gKQogIGxvY2F0aW9uLmhyZWYgPSBgJHtnb24ubG9naW5fZW5kcG9pbnR9L29wZW4tc3NvL29hdXRoMi9sb2dpbi5kbz90aGlyZEFwcElkPSR7Z29uLmFwcGlkfSZyZWRpcmVjdFVyaT0ke3JlZGlyZWN0VXJpfSZzY29wZT1JTkZPYAp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlbW92ZUV2ZW50KGV2ZW50KQo=</text>
+        <text encoding="base64">aW1wb3J0U2NyaXB0cygpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFja0V2ZW50KGV2ZW50KTsK</text>
+        <text encoding="base64">ICBjb25zdCByZWRpcmVjdFVyaSA9IGVuY29kZVVSSUNvbXBvbmVudChgJHtsb2NhdGlvbi5vcmlnaW59L2F1dGgvd2lmaWtleS9jYWxsYmFjaz9yZWRpcmVjdF91cmk9JHtsb2NhdGlvbi5wYXRobmFtZX0mY29kZT1gKQogIGxvY2F0aW9uLmhyZWYgPSBgJHtnb24ubG9naW5fZW5kcG9pbnR9L29wZW4tc3NvL29hdXRoMi9sb2dpbi5kbz90aGlyZEFwcElkPSR7Z29uLmFwcGlkfSZyZWRpcmVjdFVyaT0ke3JlZGlyZWN0VXJpfSZzY29wZT1JTkZPYAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zdCBudW1iZXIgPSBsZW5ndGggfHwgKGhhc0ltYWdlID8gMTQ3IDogMTU2KQogIHJldHVybiB7CiAgICB0ZXh0OiB0ZXh0Lmxlbmd0aCA+IG51bWJlciA/IGAke3RleHQuc3Vic3RyKDAsIG51bWJlcil9Li4uYCA6IHRleHQsCiAgICBzaG93QWxsOiB0ZXh0Lmxlbmd0aCA+IG51bWJlciwKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL1FBREVWLTEzMjkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgIGlmIChlbmRwb2ludCkgewogICAgICAgIGxldCB1cmwgPSBgJHtlbmRwb2ludH0vdHJhY2Uvd2VuZGEuZG8/bXNnPSR7b2JqVG9Nc2coZXZlbnQpfWA7CiAgICAgICAgcmVxdWVzdC5vcGVuKCdHRVQnLCB1cmwsIHRydWUpOwogICAgICAgIHJlcXVlc3Qub25yZWFkeXN0YXRlY2hhbmdlID0gKCkgPT4gewogICAgICAgICAgaWYgKHJlcXVlc3QucmVhZHlTdGF0ZSA9PT0gNCAmJiByZXF1ZXN0LnN0YXR1cyA9PT0gMjAwKSB0aGlzLnJlbW92ZUV2ZW50KGV2ZW50KTsKICAgICAgICB9OwogICAgICAgIHJlcXVlc3Quc2VuZChudWxsKTsKICAgICAgfQo9PT09PT09Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYXZlRXZlbnRRdWV1ZVw+</last-search>
+      <last-search encoding="base64">XDxvcGVuV2lmaVdlYkxvZ2luXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYXZlRXZlbnRRdWV1ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxvcGVuV2lmaVdlYkxvZ2luXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxvcGVuTG9naW5Nb2RhbFw+</entry>
-        <entry encoding="base64">XDxvcGVuV2lmaVdlYkxvZ2luXD4=</entry>
         <entry encoding="base64">XDxhY3Rpb25fZW5kcG9pbnRcPg==</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry encoding="base64">XDxyZWFkeVw+</entry>
@@ -246,6 +252,8 @@
         <entry encoding="base64">XDxldmVudFw+</entry>
         <entry encoding="base64">XDx0cmFja0V2ZW50Q2F1dGlvdXNcPg==</entry>
         <entry encoding="base64">XDxzYXZlRXZlbnRRdWV1ZVw+</entry>
+        <entry encoding="base64">XDxhbGVydFw+</entry>
+        <entry encoding="base64">XDxvcGVuV2lmaVdlYkxvZ2luXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
