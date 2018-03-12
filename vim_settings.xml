@@ -35,7 +35,7 @@
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/actions/questionActionCreators.jsx" timestamp="1520842472669" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1520838788969" />
-      <file name="/Dummy.txt" timestamp="1520842457351">
+      <file name="/Dummy.txt" timestamp="1520847441971">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/sms_auth_command.rb" timestamp="1520839994961">
@@ -45,21 +45,21 @@
         <mark key="." line="13" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/initializers/rack_attack.rb" timestamp="1520838153230" />
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" timestamp="1520842276058">
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" timestamp="1520847878745">
         <mark key="'" line="142" column="28" />
-        <mark key="[" line="142" column="22" />
-        <mark key="]" line="142" column="30" />
-        <mark key="^" line="142" column="30" />
-        <mark key="." line="142" column="30" />
+        <mark key="[" line="44" column="35" />
+        <mark key="]" line="44" column="35" />
+        <mark key="^" line="44" column="35" />
+        <mark key="." line="44" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/constants/questionConstants.jsx" timestamp="1520842400890" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/components/Question.jsx" timestamp="1520841955796" />
       <file name="$USER_HOME$/Documents/sesame/lib/utils/json_web_token.rb" timestamp="1520838612250" />
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/containers/SubmitAnswerContainer.jsx" timestamp="1520842456740">
-        <mark key="[" line="11" column="80" />
-        <mark key="]" line="11" column="98" />
-        <mark key="." line="11" column="98" />
-        <mark key="^" line="11" column="98" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/containers/SubmitAnswerContainer.jsx" timestamp="1520846324571">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" timestamp="1520840994083">
         <mark key="[" line="18" column="88" />
@@ -67,11 +67,11 @@
         <mark key="^" line="18" column="86" />
         <mark key="." line="18" column="86" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/reducers/SubmitAnswerReducer.js" timestamp="1520842512070">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="13" />
-        <mark key="." line="19" column="13" />
-        <mark key="^" line="19" column="13" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/reducers/SubmitAnswerReducer.js" timestamp="1520845627666">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="20" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1520837900363" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/orders_controller.rb" timestamp="1520573937213">
@@ -182,14 +182,14 @@
       <jump line="134" column="122" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/AnswerEditor.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
+      <register name="&quot;" type="4">
+        <text>this.props.history.location.</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Settings[:mock_user_phone]</text>
+        <text>this.props.history.location.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbnN3ZXJcPg==</text>
@@ -198,31 +198,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMud2suZ2V0U2hhcmVEYXRhLCAnd2snKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCiAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgYW5zd2VyIH0gPSB0aGlzLnByb3BzLmhpc3RvcnkubG9jYXRpb24uc3RhdGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0U2NyaXB0cygpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gYWxlcnQoJ+WKquWKm+W8gOWPkeS4re+8jOivt+WcqOeUteiEkeerr+eZu+W9leiKnem6u+mXruetlOWGjeaTjeS9nO+8mnpoaW1hd2VuZGEuY29tJykK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBhbnN3ZXIgPSB0aGlzLnByb3BzLmhpc3RvcnkubG9jYXRpb24uc3RhdGUK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gb3BlbldpZmlXZWJMb2dpbigpIHsKICBjb25zdCByZWRpcmVjdFVyaSA9IGVuY29kZVVSSUNvbXBvbmVudChgJHtsb2NhdGlvbi5vcmlnaW59L2F1dGgvd2lmaWtleS9jYWxsYmFjaz9yZWRpcmVjdF91cmk9JHtsb2NhdGlvbi5wYXRobmFtZX0mY29kZT1gKQogIGxvY2F0aW9uLmhyZWYgPSBgJHtnb24ubG9naW5fZW5kcG9pbnR9L29wZW4tc3NvL29hdXRoMi9sb2dpbi5kbz90aGlyZEFwcElkPSR7Z29uLmFwcGlkfSZyZWRpcmVjdFVyaT0ke3JlZGlyZWN0VXJpfSZzY29wZT1JTkZPYAp9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
