@@ -46,13 +46,14 @@
       <file name="$USER_HOME$/Documents/sesame/.rubocop.yml" timestamp="1518083077376">
         <mark key="[" line="15" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/comments/_show.json.jbuilder" timestamp="1520834756204" />
       <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1520495121686">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="47" />
         <mark key="^" line="13" column="47" />
         <mark key="." line="13" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520503999718">
+      <file name="/Dummy.txt" timestamp="1520834555370">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" timestamp="1520822896459">
