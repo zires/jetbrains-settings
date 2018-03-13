@@ -9,8 +9,19 @@
         <mark key="^" line="113" column="46" />
         <mark key="." line="113" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/sessions_controller.rb" timestamp="1520913633467">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/AnswerEditor.jsx" timestamp="1520842234471">
         <mark key="'" line="134" column="122" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/sessions_controller.rb" timestamp="1520913767656">
+        <mark key="[" line="7" column="55" />
+        <mark key="]" line="7" column="53" />
+        <mark key="^" line="7" column="53" />
+        <mark key="." line="7" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" timestamp="1520849279259">
         <mark key="'" line="108" column="9" />
@@ -19,7 +30,8 @@
         <mark key="^" line="108" column="19" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" timestamp="1520503998422">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" timestamp="1520913517225">
+        <mark key="'" line="11" column="17" />
         <mark key="[" line="51" column="20" />
         <mark key="]" line="51" column="39" />
         <mark key="^" line="51" column="39" />
@@ -49,7 +61,14 @@
         <mark key="^" line="13" column="47" />
         <mark key="." line="13" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520850895930">
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/QuestionsCommit/components/QuestionsCommit.jsx" timestamp="1520912733345">
+        <mark key="'" line="7" column="69" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="7" column="69" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1520913703625">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/sms_auth_command.rb" timestamp="1520839994961">
@@ -58,7 +77,7 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" timestamp="1520910408785">
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" timestamp="1520912725067">
         <mark key="'" line="145" column="79" />
         <mark key="[" line="90" column="2" />
         <mark key="]" line="90" column="3" />
@@ -83,14 +102,16 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="20" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1520913836869">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/orders_controller.rb" timestamp="1520573937213">
         <mark key="'" line="31" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="22" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
-      <jump line="512" column="4" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
-      <jump line="494" column="8" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
       <jump line="518" column="4" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
       <jump line="499" column="8" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
       <jump line="485" column="4" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
@@ -188,10 +209,13 @@
       <jump line="130" column="79" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
       <jump line="10" column="27" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" />
       <jump line="108" column="9" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" />
+      <jump line="7" column="69" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/QuestionsCommit/components/QuestionsCommit.jsx" />
+      <jump line="64" column="6" filename="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" />
+      <jump line="11" column="17" filename="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgYW5zd2VyLCBxdWVzdGlvbiwgdXVpZCB9ID0gdGhpcy5wcm9wcy5oaXN0b3J5LmxvY2F0aW9uLnN0YXRlCg==</text>
+        <text encoding="base64">ICAgIGlmIGNoYW5uZWwK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -200,50 +224,50 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbldpZmlrZXlcPg==</text>
+        <text encoding="base64">XDxzZXRfdXNlcl90b2tlblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG9wZW5XaWZpV2ViTG9naW4oKSB7CiAgaWYgKGdvbi5sb2dpbl9lbmRwb2ludCkgewogICAgbG9jYXRpb24uaHJlZiA9IHdpZmlXZWJMb2dpblBhdGgoKQogIH0gZWxzZSB7CiAgICBhbGVydCgn5Yqq5Yqb5byA5Y+R5Lit77yM6K+35Zyo55S16ISR56uv55m75b2V6Iqd6bq76Zeu562U5YaN5pON5L2c77yaemhpbWF3ZW5kYS5jb20nKQogIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgYW5zd2VyLCBxdWVzdGlvbiwgdXVpZCB9ID0gdGhpcy5wcm9wcy5oaXN0b3J5LmxvY2F0aW9uLnN0YXRlCg==</text>
+        <text encoding="base64">ICAgIGlmIGNoYW5uZWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IGZlYXR1cmUvUUFERVYtMTMyOQo=</text>
+        <text encoding="base64">ICAgICAgcmVxdWVzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">aW1wb3J0IFRhZ3NTZWxlY3QgZnJvbSAnLi9UYWdzU2VsZWN0Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHF1ZXN0aW9uID0gdGhpcy5nZXRRdWVzdGlvbigpCiAgICBjb25zdCB1dWlkID0gdGhpcy5wcm9wcy5oaXN0b3J5LmxvY2F0aW9uLnN0YXRlICYmIHRoaXMucHJvcHMuaGlzdG9yeS5sb2NhdGlvbi5zdGF0ZS51dWlkCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgYW5zd2VyLCBxdWVzdGlvbiwgdXVpZCB9ID0gdGhpcy5wcm9wcy5oaXN0b3J5LmxvY2F0aW9uLnN0YXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgIGNsYXNzTmFtZT0iYnV0dG9uX19hbnN3ZXIiCiAgICAgICAgICAgIHRvPXt7IHBhdGhuYW1lOiBgL3F1ZXN0aW9ucy8ke3F1ZXN0aW9uSWR9L2Fuc3dlci9uZXdgLCBzdGF0ZTogeyBxdWVzdGlvbiwgdXVpZDogdGhpcy51dWlkIH0gfX0KICAgICAgICAgICAgb25DbGljaz17KGUpID0+IHsKICAgICAgICAgICAgICB0cmFjaygnY2xpY2tUb0Fuc3dlcicsIHNldFRyYWNrVGFnTGlzdChxdWVzdGlvbiwgeyBxaWQ6IHF1ZXN0aW9uSWQsIGFuc0NvdW50OiBxdWVzdGlvbi5hbnN3ZXJzX2NvdW50LCBwdjogcXVlc3Rpb24udmlld19jb3VudCwgdXVpZDogdGhpcy51dWlkIH0pKQogICAgICAgICAgICAgIHRvTW9vbignQ2xpY2t0b0Fuc3dlcl9xcGFnZScsIHsgaWQ6IHF1ZXN0aW9uLnV1aWQgfSkKICAgICAgICAgICAgICBlLnN0b3BQcm9wYWdhdGlvbigpCn19CiAgICAgICAgICA+CiAgICAgICAgICAgIDxzcGFuPuWbnuetlDwvc3Bhbj4KICAgICAgICAgIDwvTGluaz4K</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IGZlYXR1cmUvUUFERVYtMTMyOQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhY2soJ2NsaWNrVG9BbnN3ZXInLCBzZXRUcmFja1RhZ0xpc3QocXVlc3Rpb24sIHsgcWlkOiBxdWVzdGlvbklkLCBhbnNDb3VudDogcXVlc3Rpb24uYW5zd2Vyc19jb3VudCwgcHY6IHF1ZXN0aW9uLnZpZXdfY291bnQsIHV1aWQ6IHRoaXMudXVpZCB9KSkKICAgICAgICAgICAgdG9Nb29uKCdDbGlja3RvQW5zd2VyX3FwYWdlJywgeyBpZDogcXVlc3Rpb24udXVpZCB9KQogICAgICAgICAgICBlLnN0b3BQcm9wYWdhdGlvbigpCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHF1ZXN0aW9uID0gdGhpcy5nZXRRdWVzdGlvbigpCiAgICBjb25zdCB1dWlkID0gdGhpcy5wcm9wcy5oaXN0b3J5LmxvY2F0aW9uLnN0YXRlICYmIHRoaXMucHJvcHMuaGlzdG9yeS5sb2NhdGlvbi5zdGF0ZS51dWlkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbldpZmlrZXlcPg==</last-search>
+      <last-search encoding="base64">XDxzZXRfdXNlcl90b2tlblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbldpZmlrZXlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRfdXNlcl90b2tlblw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -267,6 +291,7 @@
         <entry encoding="base64">XDxhbnN3ZXJcPg==</entry>
         <entry encoding="base64">XDxzdGF0ZVw+</entry>
         <entry encoding="base64">XDxpbldpZmlrZXlcPg==</entry>
+        <entry encoding="base64">XDxzZXRfdXNlcl90b2tlblw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
