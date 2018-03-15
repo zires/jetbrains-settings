@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/MessageEntrance.jsx" timestamp="1521100452789" />
       <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sorcery-0.11.0/lib/sorcery/controller.rb" timestamp="1520936729439">
         <mark key="'" line="83" column="48" />
       </file>
@@ -20,11 +19,6 @@
         <mark key="]" line="51" column="39" />
         <mark key="^" line="51" column="39" />
         <mark key="." line="51" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/edit_answers_controller.rb" timestamp="1520999506172">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sorcery-0.11.0/lib/sorcery/engine.rb" timestamp="1520928228750" />
       <file name="$USER_HOME$/Documents/sesame-api/app/models/release.rb" timestamp="1520926066981" />
@@ -62,6 +56,7 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="8" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/config/routes.rb" timestamp="1521102335344" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/components/MessageList.jsx" timestamp="1521084996063">
         <mark key="'" line="100" column="20" />
         <mark key="[" line="101" column="0" />
@@ -83,11 +78,6 @@
         <mark key="]" line="123" column="46" />
         <mark key="^" line="123" column="46" />
         <mark key="." line="123" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/sessions_controller.rb" timestamp="1521008446678">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/sessions_controller.rb" timestamp="1520922107852">
         <mark key="[" line="6" column="55" />
@@ -140,7 +130,7 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/services/sms_service.rb" timestamp="1520927504604" />
-      <file name="/Dummy.txt" timestamp="1521100479790">
+      <file name="/Dummy.txt" timestamp="1521102500920">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" timestamp="1520936135810">
@@ -159,6 +149,7 @@
         <mark key="]" line="130" column="0" />
         <mark key="." line="130" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/questions_controller.rb" timestamp="1521102300840" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/base/_answer.json.jb" timestamp="1521019687420" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/comments_controller.rb" timestamp="1520924707449">
         <mark key="[" line="47" column="35" />
@@ -177,12 +168,11 @@
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" timestamp="1521102819444">
+        <mark key="'" line="442" column="38" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="8" filename="$USER_HOME$/Documents/sesame/app/controllers/api/orders_controller.rb" />
-      <jump line="31" column="19" filename="$USER_HOME$/Documents/sesame/app/controllers/api/orders_controller.rb" />
-      <jump line="296" column="11" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
-      <jump line="528" column="4" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
       <jump line="306" column="8" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
       <jump line="153" column="11" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
       <jump line="352" column="19" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
@@ -279,6 +269,10 @@
       <jump line="100" column="19" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/components/MessageList.jsx" />
       <jump line="103" column="20" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/components/MessageList.jsx" />
       <jump line="130" column="19" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
+      <jump line="358" column="14" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
+      <jump line="349" column="2" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
+      <jump line="357" column="2" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
+      <jump line="442" column="38" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -291,7 +285,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDcmVhdGVVdG1zXD4=</text>
+        <text encoding="base64">XDxjb21tZW50VG9Vc2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQW5zd2VyLndoZXJlKHVzZXI6IGludml0ZS51c2VyLCBjcmVhdGVkX2F0OiBycikuY291bnQsCg==</text>
@@ -328,9 +322,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDcmVhdGVVdG1zXD4=</last-search>
+      <last-search encoding="base64">XDxjb21tZW50VG9Vc2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDcmVhdGVVdG1zXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb21tZW50VG9Vc2VyXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -367,6 +361,8 @@
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxfXD4=</entry>
         <entry encoding="base64">XDxDcmVhdGVVdG1zXD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVJc0xvZ2luXD4=</entry>
+        <entry encoding="base64">XDxjb21tZW50VG9Vc2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
