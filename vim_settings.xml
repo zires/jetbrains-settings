@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/users_controller.rb" timestamp="1521108246257">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/users_controller.rb" timestamp="1521111117463">
         <mark key="'" line="81" column="31" />
-        <mark key="[" line="2" column="104" />
-        <mark key="]" line="2" column="112" />
-        <mark key="^" line="2" column="112" />
-        <mark key="." line="2" column="112" />
+        <mark key="[" line="81" column="32" />
+        <mark key="]" line="81" column="54" />
+        <mark key="^" line="81" column="54" />
+        <mark key="." line="81" column="54" />
       </file>
       <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sorcery-0.11.0/lib/sorcery/controller.rb" timestamp="1520936729439">
         <mark key="'" line="83" column="48" />
