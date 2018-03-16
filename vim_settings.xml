@@ -41,6 +41,7 @@
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Welcome.jsx" timestamp="1520997810832">
         <mark key="'" line="11" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/db/schema.rb" timestamp="1521170397948" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/actions/SubmitAnswerActionsCreate.js" timestamp="1521106493993">
         <mark key="[" line="39" column="22" />
         <mark key="]" line="39" column="24" />
@@ -94,8 +95,11 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1521169746080">
+      <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1521170378094">
         <mark key="[" line="38" column="23" />
+        <mark key="]" line="12" column="30" />
+        <mark key="^" line="12" column="30" />
+        <mark key="." line="12" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/application.rb" timestamp="1517393645806">
         <mark key="[" line="18" column="71" />
