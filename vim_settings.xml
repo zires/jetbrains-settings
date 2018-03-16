@@ -32,18 +32,24 @@
       <file name="$USER_HOME$/Documents/sesame/db/schema.rb" timestamp="1521172062520">
         <mark key="'" line="94" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/actions/SubmitAnswerActionsCreate.js" timestamp="1521106493993">
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/actions/SubmitAnswerActionsCreate.js" timestamp="1521200668899">
         <mark key="[" line="39" column="22" />
         <mark key="]" line="39" column="24" />
         <mark key="^" line="39" column="24" />
         <mark key="." line="39" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/_show.json.jbuilder" timestamp="1521191895066" />
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/containers/SubmitAnswerContainer.jsx" timestamp="1520921516776">
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/containers/SubmitAnswerContainer.jsx" timestamp="1521198336164">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="26" />
         <mark key="." line="8" column="26" />
         <mark key="^" line="8" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/reducers/SubmitAnswerReducer.js" timestamp="1521200038358">
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="6" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/questions/states.rb" timestamp="1521172182091" />
       <file name="$USER_HOME$/Documents/sesame/app/jobs/unified_log_job.rb" timestamp="1521169260700" />
@@ -61,6 +67,9 @@
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/sessions_controller.rb" timestamp="1521195656675">
         <mark key="'" line="66" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/AnswerEditor.jsx" timestamp="1521197831371">
+        <mark key="'" line="113" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/sessions_controller.rb" timestamp="1520922107852">
         <mark key="[" line="6" column="55" />
@@ -121,7 +130,7 @@
         <mark key="^" line="20" column="72" />
         <mark key="." line="20" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521196679577">
+      <file name="/Dummy.txt" timestamp="1521200039325">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/parse_answer_job.rb" timestamp="1521192789878" />
@@ -131,6 +140,12 @@
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" timestamp="1521200770411">
+        <mark key="'" line="135" column="14" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/components/Question.jsx" timestamp="1521190224684" />
       <file name="$USER_HOME$/Documents/sesame/app/models/invite.rb" timestamp="1520928867891">
         <mark key="[" line="5" column="0" />
@@ -138,7 +153,7 @@
         <mark key="^" line="4" column="60" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/actions/answerDetailActionCreators.jsx" timestamp="1521196710054" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/actions/answerDetailActionCreators.jsx" timestamp="1521200444004" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/comments_controller.rb" timestamp="1520924707449">
         <mark key="[" line="47" column="35" />
         <mark key="]" line="48" column="20" />
@@ -156,18 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="482" column="26" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
-      <jump line="182" column="60" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
-      <jump line="263" column="40" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
-      <jump line="505" column="8" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
-      <jump line="287" column="37" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
-      <jump line="290" column="31" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
-      <jump line="291" column="19" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
-      <jump line="297" column="22" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
-      <jump line="299" column="43" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
-      <jump line="302" column="34" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
-      <jump line="479" column="8" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
-      <jump line="486" column="8" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
       <jump line="489" column="13" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
       <jump line="497" column="6" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
       <jump line="498" column="6" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
@@ -249,65 +252,77 @@
       <jump line="105" column="39" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
       <jump line="96" column="8" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
       <jump line="98" column="6" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
-      <jump line="100" column="6" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
-      <jump line="39" column="29" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
-      <jump line="52" column="31" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
       <jump line="42" column="2" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
       <jump line="81" column="31" filename="$USER_HOME$/Documents/sesame/app/controllers/api/users_controller.rb" />
       <jump line="94" column="16" filename="$USER_HOME$/Documents/sesame/db/schema.rb" />
       <jump line="66" column="8" filename="$USER_HOME$/Documents/sesame/app/controllers/api/sessions_controller.rb" />
+      <jump line="166" column="26" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
+      <jump line="170" column="27" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
+      <jump line="23" column="82" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
+      <jump line="38" column="13" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
+      <jump line="39" column="45" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
+      <jump line="51" column="20" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
+      <jump line="52" column="52" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
+      <jump line="100" column="70" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
+      <jump line="108" column="39" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
+      <jump line="121" column="75" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
+      <jump line="41" column="53" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
+      <jump line="49" column="43" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
+      <jump line="102" column="2" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
+      <jump line="110" column="13" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
+      <jump line="139" column="14" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBBdXRvVGFnZ2luZ1NlcnZpY2UucGFyc2UocXVlc3Rpb24udGl0bGUsIHF1ZXN0aW9uLmNvbnRlbnQpCiAgICBRdWVzdGlvbnM6OkF1dG9UYWdnaW5nLnJ1bihxdWVzdGlvbjogcXVlc3Rpb24sIGRhdGE6IGRhdGEpCg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>AutoTaggingJob</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNldF9zb3JjZXJ5X3Nlc3Npb25cPg==</text>
+        <text encoding="base64">XDxmZXRjaEFuc3dlckRldGFpbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgQGNvbW1lbnRzID0gQHVzZXIuY29tbWVudHMuYXBwcm92ZWQub3JkZXIoJ2NyZWF0ZWRfYXQgREVTQycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBBdXRvVGFnZ2luZ1NlcnZpY2UucGFyc2UocXVlc3Rpb24udGl0bGUsIHF1ZXN0aW9uLmNvbnRlbnQpCiAgICBRdWVzdGlvbnM6OkF1dG9UYWdnaW5nLnJ1bihxdWVzdGlvbjogcXVlc3Rpb24sIGRhdGE6IGRhdGEpCg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCiAgICBpZiAodGhpcy5pc0VkaXQoKSkgewo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpc0VkaXQoKSB7CiAgICByZXR1cm4gISF0aGlzLnByb3BzLm1hdGNoLnBhcmFtcy5hbnN3ZXJJZAogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCB0ZW1wQW5zd2VyCiAgICBpZiAodGhpcy5wcm9wcy5tYXRjaC5wYXJhbXMuYW5zd2VySWQpIHsKICAgICAgdGVtcEFuc3dlciA9IHRoaXMuYW5zd2VyIHx8IHRoaXMucHJvcHMuYW5zd2VyCiAgICB9IGVsc2UgewogICAgICB0ZW1wQW5zd2VyID0gbnVsbAogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcnkgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNldF9zb3JjZXJ5X3Nlc3Npb25cPg==</last-search>
+      <last-search encoding="base64">XDxmZXRjaEFuc3dlckRldGFpbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNldF9zb3JjZXJ5X3Nlc3Npb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmZXRjaEFuc3dlckRldGFpbFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -331,12 +346,15 @@
         <entry encoding="base64">XDxjb21tZW50VG9Vc2VyXD4=</entry>
         <entry encoding="base64">XDxBbnN3ZXJFZGl0b3JcPg==</entry>
         <entry encoding="base64">XDxhbnN3ZXJFZGl0b3JcPg==</entry>
-        <entry encoding="base64">XDxhbnN3ZXJcPg==</entry>
         <entry encoding="base64">XDx0ZW1wQW5zd2VyXD4=</entry>
         <entry encoding="base64">XDxzZXRDb250ZW50XD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVQYWdlQ2xpY2tTdWJtaXRcPg==</entry>
         <entry encoding="base64">XDxvbmxpbmVkX2F0XD4=</entry>
         <entry encoding="base64">XDxyZXNldF9zb3JjZXJ5X3Nlc3Npb25cPg==</entry>
+        <entry encoding="base64">XDxhbnN3ZXJcPg==</entry>
+        <entry encoding="base64">XDxhbnN3ZXJJZFw+</entry>
+        <entry encoding="base64">XDxpc09mZmxpbmVRdWVzdGlvblw+</entry>
+        <entry encoding="base64">XDxmZXRjaEFuc3dlckRldGFpbFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
