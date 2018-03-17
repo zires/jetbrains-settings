@@ -30,11 +30,18 @@
       <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sorcery-0.11.0/lib/sorcery/controller.rb" timestamp="1520936729439">
         <mark key="'" line="83" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" timestamp="1521296682030" />
       <file name="$USER_HOME$/Documents/sesame/app/models/comment.rb" timestamp="1521112496285">
         <mark key="[" line="13" column="18" />
         <mark key="]" line="13" column="17" />
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/authorization.rb" timestamp="1521297011078">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="41" />
+        <mark key="^" line="9" column="41" />
+        <mark key="." line="9" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/.env" timestamp="1520927578217">
         <mark key="[" line="10" column="0" />
@@ -66,11 +73,11 @@
         <mark key="^" line="42" column="46" />
         <mark key="." line="42" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/wifikey_helper.js" timestamp="1520921465638">
-        <mark key="[" line="18" column="39" />
-        <mark key="]" line="18" column="39" />
-        <mark key="^" line="18" column="39" />
-        <mark key="." line="18" column="39" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/wifikey_helper.js" timestamp="1521296888801">
+        <mark key="[" line="5" column="118" />
+        <mark key="]" line="5" column="121" />
+        <mark key="^" line="5" column="121" />
+        <mark key="." line="5" column="121" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/audit_edit_answer_job.rb" timestamp="1520999574009">
         <mark key="[" line="6" column="4" />
