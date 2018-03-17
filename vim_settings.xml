@@ -179,6 +179,12 @@
         <mark key="^" line="4" column="60" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/sync.rake" timestamp="1521303325736">
+        <mark key="[" line="16" column="9" />
+        <mark key="]" line="16" column="9" />
+        <mark key="^" line="28" column="109" />
+        <mark key="." line="16" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/auth_controller.rb" timestamp="1521300651633">
         <mark key="[" line="8" column="54" />
         <mark key="]" line="9" column="16" />
@@ -305,13 +311,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://wifi30.51y5.net</text>
+        <text>.</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>https://wifi30.51y5.net</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZXRjaEFuc3dlckRldGFpbFw+</text>
@@ -320,31 +326,31 @@
         <text encoding="base64">ICAgICAgQGNvbW1lbnRzID0gQHVzZXIuY29tbWVudHMuYXBwcm92ZWQub3JkZXIoJ2NyZWF0ZWRfYXQgREVTQycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL2FkZC1uaWNrbmFtZQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBnZXQgJy9xdWVzdGlvbnMvOmlkL2Fuc3dlci86aWQvZWRpdGVkJywgdG86ICdxdWVzdGlvbnMjYW5zd2VyX2VkaXRlZCcK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb3VudCArPSAxCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHVybE5hbWUgPSBgL3F1ZXN0aW9ucy8ke3F1ZXN0aW9uLmlkfS9hbnN3ZXIvbmV3YAogICAgLy8gY29uc3QgQW5zd2VyRWRpdFVybE5hbWUgPSBgL3F1ZXN0aW9ucy8ke3F1ZXN0aW9uLmlkfS9hbnN3ZXIvJHthbnN3ZXIuaWR9L2VkaXRgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL2FkZC1uaWNrbmFtZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
