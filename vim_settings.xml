@@ -84,11 +84,11 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/users/_show.json.jbuilder" timestamp="1521292803331">
-        <mark key="[" line="1" column="88" />
-        <mark key="]" line="2" column="24" />
-        <mark key="^" line="2" column="24" />
-        <mark key="." line="2" column="24" />
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/users/_show.json.jbuilder" timestamp="1521293794800">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="0" column="43" />
+        <mark key="^" line="0" column="43" />
+        <mark key="." line="0" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1521084377895">
         <mark key="'" line="68" column="8" />
@@ -129,11 +129,11 @@
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" timestamp="1521200770411">
         <mark key="'" line="135" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/base/_user.json.jb" timestamp="1521292805852">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="28" />
-        <mark key="^" line="2" column="28" />
-        <mark key="." line="2" column="28" />
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/base/_user.json.jb" timestamp="1521293759155">
+        <mark key="[" line="0" column="55" />
+        <mark key="]" line="0" column="55" />
+        <mark key="^" line="0" column="55" />
+        <mark key="." line="0" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/invite.rb" timestamp="1520928867891">
         <mark key="[" line="5" column="0" />
@@ -148,9 +148,9 @@
         <mark key="^" line="8" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/routes.rb" timestamp="1521293096707">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/reducers/SubmitAnswerReducer.js" timestamp="1521200038358">
         <mark key="[" line="5" column="48" />
@@ -183,11 +183,7 @@
         <mark key="." line="3" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" timestamp="1521293068400">
-        <mark key="'" line="547" column="0" />
-        <mark key="[" line="431" column="83" />
-        <mark key="]" line="432" column="3" />
-        <mark key="." line="432" column="3" />
-        <mark key="^" line="432" column="3" />
+        <mark key="'" line="539" column="0" />
       </file>
     </filemarks>
     <jumps>
