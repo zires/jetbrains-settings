@@ -179,11 +179,10 @@
         <mark key="^" line="4" column="60" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/tasks/sync.rake" timestamp="1521303325736">
-        <mark key="[" line="16" column="9" />
-        <mark key="]" line="16" column="9" />
-        <mark key="^" line="28" column="109" />
-        <mark key="." line="16" column="9" />
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/sync.rake" timestamp="1521304408611">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/auth_controller.rb" timestamp="1521300651633">
         <mark key="[" line="8" column="54" />
@@ -310,8 +309,8 @@
       <jump line="547" column="0" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyLnNhdmUhCiAgICAgICAgY291bnQgKz0gMQo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -323,34 +322,34 @@
         <text encoding="base64">XDxmZXRjaEFuc3dlckRldGFpbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgQGNvbW1lbnRzID0gQHVzZXIuY29tbWVudHMuYXBwcm92ZWQub3JkZXIoJ2NyZWF0ZWRfYXQgREVTQycpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCArPSAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLnNhdmUhCiAgICAgICAgY291bnQgKz0gMQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB1c2VyLnZhbGlkPwogICAgICAgICAgdXNlci4KICAgICAgICBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudCArPSAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCArPSAxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
