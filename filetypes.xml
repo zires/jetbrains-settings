@@ -6,6 +6,7 @@
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="jb" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
