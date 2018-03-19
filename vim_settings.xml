@@ -164,10 +164,11 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/tasks/sync.rake" timestamp="1521384086507">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/sync.rake" timestamp="1521389774664">
+        <mark key="[" line="3" column="62" />
+        <mark key="]" line="4" column="23" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1521292677347">
         <mark key="[" line="109" column="0" />
@@ -307,13 +308,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLnNhdmUhCiAgICAgICAgY291bnQgKz0gMQo=</text>
+        <text encoding="base64">CiAgICAjIEF1dGhvcml6YXRpb24ud2hlcmUodW5pb25faWQ6IG5pbCwgcHJvdmlkZXI6ICd3aWZpa2V5JykubGltaXQoMTAwMDAwKS5maW5kX2VhY2ggZG8gfGF1dGh8CiAgICAjICAgb3V0Y29tZSA9IEZldGNoVW5pb25JZENvbW1hbmQucnVuKG9pZDogYXV0aC51aWQpCiAgICAjICAgaWYgb3V0Y29tZS5zdWNjZXNzPwogICAgIyAgICAgYXV0aC51cGRhdGVfY29sdW1uKDp1bmlvbl9pZCwgb3V0Y29tZS5yZXN1bHQpCiAgICAjICAgZW5kCiAgICAjIGVuZAo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">YXV0aC5wcm92aWRlciAhPSAnd2lmaWtleScgfHwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZXRjaEFuc3dlckRldGFpbFw+</text>
@@ -322,13 +323,13 @@
         <text encoding="base64">ICAgICAgICBjb3VudCArPSAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLnNhdmUhCiAgICAgICAgY291bnQgKz0gMQo=</text>
+        <text encoding="base64">CiAgICAjIEF1dGhvcml6YXRpb24ud2hlcmUodW5pb25faWQ6IG5pbCwgcHJvdmlkZXI6ICd3aWZpa2V5JykubGltaXQoMTAwMDAwKS5maW5kX2VhY2ggZG8gfGF1dGh8CiAgICAjICAgb3V0Y29tZSA9IEZldGNoVW5pb25JZENvbW1hbmQucnVuKG9pZDogYXV0aC51aWQpCiAgICAjICAgaWYgb3V0Y29tZS5zdWNjZXNzPwogICAgIyAgICAgYXV0aC51cGRhdGVfY29sdW1uKDp1bmlvbl9pZCwgb3V0Y29tZS5yZXN1bHQpCiAgICAjICAgZW5kCiAgICAjIGVuZAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB1c2VyLnZhbGlkPwogICAgICAgICAgdXNlci4KICAgICAgICBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -340,13 +341,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudCArPSAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
