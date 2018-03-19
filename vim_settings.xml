@@ -50,6 +50,12 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/edit_answer.rb" timestamp="1521429917935">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="43" column="14" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1521300385803">
         <mark key="[" line="39" column="23" />
         <mark key="]" line="39" column="29" />
@@ -119,7 +125,7 @@
       <file name="$USER_HOME$/Documents/sesame/db/schema.rb" timestamp="1521172062520">
         <mark key="'" line="94" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521300352802">
+      <file name="/Dummy.txt" timestamp="1521429721925">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/actions/SubmitAnswerActionsCreate.js" timestamp="1521200668899">
@@ -312,14 +318,14 @@
       <jump line="132" column="8" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Header.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAjIEF1dGhvcml6YXRpb24ud2hlcmUodW5pb25faWQ6IG5pbCwgcHJvdmlkZXI6ICd3aWZpa2V5JykubGltaXQoMTAwMDAwKS5maW5kX2VhY2ggZG8gfGF1dGh8CiAgICAjICAgb3V0Y29tZSA9IEZldGNoVW5pb25JZENvbW1hbmQucnVuKG9pZDogYXV0aC51aWQpCiAgICAjICAgaWYgb3V0Y29tZS5zdWNjZXNzPwogICAgIyAgICAgYXV0aC51cGRhdGVfY29sdW1uKDp1bmlvbl9pZCwgb3V0Y29tZS5yZXN1bHQpCiAgICAjICAgZW5kCiAgICAjIGVuZAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXV0aC5wcm92aWRlciAhPSAnd2lmaWtleScgfHwg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZXRjaEFuc3dlckRldGFpbFw+</text>
