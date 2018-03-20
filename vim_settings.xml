@@ -47,11 +47,11 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1521300385803">
-        <mark key="[" line="39" column="23" />
-        <mark key="]" line="39" column="29" />
-        <mark key="^" line="39" column="29" />
-        <mark key="." line="39" column="29" />
+      <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1521544207537">
+        <mark key="[" line="37" column="32" />
+        <mark key="]" line="38" column="19" />
+        <mark key="^" line="38" column="19" />
+        <mark key="." line="38" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/PersonalSpace/components/PersonalSpace.jsx" timestamp="1521453839771">
         <mark key="'" line="159" column="33" />
@@ -74,11 +74,11 @@
         <mark key="^" line="42" column="46" />
         <mark key="." line="42" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/order.rb" timestamp="1521538917646">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="35" />
-        <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="35" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/order.rb" timestamp="1521544409432">
+        <mark key="[" line="10" column="106" />
+        <mark key="]" line="10" column="129" />
+        <mark key="^" line="10" column="129" />
+        <mark key="." line="10" column="129" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/wifikey_helper.js" timestamp="1521296888801">
         <mark key="[" line="5" column="118" />
@@ -103,6 +103,12 @@
         <mark key="]" line="3" column="12" />
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1521544185609">
+        <mark key="[" line="49" column="20" />
+        <mark key="]" line="49" column="19" />
+        <mark key="^" line="49" column="19" />
+        <mark key="." line="49" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/edit_answers/create.rb" timestamp="1520999639356">
         <mark key="[" line="23" column="0" />
@@ -170,7 +176,7 @@
         <mark key="." line="109" column="0" />
         <mark key="^" line="111" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/orders_controller.rb" timestamp="1521538777545">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/orders_controller.rb" timestamp="1521544128855">
         <mark key="'" line="9" column="62" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="37" />
@@ -209,6 +215,12 @@
         <mark key="]" line="3" column="36" />
         <mark key="^" line="3" column="36" />
         <mark key="." line="3" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/config/settings/staging.yml" timestamp="1521544194355">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -315,7 +327,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHQgPSBUaW1lLm5vdwogICAgYmF0Y2hfbm8gPSB0LnN0cmZ0aW1lKCclWSVtJWQlSCVNJVMlTicpCg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -330,28 +342,28 @@
         <text encoding="base64">ICBjYWNoZV9iZWxvbmdzX3RvIDp1c2VyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHQgPSBUaW1lLm5vdwogICAgYmF0Y2hfbm8gPSB0LnN0cmZ0aW1lKCclWSVtJWQlSCVNJVMlTicpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9yZGVyLnBheW1lbnRzID0gcGF5bWVudHMK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uLnF1ZXN0aW9uCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIG9yZGVyLnBheW1lbnRzID0gcGF5bWVudHMK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBqc29uLnF1ZXN0aW9uCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAjIEF1dGhvcml6YXRpb24ud2hlcmUodW5pb25faWQ6IG5pbCwgcHJvdmlkZXI6ICd3aWZpa2V5JykubGltaXQoMTAwMDAwKS5maW5kX2VhY2ggZG8gfGF1dGh8CiAgICAjICAgb3V0Y29tZSA9IEZldGNoVW5pb25JZENvbW1hbmQucnVuKG9pZDogYXV0aC51aWQpCiAgICAjICAgaWYgb3V0Y29tZS5zdWNjZXNzPwogICAgIyAgICAgYXV0aC51cGRhdGVfY29sdW1uKDp1bmlvbl9pZCwgb3V0Y29tZS5yZXN1bHQpCiAgICAjICAgZW5kCiAgICAjIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAjIEF1dGhvcml6YXRpb24ud2hlcmUodW5pb25faWQ6IG5pbCwgcHJvdmlkZXI6ICd3aWZpa2V5JykubGltaXQoMTAwMDAwKS5maW5kX2VhY2ggZG8gfGF1dGh8CiAgICAjICAgb3V0Y29tZSA9IEZldGNoVW5pb25JZENvbW1hbmQucnVuKG9pZDogYXV0aC51aWQpCiAgICAjICAgaWYgb3V0Y29tZS5zdWNjZXNzPwogICAgIyAgICAgYXV0aC51cGRhdGVfY29sdW1uKDp1bmlvbl9pZCwgb3V0Y29tZS5yZXN1bHQpCiAgICAjICAgZW5kCiAgICAjIGVuZAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
