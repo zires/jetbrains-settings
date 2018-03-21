@@ -129,11 +129,11 @@
         <mark key="." line="6" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/database.yml" timestamp="1521533215133" />
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/concerns/utm_invite.rb" timestamp="1521623004139">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-        <mark key="^" line="0" column="15" />
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/concerns/utm_invite.rb" timestamp="1521627137178">
+        <mark key="[" line="6" column="74" />
+        <mark key="]" line="6" column="69" />
+        <mark key="." line="6" column="69" />
+        <mark key="^" line="6" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/comment.rb" timestamp="1521514511226">
         <mark key="[" line="15" column="24" />
@@ -206,7 +206,7 @@
         <mark key="^" line="36" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1521524355080" />
-      <file name="/Dummy.txt" timestamp="1521615427897">
+      <file name="/Dummy.txt" timestamp="1521626906534">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/comments.json.jbuilder" timestamp="1521523405113">
@@ -234,11 +234,11 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/_show.json.jbuilder" timestamp="1521514780002" />
-      <file name="$USER_HOME$/Documents/sesame-api/db/migrate/20180321091524_add_aasm_state_to_releases.rb" timestamp="1521623738960">
-        <mark key="[" line="2" column="46" />
-        <mark key="]" line="2" column="58" />
-        <mark key="^" line="2" column="58" />
-        <mark key="." line="2" column="58" />
+      <file name="$USER_HOME$/Documents/sesame-api/db/migrate/20180321091524_add_aasm_state_to_releases.rb" timestamp="1521627326251">
+        <mark key="[" line="2" column="59" />
+        <mark key="]" line="2" column="78" />
+        <mark key="^" line="2" column="78" />
+        <mark key="." line="2" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/Gemfile" timestamp="1521623571707" />
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/sync.rake" timestamp="1521427012838">
