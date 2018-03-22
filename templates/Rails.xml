@@ -12,6 +12,7 @@
       <option name="JAVA_CODE" value="false" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
     </context>
   </template>
 </templateSet>
