@@ -62,7 +62,7 @@
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1521623026403">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1521701591169">
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="20" />
         <mark key="^" line="5" column="20" />
@@ -87,13 +87,14 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="8" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/lib/utils/json_web_token.rb" timestamp="1521701945038" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/reducers/SubmitAnswerReducer.js" timestamp="1521200038358">
         <mark key="[" line="5" column="48" />
         <mark key="]" line="6" column="13" />
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1521622567703">
+      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1521702024175">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
@@ -105,7 +106,7 @@
         <mark key="^" line="70" column="53" />
         <mark key="." line="70" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame-api/app/controllers/admin/releases_controller.rb" timestamp="1521689305612">
+      <file name="$USER_HOME$/Documents/sesame-api/app/controllers/admin/releases_controller.rb" timestamp="1521702066833">
         <mark key="'" line="72" column="8" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -212,7 +213,7 @@
         <mark key="^" line="36" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1521524355080" />
-      <file name="/Dummy.txt" timestamp="1521626906534">
+      <file name="/Dummy.txt" timestamp="1521702025027">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/comments.json.jbuilder" timestamp="1521523405113">
