@@ -216,7 +216,6 @@
         <mark key="^" line="5" column="121" />
         <mark key="." line="5" column="121" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/inner/welcome_controller.rb" timestamp="1521711442873" />
       <file name="$USER_HOME$/Documents/sesame/app/jobs/daily_bonus_answers_job.rb" timestamp="1521189599755">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="12" />
@@ -324,12 +323,12 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/jobs/create_invite_job.rb" timestamp="1521622872792">
-        <mark key="'" line="6" column="40" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="7" column="75" />
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/create_invite_job.rb" timestamp="1521803694616">
+        <mark key="'" line="7" column="40" />
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/settings/staging.yml" timestamp="1521705935613">
         <mark key="[" line="15" column="19" />
@@ -494,12 +493,10 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbmxpbmVkX2F0XD4=</entry>
-        <entry encoding="base64">XDxyZXNldF9zb3JjZXJ5X3Nlc3Npb25cPg==</entry>
         <entry encoding="base64">XDxhbnN3ZXJcPg==</entry>
         <entry encoding="base64">XDxhbnN3ZXJJZFw+</entry>
         <entry encoding="base64">XDxpc09mZmxpbmVRdWVzdGlvblw+</entry>
