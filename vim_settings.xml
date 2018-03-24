@@ -3,14 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1521380646082">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/sms_auth_command.rb" timestamp="1520924797599">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen.rb" timestamp="1520577765977">
         <mark key="[" line="113" column="35" />
         <mark key="]" line="113" column="46" />
@@ -22,19 +14,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workplace/hera/src/cellsMapper.js" timestamp="1521796271028" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/sessions_controller.rb" timestamp="1520922107852">
         <mark key="[" line="6" column="55" />
         <mark key="]" line="6" column="53" />
         <mark key="^" line="6" column="53" />
         <mark key="." line="6" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" timestamp="1520921452052">
-        <mark key="'" line="145" column="79" />
-        <mark key="[" line="90" column="2" />
-        <mark key="]" line="90" column="3" />
-        <mark key="." line="90" column="3" />
-        <mark key="^" line="90" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" timestamp="1520849279259">
         <mark key="'" line="108" column="9" />
@@ -56,23 +40,17 @@
         <mark key="^" line="51" column="39" />
         <mark key="." line="51" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/containers/SubmitAnswerContainer.jsx" timestamp="1520921516776">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="26" />
-        <mark key="." line="8" column="26" />
-        <mark key="^" line="8" column="26" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/matrix.js" timestamp="1521903659557">
+        <mark key="[" line="12" column="52" />
+        <mark key="]" line="13" column="38" />
+        <mark key="^" line="13" column="38" />
+        <mark key="." line="13" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" timestamp="1520840994083">
-        <mark key="[" line="18" column="88" />
-        <mark key="]" line="18" column="86" />
-        <mark key="^" line="18" column="86" />
-        <mark key="." line="18" column="86" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/reducers/SubmitAnswerReducer.js" timestamp="1520845627666">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="20" column="46" />
+      <file name="$USER_HOME$/Documents/workplace/hera/src/initialState.js" timestamp="1521903705422">
+        <mark key="[" line="75" column="16" />
+        <mark key="]" line="76" column="82" />
+        <mark key="^" line="76" column="82" />
+        <mark key="." line="76" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/application.rb" timestamp="1517393645806">
         <mark key="[" line="18" column="71" />
@@ -80,22 +58,11 @@
       <file name="$USER_HOME$/Documents/sesame/.rubocop.yml" timestamp="1518083077376">
         <mark key="[" line="15" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/wepy/myproject/src/app.wpy" timestamp="1521381696807">
-        <mark key="[" line="40" column="17" />
-        <mark key="]" line="40" column="16" />
-        <mark key="." line="40" column="16" />
-        <mark key="^" line="40" column="16" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/wifikey_helper.js" timestamp="1520921465638">
         <mark key="[" line="18" column="39" />
         <mark key="]" line="18" column="39" />
         <mark key="^" line="18" column="39" />
         <mark key="." line="18" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1520913884916">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1520495121686">
         <mark key="[" line="13" column="26" />
@@ -119,18 +86,68 @@
       <file name="$USER_HOME$/Documents/wepy/myproject/src/pages/index.wpy.bak" timestamp="1521380495194">
         <mark key="'" line="16" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/comments_controller.rb" timestamp="1520924707449">
-        <mark key="[" line="47" column="35" />
-        <mark key="]" line="48" column="20" />
-        <mark key="." line="48" column="20" />
-        <mark key="^" line="48" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/QuestionsCommit/components/QuestionsCommit.jsx" timestamp="1520921626228">
         <mark key="'" line="6" column="69" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="6" column="69" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1521380646082">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/commands/sms_auth_command.rb" timestamp="1520924797599">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" timestamp="1520921452052">
+        <mark key="'" line="145" column="79" />
+        <mark key="[" line="90" column="2" />
+        <mark key="]" line="90" column="3" />
+        <mark key="." line="90" column="3" />
+        <mark key="^" line="90" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/workplace/hera/src/components/cells/AttachmentCell.js" timestamp="1521903737678">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/containers/SubmitAnswerContainer.jsx" timestamp="1520921516776">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" timestamp="1520840994083">
+        <mark key="[" line="18" column="88" />
+        <mark key="]" line="18" column="86" />
+        <mark key="^" line="18" column="86" />
+        <mark key="." line="18" column="86" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/reducers/SubmitAnswerReducer.js" timestamp="1520845627666">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="20" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/wepy/myproject/src/app.wpy" timestamp="1521381696807">
+        <mark key="[" line="40" column="17" />
+        <mark key="]" line="40" column="16" />
+        <mark key="." line="40" column="16" />
+        <mark key="^" line="40" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1520913884916">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/comments_controller.rb" timestamp="1520924707449">
+        <mark key="[" line="47" column="35" />
+        <mark key="]" line="48" column="20" />
+        <mark key="." line="48" column="20" />
+        <mark key="^" line="48" column="20" />
       </file>
     </filemarks>
     <jumps>
