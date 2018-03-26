@@ -221,10 +221,10 @@
         <mark key="^" line="3" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1522047790626">
-        <mark key="[" line="49" column="20" />
-        <mark key="]" line="49" column="19" />
-        <mark key="^" line="49" column="19" />
-        <mark key="." line="49" column="19" />
+        <mark key="[" line="50" column="20" />
+        <mark key="]" line="50" column="19" />
+        <mark key="^" line="50" column="19" />
+        <mark key="." line="50" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/edit_answers/create.rb" timestamp="1521712903489">
         <mark key="[" line="23" column="0" />
@@ -335,16 +335,15 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" timestamp="1522051769336">
+        <mark key="'" line="414" column="13" />
+        <mark key="[" line="407" column="98" />
+        <mark key="]" line="407" column="104" />
+        <mark key="^" line="407" column="104" />
+        <mark key="." line="407" column="104" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="9" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" />
-      <jump line="7" column="69" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/QuestionsCommit/components/QuestionsCommit.jsx" />
-      <jump line="64" column="6" filename="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/sesame/lib/tasks/sms.rake" />
-      <jump line="55" column="10" filename="$USER_HOME$/Documents/sesame/lib/tasks/sms.rake" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/sesame/lib/tasks/sms.rake" />
-      <jump line="125" column="10" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sorcery-0.11.0/lib/sorcery/controller.rb" />
-      <jump line="83" column="48" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sorcery-0.11.0/lib/sorcery/controller.rb" />
       <jump line="60" column="6" filename="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" />
       <jump line="63" column="8" filename="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" />
       <jump line="11" column="9" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Welcome.jsx" />
@@ -437,6 +436,14 @@
       <jump line="40" column="9" filename="$USER_HOME$/Documents/sesame/Capfile" />
       <jump line="62" column="6" filename="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" />
       <jump line="11" column="17" filename="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" />
+      <jump line="346" column="25" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
+      <jump line="391" column="39" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
+      <jump line="392" column="76" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
+      <jump line="403" column="29" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
+      <jump line="405" column="71" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
+      <jump line="407" column="69" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
+      <jump line="387" column="2" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
+      <jump line="414" column="13" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -449,7 +456,7 @@
         <text>cookies[:_token].blank?</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRfdXNlcl90b2tlblw+</text>
+        <text encoding="base64">XDxpc0RyYWZ0ZWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkZWYgZGV2X2tleQogICAgPDwtRU9GCi0tLS0tQkVHSU4gUFVCTElDIEtFWS0tLS0tCk1JR2ZNQTBHQ1NxR1NJYjNEUUVCQVFVQUE0R05BRENCaVFLQmdRRE5HdWs2NjkwTzNwYlA1MGxXRHVJNlpWUEIKYXZkOFMwalpGRFFha3BIK2srSkJWUU05MXdZRTUreHAzb1ZJQXMxOU8wbkJFMGFWVWpvME9YUjRWV0RSdlUwQQpKdDB3R2JFUGF1RWg1cEZCMHZ6Rm5vVmVjU0NadzFSQjZGY3lSVGx2dkxJZGduODg2aVBueEpPMHNiRiswb0RECnU0Y1ZleTFEejNQV0NRUDFid0lEQVFBQgotLS0tLUVORCBQVUJMSUMgS0VZLS0tLS0KICAgIEVPRgogIGVuZAo=</text>
@@ -486,9 +493,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRfdXNlcl90b2tlblw+</last-search>
+      <last-search encoding="base64">XDxpc0RyYWZ0ZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRfdXNlcl90b2tlblw+</last-pattern>
+      <last-pattern encoding="base64">XDxpc0RyYWZ0ZWRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -519,6 +526,8 @@
         <entry encoding="base64">XDxuZXdyZWxpY19ycG1cPg==</entry>
         <entry encoding="base64">XDxuZXdfcmVsaWNcPg==</entry>
         <entry encoding="base64">XDxzZXRfdXNlcl90b2tlblw+</entry>
+        <entry encoding="base64">XDxhYXNtX3N0YXRlXD4=</entry>
+        <entry encoding="base64">XDxpc0RyYWZ0ZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
