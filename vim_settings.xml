@@ -64,7 +64,7 @@
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1521716115435">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1522057613721">
         <mark key="'" line="76" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/QuestionsCommit/components/ImgUpload.jsx" timestamp="1521716377753">
@@ -231,9 +231,6 @@
         <mark key="]" line="24" column="49" />
         <mark key="^" line="24" column="49" />
         <mark key="." line="24" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/dc/welcome_controller.rb" timestamp="1521711468273">
-        <mark key="'" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/states.rb" timestamp="1522048079389">
         <mark key="[" line="20" column="74" />
