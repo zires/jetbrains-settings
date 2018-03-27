@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180316034530_add_onlined_at_to_answers.rb" timestamp="1521172021495">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+      </file>
       <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sorcery-0.11.0/lib/sorcery/controller.rb" timestamp="1522135633894">
         <mark key="'" line="82" column="53" />
         <mark key="[" line="135" column="73" />
@@ -17,14 +23,92 @@
         <mark key="^" line="68" column="51" />
         <mark key="." line="68" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/authorization.rb" timestamp="1521300984292">
+        <mark key="[" line="9" column="44" />
+        <mark key="]" line="9" column="65" />
+        <mark key="^" line="9" column="65" />
+        <mark key="." line="9" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/edit_answer.rb" timestamp="1521439219640">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="43" column="14" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180321074648_add_index_on_incomes.rb" timestamp="1521622394292">
+        <mark key="[" line="2" column="43" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+        <mark key="^" line="2" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame-api/app/models/release.rb" timestamp="1521707967726">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/.rubocop.yml" timestamp="1521716291150">
+        <mark key="[" line="117" column="9" />
+        <mark key="]" line="121" column="33" />
+        <mark key="^" line="121" column="33" />
+        <mark key="." line="121" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/administrator/questions_controller.rb" timestamp="1521098278216">
+        <mark key="[" line="40" column="23" />
+        <mark key="]" line="42" column="46" />
+        <mark key="^" line="42" column="46" />
+        <mark key="." line="42" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/audit_edit_answer_job.rb" timestamp="1520999574009">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="6" column="82" />
+        <mark key="." line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/users/_show.json.jbuilder" timestamp="1521293794800">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="0" column="43" />
+        <mark key="^" line="0" column="43" />
+        <mark key="." line="0" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1522134024882">
         <mark key="[" line="80" column="42" />
         <mark key="]" line="80" column="42" />
         <mark key="." line="80" column="42" />
         <mark key="^" line="80" column="57" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/actions/SubmitAnswerActionsCreate.js" timestamp="1521200668899">
+        <mark key="[" line="39" column="22" />
+        <mark key="]" line="39" column="24" />
+        <mark key="^" line="39" column="24" />
+        <mark key="." line="39" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/base/_user.json.jb" timestamp="1521293759155">
+        <mark key="[" line="0" column="55" />
+        <mark key="]" line="0" column="55" />
+        <mark key="^" line="0" column="55" />
+        <mark key="." line="0" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/spec/models/user_spec.rb" timestamp="1521706357011">
+        <mark key="[" line="49" column="28" />
+        <mark key="]" line="49" column="28" />
+        <mark key="." line="49" column="28" />
+        <mark key="^" line="49" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/config/settings/test.yml" timestamp="1521705944375">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="5" column="59" />
+        <mark key="^" line="5" column="59" />
+        <mark key="." line="5" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/Capfile" timestamp="1522047000559">
         <mark key="[" line="39" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/containers/SubmitAnswerContainer.jsx" timestamp="1521198336164">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/lib/utils/json_web_token.rb" timestamp="1522049072110">
         <mark key="'" line="32" column="0" />
@@ -39,6 +123,12 @@
         <mark key="^" line="14" column="70" />
         <mark key="." line="14" column="70" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/reducers/SubmitAnswerReducer.js" timestamp="1521200038358">
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1522130982834">
         <mark key="'" line="112" column="17" />
         <mark key="[" line="26" column="40" />
@@ -46,7 +136,25 @@
         <mark key="." line="26" column="39" />
         <mark key="^" line="26" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Index/index.jsx" timestamp="1521104556519">
+        <mark key="[" line="70" column="48" />
+        <mark key="]" line="70" column="53" />
+        <mark key="^" line="70" column="53" />
+        <mark key="." line="70" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/config/initializers/session_store.rb" timestamp="1522059132742" />
+      <file name="$USER_HOME$/Documents/sesame-api/app/views/admin/releases/index.html.erb" timestamp="1521687601247">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="32" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen.rb" timestamp="1520999168483">
+        <mark key="[" line="123" column="35" />
+        <mark key="]" line="123" column="46" />
+        <mark key="^" line="123" column="46" />
+        <mark key="." line="123" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/sessions_controller.rb" timestamp="1522123569877">
         <mark key="'" line="4" column="44" />
         <mark key="[" line="55" column="45" />
@@ -54,21 +162,89 @@
         <mark key="." line="55" column="45" />
         <mark key="^" line="55" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/sessions_controller.rb" timestamp="1520922107852">
+        <mark key="[" line="6" column="55" />
+        <mark key="]" line="6" column="53" />
+        <mark key="^" line="6" column="53" />
+        <mark key="." line="6" column="53" />
+      </file>
       <file name="/Ruby Console" timestamp="1521706121850">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1522060771409" />
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/concerns/utm_invite.rb" timestamp="1521627137178">
+        <mark key="[" line="6" column="74" />
+        <mark key="]" line="6" column="69" />
+        <mark key="." line="6" column="69" />
+        <mark key="^" line="6" column="69" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/comment.rb" timestamp="1521514511226">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="30" />
+        <mark key="^" line="15" column="30" />
+        <mark key="." line="15" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/config/deploy.rb" timestamp="1522047021286">
         <mark key="[" line="24" column="100" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/bundler/gems/niu-3531a16cc585/lib/niu/ext/browser_app.rb" timestamp="1522136876796" />
+      <file name="$USER_HOME$/Documents/sesame/.env" timestamp="1521533222574">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="12" column="53" />
+        <mark key="^" line="12" column="53" />
+        <mark key="." line="12" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1521544207537">
+        <mark key="[" line="38" column="32" />
+        <mark key="]" line="39" column="19" />
+        <mark key="^" line="39" column="19" />
+        <mark key="." line="39" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/message_to_report_job.rb" timestamp="1522137581756" />
       <file name="$USER_HOME$/Documents/sesame/config/application.rb" timestamp="1517393645806">
         <mark key="[" line="18" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/config/routes/api_routes.rb" timestamp="1521166891344">
+        <mark key="[" line="62" column="25" />
+        <mark key="]" line="63" column="20" />
+        <mark key="^" line="63" column="20" />
+        <mark key="." line="63" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame-api/db/migrate/20180322083640_change_aasm_state_default_value.rb" timestamp="1521707920840">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="2" column="56" />
+        <mark key="^" line="2" column="56" />
+        <mark key="." line="2" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/order.rb" timestamp="1521600474430">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="35" />
+        <mark key="^" line="9" column="35" />
+        <mark key="." line="9" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/wifikey_helper.js" timestamp="1521296888801">
+        <mark key="[" line="5" column="118" />
+        <mark key="]" line="5" column="121" />
+        <mark key="^" line="5" column="121" />
+        <mark key="." line="5" column="121" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/daily_bonus_answers_job.rb" timestamp="1521189599755">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="12" />
+        <mark key="^" line="3" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1522047790626">
         <mark key="[" line="50" column="20" />
         <mark key="]" line="50" column="19" />
         <mark key="^" line="50" column="19" />
         <mark key="." line="50" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/commands/edit_answers/create.rb" timestamp="1521712903489">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="49" />
+        <mark key="^" line="24" column="49" />
+        <mark key="." line="24" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/welcome_controller.rb" timestamp="1522134891901">
         <mark key="'" line="17" column="72" />
@@ -89,14 +265,62 @@
         <mark key="^" line="20" column="72" />
         <mark key="." line="20" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522059570127">
+      <file name="$USER_HOME$/Documents/sesame-api/app/views/admin/releases/_form.html.erb" timestamp="1521625389414">
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="36" column="14" />
+        <mark key="." line="36" column="14" />
+        <mark key="^" line="36" column="14" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1522137960160">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/users/comments.json.jbuilder" timestamp="1521523405113">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="67" />
+        <mark key="." line="10" column="67" />
+        <mark key="^" line="10" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" timestamp="1522138416380">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="^" line="106" column="76" />
+        <mark key="." line="107" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame-api/Gemfile" timestamp="1521623548697">
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="33" column="22" />
+        <mark key="^" line="33" column="22" />
+        <mark key="." line="33" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame-api/app/controllers/releases_controller.rb" timestamp="1521625600565">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="39" />
+        <mark key="^" line="4" column="39" />
+        <mark key="." line="4" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/invite.rb" timestamp="1520928867891">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="60" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame-api/db/migrate/20180321091524_add_aasm_state_to_releases.rb" timestamp="1521707917639">
+        <mark key="[" line="2" column="51" />
+        <mark key="]" line="2" column="55" />
+        <mark key="^" line="2" column="55" />
+        <mark key="." line="2" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/sync.rake" timestamp="1521995843420">
         <mark key="[" line="3" column="62" />
         <mark key="]" line="4" column="23" />
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/spec/requests/api/api_orders_spec.rb" timestamp="1521601101706">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="31" />
+        <mark key="^" line="3" column="31" />
+        <mark key="." line="3" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/public/test.html" timestamp="1522134765616">
         <mark key="'" line="18" column="6" />
@@ -111,6 +335,24 @@
         <mark key="." line="81" column="44" />
         <mark key="^" line="81" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/commands/incomes/create.rb" timestamp="1521513374297">
+        <mark key="[" line="87" column="11" />
+        <mark key="]" line="87" column="33" />
+        <mark key="." line="87" column="33" />
+        <mark key="^" line="87" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/comments_controller.rb" timestamp="1521443007244">
+        <mark key="[" line="47" column="35" />
+        <mark key="]" line="48" column="20" />
+        <mark key="." line="48" column="20" />
+        <mark key="^" line="48" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/user_sessions_controller.rb" timestamp="1521008477948">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="36" />
+        <mark key="^" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/create_invite_job.rb" timestamp="1521803694616">
         <mark key="'" line="7" column="40" />
         <mark key="[" line="4" column="4" />
@@ -119,16 +361,21 @@
         <mark key="^" line="4" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/spec/models/visitor_spec.rb" timestamp="1522050022809" />
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" timestamp="1522051769336">
+      <file name="$USER_HOME$/Documents/sesame/config/settings/staging.yml" timestamp="1522137600393">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="30" />
+        <mark key="^" line="15" column="18" />
+        <mark key="." line="8" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" timestamp="1522137376430">
         <mark key="'" line="414" column="13" />
-        <mark key="[" line="407" column="98" />
-        <mark key="]" line="407" column="104" />
+        <mark key="[" line="427" column="0" />
+        <mark key="]" line="427" column="0" />
         <mark key="^" line="407" column="104" />
-        <mark key="." line="407" column="104" />
+        <mark key="." line="427" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="8" filename="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" />
       <jump line="100" column="19" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/components/MessageList.jsx" />
       <jump line="103" column="20" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/MessageList/components/MessageList.jsx" />
       <jump line="130" column="19" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
@@ -228,58 +475,59 @@
       <jump line="4" column="44" filename="$USER_HOME$/Documents/sesame/app/controllers/api/sessions_controller.rb" />
       <jump line="61" column="8" filename="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" />
       <jump line="17" column="72" filename="$USER_HOME$/Documents/sesame/app/controllers/welcome_controller.rb" />
+      <jump line="106" column="9" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmICgvZWRpdGVkL2cudGVzdCh0aGlzLnByb3BzLm1hdGNoLnVybCkpIHsKICAgICAgdGVtcEFuc3dlciA9IHRoaXMuYW5zd2VyIHx8IHRoaXMucHJvcHMuYW5zd2VyCiAgICB9IGVsc2UgewogICAgICB0ZW1wQW5zd2VyID0gbnVsbAogICAgfQo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dpbl9mcm9tX3Nlc3Npb25cPg==</text>
+        <text encoding="base64">XDxlZGl0ZWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHBvc3QoJ3dpZmlrZXlfdGVzdCcpLnRoZW4oZnVuY3Rpb24gKHJlc3BvbnNlKSB7CiAgICAgICAgICAgIGRpc3BsYXlUZXh0KHJlc3BvbnNlLmRhdGEpCiAgICAgICAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICgvZWRpdGVkL2cudGVzdCh0aGlzLnByb3BzLm1hdGNoLnVybCkpIHsKICAgICAgdGVtcEFuc3dlciA9IHRoaXMuYW5zd2VyIHx8IHRoaXMucHJvcHMuYW5zd2VyCiAgICB9IGVsc2UgewogICAgICB0ZW1wQW5zd2VyID0gbnVsbAogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb2dpbl9mcm9tX3Nlc3Npb24KICAgICAgcHV0cyAiKioqKioqKioqKioqKioqKioqKioqKioqKioqIG5ldyBzZXNzaW9uIGlkICN7c2Vzc2lvbls6dXNlcl9pZF19ICoqKioqKioqKioqKioqKioqIgogICAgICBAY3VycmVudF91c2VyID0gaWYgc2Vzc2lvbls6dXNlcl9pZF0KICAgICAgICAgICAgICAgICAgICAgICAgdXNlcl9jbGFzcy5zb3JjZXJ5X2FkYXB0ZXIuZmluZF9ieV9pZChzZXNzaW9uWzp1c2VyX2lkXSkKICAgICAgICAgICAgICAgICAgICAgIGVuZAogICAgZW5kCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb2dpbl9mcm9tX3Nlc3Npb24KICAgICAgcHV0cyAiKioqKioqKioqKioqKioqKioqKioqKioqKioqIG5ldyBzZXNzaW9uIGlkICN7c2Vzc2lvbls6dXNlcl9pZF19ICoqKioqKioqKioqKioqKioqIgogICAgICBAY3VycmVudF91c2VyID0gaWYgc2Vzc2lvbls6dXNlcl9pZF0KICAgICAgICAgICAgICAgICAgICAgICAgdXNlcl9jbGFzcy5zb3JjZXJ5X2FkYXB0ZXIuZmluZF9ieV9pZChzZXNzaW9uWzp1c2VyX2lkXSkKICAgICAgICAgICAgICAgICAgICAgIGVuZAogICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1gtQ1NSRi1Ub2tlbic6IFJlYWN0T25SYWlscy5hdXRoZW50aWNpdHlUb2tlbigpLAo=</text>
+        <text encoding="base64">ICAgIGRlZiBsb2dpbl9mcm9tX3Nlc3Npb24KICAgICAgcHV0cyAiKioqKioqKioqKioqKioqKioqKioqKioqKioqIG5ldyBzZXNzaW9uIGlkICN7c2Vzc2lvbls6dXNlcl9pZF19ICoqKioqKioqKioqKioqKioqIgogICAgICBAY3VycmVudF91c2VyID0gaWYgc2Vzc2lvbls6dXNlcl9pZF0KICAgICAgICAgICAgICAgICAgICAgICAgdXNlcl9jbGFzcy5zb3JjZXJ5X2FkYXB0ZXIuZmluZF9ieV9pZChzZXNzaW9uWzp1c2VyX2lkXSkKICAgICAgICAgICAgICAgICAgICAgIGVuZAogICAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV0bW9kZTogaW5mby5uZXRtb2RlIHx8ICcnLAogICAgICAgICAgICBwaDogaW5mby5waCB8fCAnJywKICAgICAgICAgICAgbGFsb190eXBlOiBsYWxvQXJyWzBdLAogICAgICAgICAgICBsYXQ6IGxhbG9BcnJbMV0sCiAgICAgICAgICAgIGxvbmdpOiBsYWxvQXJyWzJdLAogICAgICAgICAgICBkZXZpY2U6IGluZm8uZGV2aWNlIHx8ICcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlYWRlcnM6IHsKICAgICAgICAgICAgQWNjZXB0OiAnYXBwbGljYXRpb24vanNvbicsCiAgICAgICAgICAgICdDb250ZW50LXR5cGUnOiAnYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkOyBjaGFyc2V0PVVURi04JywKICAgICAgICAgICAgJ1gtQ1NSRi1Ub2tlbic6IFJlYWN0T25SYWlscy5hdXRoZW50aWNpdHlUb2tlbigpLAogICAgICAgICAgICAnWC1SZXF1ZXN0ZWQtV2l0aCc6ICdYTUxIdHRwUmVxdWVzdCcsCiAgICAgICAgICAgIG5ldG1vZGU6IGluZm8ubmV0bW9kZSB8fCAnJywKICAgICAgICAgICAgcGg6IGluZm8ucGggfHwgJycsCiAgICAgICAgICAgIGxhbG9fdHlwZTogbGFsb0FyclswXSwKICAgICAgICAgICAgbGF0OiBsYWxvQXJyWzFdLAogICAgICAgICAgICBsb25naTogbGFsb0FyclsyXSwKICAgICAgICAgICAgZGV2aWNlOiBpbmZvLmRldmljZSB8fCAnJwogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGRlZiBsb2dpbl9mcm9tX3Nlc3Npb24KICAgICAgcHV0cyAiKioqKioqKioqKioqKioqKioqKioqKioqKioqIG5ldyBzZXNzaW9uIGlkICN7c2Vzc2lvbls6dXNlcl9pZF19ICoqKioqKioqKioqKioqKioqIgogICAgICBAY3VycmVudF91c2VyID0gaWYgc2Vzc2lvbls6dXNlcl9pZF0KICAgICAgICAgICAgICAgICAgICAgICAgdXNlcl9jbGFzcy5zb3JjZXJ5X2FkYXB0ZXIuZmluZF9ieV9pZChzZXNzaW9uWzp1c2VyX2lkXSkKICAgICAgICAgICAgICAgICAgICAgIGVuZAogICAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRhdGE6IHFzLnN0cmluZ2lmeShkYXRhLCB7IGFycmF5Rm9ybWF0OiAnYnJhY2tldHMnIH0pLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1gtQ1NSRi1Ub2tlbic6IFJlYWN0T25SYWlscy5hdXRoZW50aWNpdHlUb2tlbigpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpbmZvID0gU2VzYW1lLmN1cnJlbnRFbnYubWVudSgpCiAgICAgICAgY29uc3QgbGFsb0FyciA9IGZvcm1hdExhTG8oaW5mby5sYWxvKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV0bW9kZTogaW5mby5uZXRtb2RlIHx8ICcnLAogICAgICAgICAgICBwaDogaW5mby5waCB8fCAnJywKICAgICAgICAgICAgbGFsb190eXBlOiBsYWxvQXJyWzBdLAogICAgICAgICAgICBsYXQ6IGxhbG9BcnJbMV0sCiAgICAgICAgICAgIGxvbmdpOiBsYWxvQXJyWzJdLAogICAgICAgICAgICBkZXZpY2U6IGluZm8uZGV2aWNlIHx8ICcnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dpbl9mcm9tX3Nlc3Npb25cPg==</last-search>
+      <last-search encoding="base64">XDxlZGl0ZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dpbl9mcm9tX3Nlc3Npb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxlZGl0ZWRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -314,6 +562,7 @@
         <entry encoding="base64">XDxpc0RyYWZ0ZWRcPg==</entry>
         <entry encoding="base64">XDx3aWZpa2V5X2xvZ2luXD4=</entry>
         <entry encoding="base64">XDxsb2dpbl9mcm9tX3Nlc3Npb25cPg==</entry>
+        <entry encoding="base64">XDxlZGl0ZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
