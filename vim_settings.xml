@@ -129,6 +129,13 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1522130982834">
+        <mark key="'" line="112" column="17" />
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+        <mark key="^" line="26" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Index/index.jsx" timestamp="1521104556519">
         <mark key="[" line="70" column="48" />
         <mark key="]" line="70" column="53" />
@@ -337,6 +344,13 @@
         <mark key="]" line="3" column="36" />
         <mark key="^" line="3" column="36" />
         <mark key="." line="3" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/create_invite_job.rb" timestamp="1521803694616">
+        <mark key="'" line="7" column="40" />
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/spec/models/visitor_spec.rb" timestamp="1522050022809" />
       <file name="$USER_HOME$/Documents/sesame/config/settings/staging.yml" timestamp="1521705935613">
