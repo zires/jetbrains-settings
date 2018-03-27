@@ -17,12 +17,12 @@
         <mark key="^" line="68" column="51" />
         <mark key="." line="68" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1522061637709">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1522064868070">
         <mark key="'" line="76" column="0" />
-        <mark key="[" line="80" column="58" />
-        <mark key="]" line="80" column="57" />
-        <mark key="^" line="80" column="57" />
-        <mark key="." line="80" column="57" />
+        <mark key="[" line="80" column="42" />
+        <mark key="]" line="80" column="43" />
+        <mark key="." line="80" column="43" />
+        <mark key="^" line="80" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/Capfile" timestamp="1522047000559">
         <mark key="[" line="39" column="29" />
@@ -39,6 +39,13 @@
         <mark key="]" line="14" column="23" />
         <mark key="^" line="14" column="23" />
         <mark key="." line="14" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1521711441153">
+        <mark key="'" line="112" column="17" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="118" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/initializers/session_store.rb" timestamp="1522059132742" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/sessions_controller.rb" timestamp="1522059817431">
@@ -95,6 +102,13 @@
         <mark key="]" line="81" column="44" />
         <mark key="." line="81" column="44" />
         <mark key="^" line="81" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/create_invite_job.rb" timestamp="1521803694616">
+        <mark key="'" line="7" column="40" />
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/spec/models/visitor_spec.rb" timestamp="1522050022809" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" timestamp="1522051769336">
@@ -209,13 +223,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqICN7QGN1cnJlbnRfdXNlciAmJiBAY3VycmVudF91c2VyLmlkfQ==</text>
+        <text>cookies[:_token] || ''</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqICN7QGN1cnJlbnRfdXNlciAmJiBAY3VycmVudF91c2VyLmlkfQ==</text>
+        <text>cookies[:_token] || ''</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0RyYWZ0ZWRcPg==</text>
@@ -224,31 +238,31 @@
         <text encoding="base64">ICAgICAgICAgIHJlcXVlc3Qub25yZWFkeXN0YXRlY2hhbmdlID0gZnVuY3Rpb24gKCkgewogICAgICAgICAgICBpZiAocmVxdWVzdC5yZWFkeVN0YXRlID09PSA0ICYmIHJlcXVlc3Quc3RhdHVzID09PSAyMDApIGRpc3BsYXlUZXh0KHJlcXVlc3QucmVzcG9uc2VUZXh0KQogICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRzIAo=</text>
+        <text encoding="base64">ICAgICAgcmVxdWVzdC5oZWFkZXJzWydBdXRob3JpemF0aW9uJ10gfHwgY29va2llc1s6X3Rva2VuXSB8fCAnJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBwdXRzIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb25bOndpZmlrZXlfdGVzdF0gPSAnd2lmaWtleV90ZXN0Jwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlc3Npb25bOndpZmlrZXlfdGVzdF0gPSAnd2lmaWtleV90ZXN0Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlcXVlc3QucmVhZHlTdGF0ZSA9PT0gNCAmJiByZXF1ZXN0LnN0YXR1cyA9PT0gMjAwKSBkaXNwbGF5VGV4dChyZXF1ZXN0LnJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KDIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlcXVlc3QucmVhZHlTdGF0ZSA9PT0gNCAmJiByZXF1ZXN0LnN0YXR1cyA9PT0gMjAwKSBkaXNwbGF5VGV4dChyZXF1ZXN0LnJlc3BvbnNlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlcXVlc3Qub25yZWFkeXN0YXRlY2hhbmdlID0gKCkgPT4gewogICAgICAgICAgICBpZiAocmVxdWVzdC5yZWFkeVN0YXRlID09PSA0ICYmIHJlcXVlc3Quc3RhdHVzID09PSAyMDApIHRoaXMucmVtb3ZlRXZlbnQoZXZlbnQpOwogICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGFsZXJ0KDIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
