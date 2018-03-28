@@ -71,7 +71,7 @@
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1522134024882">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1522205917646">
         <mark key="[" line="81" column="42" />
         <mark key="]" line="81" column="42" />
         <mark key="." line="81" column="42" />
@@ -267,14 +267,14 @@
         <mark key="." line="36" column="14" />
         <mark key="^" line="36" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522144769807">
+      <file name="/Dummy.txt" timestamp="1522206448034">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/initializers/rack_attack.rb" timestamp="1522204861844">
-        <mark key="[" line="20" column="7" />
-        <mark key="]" line="20" column="7" />
-        <mark key="." line="20" column="7" />
-        <mark key="^" line="1" column="6" />
+      <file name="$USER_HOME$/Documents/sesame/config/initializers/rack_attack.rb" timestamp="1522205945008">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="36" />
+        <mark key="." line="1" column="36" />
+        <mark key="^" line="1" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/comments.json.jbuilder" timestamp="1521523405113">
         <mark key="[" line="10" column="27" />
@@ -336,7 +336,8 @@
         <mark key="." line="81" column="44" />
         <mark key="^" line="81" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/incomes/create.rb" timestamp="1521513374297">
+      <file name="$USER_HOME$/Documents/sesame/app/commands/incomes/create.rb" timestamp="1522206704534">
+        <mark key="'" line="25" column="19" />
         <mark key="[" line="87" column="11" />
         <mark key="]" line="87" column="33" />
         <mark key="." line="87" column="33" />
@@ -376,9 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="19" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
-      <jump line="113" column="2" filename="$USER_HOME$/Documents/sesame/client/app/lib/widgets/AnswerEditor.jsx" />
-      <jump line="94" column="10" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
       <jump line="99" column="45" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
       <jump line="105" column="39" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
       <jump line="96" column="8" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
@@ -476,6 +474,9 @@
       <jump line="74" column="39" filename="$USER_HOME$/Documents/sesame/app/controllers/api/sessions_controller.rb" />
       <jump line="81" column="8" filename="$USER_HOME$/Documents/sesame/app/controllers/api/sessions_controller.rb" />
       <jump line="29" column="6" filename="$USER_HOME$/Documents/sesame/public/test.html" />
+      <jump line="23" column="19" filename="$USER_HOME$/Documents/sesame/app/commands/incomes/create.rb" />
+      <jump line="24" column="19" filename="$USER_HOME$/Documents/sesame/app/commands/incomes/create.rb" />
+      <jump line="25" column="19" filename="$USER_HOME$/Documents/sesame/app/commands/incomes/create.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -488,7 +489,7 @@
         <text encoding="base64">UmFpbHMuZW52LnByb2R1Y3Rpb24/ICYmIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnZpdGVfY29kZVw+</text>
+        <text encoding="base64">XDxzZXJ2aWNlX3Ntc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGl0ICd3ZWNoYXQgYWdlbnQnIGRvCiAgICBlbmQK</text>
@@ -525,13 +526,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnZpdGVfY29kZVw+</last-search>
+      <last-search encoding="base64">XDxzZXJ2aWNlX3Ntc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnZpdGVfY29kZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZXJ2aWNlX3Ntc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -555,6 +556,7 @@
         <entry encoding="base64">XDxsb2dpbl9mcm9tX3Nlc3Npb25cPg==</entry>
         <entry encoding="base64">XDxlZGl0ZWRcPg==</entry>
         <entry encoding="base64">XDxpbnZpdGVfY29kZVw+</entry>
+        <entry encoding="base64">XDxzZXJ2aWNlX3Ntc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
