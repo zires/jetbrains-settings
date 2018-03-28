@@ -9,7 +9,7 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sorcery-0.11.0/lib/sorcery/controller.rb" timestamp="1522135633894">
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sorcery-0.11.0/lib/sorcery/controller.rb" timestamp="1522230781678">
         <mark key="'" line="82" column="53" />
         <mark key="[" line="135" column="73" />
         <mark key="]" line="135" column="90" />
@@ -264,7 +264,10 @@
         <mark key="." line="36" column="14" />
         <mark key="^" line="36" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522229133938">
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sorcery-0.11.0/lib/sorcery/controller/config.rb" timestamp="1522230413908">
+        <mark key="'" line="25" column="14" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1522230417792">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/initializers/rack_attack.rb" timestamp="1522216792434" />
@@ -369,8 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="27" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
-      <jump line="23" column="82" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
       <jump line="38" column="13" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
       <jump line="39" column="45" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
       <jump line="51" column="20" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
@@ -469,6 +470,8 @@
       <jump line="105" column="33" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerToggled/components/AnswerToggled.jsx" />
       <jump line="106" column="26" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerToggled/components/AnswerToggled.jsx" />
       <jump line="110" column="12" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerToggled/components/AnswerToggled.jsx" />
+      <jump line="8" column="23" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sorcery-0.11.0/lib/sorcery/controller/config.rb" />
+      <jump line="25" column="14" filename="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sorcery-0.11.0/lib/sorcery/controller/config.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -481,7 +484,7 @@
         <text>utm_invite_code</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc1ZvdGVkXD4=</text>
+        <text encoding="base64">XDxub3RfYXV0aGVudGljYXRlZF9hY3Rpb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBhZnRlcl9hY3Rpb24gOmNyZWF0ZV91dG1faW52aXRlLCBvbmx5OiA6Y2FsbGJhY2sK</text>
@@ -518,11 +521,11 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc1ZvdGVkXD4=</last-search>
+      <last-search encoding="base64">XDxub3RfYXV0aGVudGljYXRlZF9hY3Rpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc1ZvdGVkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxub3RfYXV0aGVudGljYXRlZF9hY3Rpb25cPg==</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxhdXRoX3dpdGhfbG9nZ2VkX2luXD4=</last-substitute>
+      <last-substitute encoding="base64">XDxpc1ZvdGVkXD4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -550,6 +553,7 @@
         <entry encoding="base64">XDxpbnZpdGVfY29kZVw+</entry>
         <entry encoding="base64">XDxzZXJ2aWNlX3Ntc1w+</entry>
         <entry encoding="base64">XDxpc1ZvdGVkXD4=</entry>
+        <entry encoding="base64">XDxub3RfYXV0aGVudGljYXRlZF9hY3Rpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
