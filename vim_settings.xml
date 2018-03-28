@@ -270,11 +270,11 @@
       <file name="/Dummy.txt" timestamp="1522206448034">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/initializers/rack_attack.rb" timestamp="1522205945008">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="36" />
-        <mark key="." line="1" column="36" />
-        <mark key="^" line="1" column="36" />
+      <file name="$USER_HOME$/Documents/sesame/config/initializers/rack_attack.rb" timestamp="1522208889048">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="44" />
+        <mark key="." line="1" column="44" />
+        <mark key="^" line="1" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/comments.json.jbuilder" timestamp="1521523405113">
         <mark key="[" line="10" column="27" />
@@ -480,13 +480,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">UmFpbHMuZW52LnByb2R1Y3Rpb24/ICYmIA==</text>
+        <text>text/html</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmFpbHMuZW52LnByb2R1Y3Rpb24/ICYmIA==</text>
+        <text>text/html</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXJ2aWNlX3Ntc1w+</text>
