@@ -51,7 +51,7 @@
         <mark key="^" line="42" column="46" />
         <mark key="." line="42" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/pages/partials/_register-login.slim" timestamp="1522322190903">
+      <file name="$USER_HOME$/Documents/sesame/app/views/pages/partials/_register-login.slim" timestamp="1522322928688">
         <mark key="'" line="75" column="37" />
         <mark key="[" line="221" column="209" />
         <mark key="]" line="221" column="209" />
@@ -90,11 +90,12 @@
         <mark key="." line="39" column="24" />
       </file>
       <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/sorcery-0.11.0/lib/sorcery/model.rb" timestamp="1522291302208" />
-      <file name="$USER_HOME$/Documents/sesame/app/views/pages/partials/_download.slim" timestamp="1522304177512">
+      <file name="$USER_HOME$/Documents/sesame/app/views/pages/partials/_download.slim" timestamp="1522323513735">
         <mark key="'" line="16" column="4" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+        <mark key="[" line="173" column="34" />
+        <mark key="]" line="173" column="94" />
+        <mark key="." line="173" column="48" />
+        <mark key="^" line="173" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/base/_user.json.jb" timestamp="1521293759155">
         <mark key="[" line="0" column="55" />
@@ -284,7 +285,7 @@
         <mark key="." line="36" column="14" />
         <mark key="^" line="36" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522316353393">
+      <file name="/Dummy.txt" timestamp="1522322830319">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/initializers/rack_attack.rb" timestamp="1522321062951">
@@ -493,7 +494,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>http://versions.zhimawenda.com/releases/android/invite/latest</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -504,8 +505,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRNZXNzYWdlQ29kZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxodHRwLnNldFJlcXVlc3RIZWFkZXIoJ1gtQ1NSRi1Ub2tlbicsIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJ21ldGFbbmFtZT0iY3NyZi10b2tlbiJdJykuY29udGVudCkKICAgICAgICB4bWxodHRwLnNldFJlcXVlc3RIZWFkZXIoJ1gtUmVxdWVzdGVkLVdpdGgnLCAnWE1MSHR0cFJlcXVlc3QnKQo=</text>
+      <register name="0" type="4">
+        <text>http://versions.zhimawenda.com/releases/android/invite/latest</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
