@@ -285,7 +285,7 @@
         <mark key="." line="36" column="14" />
         <mark key="^" line="36" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522322830319">
+      <file name="/Dummy.txt" timestamp="1522380903355">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/initializers/rack_attack.rb" timestamp="1522321062951">
@@ -346,6 +346,7 @@
         <mark key="^" line="2" column="55" />
         <mark key="." line="2" column="55" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/browser-2.4.0/lib/browser/action_controller.rb" timestamp="1522380902247" />
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/sync.rake" timestamp="1521995843420">
         <mark key="[" line="3" column="62" />
         <mark key="]" line="4" column="23" />
