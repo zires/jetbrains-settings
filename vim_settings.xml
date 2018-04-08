@@ -477,11 +477,8 @@
         <mark key="." line="3" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/settings/staging.yml" timestamp="1523172983040">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
+        <mark key="'" line="10" column="0" />
         <mark key="^" line="7" column="43" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/spec/services/answer_wrapper_spec.rb" timestamp="1523169510575">
         <mark key="[" line="11" column="6" />
