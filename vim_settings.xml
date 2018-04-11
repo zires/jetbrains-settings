@@ -6,6 +6,9 @@
       <file name="/Ruby Console" timestamp="1523257195873">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" timestamp="1523438151943">
+        <mark key="'" line="19" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/config/deploy.rb" timestamp="1522047021286">
         <mark key="[" line="24" column="100" />
       </file>
@@ -71,7 +74,7 @@
         <mark key="." line="24" column="51" />
         <mark key="^" line="24" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523257581610">
+      <file name="/Dummy.txt" timestamp="1523438124694">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/pages/partials/_download.slim" timestamp="1522323513735">
@@ -174,8 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="8" filename="$USER_HOME$/Documents/sesame/app/controllers/api/sessions_controller.rb" />
-      <jump line="5" column="40" filename="$USER_HOME$/Documents/sesame/app/jobs/create_invite_job.rb" />
       <jump line="85" column="41" filename="$USER_HOME$/Documents/sesame/app/controllers/api/sessions_controller.rb" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/sesame/app/controllers/concerns/utm_invite.rb" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/sesame/app/controllers/concerns/utm_invite.rb" />
@@ -274,6 +275,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/sesame/app/models/concerns/omni_counter.rb" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/sesame/app/models/concerns/omni_counter.rb" />
       <jump line="6" column="47" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
+      <jump line="20" column="27" filename="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" />
+      <jump line="19" column="6" filename="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -286,7 +289,7 @@
         <text>&quot;\xEF\xBB\xBF新增邀请用户数&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtaWNyb19yZWRpc191cmxcPg==</text>
+        <text encoding="base64">XDxsb2dpbl9mcm9tX2Nvb2tpZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY3N2IDw8IFtdCg==</text>
@@ -323,13 +326,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtaWNyb19yZWRpc191cmxcPg==</last-search>
+      <last-search encoding="base64">XDxsb2dpbl9mcm9tX2Nvb2tpZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtaWNyb19yZWRpc191cmxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dpbl9mcm9tX2Nvb2tpZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpc1ZvdGVkXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -353,6 +356,9 @@
         <entry encoding="base64">XDxnZXRNZXNzYWdlQ29kZVw+</entry>
         <entry encoding="base64">XDxlZGl0X2Fuc3dlclw+</entry>
         <entry encoding="base64">XDxtaWNyb19yZWRpc191cmxcPg==</entry>
+        <entry>@</entry>
+        <entry encoding="base64">XDxyZW1lbWJlcl9tZV90b2tlblw+</entry>
+        <entry encoding="base64">XDxsb2dpbl9mcm9tX2Nvb2tpZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
@@ -361,6 +367,7 @@
         <entry>action AceLineAction</entry>
         <entry>action AceTargetAction</entry>
         <entry>w</entry>
+        <entry>call VisualSelection('', '')</entry>
       </history-cmd>
       <history-expr />
       <history-input />
