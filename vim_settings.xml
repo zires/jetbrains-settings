@@ -30,6 +30,7 @@
       <file name="$USER_HOME$/Documents/sesame/config/application.rb" timestamp="1517393645806">
         <mark key="[" line="18" column="71" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/users/states.rb" timestamp="1523522959199" />
       <file name="$USER_HOME$/Documents/sesame/app/views/pages/partials/_register-login.slim" timestamp="1522322928688">
         <mark key="'" line="75" column="37" />
         <mark key="[" line="221" column="209" />
@@ -150,6 +151,12 @@
         <mark key="]" line="4" column="23" />
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1523522971313">
+        <mark key="[" line="114" column="4" />
+        <mark key="]" line="114" column="16" />
+        <mark key="^" line="114" column="16" />
+        <mark key="." line="114" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/spec/factories/comments.rb" timestamp="1523159967649">
         <mark key="[" line="5" column="40" />
