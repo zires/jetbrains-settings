@@ -49,11 +49,11 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="45" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180416061622_add_app_info_to_visites.rb" timestamp="1523863638374">
-        <mark key="[" line="3" column="82" />
-        <mark key="]" line="3" column="81" />
-        <mark key="." line="3" column="81" />
-        <mark key="^" line="3" column="81" />
+      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180416061622_add_app_info_to_visites.rb" timestamp="1523864822513">
+        <mark key="[" line="4" column="110" />
+        <mark key="]" line="4" column="108" />
+        <mark key="." line="4" column="108" />
+        <mark key="^" line="4" column="108" />
       </file>
       <file name="/Dummy.txt" timestamp="1523605227047">
         <mark key="[" line="0" column="0" />
@@ -68,7 +68,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/db/migrate/20170808021555_add_utm_params_to_visits.rb" timestamp="1523861036410" />
-      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180413072036_add_wait_list_index_on_questions.rb" timestamp="1523604239722">
+      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180413072036_add_wait_list_index_on_questions.rb" timestamp="1523864802058">
         <mark key="[" line="0" column="64" />
         <mark key="]" line="1" column="25" />
         <mark key="^" line="1" column="25" />
