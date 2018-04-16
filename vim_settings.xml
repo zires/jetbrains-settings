@@ -15,6 +15,7 @@
       <file name="$USER_HOME$/Documents/sesame/config/deploy.rb" timestamp="1522047021286">
         <mark key="[" line="24" column="100" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/welcome_controller.rb" timestamp="1523878288408" />
       <file name="$USER_HOME$/Documents/sesame/config/settings/development.yml" timestamp="1523328171267">
         <mark key="[" line="7" column="60" />
         <mark key="]" line="8" column="41" />
