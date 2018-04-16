@@ -30,7 +30,6 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/concerns/event_tracker.rb" timestamp="1523846904426" />
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/states.rb" timestamp="1523177503211">
         <mark key="[" line="20" column="74" />
         <mark key="]" line="20" column="72" />
@@ -43,6 +42,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="45" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180416061622_add_app_info_to_visites.rb" timestamp="1523861051332">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+      </file>
       <file name="/Dummy.txt" timestamp="1523605227047">
         <mark key="[" line="0" column="0" />
       </file>
@@ -52,10 +57,10 @@
         <mark key="." line="3" column="44" />
         <mark key="^" line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame.js" timestamp="1523846717126" />
       <file name="/fragment.rb" timestamp="1522404555353">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/db/migrate/20170808021555_add_utm_params_to_visits.rb" timestamp="1523861036410" />
       <file name="$USER_HOME$/Documents/sesame/db/migrate/20180413072036_add_wait_list_index_on_questions.rb" timestamp="1523604239722">
         <mark key="[" line="0" column="64" />
         <mark key="]" line="1" column="25" />
@@ -312,11 +317,10 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpc1ZvdGVkXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc1ZvdGVkXD4=</entry>
         <entry encoding="base64">XDxub3RfYXV0aGVudGljYXRlZF9hY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxkb3duQXBwXD4=</entry>
         <entry encoding="base64">XDxyZW1vdmVUb2FzdFw+</entry>
