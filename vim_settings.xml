@@ -21,7 +21,6 @@
       <file name="$USER_HOME$/Documents/sesame/config/deploy.rb" timestamp="1522047021286">
         <mark key="[" line="24" column="100" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/welcome_controller.rb" timestamp="1523878288408" />
       <file name="$USER_HOME$/Documents/sesame/config/settings/development.yml" timestamp="1523328171267">
         <mark key="[" line="7" column="60" />
         <mark key="]" line="8" column="41" />
@@ -43,8 +42,6 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/concerns/event_tracker.rb" timestamp="1523863805139" />
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/inner/welcome_controller.rb" timestamp="1523873561873" />
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/sms.rake" timestamp="1523875376329">
         <mark key="'" line="4" column="6" />
         <mark key="[" line="2275" column="14" />
@@ -82,7 +79,6 @@
       <file name="/fragment.rb" timestamp="1522404555353">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/db/migrate/20170808021555_add_utm_params_to_visits.rb" timestamp="1523861036410" />
       <file name="$USER_HOME$/Documents/sesame/db/migrate/20180413072036_add_wait_list_index_on_questions.rb" timestamp="1523864802058">
         <mark key="[" line="0" column="64" />
         <mark key="]" line="1" column="25" />
@@ -149,6 +145,7 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/question.rb" timestamp="1523933735874" />
       <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1523522971313">
         <mark key="[" line="114" column="4" />
         <mark key="]" line="114" column="16" />
