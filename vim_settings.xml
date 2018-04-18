@@ -33,7 +33,12 @@
         <mark key="^" line="8" column="41" />
         <mark key="." line="8" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/clear_micro_cache.rb" timestamp="1524023751502" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/clear_micro_cache.rb" timestamp="1524031526696">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/config/application.rb" timestamp="1517393645806">
         <mark key="[" line="18" column="71" />
       </file>
@@ -347,7 +352,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -362,22 +367,22 @@
         <text encoding="base64">ICAgIGFuc3dlciA9IGNyZWF0ZSg6YmVzdF9hbnN3ZXIsIHdvcmRzX2NvdW50OiA5OSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgcmV2b3RlX2Jlc3RfYW5zd2VyIQogICAgc2VsZi5iZXN0X2Fuc3dlciA9IGFuc3dlcnMuYXBwcm92ZWQucGFyc2VkLnZvdGVzX2Rlc2MuZmlyc3QKICAgIHNhdmUhCiAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgcmV2b3RlIHF1ZXN0aW9uIGJlc3QgYW5zd2VyCg==</text>
+        <text encoding="base64">ICBkZWYgcmV2b3RlX2Jlc3RfYW5zd2VyIQogICAgc2VsZi5iZXN0X2Fuc3dlciA9IGFuc3dlcnMuYXBwcm92ZWQucGFyc2VkLnZvdGVzX2Rlc2MuZmlyc3QKICAgIHNhdmUhCiAgZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFuc3dlci5xdWVzdGlvbi5yZXZvdGVfYmVzdF9hbnN3ZXIhCg==</text>
+        <text encoding="base64">ICAgICMgcmV2b3RlIHF1ZXN0aW9uIGJlc3QgYW5zd2VyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JAo=</text>
+        <text encoding="base64">ICAgIGFuc3dlci5xdWVzdGlvbi5yZXZvdGVfYmVzdF9hbnN3ZXIhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbnN3ZXIucXVlc3Rpb24ucmV2b3RlX2Jlc3RfYW5zd2VyIQo=</text>
+        <text encoding="base64">JAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBhbnN3ZXIucXVlc3Rpb24ucmV2b3RlX2Jlc3RfYW5zd2VyIQo=</text>
@@ -386,7 +391,7 @@
         <text encoding="base64">ICAgICAgICBhbnN3ZXIucXVlc3Rpb24ucmV2b3RlX2Jlc3RfYW5zd2VyIQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFuc3dlcjEgPSBjcmVhdGUoOmJlc3RfYW5zd2VyLCB3b3Jkc19jb3VudDogOTkpCg==</text>
+        <text encoding="base64">ICAgICAgICBhbnN3ZXIucXVlc3Rpb24ucmV2b3RlX2Jlc3RfYW5zd2VyIQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
