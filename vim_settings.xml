@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/create_device_job.rb" timestamp="1524034511243">
+        <mark key="[" line="2" column="73" />
+        <mark key="]" line="2" column="72" />
+        <mark key="^" line="2" column="72" />
+        <mark key="." line="2" column="72" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/reject.rb" timestamp="1523962737775">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -83,9 +89,6 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/Capfile" timestamp="1522047000559">
-        <mark key="[" line="39" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/config/settings/test.yml" timestamp="1523862961378">
         <mark key="[" line="6" column="71" />
         <mark key="]" line="6" column="72" />
@@ -134,17 +137,11 @@
         <mark key="^" line="12" column="86" />
         <mark key="." line="12" column="86" />
       </file>
-      <file name="/Ruby Console" timestamp="1523957502341">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/concerns/visit_tracker.rb" timestamp="1523863822977">
         <mark key="[" line="20" column="38" />
         <mark key="]" line="21" column="34" />
         <mark key="^" line="21" column="34" />
         <mark key="." line="21" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/config/deploy.rb" timestamp="1522047021286">
-        <mark key="[" line="24" column="100" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/settings/development.yml" timestamp="1523328171267">
         <mark key="[" line="7" column="60" />
@@ -157,9 +154,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="6" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/config/application.rb" timestamp="1517393645806">
-        <mark key="[" line="18" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/concerns/event_tracker.rb" timestamp="1524019272533" />
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/states.rb" timestamp="1523959690529">
@@ -174,17 +168,11 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="45" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523953437517">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/parse_answer_job.rb" timestamp="1523963357323">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="50" />
-      </file>
-      <file name="/fragment.rb" timestamp="1522404555353">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/approve.rb" timestamp="1523962720946">
         <mark key="[" line="8" column="0" />
@@ -209,9 +197,6 @@
         <mark key="]" line="9" column="24" />
         <mark key="." line="9" column="24" />
         <mark key="^" line="8" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/app/jobs/keywords_job.rb" timestamp="1523257604509">
-        <mark key="[" line="1" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" timestamp="1523604074771">
         <mark key="[" line="32" column="66" />
@@ -357,14 +342,14 @@
       <jump line="61" column="6" filename="$USER_HOME$/Documents/sesame/app/models/question.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+      <register name="&quot;" type="4">
+        <text>user_agent + app_info['name']</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>not_to be_nil</text>
+        <text>user_agent + app_info['name']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXZvdGVfYmVzdF9hbnN3ZXJcPg==</text>
