@@ -64,11 +64,11 @@
         <mark key="^" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/omni_counter.rb" timestamp="1524127603951">
-        <mark key="[" line="25" column="34" />
-        <mark key="]" line="25" column="34" />
-        <mark key="." line="25" column="34" />
-        <mark key="^" line="25" column="34" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/omni_counter.rb" timestamp="1524130492363">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="34" />
+        <mark key="." line="21" column="34" />
+        <mark key="^" line="21" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/questions/counters.rb" timestamp="1524127030370">
         <mark key="[" line="8" column="24" />
@@ -198,14 +198,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/sesame/app/models/concerns/omni_counter/base.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c2VsZltrZXldID0g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2VsZltrZXldID0g</text>
+        <text>? body : :&quot;#{counter}_count&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb3VudGVyc1w+</text>
@@ -214,28 +214,28 @@
         <text encoding="base64">ICAgICAgICBAcmVjb3JkLnNlbmQoZGVmaW5lZF9jb3VudGVyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHB1dHMgY291bnRlcnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmFpc2UgQXJndW1lbnRFcnJvciwgJ1RoZSBzY29wZSBib2R5IG5lZWRzIHRvIGJlIGNhbGxhYmxlLicgaWYgYm9keSAmJiAhYm9keS5yZXNwb25kX3RvPyg6Y2FsbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
