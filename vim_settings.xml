@@ -10,10 +10,10 @@
         <mark key="." line="2" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/welcome_controller.rb" timestamp="1524105576975">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="26" column="7" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="29" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/db/migrate/20180418084652_add_best_answer_index_to_questions.rb" timestamp="1524041329732">
         <mark key="[" line="3" column="41" />
@@ -21,7 +21,7 @@
         <mark key="^" line="3" column="66" />
         <mark key="." line="3" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue/index_request.rb" timestamp="1524110103955">
+      <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue/index_request.rb" timestamp="1524115749203">
         <mark key="[" line="69" column="36" />
         <mark key="]" line="69" column="48" />
         <mark key="." line="69" column="48" />
@@ -107,10 +107,10 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/question.rb" timestamp="1524109388123">
-        <mark key="'" line="38" column="17" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+        <mark key="'" line="39" column="17" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/base/_answer_cell.json.jb" timestamp="1524043940000">
         <mark key="'" line="0" column="0" />
