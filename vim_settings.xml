@@ -10,7 +10,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/update_by_front.rb" timestamp="1524196293365">
+      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/update_by_front.rb" timestamp="1524207985194">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="21" column="46" />
@@ -46,6 +46,7 @@
         <mark key="^" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/edit_answer.rb" timestamp="1524208059323" />
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/omni_counter.rb" timestamp="1524135829597">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="34" />
