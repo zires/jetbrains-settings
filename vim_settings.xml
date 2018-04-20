@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/questions/revote_best_answer.rb" timestamp="1524109669522">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="22" column="21" />
-        <mark key="]" line="22" column="39" />
-        <mark key="." line="22" column="39" />
-        <mark key="^" line="22" column="39" />
+      <file name="$USER_HOME$/Documents/sesame/app/commands/questions/revote_best_answer.rb" timestamp="1524193696967">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/welcome_controller.rb" timestamp="1524105576975">
         <mark key="[" line="32" column="0" />
@@ -185,13 +185,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBkYy52aXBfbWVtYmVyPyhhbnN3ZXIudXNlcikKICAgICAgICAgIHF1ZXN0aW9uLnVwZGF0ZShiZXN0X2Fuc3dlcjogYW5zd2VyKQogICAgICAgIGVsc2UKICAgICAgICAgIGNvbW1vbl9sb2dpYwogICAgICAgIGVuZAo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>? body : :&quot;#{counter}_count&quot;</text>
+        <text>question.answers.approved.votes_desc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb3VudGVyc1w+</text>
@@ -200,31 +200,31 @@
         <text encoding="base64">ICAgICAgICBAcmVjb3JkLnNlbmQoZGVmaW5lZF9jb3VudGVyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBkYy52aXBfbWVtYmVyPyhhbnN3ZXIudXNlcikKICAgICAgICAgIHF1ZXN0aW9uLnVwZGF0ZShiZXN0X2Fuc3dlcjogYW5zd2VyKQogICAgICAgIGVsc2UKICAgICAgICAgIGNvbW1vbl9sb2dpYwogICAgICAgIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNpZiBxdWVzdGlvbi5hbnN3ZXJzLmFwcHJvdmVkLmxvbmcuZXhpc3RzPyh1c2VyX2lkOiB2aXBfdXNlcl9pZHMpCiAgICAgICAgICBxdWVzdGlvbi51cGRhdGUoCiAgICAgICAgICAgIGJlc3RfYW5zd2VyOiBxdWVzdGlvbi5hbnN3ZXJzLmFwcHJvdmVkLmxvbmcud2hlcmUodXNlcl9pZDogdmlwX3VzZXJfaWRzKS52b3Rlc19kZXNjLmZpcnN0CiAgICAgICAgICApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1dHMgY291bnRlcnMK</text>
+        <text encoding="base64">ICAgIGRlZiByZWNhbGN1bGF0ZQogICAgZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
