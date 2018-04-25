@@ -25,6 +25,7 @@
         <mark key="." line="19" column="106" />
         <mark key="^" line="19" column="106" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" timestamp="1524626660699" />
       <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue/index_request.rb" timestamp="1524115749203">
         <mark key="[" line="69" column="36" />
         <mark key="]" line="69" column="48" />
@@ -102,6 +103,7 @@
       <file name="$USER_HOME$/Documents/sesame/.env" timestamp="1524537915936" />
       <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1524470600210" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/invitations/create.rb" timestamp="1524471984123" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/wifikey_helper.js" timestamp="1524626648363" />
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/sms.rake" timestamp="1524465558132" />
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1524211512659">
         <mark key="[" line="11" column="15" />
