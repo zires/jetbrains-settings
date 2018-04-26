@@ -154,6 +154,7 @@
         <mark key="." line="21" column="34" />
         <mark key="^" line="21" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/_show.json.jbuilder" timestamp="1524726904633" />
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/questions/counters.rb" timestamp="1524127030370">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="8" column="48" />
