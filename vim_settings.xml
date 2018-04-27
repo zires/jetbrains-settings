@@ -63,7 +63,7 @@
         <mark key="." line="69" column="48" />
         <mark key="^" line="69" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/comment.rb" timestamp="1524812312946">
+      <file name="$USER_HOME$/Documents/sesame/app/models/comment.rb" timestamp="1524814265293">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="17" />
         <mark key="^" line="5" column="17" />
@@ -87,6 +87,7 @@
         <mark key="^" line="1" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/advertising_rates_controller.rb" timestamp="1524801492235" />
+      <file name="$USER_HOME$/Documents/sesame/.rubocop.yml" timestamp="1524814338486" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/client/welcome/moon_index_v2.json.jb" timestamp="1524224333980">
         <mark key="[" line="21" column="91" />
         <mark key="]" line="21" column="107" />
@@ -125,6 +126,7 @@
         <mark key="." line="24" column="42" />
         <mark key="^" line="23" column="72" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/config/initializers/redis.rb" timestamp="1524814357759" />
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/omni_counter/counters.rb" timestamp="1524127511934">
         <mark key="[" line="24" column="8" />
         <mark key="]" line="24" column="8" />
