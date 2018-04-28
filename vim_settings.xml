@@ -69,8 +69,8 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/tasks/sms.rake" timestamp="1524897608745">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/sms.rake" timestamp="1524898514225">
+        <mark key="'" line="230" column="56" />
         <mark key="[" line="229" column="20" />
         <mark key="]" line="229" column="24" />
         <mark key="." line="229" column="24" />
@@ -95,7 +95,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="6" filename="$USER_HOME$/Documents/sesame/public/test.html" />
       <jump line="23" column="19" filename="$USER_HOME$/Documents/sesame/app/commands/incomes/create.rb" />
       <jump line="24" column="19" filename="$USER_HOME$/Documents/sesame/app/commands/incomes/create.rb" />
       <jump line="25" column="19" filename="$USER_HOME$/Documents/sesame/app/commands/incomes/create.rb" />
@@ -195,6 +194,7 @@
       <jump line="5" column="4" filename="$USER_HOME$/Documents/sesame/lib/tasks/sms.rake" />
       <jump line="227" column="10" filename="$USER_HOME$/Documents/sesame/lib/tasks/sms.rake" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/sesame/lib/tasks/sms.rake" />
+      <jump line="230" column="56" filename="$USER_HOME$/Documents/sesame/lib/tasks/sms.rake" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
