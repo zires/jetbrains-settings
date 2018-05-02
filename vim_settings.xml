@@ -72,7 +72,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180502040416_add_index_on_devices.rb" timestamp="1525233962352">
+      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180502040416_add_index_on_devices.rb" timestamp="1525235209028">
         <mark key="[" line="3" column="42" />
         <mark key="]" line="3" column="55" />
         <mark key="." line="3" column="55" />
