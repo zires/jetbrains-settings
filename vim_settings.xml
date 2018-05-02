@@ -72,11 +72,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180502040416_add_index_on_devices.rb" timestamp="1525235209028">
-        <mark key="[" line="3" column="42" />
-        <mark key="]" line="3" column="55" />
-        <mark key="." line="3" column="55" />
-        <mark key="^" line="3" column="55" />
+      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180502040416_add_index_on_devices.rb" timestamp="1525236021608">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/comments/index.json.jbuilder" timestamp="1525230830731">
         <mark key="[" line="4" column="56" />
@@ -245,7 +244,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAjIHZhbGlkYXRlcyA6aGV4LCBwcmVzZW5jZTogdHJ1ZSwgdW5pcXVlbmVzczogeyBzY29wZTogOnVzZXJfaWQgfQo=</text>
+        <text encoding="base64">ICAgIGFkZF9pbmRleCA6ZGV2aWNlcywgWzp1c2VyX2lkLCA6aGV4XSwgdW5pcXVlOiB0cnVlLCBhbGdvcml0aG06IDpjb25jdXJyZW50bHkK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -260,31 +259,31 @@
         <text encoding="base64">ICAgIHJlc2N1ZV9mcm9tIEFjdGl2ZVJlY29yZDo6UmVjb3JkTm90Rm91bmQsIHdpdGg6IDpyZW5kZXJfNDA0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAjIHZhbGlkYXRlcyA6aGV4LCBwcmVzZW5jZTogdHJ1ZSwgdW5pcXVlbmVzczogeyBzY29wZTogOnVzZXJfaWQgfQo=</text>
+        <text encoding="base64">ICAgIGFkZF9pbmRleCA6ZGV2aWNlcywgWzp1c2VyX2lkLCA6aGV4XSwgdW5pcXVlOiB0cnVlLCBhbGdvcml0aG06IDpjb25jdXJyZW50bHkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBkaXNhYmxlX2RkbF90cmFuc2FjdGlvbiEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIHZhbGlkYXRlcyA6aGV4LCBwcmVzZW5jZTogdHJ1ZSwgdW5pcXVlbmVzczogeyBzY29wZTogOnVzZXJfaWQgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIyBDcmVhdGVEZXZpY2VKb2IucGVyZm9ybV9sYXRlcihwYXJhbXNbOmRoaWRdLCBwcmVwYXJlX2FwcF9pbmZvLnN0cmluZ2lmeV9rZXlzLCBjdXJyZW50X3VzZXImLmlkLCByZXF1ZXN0LnVzZXJfYWdlbnQsIHJlcXVlc3QucmVtb3RlX2lwKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBqc29uLmFtb3VudCB1c2VyLmluY29tZV9hbW91bnQgaWYgdXNlci5pbnZpdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">anNvbi5hbW91bnQgdXNlci5pbmNvbWVfYW1vdW50IGlmIHVzZXIuaW52aXRlCg==</text>
+        <text encoding="base64">ICAgICAgIyBDcmVhdGVEZXZpY2VKb2IucGVyZm9ybV9sYXRlcihwYXJhbXNbOmRoaWRdLCBwcmVwYXJlX2FwcF9pbmZvLnN0cmluZ2lmeV9rZXlzLCBjdXJyZW50X3VzZXImLmlkLCByZXF1ZXN0LnVzZXJfYWdlbnQsIHJlcXVlc3QucmVtb3RlX2lwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBqc29uLmJvbnVzICF1c2VyLmludml0ZS5uaWw/Cg==</text>
+        <text encoding="base64">ICBqc29uLmFtb3VudCB1c2VyLmluY29tZV9hbW91bnQgaWYgdXNlci5pbnZpdGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">anNvbi5hbW91bnQgdXNlci5pbmNvbWVfYW1vdW50IGlmIHVzZXIuaW52aXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwCg==</text>
+        <text encoding="base64">ICBqc29uLmJvbnVzICF1c2VyLmludml0ZS5uaWw/Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
