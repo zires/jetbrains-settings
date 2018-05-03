@@ -88,6 +88,12 @@
         <mark key="^" line="4" column="61" />
         <mark key="." line="4" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/services/answer_wrapper.rb" timestamp="1525329897905">
+        <mark key="[" line="54" column="65" />
+        <mark key="]" line="54" column="72" />
+        <mark key="^" line="54" column="72" />
+        <mark key="." line="54" column="72" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/config/sidekiq.yml" timestamp="1525228225939">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="3" column="14" />
@@ -138,6 +144,12 @@
         <mark key="[" line="14" column="43" />
         <mark key="]" line="14" column="44" />
         <mark key="." line="14" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/spec/services/answer_wrapper_spec.rb" timestamp="1525329986234">
+        <mark key="[" line="12" column="112" />
+        <mark key="]" line="12" column="119" />
+        <mark key="^" line="12" column="119" />
+        <mark key="." line="12" column="119" />
       </file>
     </filemarks>
     <jumps>
