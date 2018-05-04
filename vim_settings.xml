@@ -44,6 +44,7 @@
         <mark key="^" line="6" column="94" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/show.json.jbuilder" timestamp="1525405773419" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" timestamp="1525229114194">
         <mark key="[" line="15" column="61" />
         <mark key="]" line="16" column="63" />
@@ -119,6 +120,7 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/_show.json.jbuilder" timestamp="1525405816316" />
       <file name="$USER_HOME$/Documents/sesame/db/migrate/20180502044608_create_d_devices.rb" timestamp="1525241049769">
         <mark key="[" line="14" column="26" />
         <mark key="]" line="14" column="36" />
@@ -132,10 +134,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1525404624987">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1525406472675">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="27" />
+        <mark key="." line="116" column="27" />
+        <mark key="^" line="116" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/modify_images_command.rb" timestamp="1524654334211">
         <mark key="[" line="37" column="0" />
