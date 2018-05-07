@@ -43,6 +43,7 @@
         <mark key="^" line="6" column="94" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/spec/utils/sanitizer_spec.rb" timestamp="1525674026926" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" timestamp="1525229114194">
         <mark key="[" line="15" column="61" />
         <mark key="]" line="16" column="63" />
@@ -121,6 +122,7 @@
         <mark key="." line="6" column="71" />
         <mark key="^" line="6" column="71" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/lib/utils/sanitizer.rb" timestamp="1525673975924" />
       <file name="$USER_HOME$/Documents/sesame/app/models/invite.rb" timestamp="1525230384977">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="9" column="23" />
