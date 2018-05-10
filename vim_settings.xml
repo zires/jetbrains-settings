@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/sesame/app/models/answer.rb" timestamp="1525923420292">
+      <file name="$USER_HOME$/Documents/sesame/app/models/answer.rb" timestamp="1525924353490">
         <mark key="'" line="86" column="23" />
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
@@ -185,11 +185,11 @@
         <mark key="^" line="14" column="36" />
         <mark key="." line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/jobs/calculate_answer_weight_job.rb" timestamp="1525100616246">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="17" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="6" column="35" />
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/calculate_answer_weight_job.rb" timestamp="1525924797647">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1525424298691">
         <mark key="[" line="115" column="31" />
