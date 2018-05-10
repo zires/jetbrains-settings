@@ -35,9 +35,6 @@
         <mark key="^" line="9" column="140" />
         <mark key="." line="9" column="140" />
       </file>
-      <file name="/Ruby Console" timestamp="1525679956517">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/create.rb" timestamp="1525677799712">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="12" />
@@ -50,6 +47,7 @@
         <mark key="^" line="6" column="94" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.ts" timestamp="1525951187046" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" timestamp="1525229114194">
         <mark key="[" line="15" column="61" />
         <mark key="]" line="16" column="63" />
@@ -227,6 +225,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/moon.js" timestamp="1525951211231" />
       <file name="$USER_HOME$/Documents/sesame/spec/services/answer_wrapper_spec.rb" timestamp="1525329986234">
         <mark key="[" line="12" column="112" />
         <mark key="]" line="12" column="119" />
