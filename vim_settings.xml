@@ -56,7 +56,6 @@
         <mark key="^" line="16" column="63" />
         <mark key="." line="16" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/_show_v2.json.jbuilder" timestamp="1525680714121" />
       <file name="$USER_HOME$/Documents/sesame/app/models/comment.rb" timestamp="1524814265293">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="17" />
@@ -125,6 +124,7 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/calculate_weight.rb" timestamp="1525921274305" />
       <file name="$USER_HOME$/Documents/sesame/config/sidekiq.yml" timestamp="1525228225939">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="3" column="14" />
@@ -179,7 +179,6 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/_show.json.jbuilder" timestamp="1525680511554" />
       <file name="$USER_HOME$/Documents/sesame/db/migrate/20180502044608_create_d_devices.rb" timestamp="1525241049769">
         <mark key="[" line="14" column="26" />
         <mark key="]" line="14" column="36" />
