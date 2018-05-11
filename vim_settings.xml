@@ -92,6 +92,7 @@
         <mark key="^" line="4" column="61" />
         <mark key="." line="4" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/db/schema.rb" timestamp="1526031109521" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/my_questions.json.jbuilder" timestamp="1526021430744">
         <mark key="[" line="12" column="11" />
         <mark key="]" line="12" column="11" />
@@ -104,7 +105,7 @@
         <mark key="^" line="5" column="36" />
         <mark key="." line="5" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/image_modifier.js" timestamp="1526026724884">
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/image_modifier.js" timestamp="1526030359919">
         <mark key="[" line="2" column="56" />
         <mark key="]" line="2" column="56" />
         <mark key="^" line="2" column="56" />
@@ -264,7 +265,7 @@
         <mark key="." line="4" column="21" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/modify_images_command.rb" timestamp="1526030142735">
+      <file name="$USER_HOME$/Documents/sesame/app/commands/modify_images_command.rb" timestamp="1526030357680">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
