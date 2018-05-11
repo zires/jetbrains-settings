@@ -231,6 +231,7 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/questions_controller.rb" timestamp="1526016447561" />
       <file name="$USER_HOME$/Documents/sesame/app/jobs/calculate_answer_weight_job.rb" timestamp="1525933004855">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="21" />
