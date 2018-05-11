@@ -77,7 +77,7 @@
         <mark key="." line="4" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/db/migrate/20180416061622_add_app_info_to_visites.rb" timestamp="1526013865026" />
-      <file name="$USER_HOME$/Documents/sesame/db/schema.rb" timestamp="1526013875506" />
+      <file name="$USER_HOME$/Documents/sesame/db/schema.rb" timestamp="1526015520581" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/base/_user.json.jb" timestamp="1526006504121">
         <mark key="[" line="5" column="37" />
         <mark key="]" line="5" column="36" />
@@ -127,11 +127,11 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1525424298691">
-        <mark key="[" line="115" column="31" />
-        <mark key="]" line="116" column="30" />
-        <mark key="." line="116" column="30" />
-        <mark key="^" line="116" column="30" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1526015075728">
+        <mark key="[" line="34" column="35" />
+        <mark key="]" line="34" column="36" />
+        <mark key="." line="34" column="36" />
+        <mark key="^" line="34" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/spec/commands/fetch_images_command_spec.rb" timestamp="1525675986402">
         <mark key="[" line="21" column="83" />
@@ -358,13 +358,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IihhcHBfaW5mby0+PiduYW1lJykiLCBuYW1lOiAnaW5kZXhfdmlzaXRzX29uX2FwcF9pbmZvX25hbWUnLCBhbGdvcml0aG06IDpjb25jdXJyZW50bHk=</text>
+        <text>created_at</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IihhcHBfaW5mby0+PiduYW1lJykiLCBuYW1lOiAnaW5kZXhfdmlzaXRzX29uX2FwcF9pbmZvX25hbWUnLCBhbGdvcml0aG06IDpjb25jdXJyZW50bHk=</text>
+        <text>created_at</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2lkXD4=</text>
