@@ -92,7 +92,6 @@
         <mark key="^" line="4" column="61" />
         <mark key="." line="4" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/db/schema.rb" timestamp="1526277690181" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/my_questions.json.jbuilder" timestamp="1526021430744">
         <mark key="[" line="12" column="11" />
         <mark key="]" line="12" column="11" />
@@ -152,6 +151,12 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/merge.rake" timestamp="1526281603012">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/toggle.rb" timestamp="1526022072166">
         <mark key="[" line="6" column="21" />
         <mark key="]" line="6" column="18" />
@@ -164,7 +169,8 @@
         <mark key="^" line="14" column="36" />
         <mark key="." line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180511044331_add_index_on_invites.rb" timestamp="1526013880468">
+      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180424025345_add_weight_to_answers.rb" timestamp="1526280722073" />
+      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180511044331_add_index_on_invites.rb" timestamp="1526280307354">
         <mark key="[" line="3" column="24" />
         <mark key="]" line="3" column="33" />
         <mark key="." line="3" column="33" />
@@ -212,15 +218,23 @@
         <mark key="." line="1" column="124" />
         <mark key="^" line="1" column="124" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180514061355_add_state_to_users.rb" timestamp="1526278871036">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180514061355_add_state_to_users.rb" timestamp="1526280645726">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+        <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/users/states.rb" timestamp="1526277822668">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180514065137_add_index_on_aasm_state_to_users.rb" timestamp="1526280740694">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/users/states.rb" timestamp="1526281575810">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="48" />
+        <mark key="." line="9" column="48" />
+        <mark key="^" line="9" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/spec/commands/answers/update_by_front_spec.rb" timestamp="1525679775347">
         <mark key="[" line="6" column="48" />
@@ -233,6 +247,12 @@
         <mark key="]" line="51" column="45" />
         <mark key="^" line="51" column="42" />
         <mark key="." line="51" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1526282096047">
+        <mark key="[" line="187" column="16" />
+        <mark key="]" line="187" column="81" />
+        <mark key="." line="187" column="81" />
+        <mark key="^" line="187" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/sidekiq.yml" timestamp="1525228225939">
         <mark key="[" line="2" column="8" />
@@ -275,7 +295,7 @@
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/tasks/sync.rake" timestamp="1526023359647">
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/sync.rake" timestamp="1526281023903">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="10" column="43" />
         <mark key="." line="10" column="43" />
@@ -306,7 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="13" filename="$USER_HOME$/Documents/sesame/app/views/pages/partials/_download.slim" />
       <jump line="105" column="31" filename="$USER_HOME$/Documents/sesame/app/views/pages/partials/_download.slim" />
       <jump line="147" column="13" filename="$USER_HOME$/Documents/sesame/app/views/pages/partials/_download.slim" />
       <jump line="114" column="37" filename="$USER_HOME$/Documents/sesame/app/views/pages/partials/_download.slim" />
@@ -406,16 +425,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
       <jump line="759" column="20" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
       <jump line="287" column="15" filename="$USER_HOME$/Documents/sesame/db/schema.rb" />
+      <jump line="1" column="8" filename="$USER_HOME$/Documents/sesame/lib/tasks/merge.rake" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>site_user</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VyX2lkXD4=</text>
@@ -424,7 +444,7 @@
         <text encoding="base64">ICAgIGNoYW5nZV9jb2x1bW4gOmludml0ZXMsIDp1c2VyX2lkLCA6YmlnaW50CiAgICBjaGFuZ2VfY29sdW1uIDppbnZpdGVzLCA6Y29kZSwgOmJpZ2ludAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -433,22 +453,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZW51bSBzdGF0ZTogewogICAgICAgIGRlZmF1bHQ6IDAKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHBob25lcy5lYWNoIGRvIHxwaG9uZXwKCiAgICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBqc29uLmltYWdlcyBmb3JtYXRfcXVlc3Rpb25faW1hZ2VzKHF1ZXN0aW9uLmltYWdlcykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQogIGNvbnN0IHNyYyA9IGAke3VzZXIuYXZhdGFyfT9pbWFnZU1vZ3IyL2F1dG8tb3JpZW50L3RodW1ibmFpbC8hODB4ODByL2dyYXZpdHkvY2VudGVyL2Nyb3AvODB4ODBgCj4+Pj4+Pj4gZGV2ZWxvcAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgLy8gY29uc3Qgc3JjID0gYCR7dXNlci5hdmF0YXJ9P2ltYWdlTW9ncjIvYXV0by1vcmllbnQvdGh1bWJuYWlsLyE4MHg4MC9ncmF2aXR5L2NlbnRlci9jcm9wLzgweDgwYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">ICAgIOiKnem6u+azqOWGjOaJi+acuuWPtwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
