@@ -161,11 +161,11 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/tasks/merge.rake" timestamp="1526374244304">
-        <mark key="[" line="6" column="31" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="6" column="31" />
-        <mark key="^" line="6" column="30" />
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/merge.rake" timestamp="1526437644385">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="20" column="36" />
+        <mark key="." line="20" column="36" />
+        <mark key="^" line="20" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/toggle.rb" timestamp="1526022072166">
         <mark key="[" line="6" column="21" />
@@ -246,11 +246,11 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/users/states.rb" timestamp="1526374241269">
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="21" column="43" />
-        <mark key="." line="21" column="43" />
-        <mark key="^" line="21" column="43" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/users/states.rb" timestamp="1526437637122">
+        <mark key="[" line="26" column="7" />
+        <mark key="]" line="29" column="5" />
+        <mark key="." line="29" column="5" />
+        <mark key="^" line="29" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/spec/commands/answers/update_by_front_spec.rb" timestamp="1525679775347">
         <mark key="[" line="6" column="48" />
@@ -277,10 +277,10 @@
         <mark key="^" line="27" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1526295579754">
-        <mark key="'" line="370" column="10" />
-        <mark key="[" line="375" column="0" />
-        <mark key="]" line="375" column="0" />
-        <mark key="." line="375" column="0" />
+        <mark key="'" line="179" column="10" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="." line="184" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/sidekiq.yml" timestamp="1525228225939">
         <mark key="[" line="2" column="8" />
@@ -459,20 +459,20 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/sesame/lib/tasks/check.rake" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL21lcmdlLXVzZXIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cXVlc3Rpb25zLmNvdW50Lnplcm8/ICYmIHdpZmlfdXNlci5hbnN3ZXJzLmNvdW50Lnplcm8/</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text encoding="base64">cXVlc3Rpb25zLmNvdW50Lnplcm8/ICYmIHdpZmlfdXNlci5hbnN3ZXJzLmNvdW50Lnplcm8/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBAYW5zd2VyLm9ubGluZV9ndWFyZD8KICAgICAgICAgIHJlbmRlciBqc29uOiB7IHN0YXR1czogJ2ZhaWwnLCBtZXNzYWdlOiAn5pyJ6Zeu6aKY5Zyo5a6h5qC45Lit77yM56aB5q2i5pON5L2cJyB9CiAgICAgICAgICByZXR1cm4KICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICBkZXNjICLlkIjlubbmsqHmnInmk43kvZzmlbDmja7nmoTnlKjmiLciCiAgdGFzayBzaW1wbGVfdXNlcnM6IDplbnZpcm9ubWVudCBkbwogICAgVXNlci53aGVyZShwcm92aWRlcjogbmlsKS5maW5kX2VhY2ggZG8gfHNpdGVfdXNlcnwKICAgICAgd2lmaV91c2VyID0gVXNlci53aGVyZS5ub3QocHJvdmlkZXI6IG5pbCkud2hlcmUocGhvbmU6IHNpdGVfdXNlci5waG9uZSkubGFzdAogICAgICBuZXh0IGlmIHdpZmlfdXNlci5uaWw/ICMg5LiN5a2Y5Zyod2lmaV91c2VyCiAgICAgIG5leHQgaWYgd2lmaV91c2VyLm1lcmdlZD8gIyDkuI3lj6/ku6VtZXJnZQogICAgICBpZiB3aWZpX3VzZXIucXVlc3Rpb25zLmNvdW50Lnplcm8/ICYmIHdpZmlfdXNlci5hbnN3ZXJzLmNvdW50Lnplcm8/CiAgICAgICAgd2lmaV91c2VyLm1lcmdlISAjIOWQiOW5tiEKICAgICAgZW5kCiAgICBlbmQKICBlbmQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Pj4+Pj4+PiBmZWF0dXJlL21lcmdlLXVzZXIK</text>
