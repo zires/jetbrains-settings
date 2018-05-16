@@ -12,6 +12,11 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/users_controller.rb" timestamp="1526472747670">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/edit_answer.rb" timestamp="1526452821571">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -47,6 +52,7 @@
         <mark key="^" line="14" column="21" />
         <mark key="." line="14" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/users/answers.json.jbuilder" timestamp="1526472709109" />
       <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1526471664969">
         <mark key="[" line="110" column="37" />
         <mark key="]" line="110" column="37" />
@@ -61,9 +67,6 @@
         <mark key="]" line="11" column="44" />
         <mark key="." line="11" column="44" />
         <mark key="^" line="11" column="44" />
-      </file>
-      <file name="/Ruby Console" timestamp="1526453523236">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/services/writer_retain.rb" timestamp="1526469015439">
         <mark key="'" line="10" column="20" />
@@ -103,6 +106,7 @@
         <mark key="^" line="12" column="60" />
         <mark key="." line="12" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/users/show.json.jbuilder" timestamp="1526472961702" />
       <file name="$USER_HOME$/Documents/sesame/app/models/question.rb" timestamp="1526471214898" />
       <file name="$USER_HOME$/Documents/sesame/spec/factories/questions.rb" timestamp="1526452526017" />
       <file name="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" timestamp="1526453132068">
