@@ -17,7 +17,7 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/edit_answer.rb" timestamp="1526452821571">
+      <file name="$USER_HOME$/Documents/sesame/app/models/edit_answer.rb" timestamp="1526473835971">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="^" line="4" column="16" />
@@ -39,13 +39,6 @@
       <file name="$USER_HOME$/Documents/sesame/db/schema.rb" timestamp="1526364690595" />
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/set_uuid.rb" timestamp="1526446969256" />
       <file name="$USER_HOME$/Documents/sesame/spec/factories/answers.rb" timestamp="1526452561034" />
-      <file name="$USER_HOME$/Documents/sesame/spec/models/user_spec.rb" timestamp="1526454185712">
-        <mark key="'" line="18" column="39" />
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="39" />
-        <mark key="." line="18" column="39" />
-        <mark key="^" line="18" column="39" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/merge.rake" timestamp="1526471150351">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="21" />
