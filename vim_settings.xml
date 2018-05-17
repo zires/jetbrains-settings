@@ -27,17 +27,17 @@
         <mark key="." line="12" column="70" />
         <mark key="^" line="12" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/tasks/audit.rake" timestamp="1526529318195">
-        <mark key="[" line="22" column="10" />
-        <mark key="]" line="22" column="71" />
-        <mark key="^" line="22" column="70" />
-        <mark key="." line="22" column="70" />
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/audit.rake" timestamp="1526530517662">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="16" column="40" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/services/writer_retain.rb" timestamp="1526527240213">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="6" />
-        <mark key="." line="13" column="6" />
-        <mark key="^" line="13" column="6" />
+      <file name="$USER_HOME$/Documents/sesame/app/services/writer_retain.rb" timestamp="1526530535747">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="29" column="16" />
+        <mark key="." line="29" column="16" />
+        <mark key="^" line="29" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/edit_answer.rb" timestamp="1526527917440">
         <mark key="[" line="52" column="21" />
@@ -117,11 +117,11 @@
         <mark key="." line="7" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/replace_answer_images_job.rb" timestamp="1526527893824" />
-      <file name="$USER_HOME$/Documents/sesame/lib/tasks/retain.rake" timestamp="1526529016441">
-        <mark key="[" line="43" column="26" />
-        <mark key="]" line="43" column="29" />
-        <mark key="." line="43" column="29" />
-        <mark key="^" line="43" column="29" />
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/retain.rake" timestamp="1526530606981">
+        <mark key="[" line="46" column="28" />
+        <mark key="]" line="46" column="33" />
+        <mark key="." line="46" column="33" />
+        <mark key="^" line="46" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -227,8 +227,8 @@
       <jump line="4" column="14" filename="$USER_HOME$/Documents/sesame/app/commands/answers/replace_images.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Answer.online.where(created_at: rr).where.not(onlined_at: nil)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMg5YWo5bGA5YaZ6ICFCg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -243,31 +243,31 @@
         <text>Answer.online.where(created_at: rr).where.not(onlined_at: nil)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3ciA9IFdyaXRlclJldGFpbi5uZXcoZGF0ZSkucmV0YWlucwogICAgICAgIGNzdiA8PCBbCiAgICAgICAgICBkYXRlLCB3clswXSwgd3JbMV0KICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICMg5YWo5bGA5YaZ6ICFCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB3ciA9IFdyaXRlclJldGFpbi5uZXcoZGF0ZSkucmV0YWlucwogICAgICAgIGNzdiA8PCBbCiAgICAgICAgICBkYXRlLCB3clswXSwgd3JbMV0KICAgICAgICBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0YXNrIGFuYWx5emU6IDplbnZpcm9ubWVudCBkbwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0YXNrIGFuYWx5emU6IDplbnZpcm9ubWVudCBkbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQXVkaXRFZGl0QW5zd2VySm9iLnBlcmZvcm1fbGF0ZXIoZWRpdF9hbnN3ZXIpCiAgICAgIFJlcGxhY2VBbnN3ZXJJbWFnZXNKb2IucGVyZm9ybV9sYXRlcihlZGl0X2Fuc3dlcikK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgQXVkaXRFZGl0QW5zd2VySm9iLnBlcmZvcm1fbGF0ZXIoZWRpdF9hbnN3ZXIpCiAgICAgIFJlcGxhY2VBbnN3ZXJJbWFnZXNKb2IucGVyZm9ybV9sYXRlcihlZGl0X2Fuc3dlcikK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFplbm1lbjo6QXVkaXQ6OkFuc3dlckVudGl0eS5uZXcoYW5zd2VyLnJlbG9hZCkucnVuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFplbm1lbjo6QXVkaXQ6OkFuc3dlckVudGl0eS5uZXcoYW5zd2VyLnJlbG9hZCkucnVuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
