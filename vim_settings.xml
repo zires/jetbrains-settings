@@ -4,6 +4,13 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/audit_answer_job.rb" timestamp="1526526156878" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/answer.rb" timestamp="1526558663039">
+        <mark key="'" line="36" column="2" />
+        <mark key="[" line="43" column="66" />
+        <mark key="]" line="43" column="78" />
+        <mark key="^" line="43" column="78" />
+        <mark key="." line="43" column="78" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/create_device_job.rb" timestamp="1526553031229" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/answers_controller.rb" timestamp="1526542156415">
         <mark key="[" line="11" column="46" />
@@ -66,6 +73,7 @@
       <file name="$USER_HOME$/Documents/sesame/app/jobs/message_to_wifi_push_job.rb" timestamp="1526553063438" />
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/batch.rake" timestamp="1526528257050" />
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1526542877984" />
+      <file name="$USER_HOME$/Documents/sesame/db/schema.rb" timestamp="1526558660206" />
       <file name="$USER_HOME$/Documents/sesame/config/sidekiq.yml" timestamp="1526552968790">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="15" />
@@ -79,7 +87,7 @@
       </file>
       <file name="$USER_HOME$/Documents/sesame/spec/commands/answers/calculate_weight_spec.rb" timestamp="1526525860644" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/_show.json.jbuilder" timestamp="1526544289188" />
-      <file name="$USER_HOME$/Documents/sesame/Gemfile" timestamp="1526557620078" />
+      <file name="$USER_HOME$/Documents/sesame/Gemfile" timestamp="1526558262577" />
       <file name="$USER_HOME$/Documents/sesame/app/jobs/keywords_job.rb" timestamp="1526553061660">
         <mark key="[" line="0" column="34" />
         <mark key="]" line="2" column="1" />
