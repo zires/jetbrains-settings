@@ -21,6 +21,11 @@
         <mark key="^" line="25" column="51" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/users_controller.rb" timestamp="1526551266836">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/spec/commands/answers/replace_images_spec.rb" timestamp="1526526093399">
         <mark key="[" line="12" column="70" />
         <mark key="]" line="12" column="70" />
@@ -79,6 +84,7 @@
         <mark key="^" line="24" column="55" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1526551391228" />
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/states.rb" timestamp="1526445913273">
         <mark key="[" line="27" column="62" />
         <mark key="]" line="27" column="59" />
