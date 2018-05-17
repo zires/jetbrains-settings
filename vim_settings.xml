@@ -79,6 +79,7 @@
       </file>
       <file name="$USER_HOME$/Documents/sesame/spec/commands/answers/calculate_weight_spec.rb" timestamp="1526525860644" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/_show.json.jbuilder" timestamp="1526544289188" />
+      <file name="$USER_HOME$/Documents/sesame/Gemfile" timestamp="1526557620078" />
       <file name="$USER_HOME$/Documents/sesame/app/jobs/keywords_job.rb" timestamp="1526553061660">
         <mark key="[" line="0" column="34" />
         <mark key="]" line="2" column="1" />
