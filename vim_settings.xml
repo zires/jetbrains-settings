@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/audit_answer_job.rb" timestamp="1526526156878" />
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/answers_controller.rb" timestamp="1526539094845">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/answers_controller.rb" timestamp="1526542156415">
         <mark key="[" line="11" column="46" />
         <mark key="]" line="11" column="44" />
         <mark key="." line="11" column="44" />
@@ -27,13 +27,14 @@
         <mark key="." line="12" column="70" />
         <mark key="^" line="12" column="68" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/show.json.jbuilder" timestamp="1526544214242" />
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/audit.rake" timestamp="1526530517662">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="16" column="40" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/services/writer_retain.rb" timestamp="1526530535747">
+      <file name="$USER_HOME$/Documents/sesame/app/services/writer_retain.rb" timestamp="1526543112982">
         <mark key="[" line="28" column="5" />
         <mark key="]" line="29" column="16" />
         <mark key="." line="29" column="16" />
@@ -51,6 +52,7 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/users/states.rb" timestamp="1526543615790" />
       <file name="$USER_HOME$/Documents/sesame/.rubocop.yml" timestamp="1526527275632">
         <mark key="[" line="133" column="0" />
         <mark key="]" line="134" column="37" />
@@ -83,11 +85,12 @@
         <mark key="^" line="27" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/batch.rake" timestamp="1526528257050" />
-      <file name="$USER_HOME$/Documents/sesame/lib/tasks/merge.rake" timestamp="1526532788338">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="21" />
-        <mark key="^" line="14" column="21" />
-        <mark key="." line="14" column="21" />
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1526542877984" />
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/merge.rake" timestamp="1526545102905">
+        <mark key="[" line="39" column="30" />
+        <mark key="]" line="39" column="31" />
+        <mark key="." line="39" column="31" />
+        <mark key="^" line="39" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/sesame-api/app/controllers/releases_controller.rb" timestamp="1526460393419">
         <mark key="[" line="12" column="51" />
@@ -96,6 +99,7 @@
         <mark key="." line="12" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/spec/commands/answers/calculate_weight_spec.rb" timestamp="1526525860644" />
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/_show.json.jbuilder" timestamp="1526544289188" />
       <file name="$USER_HOME$/Documents/sesame/app/jobs/replace_and_audit_answer_job.rb" timestamp="1526527938627">
         <mark key="[" line="10" column="53" />
         <mark key="]" line="10" column="54" />
@@ -110,7 +114,7 @@
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/upload_image_command.rb" timestamp="1526525993032" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/auth_controller.rb" timestamp="1526527015724" />
-      <file name="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" timestamp="1526453132068">
+      <file name="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" timestamp="1526541833868">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="7" column="26" />
         <mark key="^" line="7" column="26" />
@@ -227,47 +231,47 @@
       <jump line="4" column="14" filename="$USER_HOME$/Documents/sesame/app/commands/answers/replace_images.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMg5YWo5bGA5YaZ6ICFCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>更新incomes表的question_id</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0ZXNfbGVuZ3RoX29mXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>Answer.online.where(created_at: rr).where.not(onlined_at: nil)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdXNlci52aWV3X2NvdW50ZXIudmFsdWUgPSB1c2VyLnZpZXdfY291bnRlci50b19pICsgVXNlci5maW5kKHRfaWQpLnZpZXdfY291bnRlci50b19pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMg5YWo5bGA5YaZ6ICFCg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3ciA9IFdyaXRlclJldGFpbi5uZXcoZGF0ZSkucmV0YWlucwogICAgICAgIGNzdiA8PCBbCiAgICAgICAgICBkYXRlLCB3clswXSwgd3JbMV0KICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB1c2VyLm1lcmdlZD8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB0YXNrIGFuYWx5emU6IDplbnZpcm9ubWVudCBkbwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQXVkaXRFZGl0QW5zd2VySm9iLnBlcmZvcm1fbGF0ZXIoZWRpdF9hbnN3ZXIpCiAgICAgIFJlcGxhY2VBbnN3ZXJJbWFnZXNKb2IucGVyZm9ybV9sYXRlcihlZGl0X2Fuc3dlcikK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFplbm1lbjo6QXVkaXQ6OkFuc3dlckVudGl0eS5uZXcoYW5zd2VyLnJlbG9hZCkucnVuCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
