@@ -62,6 +62,12 @@
         <mark key="^" line="133" column="0" />
         <mark key="." line="133" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/grids/user_authentication_grid.rb" timestamp="1526614587240">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="14" />
+        <mark key="^" line="10" column="14" />
+        <mark key="." line="10" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1526610576603" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/calculate_weight.rb" timestamp="1526612096155" />
       <file name="$USER_HOME$/Documents/sesame/config/sidekiq.yml" timestamp="1526552968790">
@@ -74,6 +80,12 @@
         <mark key="]" line="39" column="31" />
         <mark key="." line="39" column="31" />
         <mark key="^" line="39" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/Gemfile" timestamp="1526613627437">
+        <mark key="[" line="2" column="43" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+        <mark key="^" line="2" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/keywords_job.rb" timestamp="1526553061660">
         <mark key="[" line="0" column="34" />
@@ -204,19 +216,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>%i(votes_weight comments_count weight onlined_at)</text>
+        <text>/</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0ZXNfbGVuZ3RoX29mXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>%i(votes_weight comments_count weight onlined_at)</text>
+      <register name="0" type="2">
+        <text encoding="base64">c291cmNlICdodHRwczovL2dlbXMucnVieS1jaGluYS5vcmcnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBlbmQK</text>
