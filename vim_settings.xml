@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/sesame/app/models/answer.rb" timestamp="1526558663039">
+      <file name="$USER_HOME$/Documents/sesame/app/models/answer.rb" timestamp="1526612829104">
         <mark key="'" line="36" column="2" />
-        <mark key="[" line="43" column="66" />
-        <mark key="]" line="43" column="78" />
-        <mark key="^" line="43" column="78" />
-        <mark key="." line="43" column="78" />
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="43" column="74" />
+        <mark key="^" line="43" column="63" />
+        <mark key="." line="43" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/answers_controller.rb" timestamp="1526542156415">
         <mark key="[" line="11" column="46" />
@@ -204,19 +204,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>%i(votes_weight comments_count weight onlined_at)</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0ZXNfbGVuZ3RoX29mXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdXNlci52aWV3X2NvdW50ZXIudmFsdWUgPSB1c2VyLnZpZXdfY291bnRlci50b19pICsgVXNlci5maW5kKHRfaWQpLnZpZXdfY291bnRlci50b19pCg==</text>
+      <register name="0" type="4">
+        <text>%i(votes_weight comments_count weight onlined_at)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBlbmQK</text>
