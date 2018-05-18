@@ -63,6 +63,7 @@
         <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1526610576603" />
+      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/calculate_weight.rb" timestamp="1526612096155" />
       <file name="$USER_HOME$/Documents/sesame/config/sidekiq.yml" timestamp="1526552968790">
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="15" />
