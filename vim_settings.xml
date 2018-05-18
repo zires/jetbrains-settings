@@ -38,7 +38,7 @@
         <mark key="." line="12" column="70" />
         <mark key="^" line="12" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/acts_as_audit_logable.rb" timestamp="1526624373420" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/acts_as_audit_logable.rb" timestamp="1526626418081" />
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/audit.rake" timestamp="1526530517662">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
