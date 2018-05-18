@@ -16,21 +16,11 @@
         <mark key="." line="11" column="44" />
         <mark key="^" line="11" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/replace_images.rb" timestamp="1526527843367">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/create.rb" timestamp="1526630803040">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="25" column="51" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/users_controller.rb" timestamp="1526551266836">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/spec/commands/answers/replace_images_spec.rb" timestamp="1526526093399">
         <mark key="[" line="12" column="70" />
@@ -45,6 +35,7 @@
         <mark key="^" line="16" column="40" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" timestamp="1526638804074" />
       <file name="$USER_HOME$/Documents/sesame/app/services/writer_retain.rb" timestamp="1526543112982">
         <mark key="[" line="28" column="5" />
         <mark key="]" line="29" column="16" />
@@ -85,11 +76,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="33" column="7" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/config/sidekiq.yml" timestamp="1526552968790">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="15" />
-        <mark key="." line="3" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/merge.rake" timestamp="1526635200583">
         <mark key="[" line="887" column="10" />
@@ -133,6 +119,11 @@
         <mark key="]" line="46" column="33" />
         <mark key="." line="46" column="33" />
         <mark key="^" line="46" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/user_sessions_controller.rb" timestamp="1526638811915">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="38" />
+        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -238,8 +229,8 @@
       <jump line="45" column="13" filename="$USER_HOME$/Documents/sesame/lib/tasks/merge.rake" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JiYgIWF1dGgudXNlci5tZXJnZWQ/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvb2tpZXMuZGVsZXRlKDpyZW1lbWJlcl9tZV90b2tlbikK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -251,7 +242,7 @@
         <text encoding="base64">XDxjaGVja19zZW5zaXRpdmVfd29yZHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c291cmNlICdodHRwczovL2dlbXMucnVieS1jaGluYS5vcmcnCg==</text>
+        <text encoding="base64">ICAgIGNvb2tpZXMuZGVsZXRlKDpyZW1lbWJlcl9tZV90b2tlbikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
