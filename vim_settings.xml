@@ -64,7 +64,8 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/calculate_weight.rb" timestamp="1526888517832" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/states.rb" timestamp="1526889458644" />
+      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/calculate_weight.rb" timestamp="1526889368287" />
       <file name="$USER_HOME$/Documents/sesame/lib/utils/a.rb" timestamp="1526627801096">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="1" column="0" />
