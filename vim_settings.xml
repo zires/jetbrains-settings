@@ -52,11 +52,11 @@
         <mark key="^" line="10" column="49" />
         <mark key="." line="10" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/users/states.rb" timestamp="1526895386227">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="75" column="73" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/users/states.rb" timestamp="1526898942412">
+        <mark key="[" line="69" column="11" />
+        <mark key="]" line="69" column="5" />
+        <mark key="." line="69" column="5" />
+        <mark key="^" line="69" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/.rubocop.yml" timestamp="1526527275632">
         <mark key="[" line="133" column="0" />
@@ -82,10 +82,10 @@
       </file>
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/merge.rake" timestamp="1526891627256">
         <mark key="'" line="25" column="2" />
-        <mark key="[" line="868" column="10" />
-        <mark key="]" line="868" column="13" />
-        <mark key="." line="868" column="13" />
-        <mark key="^" line="868" column="13" />
+        <mark key="[" line="849" column="10" />
+        <mark key="]" line="849" column="13" />
+        <mark key="." line="849" column="13" />
+        <mark key="^" line="849" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/Gemfile" timestamp="1526613627437">
         <mark key="[" line="2" column="43" />
