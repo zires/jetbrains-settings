@@ -34,6 +34,7 @@
         <mark key="." line="12" column="70" />
         <mark key="^" line="12" column="68" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/show.json.jbuilder" timestamp="1526986416427" />
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/audit.rake" timestamp="1526530517662">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -70,6 +71,7 @@
         <mark key="." line="32" column="13" />
         <mark key="^" line="32" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/show.json.jbuilder" timestamp="1526986697347" />
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/users/states.rb" timestamp="1526982538626">
         <mark key="[" line="69" column="11" />
         <mark key="]" line="69" column="5" />
@@ -88,8 +90,10 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1526975371376" />
-      <file name="$USER_HOME$/Documents/sesame/app/commands/wifikey_login_command.rb" timestamp="1526984518513" />
+      <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1526987011920" />
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/users/_show.json.jbuilder" timestamp="1526986676297" />
+      <file name="$USER_HOME$/Documents/sesame/app/commands/wifikey_login_command.rb" timestamp="1526987002981" />
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/search.json.jbuilder" timestamp="1526986473893" />
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/cache.rake" timestamp="1526972119321">
         <mark key="'" line="16" column="2" />
         <mark key="[" line="51" column="7" />
@@ -124,6 +128,7 @@
         <mark key="." line="2" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1526985304706" />
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" timestamp="1526986326153" />
       <file name="$USER_HOME$/Documents/sesame/app/jobs/replace_and_audit_answer_job.rb" timestamp="1526527938627">
         <mark key="[" line="10" column="53" />
         <mark key="]" line="10" column="54" />
@@ -160,11 +165,6 @@
         <mark key="]" line="46" column="33" />
         <mark key="." line="46" column="33" />
         <mark key="^" line="46" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/user_sessions_controller.rb" timestamp="1526638811915">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="38" />
-        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
