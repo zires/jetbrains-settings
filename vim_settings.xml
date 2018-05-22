@@ -147,6 +147,7 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/acts_as_taggable.rb" timestamp="1526978426759" />
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/retain.rake" timestamp="1526530606981">
         <mark key="[" line="46" column="28" />
         <mark key="]" line="46" column="33" />
