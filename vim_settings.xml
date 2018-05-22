@@ -71,6 +71,7 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/index.json.jb" timestamp="1526991113252" />
       <file name="$USER_HOME$/Documents/sesame/config/routes/api_routes.rb" timestamp="1526976112786">
         <mark key="[" line="32" column="8" />
         <mark key="]" line="32" column="13" />
@@ -119,6 +120,12 @@
         <mark key="^" line="33" column="7" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/base/_user.json.jb" timestamp="1526991083621">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/merge.rake" timestamp="1526891627256">
         <mark key="'" line="25" column="2" />
         <mark key="[" line="849" column="10" />
@@ -126,11 +133,11 @@
         <mark key="." line="849" column="13" />
         <mark key="^" line="849" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/omni_counter.rb" timestamp="1526988298067">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="35" column="15" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/omni_counter.rb" timestamp="1526990886346">
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="27" column="3" />
+        <mark key="^" line="27" column="3" />
+        <mark key="." line="27" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/show.json.jbuilder" timestamp="1526989273937">
         <mark key="[" line="2" column="22" />
@@ -290,13 +297,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGVwbG95ZXJAMTIwLjEzMi42Ni43NyA=</text>
+        <text>user.user_followings.count</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGVwbG95ZXJAMTIwLjEzMi42Ni43NyA=</text>
+        <text>user.user_followings.count</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmNvbWVfcmVjb3Jkc1w+</text>
