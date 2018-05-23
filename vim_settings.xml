@@ -133,6 +133,13 @@
         <mark key="." line="9" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/sessions_controller.rb" timestamp="1527046529076" />
+      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/replace_images.rb" timestamp="1527071657414">
+        <mark key="'" line="8" column="45" />
+        <mark key="[" line="9" column="73" />
+        <mark key="]" line="9" column="73" />
+        <mark key="^" line="9" column="73" />
+        <mark key="." line="9" column="73" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/spec/commands/answers/replace_images_spec.rb" timestamp="1526526093399">
         <mark key="[" line="12" column="70" />
         <mark key="]" line="12" column="70" />
@@ -263,7 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="27" filename="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" />
       <jump line="19" column="6" filename="$USER_HOME$/Documents/sesame/app/controllers/application_controller.rb" />
       <jump line="63" column="39" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Index/index.jsx" />
       <jump line="25" column="6" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Index/index.jsx" />
@@ -363,6 +369,7 @@
       <jump line="59" column="32" filename="$USER_HOME$/Documents/sesame/app/models/user.rb" />
       <jump line="310" column="14" filename="$USER_HOME$/Documents/sesame/db/schema.rb" />
       <jump line="529" column="14" filename="$USER_HOME$/Documents/sesame/db/schema.rb" />
+      <jump line="8" column="45" filename="$USER_HOME$/Documents/sesame/app/commands/answers/replace_images.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
