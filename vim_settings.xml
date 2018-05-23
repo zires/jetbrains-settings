@@ -223,6 +223,7 @@
         <mark key="^" line="3" column="89" />
         <mark key="." line="3" column="89" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/questions/clear_micro_cache.rb" timestamp="1527078929073" />
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/omni_counter.rb" timestamp="1527073789329">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -266,6 +267,12 @@
         <mark key="]" line="11" column="37" />
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/calculate_answer_weight_job.rb" timestamp="1527078996338">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="16" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" timestamp="1526541833868">
         <mark key="[" line="5" column="21" />
@@ -384,8 +391,8 @@
       <jump line="41" column="6" filename="$USER_HOME$/Documents/sesame/app/models/concerns/omni_counter.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(AdvertisingRate.sum(:profit) * 4).floor(2).to_s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -400,31 +407,31 @@
         <text encoding="base64">ICAgICAgICAkbWljcm9fcmVkaXMuaHNldCBjb3VudGVyLCBAcmVjb3JkLnNlbmQoOm9tbmlfY291bnRlcl9rZXkpLCBtaXNzaW5nX2tleShjb3VudGVyKSArIHZhbHVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlCgogIGRlZiBvbW5pX2NvdW50ZXJfa2V5CiAgICBAb21uaV9jb3VudGVyX2tleSB8fD0gIm1pY3JvOmNhY2hlOiN7bW9kZWxfbmFtZS5zaW5ndWxhcn06Y291bnRlciIKICBlbmQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHRoZV9hbnN3ZXIud2VpZ2h0ID0gb3V0Y29tZS5yZXN1bHQKICAgICAgICAjIHRoZV9hbnN3ZXIuc2F2ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwcml2YXRlCgogIGRlZiBvbW5pX2NvdW50ZXJfa2V5CiAgICBAb21uaV9jb3VudGVyX2tleSB8fD0gIm1pY3JvOmNhY2hlOiN7bW9kZWxfbmFtZS5zaW5ndWxhcn06Y291bnRlciIKICBlbmQK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgb21uaV9jb3VudGVyX2tleQogICAgQG9tbmlfY291bnRlcl9rZXkgfHw9ICJtaWNybzpjYWNoZToje21vZGVsX25hbWUuc2luZ3VsYXJ9OmNvdW50ZXIiCiAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgb21uaV9jb3VudGVyX2tleSA9IEByZWNvcmQuc2VuZCg6b21uaV9jb3VudGVyX2tleSkK</text>
+        <text encoding="base64">ICBwcml2YXRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBkZWYgb21uaV9jb3VudGVyX2tleQogICAgQG9tbmlfY291bnRlcl9rZXkgfHw9ICJtaWNybzpjYWNoZToje21vZGVsX25hbWUuc2luZ3VsYXJ9OmNvdW50ZXIiCiAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
