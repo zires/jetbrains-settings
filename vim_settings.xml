@@ -175,6 +175,12 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/inner/welcome_controller.rb" timestamp="1527060801177">
+        <mark key="[" line="57" column="33" />
+        <mark key="]" line="57" column="52" />
+        <mark key="." line="57" column="52" />
+        <mark key="^" line="57" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1526987011920" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/wifikey_login_command.rb" timestamp="1526987002981" />
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/cache.rake" timestamp="1526972119321">
@@ -350,47 +356,47 @@
       <jump line="529" column="14" filename="$USER_HOME$/Documents/sesame/db/schema.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>User.where(id: arr).order_by_ids(arr)</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eydDb250ZW50LVR5cGUnID0+ICdhcHBsaWNhdGlvbi9qc29uJ30=</text>
+        <text>User.where(id: arr).order_by_ids(arr)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxldmVudFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>message = Message.new(messageable: question, user: user, sender: question.user, event: :toFans)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICMgQGpzb25bOnVzZXJJZHNdID0gVXNlci53aGVyZShpZDogYXJyKS5vcmRlcl9ieV9pZHMoYXJyKS5tYXAgZG8gfHVzZXJ8CiAgICAgICAgICAjICAgeyBpZDogdXNlci5pZCwgbmFtZTogdXNlci5uaWNrbmFtZSwgYXZhdGFyOiB1c2VyLmF2YXRhciB9CiAgICAgICAgICAjIGVuZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICMgQGpzb25bOnVzZXJJZHNdID0gVXNlci53aGVyZShpZDogYXJyKS5vcmRlcl9ieV9pZHMoYXJyKS5tYXAgZG8gfHVzZXJ8CiAgICAgICAgICAjICAgeyBpZDogdXNlci5pZCwgbmFtZTogdXNlci5uaWNrbmFtZSwgYXZhdGFyOiB1c2VyLmF2YXRhciB9CiAgICAgICAgICAjIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgZmFucyA9IHF1ZXN0aW9uLnVzZXIuZmFucwogICAgIyBmYW5zLmZpbmRfZWFjaCBkbyB8dXNlcnwKICAgICMgICBtZXNzYWdlID0gTWVzc2FnZS5uZXcobWVzc2FnZWFibGU6IHF1ZXN0aW9uLCB1c2VyOiB1c2VyLCBzZW5kZXI6IHF1ZXN0aW9uLnVzZXIsIGV2ZW50OiA6dG9GYW5zKQogICAgIyAgIE1lc3NhZ2VUb1JlcG9ydEpvYi5wZXJmb3JtX25vdyhtZXNzYWdlKQogICAgIyBlbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICMgZmFucyA9IHF1ZXN0aW9uLnVzZXIuZmFucwogICAgIyBmYW5zLmZpbmRfZWFjaCBkbyB8dXNlcnwKICAgICMgICBtZXNzYWdlID0gTWVzc2FnZS5uZXcobWVzc2FnZWFibGU6IHF1ZXN0aW9uLCB1c2VyOiB1c2VyLCBzZW5kZXI6IHF1ZXN0aW9uLnVzZXIsIGV2ZW50OiA6dG9GYW5zKQogICAgIyAgIE1lc3NhZ2VUb1JlcG9ydEpvYi5wZXJmb3JtX25vdyhtZXNzYWdlKQogICAgIyBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIyBWb3RlLnRyYW5zYWN0aW9uIGRvCiAgICAgICMgICB2b3Rlci52b3RlX3VwKGFuc3dlcikKICAgICAgIyAgIGFuc3dlci50b19jZWxsCiAgICAgICMgICBSZXZvdGVCZXN0QW5zd2VySm9iLnBlcmZvcm1fbGF0ZXIoYW5zd2VyKQogICAgICAjICAgQ2FsY3VsYXRlQW5zd2VyV2VpZ2h0Sm9iLnNldCh3YWl0OiA1Lm1pbnV0ZXMpLnBlcmZvcm1fbGF0ZXIoYW5zd2VyKQogICAgICAjICAgc2VuZF9tZXNzYWdlcwogICAgICAjIGVuZAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIyBWb3RlLnRyYW5zYWN0aW9uIGRvCiAgICAgICMgICB2b3Rlci52b3RlX3VwKGFuc3dlcikKICAgICAgIyAgIGFuc3dlci50b19jZWxsCiAgICAgICMgICBSZXZvdGVCZXN0QW5zd2VySm9iLnBlcmZvcm1fbGF0ZXIoYW5zd2VyKQogICAgICAjICAgQ2FsY3VsYXRlQW5zd2VyV2VpZ2h0Sm9iLnNldCh3YWl0OiA1Lm1pbnV0ZXMpLnBlcmZvcm1fbGF0ZXIoYW5zd2VyKQogICAgICAjICAgc2VuZF9tZXNzYWdlcwogICAgICAjIGVuZAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
