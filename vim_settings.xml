@@ -143,7 +143,7 @@
         <mark key="." line="6" column="71" />
         <mark key="^" line="6" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/comment.rb" timestamp="1526892149079">
+      <file name="$USER_HOME$/Documents/sesame/app/models/comment.rb" timestamp="1527062018029">
         <mark key="[" line="10" column="69" />
         <mark key="]" line="12" column="49" />
         <mark key="^" line="12" column="49" />
@@ -175,11 +175,11 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/inner/welcome_controller.rb" timestamp="1527060801177">
-        <mark key="[" line="57" column="33" />
-        <mark key="]" line="57" column="52" />
-        <mark key="." line="57" column="52" />
-        <mark key="^" line="57" column="52" />
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/inner/welcome_controller.rb" timestamp="1527062029054">
+        <mark key="[" line="89" column="39" />
+        <mark key="]" line="89" column="53" />
+        <mark key="." line="89" column="53" />
+        <mark key="^" line="89" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1526987011920" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/wifikey_login_command.rb" timestamp="1526987002981" />
@@ -357,13 +357,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>User.where(id: arr).order_by_ids(arr)</text>
+        <text>where(id: arr).order_by_ids(arr)</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>User.where(id: arr).order_by_ids(arr)</text>
+        <text>where(id: arr).order_by_ids(arr)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxldmVudFw+</text>
