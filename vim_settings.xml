@@ -18,6 +18,12 @@
         <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/users_controller.rb" timestamp="1527067324930" />
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/configs_controller.rb" timestamp="1527078211605">
+        <mark key="[" line="12" column="93" />
+        <mark key="]" line="12" column="98" />
+        <mark key="^" line="12" column="98" />
+        <mark key="." line="12" column="98" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/followings.json.jbuilder" timestamp="1527043156018">
         <mark key="[" line="12" column="61" />
         <mark key="]" line="12" column="66" />
@@ -87,6 +93,8 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="18" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/user_sync_job.rb" timestamp="1527076791854" />
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/track_event_job.rb" timestamp="1527076803670" />
       <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1526985304706" />
       <file name="$USER_HOME$/Documents/sesame/db/migrate/20180412102953_add_missing_indexes_to_questions.rb" timestamp="1527067376829" />
       <file name="$USER_HOME$/Documents/sesame/app/models/income.rb" timestamp="1527045619402">
@@ -102,12 +110,7 @@
         <mark key="^" line="10" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/db/migrate/20180511044331_add_index_on_invites.rb" timestamp="1527058341314" />
-      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1527059082364">
-        <mark key="[" line="55" column="32" />
-        <mark key="]" line="55" column="48" />
-        <mark key="." line="55" column="48" />
-        <mark key="^" line="55" column="48" />
-      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1527076780894" />
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/acts_as_taggable.rb" timestamp="1526980504149">
         <mark key="[" line="77" column="41" />
         <mark key="]" line="77" column="43" />
@@ -205,6 +208,7 @@
         <mark key="^" line="89" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1526987011920" />
+      <file name="$USER_HOME$/Documents/sesame/app/services/user_sync_service.rb" timestamp="1527076701075" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/wifikey_login_command.rb" timestamp="1526987002981" />
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/cache.rake" timestamp="1526972119321">
         <mark key="'" line="16" column="2" />
@@ -231,6 +235,7 @@
         <mark key="^" line="2" column="48" />
         <mark key="." line="2" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/_show.json.jbuilder" timestamp="1527077557877" />
       <file name="$USER_HOME$/Documents/sesame/app/jobs/question_approved_to_fans_job.rb" timestamp="1527059287894">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -249,7 +254,7 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" timestamp="1526986326153" />
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" timestamp="1527077985309" />
       <file name="$USER_HOME$/Documents/sesame/app/models/question.rb" timestamp="1527003125600">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
@@ -380,13 +385,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(AdvertisingRate.sum(:profit) * 4).floor(2).to_s</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(AdvertisingRate.sum(:profit) * 4).floor(2).to_s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbW5pX2NvdW50ZXJfa2V5XD4=</text>
