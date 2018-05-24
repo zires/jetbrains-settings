@@ -247,6 +247,7 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/spec/jobs/answer_to_cell_job_spec.rb" timestamp="1527156733139" />
       <file name="$USER_HOME$/Documents/sesame/app/models/question.rb" timestamp="1527137677747">
         <mark key="[" line="12" column="48" />
         <mark key="]" line="12" column="34" />
@@ -295,6 +296,9 @@
         <mark key="]" line="36" column="49" />
         <mark key="^" line="36" column="49" />
         <mark key="." line="36" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/reject.rb" timestamp="1527156956444">
+        <mark key="^" line="7" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/users_controller.rb" timestamp="1527150285288">
         <mark key="[" line="18" column="24" />
