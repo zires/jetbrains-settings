@@ -70,11 +70,11 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/users/_show.json.jbuilder" timestamp="1527094003929">
-        <mark key="[" line="13" column="54" />
-        <mark key="]" line="13" column="33" />
-        <mark key="." line="13" column="33" />
-        <mark key="^" line="13" column="33" />
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/users/_show.json.jbuilder" timestamp="1527120614430">
+        <mark key="[" line="12" column="68" />
+        <mark key="]" line="12" column="69" />
+        <mark key="." line="12" column="69" />
+        <mark key="^" line="12" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1527080389909" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/search.json.jbuilder" timestamp="1526986473893" />
