@@ -35,11 +35,11 @@
         <mark key="." line="15" column="5" />
         <mark key="^" line="15" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/deploy/production.rb" timestamp="1527371095865">
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="15" column="1" />
-        <mark key="^" line="15" column="1" />
-        <mark key="." line="15" column="1" />
+      <file name="$USER_HOME$/Documents/sesame/config/deploy/production.rb" timestamp="1527373115145">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="11" column="58" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/content_sensitive.rb" timestamp="1527324569081" />
       <file name="$USER_HOME$/Documents/sesame/app/models/keyword.rb" timestamp="1527324646147">
@@ -750,43 +750,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VydmVycyA9ICV3KGRlcGxveWVyQDEyMC4xMzIuNjYuNzcgZGVwbG95ZXJAMTIzLjU5Ljg5LjE0MCkK</text>
+        <text encoding="base64">c2VydmVycyA9ICV3KGRlcGxveWVyQDEwNi43NS4zMS4yMDEgZGVwbG95ZXJAMTA2Ljc1LjM0LjIxNykK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3b3Jkc19jb3VudFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2VydmVycyA9ICV3KGRlcGxveWVyQDEyMC4xMzIuNjYuNzcgZGVwbG95ZXJAMTIzLjU5Ljg5LjE0MCkK</text>
+      <register name="0" type="4">
+        <text>deployer@106.75.31.201 deployer@106.75.34.217</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">anNvbi52aWV3X2NvdW50IHVzZXIudmlld19jb3VudGVyLnRvX2kK</text>
+        <text encoding="base64">c2VydmVycyA9ICV3KGRlcGxveWVyQDEwNi43NS4zMS4yMDEgZGVwbG95ZXJAMTA2Ljc1LjM0LjIxNykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VydmVycyA9ICV3KGRlcGxveWVyQDEwNi43NS4zMS4yMDEgZGVwbG95ZXJAMTA2Ljc1LjM0LjIxNykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">anNvbi52aWV3X2NvdW50IHVzZXIudmlld19jb3VudGVyLnRvX2kK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgdXNlci5iZV9pbnZpdGVkPwogIGpzb24uY2FjaGUhIFtTZXR0aW5ncy5hcGlfY2FjaGVfdmVyc2lvbiwgVGltZS5ub3cuc3RyZnRpbWUoJyVZJW0lZCVIJyksIHVzZXIuaWRdIGRvCiAgICBqc29uLmFtb3VudCB1c2VyLmluY29tZV9hbW91bnQKICBlbmQKZW5kCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBqc29uLmJvbnVzIHVzZXIuYmVfaW52aXRlZD8K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBqc29uLnVucmVhZF9tZXNzYWdlc19jb3VudCAwCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aWYgdXNlci5iZV9pbnZpdGVkPwogIGpzb24uY2FjaGUhIFtTZXR0aW5ncy5hcGlfY2FjaGVfdmVyc2lvbiwgVGltZS5ub3cuc3RyZnRpbWUoJyVZJW0lZCVIJyksIHVzZXIuaWRdIGRvCiAgICBqc29uLmFtb3VudCB1c2VyLmluY29tZV9hbW91bnQKICBlbmQKZW5kCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBqc29uLmJvbnVzIHVzZXIuYmVfaW52aXRlZD8K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">anNvbi52aWV3X2NvdW50IHVzZXIudmlld19jb3VudGVyLnRvX2kK</text>
+        <text encoding="base64">ICBqc29uLnVucmVhZF9tZXNzYWdlc19jb3VudCAwCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
