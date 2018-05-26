@@ -47,7 +47,7 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/grids/question_grid.rb" timestamp="1527303645685" />
+      <file name="$USER_HOME$/Documents/sesame/app/grids/question_grid.rb" timestamp="1527311464847" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/search.json.jbuilder" timestamp="1527250269992">
         <mark key="[" line="15" column="38" />
         <mark key="]" line="15" column="32" />
@@ -218,7 +218,7 @@
         <mark key="." line="37" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/services/user_sync_service.rb" timestamp="1527241053410" />
-      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/states.rb" timestamp="1527305614648">
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/states.rb" timestamp="1527311202867">
         <mark key="'" line="26" column="33" />
         <mark key="[" line="36" column="21" />
         <mark key="]" line="36" column="28" />
@@ -556,6 +556,12 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/questions/counters.rb" timestamp="1527311467383">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="31" />
+        <mark key="^" line="9" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/questions_controller.rb" timestamp="1527231852522">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="17" column="43" />
@@ -685,20 +691,20 @@
       <jump line="20" column="41" filename="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBpZiBVdG0ud2hlcmUodGVybTogJ3F1ZXN0aW9uJywgY29udGVudDogYXNzZXQuaWQpLmV4aXN0cz8K</text>
+      <register name="&quot;" type="4">
+        <text>toggled_answers</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>@questions.last_page? || @questions.count.zero?</text>
+        <text>toggled_answers</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5kX21vZGVsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXJyID0gW10KICAgICAgQW5zd2VyLmZpbmQocGFyYW1zWzppZHNdKS5lYWNoIGRvIHxhbnN3ZXJ8CiAgICAgICAgbmV4dCBpZiBhbnN3ZXIub25saW5lX2d1YXJkPwogICAgICAgIG91dGNvbWUgPSBBbnN3ZXJzOjpBcHByb3ZlLnJ1bihhbnN3ZXI6IGFuc3dlcikKICAgICAgICBhcnIgPDwgb3V0Y29tZS5zdWNjZXNzPyA/IHsgc3RhdHVzOiAiT0siIH0gOiB7IHN0YXR1czogIkZBSUwiLCBpZDogaWQsIG1lc3NhZ2U6IG91dGNvbWUuZXJyb3JzLmZpcnN0Lmxhc3QgfQogICAgICBlbmQKICAgICAgcmVuZGVyIGpzb246IHsgcmVzdWx0OiBhcnIgfQogICAgcmVzY3VlID0+IGVycm9yCiAgICAgIHJlbmRlciBqc29uOiB7IGZpZWxkOiAiYXBwcm92ZV9hbGwiLCBtZXNzYWdlOiBlcnJvci5tZXNzYWdlIH0sIHN0YXR1czogNTAwCg==</text>
+        <text encoding="base64">ICAgICAgb21uaV9jb3VudGVyIDp0b2dnbGVkX2Fuc3dlcnMsIC0+IHsgYW5zd2Vycy50b2dnbGVkLmNvdW50IH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLSBpZiBVdG0ud2hlcmUodGVybTogJ3F1ZXN0aW9uJywgY29udGVudDogYXNzZXQuaWQpLmV4aXN0cz8K</text>
