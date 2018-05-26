@@ -35,6 +35,12 @@
         <mark key="." line="15" column="5" />
         <mark key="^" line="15" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/config/deploy/production.rb" timestamp="1527369688377">
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="15" column="1" />
+        <mark key="^" line="15" column="1" />
+        <mark key="." line="15" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/content_sensitive.rb" timestamp="1527324569081" />
       <file name="$USER_HOME$/Documents/sesame/app/models/keyword.rb" timestamp="1527324646147">
         <mark key="[" line="3" column="0" />
@@ -743,8 +749,8 @@
       <jump line="18" column="0" filename="$USER_HOME$/Documents/sesame/app/views/api/users/_tiny_show.json.jbuilder" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>user</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VydmVycyA9ICV3KGRlcGxveWVyQDEyMC4xMzIuNjYuNzcgZGVwbG95ZXJAMTIzLjU5Ljg5LjE0MCkK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -756,7 +762,7 @@
         <text encoding="base64">XDx3b3Jkc19jb3VudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBqc29uLmZvbGxvd2luZ3NfY291bnQgMAo=</text>
+        <text encoding="base64">c2VydmVycyA9ICV3KGRlcGxveWVyQDEyMC4xMzIuNjYuNzcgZGVwbG95ZXJAMTIzLjU5Ljg5LjE0MCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">anNvbi52aWV3X2NvdW50IHVzZXIudmlld19jb3VudGVyLnRvX2kK</text>
