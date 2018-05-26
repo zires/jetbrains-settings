@@ -316,9 +316,6 @@
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/acts_as_follower.rb" timestamp="1527080259936" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/base/_answer.json.jb" timestamp="1527220252949" />
-      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/AnswerListItem.jsx" timestamp="1527155045197">
-        <mark key="'" line="203" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/retain.rake" timestamp="1526530606981">
         <mark key="[" line="46" column="28" />
         <mark key="]" line="46" column="33" />
@@ -345,7 +342,6 @@
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/audit_answer_job.rb" timestamp="1527070937137" />
       <file name="$USER_HOME$/Documents/sesame/app/models/answer.rb" timestamp="1527327626091">
-        <mark key="'" line="36" column="2" />
         <mark key="[" line="26" column="35" />
         <mark key="]" line="26" column="36" />
         <mark key="^" line="26" column="36" />
@@ -428,9 +424,6 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/db/schema.rb" timestamp="1527330569667">
-        <mark key="'" line="92" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/questions/recommend_users.rb" timestamp="1527229770897">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -471,11 +464,11 @@
         <mark key="^" line="10" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/db/migrate/20180511044331_add_index_on_invites.rb" timestamp="1527058341314" />
-      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180526103311_add_index_on_question_id_and_aasm_state_on_answers.rb" timestamp="1527330924572">
-        <mark key="[" line="3" column="118" />
-        <mark key="]" line="3" column="116" />
-        <mark key="." line="3" column="116" />
-        <mark key="^" line="3" column="116" />
+      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180526103311_add_index_on_question_id_and_aasm_state_on_answers.rb" timestamp="1527332370192">
+        <mark key="[" line="4" column="107" />
+        <mark key="]" line="4" column="111" />
+        <mark key="." line="4" column="111" />
+        <mark key="^" line="4" column="111" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1527238489997">
         <mark key="'" line="174" column="60" />
@@ -611,9 +604,6 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/spec/commands/incomes/create_spec.rb" timestamp="1527135301760">
-        <mark key="'" line="36" column="2" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/acts_as_commentable.rb" timestamp="1527092312176">
         <mark key="[" line="9" column="58" />
         <mark key="]" line="9" column="79" />
@@ -733,19 +723,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>event, :messageable_type, :messageable_id</text>
+        <text encoding="base64">b3JkZXI6IHt3b3Jkc19jb3VudDogOmRlc2N9LCA=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>event, :messageable_type, :messageable_id</text>
+        <text encoding="base64">b3JkZXI6IHt3b3Jkc19jb3VudDogOmRlc2N9LCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3b3Jkc19jb3VudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFkZF9pbmRleCA6bWVzc2FnZXMsIFs6dXNlcl9pZCwgOmV2ZW50LCA6bWVzc2FnZWFibGVfdHlwZSwgOm1lc3NhZ2VhYmxlX2lkXSwgYWxnb3JpdGhtOiA6Y29uY3VycmVudGx5LCBuYW1lOiA6aWR4X21lc3NhZ2VzX29uX21hc3Rlcgo=</text>
+        <text encoding="base64">ICAgIGFkZF9pbmRleCA6YW5zd2VycywgWzpxdWVzdGlvbl9pZCwgOnVzZXJfaWQsIDphYXNtX3N0YXRlLCA6d2VpZ2h0XSwgb3JkZXI6IHt3ZWlnaHQ6IDpkZXNjfSwgYWxnb3JpdGhtOiA6Y29uY3VycmVudGx5LCBuYW1lOiA6aWR4X2Fuc3dlcnNfb25fbWFzdGVyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
