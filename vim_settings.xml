@@ -216,6 +216,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1527480086759" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/_show_v2.json.jbuilder" timestamp="1527145244702">
         <mark key="[" line="1" column="48" />
         <mark key="]" line="1" column="48" />
@@ -307,6 +308,13 @@
         <mark key="]" line="1" column="17" />
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/question.rb" timestamp="1527480425619">
+        <mark key="'" line="43" column="13" />
+        <mark key="[" line="103" column="42" />
+        <mark key="]" line="103" column="40" />
+        <mark key="." line="103" column="40" />
+        <mark key="^" line="103" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/user_followings.json.jbuilder" timestamp="1527042839631">
         <mark key="[" line="11" column="17" />
@@ -440,7 +448,7 @@
         <mark key="." line="32" column="25" />
         <mark key="^" line="32" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/jobs/sync_question_job.rb" timestamp="1527241138921">
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/sync_question_job.rb" timestamp="1527480252092">
         <mark key="[" line="5" column="100" />
         <mark key="]" line="6" column="33" />
         <mark key="." line="6" column="33" />
@@ -469,12 +477,12 @@
         <mark key="." line="4" column="111" />
         <mark key="^" line="4" column="111" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1527238489997">
+      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1527480459255">
         <mark key="'" line="188" column="60" />
-        <mark key="[" line="188" column="53" />
-        <mark key="]" line="188" column="60" />
-        <mark key="." line="188" column="60" />
-        <mark key="^" line="188" column="60" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
+        <mark key="^" line="164" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/client/answers/index.json.jbuilder" timestamp="1527152382383">
         <mark key="[" line="20" column="14" />
@@ -632,7 +640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="31" filename="$USER_HOME$/Documents/sesame/app/controllers/api/sessions_controller.rb" />
       <jump line="8" column="25" filename="$USER_HOME$/Documents/sesame/app/commands/answers/update.rb" />
       <jump line="10" column="23" filename="$USER_HOME$/Documents/sesame/app/commands/answers/update_by_front.rb" />
       <jump line="9" column="6" filename="$USER_HOME$/Documents/sesame/app/commands/answers/update_by_front.rb" />
@@ -732,16 +739,17 @@
       <jump line="18" column="0" filename="$USER_HOME$/Documents/sesame/app/views/api/users/_tiny_show.json.jbuilder" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/sesame/app/views/api/comments/index.json.jb" />
       <jump line="34" column="8" filename="$USER_HOME$/Documents/sesame/app/commands/incomes/create.rb" />
+      <jump line="43" column="13" filename="$USER_HOME$/Documents/sesame/app/models/question.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgIGRlZiBjcmVhdGVfYWRzX2Ftb3VudF9jYWNoZQogICAgICBSYWlscy5jYWNoZS5kZWxldGUoWydhZHZlcnRpc2luZycsIGRhdGVdKQogICAgICBSYWlscy5jYWNoZS5mZXRjaChbJ2FkdmVydGlzaW5nJywgZGF0ZV0sIGV4cGlyZXNfaW46IDEuZGF5KSBkbwogICAgICAgIEFkdmVydGlzaW5nUmF0ZS53aGVyZShkYXRlOiBkYXRlLnRvX3RpbWUuYmVnaW5uaW5nX29mX2RheS4uZGF0ZS50b190aW1lLmVuZF9vZl9kYXkpLnN1bSg6aW5jb21lKS5mbG9vcigyKQogICAgICBlbmQKICAgICAgUmFpbHMuY2FjaGUuZGVsZXRlKFsnYWR2ZXJ0aXNpbmdfdG90YWwnXSkKICAgICAgUmFpbHMuY2FjaGUuZmV0Y2goWydhZHZlcnRpc2luZ190b3RhbCddLCBleHBpcmVzX2luOiAxLmRheSkgZG8KICAgICAgICBBZHZlcnRpc2luZ1JhdGUuc3VtKDppbmNvbWUpLmZsb29yKDIpCiAgICAgIGVuZAogICAgICBSYWlscy5jYWNoZS5kZWxldGUoWydpbmNvbWVfc3FsX3JhbmsnXSkKICAgIGVuZAoKPj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBpZiBSYWlscy5lbnYudGVzdD8K</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>'desc', 'avatar', 'verified', 'title'</text>
+        <text>if saved_changes.except(:updated_at).present?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVfYWRzX2Ftb3VudF9jYWNoZVw+</text>
@@ -750,31 +758,31 @@
         <text encoding="base64">ICBtb25pdG9yX21vZGU6IGZhbHNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgIGRlZiBjcmVhdGVfYWRzX2Ftb3VudF9jYWNoZQogICAgICBSYWlscy5jYWNoZS5kZWxldGUoWydhZHZlcnRpc2luZycsIGRhdGVdKQogICAgICBSYWlscy5jYWNoZS5mZXRjaChbJ2FkdmVydGlzaW5nJywgZGF0ZV0sIGV4cGlyZXNfaW46IDEuZGF5KSBkbwogICAgICAgIEFkdmVydGlzaW5nUmF0ZS53aGVyZShkYXRlOiBkYXRlLnRvX3RpbWUuYmVnaW5uaW5nX29mX2RheS4uZGF0ZS50b190aW1lLmVuZF9vZl9kYXkpLnN1bSg6aW5jb21lKS5mbG9vcigyKQogICAgICBlbmQKICAgICAgUmFpbHMuY2FjaGUuZGVsZXRlKFsnYWR2ZXJ0aXNpbmdfdG90YWwnXSkKICAgICAgUmFpbHMuY2FjaGUuZmV0Y2goWydhZHZlcnRpc2luZ190b3RhbCddLCBleHBpcmVzX2luOiAxLmRheSkgZG8KICAgICAgICBBZHZlcnRpc2luZ1JhdGUuc3VtKDppbmNvbWUpLmZsb29yKDIpCiAgICAgIGVuZAogICAgICBSYWlscy5jYWNoZS5kZWxldGUoWydpbmNvbWVfc3FsX3JhbmsnXSkKICAgIGVuZAoKPj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBpZiBSYWlscy5lbnYudGVzdD8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgoKCgoKanNvbi5kYXRhIGRvCiAganNvbi5hcnJheSEgQGNvbW1lbnRzIGRvIHxjb21tZW50fAogICAganNvbi5wYXJ0aWFsISAnc2hvdycsIGNvbW1lbnQ6IGNvbW1lbnQKICAgIGpzb24udXNlciBkbwogICAgICBqc29uLnBhcnRpYWwhICdhcGkvdXNlcnMvdGlueV9zaG93JywgdXNlcjogY29tbWVudC5mZXRjaF91c2VyCiAgICBlbmQKICBlbmQKZW5kCgpqc29uLnBhZ2luZyBkbwogIGpzb24uYm91bmRhcnkgQGJvdW5kYXJ5CmVuZAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBpZiBSYWlscy5lbnYudGVzdD8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlkOiBhbnN3ZXIuaWQsCiAgICB1dWlkOiBhbnN3ZXIudXVpZCwKICAgIHZvdGVzX3dlaWdodDogYW5zd2VyLnZvdGVzX3dlaWdodCwKICAgIGFhc21fc3RhdGU6IGFuc3dlci5hYXNtX3N0YXRlLAogICAgdGVtcGxhdGU6IGFuc3dlci50ZW1wbGF0ZV9jb2RlLAogICAgY3JlYXRlZF9hdDogdGltZXN0YW1wKGFuc3dlci5jcmVhdGVkX2F0KSwKICAgIGltYWdlczogZm9ybWF0X2Fuc3dlcl9pbWFnZXMoYW5zd2VyLmltYWdlcyksCiAgICBjb250ZW50OiBhbnN3ZXIudW5lc2NhcGVfY29udGVudCwKICAgIHRleHQ6IGFuc3dlci5zYWZlX3RleHQK</text>
+        <text encoding="base64">ICAgIFVzZXJTeW5jSm9iLnBlcmZvcm1fbGF0ZXIoc2VsZikgaWYgc2F2ZWRfY2hhbmdlcy5leGNlcHQoOnVwZGF0ZWRfYXQpLnByZXNlbnQ/Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcXVlc3Rpb246IHJlbmRlcigiYXBpL2Jhc2UvcXVlc3Rpb24iLCBxdWVzdGlvbjogYW5zd2VyLmZldGNoX3F1ZXN0aW9uKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhbnN3ZXJfanNvbiA9IHJlbmRlcigiYXBpL2Jhc2UvYW5zd2VyIiwgYW5zd2VyOiBBbnN3ZXJXcmFwcGVyLm5ldyhhbnN3ZXIsIGN1cnJlbnRfdXNlcikpLm1lcmdlKAogICAgcXVlc3Rpb246IHJlbmRlcigiYXBpL2Jhc2UvcXVlc3Rpb24iLCBxdWVzdGlvbjogYW5zd2VyLmZldGNoX3F1ZXN0aW9uKSwKICAgIHVzZXI6IHJlbmRlcigiYXBpL2Jhc2UvdXNlciIsIHVzZXI6IGFuc3dlci5mZXRjaF91c2VyKQogICkKICBhbnN3ZXJfanNvbls6dXNlcl1bOmZvbGxvd190eXBlXSA9IGFuc3dlci5mZXRjaF91c2VyLmZvbGxvd190eXBlKGN1cnJlbnRfdXNlcikKICBhbnN3ZXJfanNvbls6aXNWb3RlZF0gPSB2b3RlZD8oYW5zd2VyKQogIGFuc3dlcl9qc29uWzp2aWV3Q291bnRdID0gYW5zd2VyLnZpZXdfY291bnRlci50b19pCiAgYW5zd2VyX2pzb25bOmJvbnVzXSA9IGFuc3dlci5mZXRjaF91c2VyLmJlX2ludml0ZWQ/CiAgYW5zd2VyX2pzb25bOmNvbW1lbnRzX2NvdW50XSA9IGFuc3dlci5jb21tZW50c19jb3VudAogIGFuc3dlcl9qc29uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VydmVycyA9ICV3KGRlcGxveWVyQDEwNi43NS4zMS4yMDEgZGVwbG95ZXJAMTA2Ljc1LjM0LjIxNykK</text>
+        <text encoding="base64">ICAgIFN5bmNRdWVzdGlvbkpvYi5wZXJmb3JtX2xhdGVyKHNlbGYpIGlmIHNhdmVkX2NoYW5nZXMuZXhjZXB0KDp1cGRhdGVkX2F0KS5wcmVzZW50Pwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VydmVycyA9ICV3KGRlcGxveWVyQDEwNi43NS4zMS4yMDEgZGVwbG95ZXJAMTA2Ljc1LjM0LjIxNykK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
