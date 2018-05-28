@@ -80,7 +80,7 @@
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/database.yml" timestamp="1527488148885" />
       <file name="$USER_HOME$/Documents/sesame/config/settings.yml" timestamp="1527480086759" />
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/inner/welcome_controller.rb" timestamp="1527492530938">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/inner/welcome_controller.rb" timestamp="1527493057333">
         <mark key="[" line="36" column="26" />
         <mark key="]" line="37" column="35" />
         <mark key="." line="37" column="35" />
