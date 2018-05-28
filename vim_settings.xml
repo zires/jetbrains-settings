@@ -63,6 +63,12 @@
         <mark key="^" line="11" column="43" />
         <mark key="." line="11" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/config/deploy/staging.rb" timestamp="1527502221426">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/administrator/answers/partials/_content.slim" timestamp="1527324838949">
         <mark key="'" line="1" column="2" />
         <mark key="[" line="18" column="42" />
@@ -105,12 +111,6 @@
         <mark key="]" line="36" column="28" />
         <mark key="." line="36" column="28" />
         <mark key="^" line="36" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" timestamp="1527495819592">
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="25" column="34" />
-        <mark key="." line="25" column="34" />
-        <mark key="^" line="25" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/question.rb" timestamp="1527480425619">
         <mark key="'" line="43" column="13" />
@@ -289,13 +289,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>@questions.empty?</text>
+        <text>develop</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>@questions.empty?</text>
+        <text>develop</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVfYWRzX2Ftb3VudF9jYWNoZVw+</text>
