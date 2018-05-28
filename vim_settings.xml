@@ -354,7 +354,7 @@
         <mark key="." line="26" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/db/migrate/20180109055927_create_incomes.rb" timestamp="1527488176102" />
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/users_controller.rb" timestamp="1527360593793">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/users_controller.rb" timestamp="1527489212562">
         <mark key="[" line="18" column="24" />
         <mark key="]" line="19" column="16" />
         <mark key="^" line="19" column="16" />
@@ -573,6 +573,7 @@
         <mark key="^" line="33" column="7" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/users/comments.json.jbuilder" timestamp="1527489251579" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/invitations/show.json.jbuilder" timestamp="1527144579929">
         <mark key="[" line="1" column="35" />
         <mark key="]" line="1" column="37" />
