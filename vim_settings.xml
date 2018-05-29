@@ -41,6 +41,9 @@
         <mark key="^" line="13" column="35" />
         <mark key="." line="13" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/_show_v2.json.jbuilder" timestamp="1527575617741" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/clear_micro_cache.rb" timestamp="1527576966022" />
+      <file name="$USER_HOME$/Documents/sesame/config/deploy/production.rb" timestamp="1527576402618" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/comments/_show.json.jbuilder" timestamp="1527490480194">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -126,6 +129,12 @@
         <mark key="." line="18" column="42" />
         <mark key="^" line="18" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame-api/config/deploy/production.rb" timestamp="1527575942929">
+        <mark key="[" line="13" column="103" />
+        <mark key="]" line="13" column="103" />
+        <mark key="^" line="13" column="103" />
+        <mark key="." line="13" column="103" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/merge.rake" timestamp="1526891627256">
         <mark key="'" line="25" column="2" />
         <mark key="[" line="849" column="10" />
@@ -180,11 +189,11 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/settings/staging.yml" timestamp="1527565886947">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="16" />
+      <file name="$USER_HOME$/Documents/sesame/config/settings/staging.yml" timestamp="1527577097955">
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="10" column="44" />
         <mark key="^" line="3" column="16" />
-        <mark key="." line="3" column="16" />
+        <mark key="." line="10" column="44" />
       </file>
     </filemarks>
     <jumps>
