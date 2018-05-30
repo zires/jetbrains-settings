@@ -82,12 +82,12 @@
         <mark key="^" line="35" column="18" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/answers_controller.rb" timestamp="1527673320887">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/answers_controller.rb" timestamp="1527675068643">
         <mark key="'" line="7" column="6" />
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="16" column="35" />
-        <mark key="^" line="16" column="35" />
-        <mark key="." line="16" column="35" />
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="16" column="52" />
+        <mark key="^" line="16" column="52" />
+        <mark key="." line="16" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/index.json.jb" timestamp="1527673324742">
         <mark key="[" line="1" column="45" />
@@ -151,6 +151,12 @@
         <mark key="]" line="3" column="44" />
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerToggled/actions/answerToggledActionCreators.jsx" timestamp="1527674410261">
+        <mark key="[" line="51" column="29" />
+        <mark key="]" line="51" column="21" />
+        <mark key="^" line="51" column="21" />
+        <mark key="." line="51" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -257,46 +263,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>newsId=${cell.uuid}</text>
+        <text>page</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>newsId=${cell.uuid}</text>
+        <text>page</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkTW9yZUFuc3dlcnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAcXVlc3Rpb24udG91Y2gK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIEBwYWdlID0gcGFyYW1zWzpwYWdlXS5wcmVzZW5jZSB8fCAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIEBwYWdlID0gcGFyYW1zWzpwYWdlXS5wcmVzZW5jZSB8fCAxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVwbG9hZCEK</text>
+        <text encoding="base64">ICAgICAgQHBhZ2UgPSBwYXJhbXNbOnBhZ2VdLnByZXNlbmNlIHx8IDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQHRvZ2dsZWRfYW5zd2Vyc19jb3VudCA9IEBxdWVzdGlvbi5hbnN3ZXJzLnRvZ2dsZWQuY291bnQK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHVwbG9hZCEK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQHF1ZXN0aW9uLnJlbG9hZAo=</text>
+        <text encoding="base64">ICAgICAgQHRvZ2dsZWRfYW5zd2Vyc19jb3VudCA9IEBxdWVzdGlvbi5hbnN3ZXJzLnRvZ2dsZWQuY291bnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBAcXVlc3Rpb24ucmVsb2FkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQGNvbW1lbnQucmVsb2FkCg==</text>
+        <text encoding="base64">ICAgICAgQHF1ZXN0aW9uLnJlbG9hZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQGNvbW1lbnQuc2VuZCg6ZGVsX21pY3JvX2NhY2hlKQo=</text>
+        <text encoding="base64">ICAgICAgICBAcXVlc3Rpb24ucmVsb2FkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQGNvbW1lbnQuc2VuZCg6ZGVsX21pY3JvX2NhY2hlKQo=</text>
+        <text encoding="base64">ICAgICAgQGNvbW1lbnQucmVsb2FkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
