@@ -30,9 +30,6 @@
         <mark key="^" line="11" column="31" />
         <mark key="." line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Welcome.jsx" timestamp="1527586005991">
-        <mark key="'" line="180" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/search.json.jbuilder" timestamp="1527495787484">
         <mark key="[" line="15" column="23" />
         <mark key="]" line="15" column="32" />
@@ -76,6 +73,7 @@
         <mark key="^" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/administrator/answers_controller.rb" timestamp="1527677783474" />
       <file name="$USER_HOME$/Documents/sesame-api/app/controllers/admin/releases_controller.rb" timestamp="1527650129167">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -128,6 +126,7 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/choudao-statistic/app/models/event.rb" timestamp="1527664119430" />
+      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/approve.rb" timestamp="1527677928798" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" timestamp="1527592001650">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="21" />
