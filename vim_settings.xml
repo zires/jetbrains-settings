@@ -10,11 +10,6 @@
         <mark key="^" line="1" column="65" />
         <mark key="." line="1" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/users_controller.rb" timestamp="1527581026730">
-        <mark key="]" line="84" column="67" />
-        <mark key="^" line="84" column="67" />
-        <mark key="." line="84" column="67" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/answers_controller.rb" timestamp="1527475805309">
         <mark key="[" line="6" column="56" />
         <mark key="]" line="6" column="48" />
@@ -187,6 +182,13 @@
         <mark key="." line="6" column="67" />
         <mark key="^" line="6" column="67" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" timestamp="1527670121977">
+        <mark key="'" line="76" column="40" />
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="24" column="85" />
+        <mark key="^" line="24" column="85" />
+        <mark key="." line="24" column="85" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/comments/vote_up.rb" timestamp="1527583289332">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -241,12 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="23" filename="$USER_HOME$/Documents/sesame/app/commands/answers/update_by_front.rb" />
-      <jump line="9" column="6" filename="$USER_HOME$/Documents/sesame/app/commands/answers/update_by_front.rb" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/sesame/app/services/answer_wrapper.rb" />
-      <jump line="89" column="23" filename="$USER_HOME$/Documents/sesame/app/models/answer.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
-      <jump line="759" column="20" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
       <jump line="287" column="15" filename="$USER_HOME$/Documents/sesame/db/schema.rb" />
       <jump line="1" column="8" filename="$USER_HOME$/Documents/sesame/lib/tasks/merge.rake" />
       <jump line="39" column="4" filename="$USER_HOME$/Documents/sesame/app/commands/modify_images_command.rb" />
@@ -341,6 +337,12 @@
       <jump line="34" column="8" filename="$USER_HOME$/Documents/sesame/app/commands/incomes/create.rb" />
       <jump line="43" column="13" filename="$USER_HOME$/Documents/sesame/app/models/question.rb" />
       <jump line="180" column="24" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Welcome.jsx" />
+      <jump line="24" column="43" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
+      <jump line="48" column="47" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
+      <jump line="71" column="32" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
+      <jump line="74" column="34" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
+      <jump line="75" column="126" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
+      <jump line="76" column="40" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -353,7 +355,7 @@
         <text>updated_at: Time.now</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMaXN0SXRlbVw+</text>
+        <text encoding="base64">XDx1dWlkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBAcXVlc3Rpb24udG91Y2gK</text>
@@ -390,13 +392,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMaXN0SXRlbVw+</last-search>
+      <last-search encoding="base64">XDx1dWlkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMaXN0SXRlbVw+</last-pattern>
+      <last-pattern encoding="base64">XDx1dWlkXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxpc1ZvdGVkXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -420,6 +422,7 @@
         <entry encoding="base64">XDx3b3Jkc19jb3VudFw+</entry>
         <entry encoding="base64">XDxjcmVhdGVfYWRzX2Ftb3VudF9jYWNoZVw+</entry>
         <entry encoding="base64">XDxMaXN0SXRlbVw+</entry>
+        <entry encoding="base64">XDx1dWlkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
