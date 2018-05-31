@@ -101,6 +101,12 @@
         <mark key="." line="16" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/administrator/answers_controller.rb" timestamp="1527677783474" />
+      <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen.rb" timestamp="1527755035499">
+        <mark key="[" line="118" column="26" />
+        <mark key="]" line="119" column="45" />
+        <mark key="^" line="119" column="45" />
+        <mark key="." line="119" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/answers_controller.rb" timestamp="1527675919302">
         <mark key="'" line="19" column="18" />
         <mark key="[" line="129" column="53" />
