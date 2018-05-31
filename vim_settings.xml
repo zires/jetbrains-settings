@@ -23,6 +23,7 @@
         <mark key="^" line="7" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" timestamp="1527752289318" />
+      <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue.rb" timestamp="1527765675523" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/welcome/_question.json.jb" timestamp="1527671947735">
         <mark key="[" line="13" column="53" />
         <mark key="]" line="13" column="50" />
@@ -30,6 +31,7 @@
         <mark key="." line="13" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/cookies.js" timestamp="1527752259612" />
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/administrator/questions_controller.rb" timestamp="1527765332760" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/calculate_weight.rb" timestamp="1527090859458">
         <mark key="'" line="49" column="27" />
         <mark key="[" line="49" column="101" />
@@ -64,6 +66,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/_show.json.jbuilder" timestamp="1527766207271" />
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/merge.rake" timestamp="1526891627256">
         <mark key="'" line="25" column="2" />
         <mark key="[" line="849" column="10" />
