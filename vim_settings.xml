@@ -36,7 +36,7 @@
         <mark key="^" line="7" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" timestamp="1528111790593" />
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/welcome_controller.rb" timestamp="1528098506627">
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/welcome_controller.rb" timestamp="1528112652015">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
@@ -79,11 +79,6 @@
         <mark key="]" line="10" column="38" />
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1527847421269">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/states.rb" timestamp="1528096758706">
         <mark key="[" line="36" column="74" />
@@ -164,11 +159,6 @@
         <mark key="^" line="22" column="71" />
         <mark key="." line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/update.rb" timestamp="1528092767604">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/answers_controller.rb" timestamp="1527841507843">
         <mark key="'" line="63" column="6" />
         <mark key="[" line="53" column="0" />
@@ -176,6 +166,7 @@
         <mark key="^" line="54" column="44" />
         <mark key="." line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/user_sessions_controller.rb" timestamp="1528112272609" />
     </filemarks>
     <jumps>
       <jump line="13" column="14" filename="$USER_HOME$/Documents/sesame/app/commands/answers/calculate_weight.rb" />
