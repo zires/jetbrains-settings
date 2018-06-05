@@ -112,7 +112,7 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/jobs/temp_user_uuid_job.rb" timestamp="1528215224936">
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/temp_user_uuid_job.rb" timestamp="1528215946775">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="4" column="22" />
@@ -221,7 +221,7 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="53" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/tasks/sync.rake" timestamp="1528215319409" />
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/sync.rake" timestamp="1528216259984" />
       <file name="$USER_HOME$/Documents/sesame/app/jobs/income_remind_to_user_job.rb" timestamp="1527846739204">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
