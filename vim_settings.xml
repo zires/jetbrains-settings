@@ -142,6 +142,12 @@
         <mark key="^" line="119" column="45" />
         <mark key="." line="119" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/alloy-lever.js" timestamp="1528265486953">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="58" />
+        <mark key="." line="8" column="58" />
+        <mark key="^" line="8" column="58" />
+      </file>
       <file name="/Ruby Console" timestamp="1528261722688">
         <mark key="[" line="0" column="0" />
       </file>
@@ -151,7 +157,7 @@
         <mark key="^" line="9" column="36" />
         <mark key="." line="9" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/jobs/message_to_report_job.rb" timestamp="1528262717752" />
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/message_to_report_job.rb" timestamp="1528264979655" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/show.json.jbuilder" timestamp="1528093685962">
         <mark key="[" line="0" column="36" />
         <mark key="]" line="0" column="32" />
@@ -188,7 +194,7 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/update_by_front.rb" timestamp="1528257469543">
+      <file name="$USER_HOME$/Documents/sesame/app/commands/answers/update_by_front.rb" timestamp="1528265206517">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="16" column="47" />
@@ -333,14 +339,14 @@
       <jump line="7" column="8" filename="$USER_HOME$/Documents/sesame/app/commands/answers/reject.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvdW50ZXJfcmVkaXMuaGRlbChvbW5pX2NvdW50ZXJfa2V5LCBjb3VudGVyKQo=</text>
+      <register name="&quot;" type="4">
+        <text>/vconsole.min.js</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>rand(10) == 0</text>
+        <text>/vconsole.min.js</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVzdGlvblw+</text>
