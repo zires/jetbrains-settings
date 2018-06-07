@@ -21,19 +21,18 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/users/signout.html.slim" timestamp="1528369957811">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="1" />
-        <mark key="." line="1" column="1" />
-        <mark key="^" line="1" column="1" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/answers_controller.rb" timestamp="1527675956975">
         <mark key="[" line="7" column="67" />
         <mark key="]" line="7" column="71" />
         <mark key="." line="7" column="71" />
         <mark key="^" line="7" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" timestamp="1528369407902" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" timestamp="1528371131602">
+        <mark key="[" line="101" column="38" />
+        <mark key="]" line="101" column="37" />
+        <mark key="^" line="101" column="37" />
+        <mark key="." line="101" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue.rb" timestamp="1528366175862">
         <mark key="[" line="109" column="55" />
         <mark key="]" line="109" column="55" />
@@ -165,6 +164,7 @@
         <mark key="^" line="8" column="59" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1528371693277" />
       <file name="$USER_HOME$/Documents/sesame/app/jobs/temp_user_uuid_job.rb" timestamp="1528251767554">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -244,6 +244,7 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/users/states.rb" timestamp="1528371984409" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/ListItem.jsx" timestamp="1527671956265">
         <mark key="[" line="40" column="108" />
         <mark key="]" line="40" column="106" />
@@ -279,7 +280,7 @@
         <mark key="^" line="27" column="18" />
         <mark key="." line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/wifikey_login_command.rb" timestamp="1528366723441" />
+      <file name="$USER_HOME$/Documents/sesame/app/commands/wifikey_login_command.rb" timestamp="1528371704622" />
       <file name="$USER_HOME$/Documents/sesame/app/jobs/parse_answer_job.rb" timestamp="1528356172905">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -444,46 +445,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cCA9IGNvb2tpZXNbOl90b2tlbl0K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ltIDEnKQo=</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Follow.where(followable_type: 'User', user_id: @user.id).pluck(:followable_id)</text>
+        <text>env.platform</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbnN3ZXJfaWRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFJhaWxzLmNhY2hlLmZldGNoIFtTZXR0aW5ncy5hcGlfY2FjaGVfdmVyc2lvbiwgJ3JlbGF0aW9uJywgQHVzZXJdLCBleHBpcmVzX2luOiAyNC5ob3VycyBkbwogICAgICBmZXRjaF9mb2xsb3dzCiAgICAgICAgLnNlbGVjdCB7IHxmfCBmLmZvbGxvd2FibGVfdHlwZSA9PSAnVXNlcicgfQogICAgICAgIC5tYXAoJjpmb2xsb3dhYmxlX2lkKQogICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ltIDEnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cCA9IGNvb2tpZXNbOl90b2tlbl0K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEB0b2tlbiA9Cg==</text>
+        <text encoding="base64">cCA9IGNvb2tpZXNbOl90b2tlbl0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIEB0b2tlbiA9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbmQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGNlbGwucmVsb2FkLmFhc21fc3RhdGUpLnRvIGVxKCdyZWplY3RlZCcpCg==</text>
+        <text encoding="base64">ICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2VsbCA9IENlbGwuY3JlYXRlIShtYXRyaXg6IGFuc3dlciwgYmVob3RfYXQ6IFRpbWUubm93LCB0ZW1wbGF0ZTogYW5zd2VyLnRlbXBsYXRlX2NvZGUsIGFhc21fc3RhdGU6ICdhcHByb3ZlZCcpCg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGNlbGwucmVsb2FkLmFhc21fc3RhdGUpLnRvIGVxKCdyZWplY3RlZCcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2VsbCA9IENlbGwuY3JlYXRlIShtYXRyaXg6IGFuc3dlciwgYmVob3RfYXQ6IFRpbWUubm93LCB0ZW1wbGF0ZTogYW5zd2VyLnRlbXBsYXRlX2NvZGUsIGFhc21fc3RhdGU6ICdyZWplY3RlZCcpCg==</text>
+        <text encoding="base64">ICAgICAgY2VsbCA9IENlbGwuY3JlYXRlIShtYXRyaXg6IGFuc3dlciwgYmVob3RfYXQ6IFRpbWUubm93LCB0ZW1wbGF0ZTogYW5zd2VyLnRlbXBsYXRlX2NvZGUsIGFhc21fc3RhdGU6ICdhcHByb3ZlZCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGNlbGwucmVsb2FkLmFhc21fc3RhdGUpLnRvIGVxKCdhcHByb3ZlZCcpCg==</text>
+        <text encoding="base64">ICAgICAgY2VsbCA9IENlbGwuY3JlYXRlIShtYXRyaXg6IGFuc3dlciwgYmVob3RfYXQ6IFRpbWUubm93LCB0ZW1wbGF0ZTogYW5zd2VyLnRlbXBsYXRlX2NvZGUsIGFhc21fc3RhdGU6ICdyZWplY3RlZCcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGNlbGwucmVsb2FkLmFhc21fc3RhdGUpLnRvIGVxKCdhcHByb3ZlZCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
