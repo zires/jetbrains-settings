@@ -39,11 +39,12 @@
         <mark key="^" line="79" column="37" />
         <mark key="." line="79" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue.rb" timestamp="1528366175862">
-        <mark key="[" line="109" column="55" />
-        <mark key="]" line="109" column="55" />
-        <mark key="^" line="109" column="55" />
-        <mark key="." line="109" column="55" />
+      <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue.rb" timestamp="1528434941697">
+        <mark key="'" line="110" column="53" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="^" line="110" column="98" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/administrator/questions/show.html.slim" timestamp="1528188415156">
         <mark key="[" line="57" column="40" />
@@ -190,6 +191,7 @@
         <mark key="^" line="16" column="53" />
         <mark key="." line="16" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/create_advertising_rate_job.rb" timestamp="1528429590134" />
       <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen.rb" timestamp="1528267133248">
         <mark key="[" line="118" column="26" />
         <mark key="]" line="119" column="45" />
@@ -326,7 +328,6 @@
       <file name="$USER_HOME$/Documents/sesame/app/controllers/auth_controller.rb" timestamp="1528428339555" />
     </filemarks>
     <jumps>
-      <jump line="43" column="13" filename="$USER_HOME$/Documents/sesame/app/models/question.rb" />
       <jump line="180" column="24" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Welcome.jsx" />
       <jump line="24" column="43" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
       <jump line="48" column="47" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/SubmitAnswer/components/SubmitAnswer.jsx" />
@@ -426,49 +427,50 @@
       <jump line="61" column="0" filename="$USER_HOME$/Documents/sesame/spec/commands/answers/reject_spec.rb" />
       <jump line="23" column="29" filename="$USER_HOME$/Documents/sesame/spec/commands/answers/reject_spec.rb" />
       <jump line="49" column="0" filename="$USER_HOME$/Documents/sesame/spec/commands/answers/reject_spec.rb" />
+      <jump line="121" column="53" filename="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMgID0geyB0eXBlOiAnYWN0aXZpdHknLCBpZDogcXVlc3Rpb24udXVpZCB9Cg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>approved</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbnN3ZXJfaWRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KG91dGNvbWUuc3VjY2Vzcz8pLnRvIGJlX3RydXRoeQogICAgICBleHBlY3Qob3V0Y29tZS5yZXN1bHQuYWFzbV9zdGF0ZSkudG8gZXEoJ2FwcHJvdmVkJykKICAgICAgZXhwZWN0KGNhY2hlWyd0b2dnbGVkX2Fuc3dlcnMnXSkudG8gZXEoJzAnKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIgID0gcmVxdWVzdC5nZXQoJy93ZW5kYS9hY3Rpdml0eW9mZmxpbmUnLCBwYXJhbXMsIHNpdGU6IFNldHRpbmdzLmhhb3l1ZV9lbmRwb2ludCwgdXNpbmdfYm9keTogdHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbXMgID0geyB0eXBlOiAnYWN0aXZpdHknLCBpZDogcXVlc3Rpb24udXVpZCB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kX21lc3NhZ2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbnN3ZXIucmVqZWN0IQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaWYgU2V0dGluZ3MuaGFveXVlX2VuZHBvaW50LmJsYW5rPwogICAgICAgIGxvZyA9IFVuaWZpZWRMb2cKICAgICAgICAgICAgICAgIC5yZXF1ZXN0KDpvZmZsaW5lX3F1ZXN0aW9uLCAiUXVlc3Rpb25fI3tAcXVlc3Rpb24uaWR9IikKICAgICAgICAgICAgICAgIC5nZXQoIiN7U2V0dGluZ3MuaGFveXVlX2VuZHBvaW50fS93ZW5kYS9xdWVzdGlvbm9mZmxpbmU/aWQ9I3tAcXVlc3Rpb24udXVpZH0iKQogICAgICAgIGlmIGxvZy5yZXNwb25zZVsnc3RhdHVzJ10gPT0gJ29rJwogICAgICAgICAgWmVubWVuOjpIYW95dWU6OkRhdGFDZW50ZXIuaW5zdGFuY2UucmVtb3ZlKEBxdWVzdGlvbikKICAgICAgICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KG91dGNvbWUuc3VjY2Vzcz8pLnRvIGJlX2ZhbHNleQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIgID0gcmVxdWVzdC5nZXQoJy93ZW5kYS9hY3Rpdml0eW9mZmxpbmUnLCBwYXJhbXMsIHNpdGU6IFNldHRpbmdzLmhhb3l1ZV9lbmRwb2ludCwgdXNpbmdfYm9keTogdHJ1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KG91dGNvbWUucmVzdWx0LmFhc21fc3RhdGUpLnRvIGVxKCdhcHByb3ZlZCcpCiAgICAgIGV4cGVjdChjYWNoZVsndG9nZ2xlZF9hbnN3ZXJzJ10pLnRvIGVxKCcwJykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVzdGlvbi5vbW5pX2RlY3IoOnRvZ2dsZWRfYW5zd2VycykK</text>
+        <text encoding="base64">ICAgICAgICBzZW5kX21lc3NhZ2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGNhY2hlWyd0b2dnbGVkX2Fuc3dlcnMnXSkudG8gZXEoJzAnKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZXQhKDpjYWNoZSkgeyByZWRpcy5oZ2V0YWxsKGFuc3dlci5xdWVzdGlvbi5zZW5kKDpvbW5pX2NvdW50ZXJfa2V5KSkgfQo=</text>
+        <text encoding="base64">ICAgICAgICBhbnN3ZXIucmVqZWN0IQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
