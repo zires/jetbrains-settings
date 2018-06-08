@@ -40,10 +40,10 @@
         <mark key="." line="79" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue.rb" timestamp="1528434941697">
-        <mark key="'" line="110" column="53" />
+        <mark key="'" line="109" column="53" />
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
-        <mark key="^" line="110" column="98" />
+        <mark key="^" line="109" column="98" />
         <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/administrator/questions/show.html.slim" timestamp="1528188415156">
@@ -179,6 +179,7 @@
         <mark key="^" line="58" column="15" />
         <mark key="." line="58" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1528435536592" />
       <file name="$USER_HOME$/Documents/sesame/lib/utils/go_client.rb" timestamp="1527845552235">
         <mark key="[" line="22" column="66" />
         <mark key="]" line="22" column="71" />
@@ -210,11 +211,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/client/sessions/create.json.jb" timestamp="1528360237957">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="40" />
-        <mark key="^" line="2" column="40" />
-        <mark key="." line="2" column="40" />
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/client/sessions/create.json.jb" timestamp="1528435541866">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="74" />
+        <mark key="^" line="3" column="74" />
+        <mark key="." line="3" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/settings/development.yml" timestamp="1528171303089">
         <mark key="[" line="9" column="40" />
