@@ -323,6 +323,7 @@
         <mark key="^" line="8" column="8" />
         <mark key="." line="8" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/auth_controller.rb" timestamp="1528428339555" />
     </filemarks>
     <jumps>
       <jump line="43" column="13" filename="$USER_HOME$/Documents/sesame/app/models/question.rb" />
