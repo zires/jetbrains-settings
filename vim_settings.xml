@@ -39,6 +39,7 @@
         <mark key="^" line="79" column="37" />
         <mark key="." line="79" column="37" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/faraday-0.11.0/lib/faraday/request.rb" timestamp="1528688810427" />
       <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue.rb" timestamp="1528686116357">
         <mark key="'" line="109" column="53" />
         <mark key="[" line="109" column="0" />
@@ -239,7 +240,12 @@
         <mark key="." line="23" column="11" />
         <mark key="^" line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/jobs/message_to_report_job.rb" timestamp="1528687375283" />
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/message_to_report_job.rb" timestamp="1528689537710">
+        <mark key="[" line="37" column="36" />
+        <mark key="]" line="36" column="31" />
+        <mark key="." line="36" column="31" />
+        <mark key="^" line="36" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/base/_question.json.jb" timestamp="1528353829263">
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="50" />
@@ -482,22 +488,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIyBAYWN0aXZpdGllcyA9IFtdCiAgICAgICMgQHBhZ2UgPSAocGFyYW1zWzphZnRlcl0ucHJlc2VuY2UgfHwgMSkudG9faQogICAgICAjIEBhY3Rpdml0eV9hbGwgPSBBY3Rpdml0eS5wYWdlKEBwYWdlKS53aGVyZShyZWplY3RlZF9hdDogbmlsKS5vcmRlcignY3JlYXRlZF9hdCBERVNDJykKICAgICAgIyBAYm91bmRhcnkgPSBAYWN0aXZpdHlfYWxsLmVtcHR5PwogICAgICAjIEBhY3Rpdml0eV9hbGwuZWFjaCBkbyB8YWN0aXZpdHl8CiAgICAgICMgICBxdWVzdGlvbiA9IFF1ZXN0aW9uLmFwcHJvdmVkLmpvaW5zKDp0YWdnaW5ncykud2hlcmUoJ3RhZ2dpbmdzLnRhZ19pZCc6IGFjdGl2aXR5LnRhZ19pZCkub3JkZXIoJ2Fuc3dlcnNfY291bnQgREVTQycpLmZpcnN0CiAgICAgICMgICBAYWN0aXZpdGllcy5wdXNoKGFjdGl2aXR5LmF0dHJpYnV0ZXMubWVyZ2UoJ3F1ZXN0aW9uX3RpdGxlJyA9PiBxdWVzdGlvbi5uaWw/ID8gJycgOiBxdWVzdGlvbi50aXRsZSkpCiAgICAgICMgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGpzb24uZGVzYyBhY3Rpdml0eVsiZGVzYyJdCg==</text>
+        <text encoding="base64">ICAgICAgIyBAYWN0aXZpdGllcyA9IFtdCiAgICAgICMgQHBhZ2UgPSAocGFyYW1zWzphZnRlcl0ucHJlc2VuY2UgfHwgMSkudG9faQogICAgICAjIEBhY3Rpdml0eV9hbGwgPSBBY3Rpdml0eS5wYWdlKEBwYWdlKS53aGVyZShyZWplY3RlZF9hdDogbmlsKS5vcmRlcignY3JlYXRlZF9hdCBERVNDJykKICAgICAgIyBAYm91bmRhcnkgPSBAYWN0aXZpdHlfYWxsLmVtcHR5PwogICAgICAjIEBhY3Rpdml0eV9hbGwuZWFjaCBkbyB8YWN0aXZpdHl8CiAgICAgICMgICBxdWVzdGlvbiA9IFF1ZXN0aW9uLmFwcHJvdmVkLmpvaW5zKDp0YWdnaW5ncykud2hlcmUoJ3RhZ2dpbmdzLnRhZ19pZCc6IGFjdGl2aXR5LnRhZ19pZCkub3JkZXIoJ2Fuc3dlcnNfY291bnQgREVTQycpLmZpcnN0CiAgICAgICMgICBAYWN0aXZpdGllcy5wdXNoKGFjdGl2aXR5LmF0dHJpYnV0ZXMubWVyZ2UoJ3F1ZXN0aW9uX3RpdGxlJyA9PiBxdWVzdGlvbi5uaWw/ID8gJycgOiBxdWVzdGlvbi50aXRsZSkpCiAgICAgICMgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGpzb24udXVpZCBhY3Rpdml0eVsidXVpZCJdCg==</text>
+        <text encoding="base64">ICAgIGpzb24uZGVzYyBhY3Rpdml0eVsiZGVzYyJdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGpzb24uYmFubmVyIGFjdGl2aXR5WyJiYW5uZXIiXQo=</text>
+        <text encoding="base64">ICAgIGpzb24udXVpZCBhY3Rpdml0eVsidXVpZCJdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGpzb24udGl0bGUgYWN0aXZpdHlbInRpdGxlIl0K</text>
+        <text encoding="base64">ICAgIGpzb24uYmFubmVyIGFjdGl2aXR5WyJiYW5uZXIiXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGpzb24uaWQgYWN0aXZpdHlbImlkIl0K</text>
+        <text encoding="base64">ICAgIGpzb24udGl0bGUgYWN0aXZpdHlbInRpdGxlIl0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
