@@ -15376,6 +15376,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/newrelic_rpm-4.1.0.333/lib" />
       </SOURCES>
     </library>
+    <library name="newrelic_rpm (v5.2.0.345, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/newrelic_rpm-5.2.0.345/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/newrelic_rpm-5.2.0.345/lib" />
+      </SOURCES>
+    </library>
     <library name="nio4r (v1.2.1, rbenv: 2.2.2) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nio4r/1.2.1" />
