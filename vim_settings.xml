@@ -33,7 +33,7 @@
         <mark key="." line="7" column="71" />
         <mark key="^" line="7" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" timestamp="1528371131602">
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/WifiMobileApp.jsx" timestamp="1528706242670">
         <mark key="[" line="79" column="38" />
         <mark key="]" line="79" column="37" />
         <mark key="^" line="79" column="37" />
@@ -107,6 +107,12 @@
         <mark key="]" line="14" column="46" />
         <mark key="." line="14" column="46" />
         <mark key="^" line="14" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame.js" timestamp="1528706469369">
+        <mark key="[" line="68" column="32" />
+        <mark key="]" line="68" column="31" />
+        <mark key="^" line="68" column="31" />
+        <mark key="." line="68" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/my_questions.json.jbuilder" timestamp="1528093675523">
         <mark key="[" line="3" column="40" />
@@ -203,6 +209,12 @@
         <mark key="]" line="16" column="53" />
         <mark key="^" line="16" column="53" />
         <mark key="." line="16" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Index/index.jsx" timestamp="1528706572542">
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="43" />
+        <mark key="^" line="34" column="43" />
+        <mark key="." line="34" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen.rb" timestamp="1528267133248">
         <mark key="[" line="118" column="26" />
