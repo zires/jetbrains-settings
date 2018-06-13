@@ -132,6 +132,7 @@
         <mark key="^" line="17" column="72" />
         <mark key="." line="17" column="72" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/administrator/reports_controller.rb" timestamp="1528874584320" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/_show.json.jbuilder" timestamp="1528093732156">
         <mark key="[" line="1" column="64" />
         <mark key="]" line="1" column="64" />
@@ -350,6 +351,7 @@
         <mark key="^" line="4" column="75" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/commands/reports/approve.rb" timestamp="1528874612402" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" timestamp="1528389042453">
         <mark key="[" line="55" column="80" />
         <mark key="]" line="55" column="88" />
