@@ -27,6 +27,12 @@
         <mark key="[" line="19" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" timestamp="1528788696553" />
+      <file name="$USER_HOME$/Documents/omniauth-wifikey/lib/omniauth/strategies/wifikey.rb" timestamp="1528943324723">
+        <mark key="[" line="59" column="95" />
+        <mark key="]" line="59" column="116" />
+        <mark key="^" line="59" column="116" />
+        <mark key="." line="59" column="116" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/web/Question/reducers/questionReducer.jsx" timestamp="1528862434307" />
       <file name="$USER_HOME$/Documents/sesame/config/application.rb" timestamp="1528884095348">
         <mark key="[" line="20" column="0" />
@@ -66,7 +72,17 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/reports/approve.rb" timestamp="1528874612402" />
-      <file name="$USER_HOME$/Documents/sesame/Gemfile" timestamp="1528857674932" />
+      <file name="$USER_HOME$/Documents/sesame/Gemfile" timestamp="1528943491945">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="32" />
+        <mark key="." line="20" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/omniauth-wifikey/lib/omniauth/wifikey/version.rb" timestamp="1528943399405">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/omniauth-wifikey/lib/omniauth/wifikey/oauth2_client.rb" timestamp="1528943127121" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" timestamp="1528789703441">
         <mark key="[" line="9" column="71" />
         <mark key="]" line="9" column="71" />
@@ -177,14 +193,14 @@
       <jump line="413" column="20" filename="$USER_HOME$/Documents/sesame/client/app/bundles/web/Question/components/Question.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmFtZXNwYWNlOiA6Y2FjaGUg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wX2Fuc3dlclw+</text>
@@ -193,31 +209,31 @@
         <text encoding="base64">ICAgICMgaHR0cDovL2d1aWRlcy5ydWJ5b25yYWlscy5vcmcvYXV0b2xvYWRpbmdfYW5kX3JlbG9hZGluZ19jb25zdGFudHMuaHRtbCNhdXRvbG9hZC1wYXRocy1hbmQtZWFnZXItbG9hZC1wYXRocwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAjIGh0dHA6Ly9ndWlkZXMucnVieW9ucmFpbHMub3JnL2F1dG9sb2FkaW5nX2FuZF9yZWxvYWRpbmdfY29uc3RhbnRzLmh0bWwjYXV0b2xvYWQtcGF0aHMtYW5kLWVhZ2VyLWxvYWQtcGF0aHMKICAgIGNvbmZpZy5lYWdlcl9sb2FkX3BhdGhzIDw8IFJhaWxzLnJvb3Quam9pbignbGliJywgJ3V0aWxzJykKICAgICMgVE9ETzog5aKe5YqgIG5hbWVzcGFjZSDlj6rkuLrkuoblhbzlrrnkuYvliY3nmoQgcmVkaXNfc3RvcmUsIOWQjumdouaNouaIkOWNleeLrOeahCBjYWNoZSDlkI4g5Y+v5Y675o6JCiAgICBjb25maWcuY2FjaGVfc3RvcmUgPSA6cmVkaXNfY2FjaGVfc3RvcmUsIHsgdXJsOiBTZXR0aW5nc1s6Y2FjaGVfc3RvcmVfcmVkaXNfdXJsXSwgbmFtZXNwYWNlOiA6Y2FjaGUgfQo9PT09PT09Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBwYXJzZWRbJ21vYmlsZSddLmJsYW5rPwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgVE9ETzog5aKe5YqgIG5hbWVzcGFjZSDlj6rkuLrkuoblhbzlrrnkuYvliY3nmoQgcmVkaXNfc3RvcmUsIOWQjumdouaNouaIkOWNleeLrOeahCBjYWNoZSDlkI4g5Y+v5Y675o6JCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBUT0RPOiDlop7liqAgbmFtZXNwYWNlIOWPquS4uuS6huWFvOWuueS5i+WJjeeahCByZWRpc19zdG9yZSwg5ZCO6Z2i5o2i5oiQ5Y2V54us55qEIGNhY2hlIOWQjiDlj6/ljrvmjokK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAjIGh0dHA6Ly9ndWlkZXMucnVieW9ucmFpbHMub3JnL2F1dG9sb2FkaW5nX2FuZF9yZWxvYWRpbmdfY29uc3RhbnRzLmh0bWwjYXV0b2xvYWQtcGF0aHMtYW5kLWVhZ2VyLWxvYWQtcGF0aHMKICAgIGNvbmZpZy5lYWdlcl9sb2FkX3BhdGhzIDw8IFJhaWxzLnJvb3Quam9pbignbGliJywgJ3V0aWxzJykKICAgICMgVE9ETzog5aKe5YqgIG5hbWVzcGFjZSDlj6rkuLrkuoblhbzlrrnkuYvliY3nmoQgcmVkaXNfc3RvcmUsIOWQjumdouaNouaIkOWNleeLrOeahCBjYWNoZSDlkI4g5Y+v5Y675o6JCiAgICBjb25maWcuY2FjaGVfc3RvcmUgPSA6cmVkaXNfY2FjaGVfc3RvcmUsIHsgdXJsOiBTZXR0aW5nc1s6Y2FjaGVfc3RvcmVfcmVkaXNfdXJsXSwgbmFtZXNwYWNlOiA6Y2FjaGUgfQo9PT09PT09Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICMgVE9ETzog5aKe5YqgIG5hbWVzcGFjZSDlj6rkuLrkuoblhbzlrrnkuYvliY3nmoQgcmVkaXNfc3RvcmUsIOWQjumdouaNouaIkOWNleeLrOeahCBjYWNoZSDlkI4g5Y+v5Y675o6JCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvcHRzCg==</text>
+        <text encoding="base64">IyBUT0RPOiDlop7liqAgbmFtZXNwYWNlIOWPquS4uuS6huWFvOWuueS5i+WJjeeahCByZWRpc19zdG9yZSwg5ZCO6Z2i5o2i5oiQ5Y2V54us55qEIGNhY2hlIOWQjiDlj6/ljrvmjokK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBvcHRzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
