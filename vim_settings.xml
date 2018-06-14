@@ -27,6 +27,7 @@
         <mark key="[" line="19" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/actions/welcomeActionCreators.jsx" timestamp="1528788696553" />
+      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180612083434_add_category_id_to_questions.rb" timestamp="1528944345588" />
       <file name="$USER_HOME$/Documents/omniauth-wifikey/lib/omniauth/strategies/wifikey.rb" timestamp="1528943324723">
         <mark key="[" line="59" column="95" />
         <mark key="]" line="59" column="116" />
@@ -47,6 +48,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="6" column="19" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/db/migrate/20180614024510_add_lock_version_to_questions.rb" timestamp="1528944349711">
+        <mark key="[" line="0" column="62" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/config/settings/production.yml" timestamp="1528877030875">
         <mark key="[" line="2" column="41" />
