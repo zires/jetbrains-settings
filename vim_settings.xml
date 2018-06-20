@@ -48,7 +48,12 @@
         <mark key="^" line="59" column="116" />
         <mark key="." line="59" column="116" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/deploy/production.rb" timestamp="1529484049152" />
+      <file name="$USER_HOME$/Documents/sesame/config/deploy/production.rb" timestamp="1529488810439">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+        <mark key="^" line="11" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/config/application.rb" timestamp="1528884095348">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -305,19 +310,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>app/models/concerns/acts_as_taggable.rb</text>
+        <text>deployer@106.75.34.217</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>app/models/concerns/acts_as_taggable.rb</text>
+        <text>deployer@106.75.34.217</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVzdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBFeGNsdWRlOgogICAgLSAnYXBwL21vZGVscy9jb25jZXJucy9hY3RzX2FzX3RhZ2dhYmxlLnJiJwogICAgLSAnYXBwL21vZGVscy9xdWVzdGlvbi5yYicK</text>
+        <text encoding="base64">c2VydmVycyA9ICV3KGRlcGxveWVyQDEyMC4xMzIuNjYuNzcgZGVwbG95ZXJAMTIzLjU5Ljg5LjE0MCBkZXBsb3llckAxMDYuNzUuMzEuMjAxIGRlcGxveWVyQDEwNi43NS4zNC4yMTcpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC0gJ2FwcC9tb2RlbHMvcXVlc3Rpb24ucmInCg==</text>
