@@ -41,6 +41,12 @@
       </file>
       <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue.rb" timestamp="1529911112067" />
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/acts_as_cell.rb" timestamp="1529911379692" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/components/RouterOverride.jsx" timestamp="1529925006096">
+        <mark key="[" line="24" column="14" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+        <mark key="^" line="24" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/welcome_controller.rb" timestamp="1529913358021">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -64,14 +70,14 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/ListItem.jsx" timestamp="1529922865965">
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/ListItem.jsx" timestamp="1529924663104">
         <mark key="'" line="49" column="8" />
-        <mark key="[" line="8" column="33" />
+        <mark key="[" line="8" column="41" />
         <mark key="]" line="8" column="40" />
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/lib/components/Ads.jsx" timestamp="1529922269548" />
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/components/Ads.jsx" timestamp="1529923539528" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/vote_up.rb" timestamp="1529893747734">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -116,6 +122,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="3" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/lib/helpers/util.js" timestamp="1529924070179" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/incomes/create.rb" timestamp="1529912582391" />
       <file name="$USER_HOME$/Documents/sesame/client/package.json" timestamp="1529914167026" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/users/follow_command.rb" timestamp="1529893823623">
@@ -228,14 +235,14 @@
       <jump line="49" column="8" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/ListItem.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>react-router-dom</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMaW5rXD4=</text>
@@ -244,13 +251,13 @@
         <text encoding="base64">ICAgICAgQHRvZ2dsZWRfYW5zd2Vyc19jb3VudCA9IEBxdWVzdGlvbi5vbW5pX2NvdW50ZXJzWzp0b2dnbGVkX2Fuc3dlcnNdCiAgICAgIHJlbmRlciA6c2hvdwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICdhYWFiYmInCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgZXhwb3J0cyA9IHt9OwpleHBvcnRzLkxpbmsgPSBMaW5rOwoKZXhwb3J0IGV4cG9ydHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -259,16 +266,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxSTGluayB7Li4udGhpcy5wcm9wc30gLz4K</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCiAgICByZXR1cm4gJ2FhYWJiYicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>t4</text>
