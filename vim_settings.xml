@@ -64,6 +64,7 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/commands/wifikey_login_command.rb" timestamp="1529910116142" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/base/_answer_v2.json.jb" timestamp="1529906136376" />
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/counters.rb" timestamp="1529905896644">
         <mark key="'" line="15" column="0" />
