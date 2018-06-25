@@ -65,6 +65,9 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/ListItem.jsx" timestamp="1529915719275">
+        <mark key="'" line="49" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/vote_up.rb" timestamp="1529893747734">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -98,19 +101,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/questions/follow_command.rb" timestamp="1529655481015">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/audit_question_job.rb" timestamp="1529914726877" />
-      <file name="$USER_HOME$/Documents/sesame/lib/tasks/merge.rake" timestamp="1529897255006">
-        <mark key="'" line="50" column="10" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/lib/utils/json_web_token.rb" timestamp="1529566300184">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -138,8 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="448" column="41" filename="$USER_HOME$/Documents/sesame/app/assets/javascripts/sesame_ahoy.js" />
-      <jump line="7" column="9" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/components/FooterAction.jsx" />
       <jump line="11" column="34" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/FooterAction.jsx" />
       <jump line="23" column="9" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
       <jump line="22" column="42" filename="$USER_HOME$/Documents/sesame/app/controllers/administrator/answers_controller.rb" />
@@ -238,6 +227,8 @@
       <jump line="16" column="33" filename="$USER_HOME$/Documents/sesame/lib/utils/zenmen.rb" />
       <jump line="50" column="10" filename="$USER_HOME$/Documents/sesame/lib/tasks/merge.rake" />
       <jump line="27" column="0" filename="$USER_HOME$/Documents/sesame/app/models/concerns/answers/counters.rb" />
+      <jump line="40" column="7" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/ListItem.jsx" />
+      <jump line="49" column="8" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/ListItem.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -250,7 +241,7 @@
         <text>Users</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuYW1lXD4=</text>
+        <text encoding="base64">XDxMaW5rXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgQHRvZ2dsZWRfYW5zd2Vyc19jb3VudCA9IEBxdWVzdGlvbi5vbW5pX2NvdW50ZXJzWzp0b2dnbGVkX2Fuc3dlcnNdCiAgICAgIHJlbmRlciA6c2hvdwo=</text>
@@ -287,13 +278,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
+      <last-search encoding="base64">XDxMaW5rXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxMaW5rXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxxdWVzdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -317,6 +308,7 @@
         <entry encoding="base64">XDxDb3VudGVyc1w+</entry>
         <entry encoding="base64">XDxiZWdpbl9hdWRpdF9sb2dcPg==</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
+        <entry encoding="base64">XDxMaW5rXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
