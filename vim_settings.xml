@@ -125,6 +125,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="42" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/concerns/visit_tracker.rb" timestamp="1529999966878" />
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/components/Username.jsx" timestamp="1529994669223">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="41" />
@@ -150,6 +151,12 @@
         <mark key="]" line="8" column="40" />
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/concerns/event_tracker.rb" timestamp="1530000054200">
+        <mark key="[" line="22" column="49" />
+        <mark key="]" line="22" column="82" />
+        <mark key="^" line="22" column="82" />
+        <mark key="." line="22" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/CommentItem.jsx" timestamp="1529995324247">
         <mark key="'" line="199" column="170" />
