@@ -143,11 +143,11 @@
         <mark key="." line="16" column="8" />
         <mark key="^" line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/omniauth-wifikey-f7af180e9368/lib/omniauth/wifikey/cipher.rb" timestamp="1530091130931">
-        <mark key="[" line="28" column="22" />
-        <mark key="]" line="29" column="25" />
-        <mark key="." line="29" column="25" />
-        <mark key="^" line="29" column="25" />
+      <file name="$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/omniauth-wifikey-f7af180e9368/lib/omniauth/wifikey/cipher.rb" timestamp="1530092097542">
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="27" column="103" />
+        <mark key="." line="27" column="103" />
+        <mark key="^" line="27" column="103" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/components/mobile/AvatarWithText.jsx" timestamp="1529994969902">
         <mark key="'" line="10" column="9" />
@@ -206,6 +206,11 @@
         <mark key="]" line="5" column="41" />
         <mark key="." line="5" column="41" />
         <mark key="^" line="5" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/omniauth-wifikey/lib/omniauth/wifikey/version.rb" timestamp="1530092184975">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/components/Link.jsx" timestamp="1529922744904">
         <mark key="[" line="7" column="0" />
@@ -344,14 +349,14 @@
       <jump line="4" column="4" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGRlY3J5cHQoZGF0YSkKICAgICAgICBjaXBoZXIgPSBPcGVuU1NMOjpDaXBoZXIubmV3KEFMR09SSVRITSkKICAgICAgICBjaXBoZXIuZGVjcnlwdAogICAgICAgIGNpcGhlci5rZXkgPSBFTlZbJ0FFUzI1Nl9LRVknXQogICAgICAgIGNpcGhlci5pdiAgPSBFTlZbJ0FFUzI1Nl9JViddCiAgICAgICAgY2lwaGVyLnVwZGF0ZShkYXRhKSA8PCBjaXBoZXIuZmluYWwKICAgICAgZW5kCg==</text>
+      <register name="&quot;" type="4">
+        <text>@opts[:aes_iv]</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>@opts[:aes_iv]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaG9uZXNcPg==</text>
