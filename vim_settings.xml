@@ -85,6 +85,7 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue/index_request.rb" timestamp="1530082062366" />
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/components/mobile/AvatarWithTextInDetail.jsx" timestamp="1529995021682">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="41" />
@@ -129,12 +130,6 @@
         <mark key="." line="55" column="48" />
         <mark key="^" line="55" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/CommentItem.jsx" timestamp="1529995324247">
-        <mark key="'" line="199" column="170" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1530067674698">
         <mark key="'" line="4" column="4" />
         <mark key="[" line="756" column="0" />
@@ -155,7 +150,7 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/initializers/rack_attack.rb" timestamp="1530080792005">
+      <file name="$USER_HOME$/Documents/sesame/config/initializers/rack_attack.rb" timestamp="1530081806953">
         <mark key="[" line="44" column="38" />
         <mark key="]" line="44" column="36" />
         <mark key="^" line="44" column="36" />
