@@ -143,6 +143,12 @@
         <mark key="." line="16" column="8" />
         <mark key="^" line="17" column="10" />
       </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/omniauth-wifikey-f7af180e9368/lib/omniauth/wifikey/cipher.rb" timestamp="1530091130931">
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="29" column="25" />
+        <mark key="." line="29" column="25" />
+        <mark key="^" line="29" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/components/mobile/AvatarWithText.jsx" timestamp="1529994969902">
         <mark key="'" line="10" column="9" />
         <mark key="[" line="2" column="21" />
@@ -339,46 +345,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgZGVmIGRlY3J5cHQoZGF0YSkKICAgICAgICBjaXBoZXIgPSBPcGVuU1NMOjpDaXBoZXIubmV3KEFMR09SSVRITSkKICAgICAgICBjaXBoZXIuZGVjcnlwdAogICAgICAgIGNpcGhlci5rZXkgPSBFTlZbJ0FFUzI1Nl9LRVknXQogICAgICAgIGNpcGhlci5pdiAgPSBFTlZbJ0FFUzI1Nl9JViddCiAgICAgICAgY2lwaGVyLnVwZGF0ZShkYXRhKSA8PCBjaXBoZXIuZmluYWwKICAgICAgZW5kCg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYgJHJlZGlzLmluY3IoIklOQ1I6UTpTSE9XOiN7cmVxLmlwfSIpID49IDM=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwaG9uZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgQHRvZ2dsZWRfYW5zd2Vyc19jb3VudCA9IEBxdWVzdGlvbi5vbW5pX2NvdW50ZXJzWzp0b2dnbGVkX2Fuc3dlcnNdCiAgICAgIHJlbmRlciA6c2hvdwo=</text>
+        <text encoding="base64">ICAgICAgZGVmIGRlY3J5cHQoZGF0YSkKICAgICAgICBjaXBoZXIgPSBPcGVuU1NMOjpDaXBoZXIubmV3KEFMR09SSVRITSkKICAgICAgICBjaXBoZXIuZGVjcnlwdAogICAgICAgIGNpcGhlci5rZXkgPSBFTlZbJ0FFUzI1Nl9LRVknXQogICAgICAgIGNpcGhlci5pdiAgPSBFTlZbJ0FFUzI1Nl9JViddCiAgICAgICAgY2lwaGVyLnVwZGF0ZShkYXRhKSA8PCBjaXBoZXIuZmluYWwKICAgICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgICAgY2lwaGVyID0gT3BlblNTTDo6Q2lwaGVyLm5ldyhBTEdPUklUSE0pCiAgICAgIGNpcGhlci5kZWNyeXB0CiAgICAgIGNpcGhlci5rZXkgPSBFTlZbJ0FFUzI1Nl9LRVknXQogICAgICBjaXBoZXIuaXYgID0gRU5WWydBRVMyNTZfSVYnXQogICAgICBjaXBoZXIudXBkYXRlKGRhdGEpIDw8IGNpcGhlci5maW5hbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name=":" type="4">
         <text>t4</text>
