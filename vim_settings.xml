@@ -85,7 +85,7 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue/index_request.rb" timestamp="1530082062366" />
+      <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue/index_request.rb" timestamp="1530082670727" />
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/components/mobile/AvatarWithTextInDetail.jsx" timestamp="1529995021682">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="41" />
@@ -150,11 +150,11 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/initializers/rack_attack.rb" timestamp="1530081806953">
-        <mark key="[" line="44" column="38" />
-        <mark key="]" line="44" column="36" />
-        <mark key="^" line="44" column="36" />
-        <mark key="." line="44" column="36" />
+      <file name="$USER_HOME$/Documents/sesame/config/initializers/rack_attack.rb" timestamp="1530082685156">
+        <mark key="[" line="42" column="45" />
+        <mark key="]" line="43" column="14" />
+        <mark key="." line="43" column="14" />
+        <mark key="^" line="43" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Question/components/FooterAction.jsx" timestamp="1529995232737">
         <mark key="'" line="101" column="12" />
@@ -337,8 +337,8 @@
       <jump line="4" column="4" filename="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JiYgJHJlZGlzLmluY3IoIklOQ1I6UTpTSE9XOiN7cmVxLmlwfSIpID49IDM=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -359,7 +359,7 @@
         <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
