@@ -57,7 +57,7 @@
         <mark key="^" line="65" column="18" />
         <mark key="." line="65" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1530170971026" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1530173290646" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Profile/components/QuestionAndAnswers.jsx" timestamp="1529995234684">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="41" />
@@ -65,11 +65,12 @@
         <mark key="^" line="2" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/upload_image_command.rb" timestamp="1530099585749" />
-      <file name="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" timestamp="1530171727453">
-        <mark key="'" line="23" column="54" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" timestamp="1530173299103">
+        <mark key="'" line="28" column="54" />
+        <mark key="[" line="11" column="64" />
+        <mark key="]" line="12" column="48" />
+        <mark key="." line="12" column="48" />
+        <mark key="^" line="12" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/components/Link.jsx" timestamp="1529922744904">
         <mark key="[" line="7" column="0" />
@@ -286,14 +287,14 @@
       <jump line="27" column="54" filename="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>UnifiedLog.new().to_json</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWYgcGFyc2VkLmlzX2E/KEhhc2gpICYmIHBhcnNlZFsnbW9iaWxlJ10uYmxhbms/</text>
+        <text>UnifiedLog.new().to_json</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNwXD4=</text>
@@ -302,31 +303,31 @@
         <text encoding="base64">ICAgICAgICBAY29kZSB8fD0gYmVnaW4KICAgICAgICAgIGNpcGhlciA9IE9wZW5TU0w6OkNpcGhlci5uZXcoQUxHT1JJVEhNKQogICAgICAgICAgY2lwaGVyLmVuY3J5cHQKICAgICAgICAgIGNpcGhlci5wYWRkaW5nID0gMAogICAgICAgICAgY2lwaGVyLmtleSA9IEBvcHRzWzphZXNfa2V5XQogICAgICAgICAgY2lwaGVyLml2ICA9IEBvcHRzWzphZXNfaXZdCiAgICAgICAgICBjaXBoZXJfdGV4dCA9IGNpcGhlci51cGRhdGUgZml4X3BhZGRpbmcoQHBsYWluX3RleHQpCiAgICAgICAgICBjaXBoZXJfdGV4dCA8PCBjaXBoZXIuZmluYWwKICAgICAgICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgVW5pZmllZExvZy5sb2chKDphZGRfd2VpZ2h0ZWQpIGRvIHxsb2d8CiAgICAgIGVuZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgVW5pZmllZExvZ0pvYi5wZXJmb3JtX2xhdGVyKCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIyAgIEBkZWNsYXNzaWZpZWRfaW5mbyB8fD0gYmVnaW4KICAgICAgIyAgICAgSlNPTi5wYXJzZSgKICAgICAgIyAgICAgT21uaWF1dGg6OldpZmlrZXk6OkNpcGhlci5uZXcocmF3X2luZm9bJ21vYmlsZUVkJ10sIG9wdGlvbnMuc2lnbl9wYXJhbXMpLmRlY29kZQogICAgICAjICAgKQogICAgICAjIHJlc2N1ZQogICAgICAjICAgT21uaUF1dGgubG9nZ2VyLmluZm8oJ01PQklMRUVEX0JMQU5LOicgKyByYXdfaW5mby50b19qc29uKQogICAgICAjICAge30K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>t4</text>
