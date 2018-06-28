@@ -104,12 +104,7 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/upload_image_command.rb" timestamp="1530099585749">
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="15" column="48" />
-        <mark key="^" line="15" column="48" />
-        <mark key="." line="15" column="48" />
-      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/commands/upload_image_command.rb" timestamp="1530099585749" />
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/components/Link.jsx" timestamp="1529922744904">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -136,10 +131,10 @@
         <mark key="." line="8" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/replace_images.rb" timestamp="1530101243014">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="73" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/user_score.rb" timestamp="1529651238033">
         <mark key="[" line="13" column="0" />
