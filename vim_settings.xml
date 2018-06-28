@@ -65,12 +65,12 @@
         <mark key="^" line="2" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/upload_image_command.rb" timestamp="1530099585749" />
-      <file name="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" timestamp="1530173299103">
-        <mark key="'" line="28" column="54" />
-        <mark key="[" line="11" column="64" />
-        <mark key="]" line="12" column="48" />
-        <mark key="." line="12" column="48" />
-        <mark key="^" line="12" column="48" />
+      <file name="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" timestamp="1530175556512">
+        <mark key="'" line="11" column="8" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="30" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/components/Link.jsx" timestamp="1529922744904">
         <mark key="[" line="7" column="0" />
@@ -185,13 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/sesame/spec/commands/answers/reject_spec.rb" />
-      <jump line="121" column="53" filename="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue.rb" />
-      <jump line="4" column="10" filename="$USER_HOME$/Documents/sesame/config/routes/admin_routes.rb" />
-      <jump line="116" column="6" filename="$USER_HOME$/Documents/sesame/config/routes/admin_routes.rb" />
-      <jump line="118" column="10" filename="$USER_HOME$/Documents/sesame/config/routes/admin_routes.rb" />
-      <jump line="3" column="39" filename="$USER_HOME$/Documents/sesame/config/routes/admin_routes.rb" />
-      <jump line="117" column="39" filename="$USER_HOME$/Documents/sesame/config/routes/admin_routes.rb" />
       <jump line="31" column="9" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Index/index.jsx" />
       <jump line="24" column="9" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
       <jump line="8" column="30" filename="$USER_HOME$/Documents/sesame/app/commands/answers/replace_images.rb" />
@@ -285,31 +278,38 @@
       <jump line="14" column="9" filename="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" />
       <jump line="25" column="71" filename="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" />
       <jump line="27" column="54" filename="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" />
+      <jump line="15" column="45" filename="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" />
+      <jump line="18" column="9" filename="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" />
+      <jump line="29" column="71" filename="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" />
+      <jump line="31" column="54" filename="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" />
+      <jump line="9" column="6" filename="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" />
+      <jump line="10" column="15" filename="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" />
+      <jump line="11" column="8" filename="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>UnifiedLog.new().to_json</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIyByZXNwID0gVW5pZmllZExvZy5yZXF1ZXN0KDphZGRfd2VpZ2h0ZWQpLnBvc3QoU2V0dGluZ3MuYWRkX3dlaWdodGVkX2VuZHBvaW50LCB7IGlkczogaWRzIH0sIHNpdGU6IG5pbCwgdXNpbmdfYm9keTogZmFsc2UpCg==</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>UnifiedLog.new().to_json</text>
+        <text>resp.response</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNwXD4=</text>
+        <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBAY29kZSB8fD0gYmVnaW4KICAgICAgICAgIGNpcGhlciA9IE9wZW5TU0w6OkNpcGhlci5uZXcoQUxHT1JJVEhNKQogICAgICAgICAgY2lwaGVyLmVuY3J5cHQKICAgICAgICAgIGNpcGhlci5wYWRkaW5nID0gMAogICAgICAgICAgY2lwaGVyLmtleSA9IEBvcHRzWzphZXNfa2V5XQogICAgICAgICAgY2lwaGVyLml2ICA9IEBvcHRzWzphZXNfaXZdCiAgICAgICAgICBjaXBoZXJfdGV4dCA9IGNpcGhlci51cGRhdGUgZml4X3BhZGRpbmcoQHBsYWluX3RleHQpCiAgICAgICAgICBjaXBoZXJfdGV4dCA8PCBjaXBoZXIuZmluYWwKICAgICAgICBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgVW5pZmllZExvZy5sb2chKDphZGRfd2VpZ2h0ZWQpIGRvIHxsb2d8CiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgIyByZXNwID0gVW5pZmllZExvZy5yZXF1ZXN0KDphZGRfd2VpZ2h0ZWQpLnBvc3QoU2V0dGluZ3MuYWRkX3dlaWdodGVkX2VuZHBvaW50LCB7IGlkczogaWRzIH0sIHNpdGU6IG5pbCwgdXNpbmdfYm9keTogZmFsc2UpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgVW5pZmllZExvZy5sb2chKDphZGRfd2VpZ2h0ZWQpIGRvIHxsb2d8CiAgICAgIGVuZAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -318,13 +318,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgVW5pZmllZExvZ0pvYi5wZXJmb3JtX2xhdGVyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgVW5pZmllZExvZ0pvYi5wZXJmb3JtX2xhdGVyKCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
@@ -334,9 +334,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNwXD4=</last-search>
+      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxxdWVzdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -368,6 +368,7 @@
         <entry encoding="base64">XDxzaWduX3BhcmFtc1w+</entry>
         <entry encoding="base64">XDxkZWVwX3N5bWJvbGl6ZVw+</entry>
         <entry encoding="base64">XDxyZXNwXD4=</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
