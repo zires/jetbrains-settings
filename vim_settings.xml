@@ -121,6 +121,7 @@
         <mark key="." line="54" column="9" />
         <mark key="^" line="54" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/index.json.jb" timestamp="1530178278026" />
       <file name="$USER_HOME$/Documents/sesame/app/jobs/audit_comment_job.rb" timestamp="1529914764255">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -132,6 +133,9 @@
         <mark key="]" line="22" column="82" />
         <mark key="^" line="22" column="82" />
         <mark key="." line="22" column="82" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/states.rb" timestamp="1530178488985">
+        <mark key="'" line="12" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1530067674698">
         <mark key="'" line="4" column="4" />
@@ -159,6 +163,7 @@
         <mark key="." line="4" column="41" />
         <mark key="^" line="4" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/templates.rb" timestamp="1530178875054" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/questions_controller.rb" timestamp="1530169389752">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -185,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="9" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Index/index.jsx" />
       <jump line="24" column="9" filename="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/AnswerDetail/components/AnswerDetail.jsx" />
       <jump line="8" column="30" filename="$USER_HOME$/Documents/sesame/app/commands/answers/replace_images.rb" />
       <jump line="387" column="10" filename="$USER_HOME$/Documents/sesame/client/app/bundles/web/Question/components/Question.jsx" />
@@ -285,6 +289,7 @@
       <jump line="9" column="6" filename="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" />
       <jump line="10" column="15" filename="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" />
       <jump line="11" column="8" filename="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" />
+      <jump line="12" column="31" filename="$USER_HOME$/Documents/sesame/app/models/concerns/answers/states.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -297,7 +302,7 @@
         <text>resp.response</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhXD4=</text>
+        <text encoding="base64">XDxzZXRfcHJldl9zdGF0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBAY29kZSB8fD0gYmVnaW4KICAgICAgICAgIGNpcGhlciA9IE9wZW5TU0w6OkNpcGhlci5uZXcoQUxHT1JJVEhNKQogICAgICAgICAgY2lwaGVyLmVuY3J5cHQKICAgICAgICAgIGNpcGhlci5wYWRkaW5nID0gMAogICAgICAgICAgY2lwaGVyLmtleSA9IEBvcHRzWzphZXNfa2V5XQogICAgICAgICAgY2lwaGVyLml2ICA9IEBvcHRzWzphZXNfaXZdCiAgICAgICAgICBjaXBoZXJfdGV4dCA9IGNpcGhlci51cGRhdGUgZml4X3BhZGRpbmcoQHBsYWluX3RleHQpCiAgICAgICAgICBjaXBoZXJfdGV4dCA8PCBjaXBoZXIuZmluYWwKICAgICAgICBlbmQK</text>
@@ -334,9 +339,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
+      <last-search encoding="base64">XDxzZXRfcHJldl9zdGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRfcHJldl9zdGF0ZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxxdWVzdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -369,6 +374,7 @@
         <entry encoding="base64">XDxkZWVwX3N5bWJvbGl6ZVw+</entry>
         <entry encoding="base64">XDxyZXNwXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry encoding="base64">XDxzZXRfcHJldl9zdGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
