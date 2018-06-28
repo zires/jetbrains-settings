@@ -114,6 +114,12 @@
         <mark key="^" line="10" column="25" />
         <mark key="." line="10" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/welcome_controller.rb" timestamp="1530188598419">
+        <mark key="[" line="5" column="100" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/omniauth-wifikey/lib/omniauth/strategies/wifikey.rb" timestamp="1530159740916">
         <mark key="'" line="84" column="29" />
         <mark key="[" line="53" column="67" />
@@ -122,6 +128,12 @@
         <mark key="^" line="54" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/index.json.jb" timestamp="1530178278026" />
+      <file name="$USER_HOME$/Documents/sesame/config/routes/api_routes.rb" timestamp="1530188627337">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+        <mark key="^" line="4" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/app/jobs/audit_comment_job.rb" timestamp="1529914764255">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -133,6 +145,12 @@
         <mark key="]" line="22" column="82" />
         <mark key="^" line="22" column="82" />
         <mark key="." line="22" column="82" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/welcome_controller.rb" timestamp="1530188572457">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="4" />
+        <mark key="^" line="13" column="4" />
+        <mark key="." line="13" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/states.rb" timestamp="1530178488985">
         <mark key="'" line="12" column="31" />
@@ -293,19 +311,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{ ids: ids }</text>
+        <text>index</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>{ ids: ids }</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAY29kZSB8fD0gYmVnaW4KICAgICAgICAgIGNpcGhlciA9IE9wZW5TU0w6OkNpcGhlci5uZXcoQUxHT1JJVEhNKQogICAgICAgICAgY2lwaGVyLmVuY3J5cHQKICAgICAgICAgIGNpcGhlci5wYWRkaW5nID0gMAogICAgICAgICAgY2lwaGVyLmtleSA9IEBvcHRzWzphZXNfa2V5XQogICAgICAgICAgY2lwaGVyLml2ICA9IEBvcHRzWzphZXNfaXZdCiAgICAgICAgICBjaXBoZXJfdGV4dCA9IGNpcGhlci51cGRhdGUgZml4X3BhZGRpbmcoQHBsYWluX3RleHQpCiAgICAgICAgICBjaXBoZXJfdGV4dCA8PCBjaXBoZXIuZmluYWwKICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgIGdldCAnd2VsY29tZScgPT4gJ3dlbGNvbWUjaW5kZXgnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIyByZXNwID0gVW5pZmllZExvZy5yZXF1ZXN0KDphZGRfd2VpZ2h0ZWQpLnBvc3QoU2V0dGluZ3MuYWRkX3dlaWdodGVkX2VuZHBvaW50LCB7IGlkczogaWRzIH0sIHNpdGU6IG5pbCwgdXNpbmdfYm9keTogZmFsc2UpCg==</text>
