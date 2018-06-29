@@ -77,6 +77,12 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/unified_log_job.rb" timestamp="1530269886833">
+        <mark key="[" line="5" column="46" />
+        <mark key="]" line="5" column="47" />
+        <mark key="^" line="5" column="47" />
+        <mark key="." line="5" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Profile/components/QuestionAndAnswers.jsx" timestamp="1529995234684">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="41" />
@@ -354,14 +360,14 @@
       <jump line="32" column="46" filename="$USER_HOME$/Documents/sesame/app/jobs/message_to_report_job.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PT09PT09PQogICAgb3JkZXIoQXJlbC5zcWwoIkNBU0UgYWFzbV9zdGF0ZSBXSEVOICdkZWZhdWx0JyBUSEVOIDAgV0hFTiAnYXBwcm92ZWQnIFRIRU4gMSBFTFNFIDIgRU5EIikpCj4+Pj4+Pj4gZmVhdHVyZS9jbGVhbi1zb21lLWZpbGVzCg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>user_followings_count</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wbGF0ZVw+</text>
