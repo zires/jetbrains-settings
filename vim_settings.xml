@@ -58,6 +58,12 @@
         <mark key="." line="65" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1530176548639" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/questions/states.rb" timestamp="1530261797067">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="7" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Profile/components/QuestionAndAnswers.jsx" timestamp="1529995234684">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="41" />
@@ -321,8 +327,8 @@
       <jump line="9" column="58" filename="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>IncomesController</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
@@ -337,16 +343,16 @@
         <text encoding="base64">ICAgIGdldCAnd2VsY29tZScgPT4gJ3dlbGNvbWUjaW5kZXgnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIyByZXNwID0gVW5pZmllZExvZy5yZXF1ZXN0KDphZGRfd2VpZ2h0ZWQpLnBvc3QoU2V0dGluZ3MuYWRkX3dlaWdodGVkX2VuZHBvaW50LCB7IGlkczogaWRzIH0sIHNpdGU6IG5pbCwgdXNpbmdfYm9keTogZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgIyByZXNwID0gVW5pZmllZExvZy5yZXF1ZXN0KDphZGRfd2VpZ2h0ZWQpLnBvc3QoU2V0dGluZ3MuYWRkX3dlaWdodGVkX2VuZHBvaW50LCB7IGlkczogaWRzIH0sIHNpdGU6IG5pbCwgdXNpbmdfYm9keTogZmFsc2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgVW5pZmllZExvZy5sb2chKDphZGRfd2VpZ2h0ZWQpIGRvIHxsb2d8CiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgVW5pZmllZExvZy5sb2chKDphZGRfd2VpZ2h0ZWQpIGRvIHxsb2d8CiAgICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -358,10 +364,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVW5pZmllZExvZ0pvYi5wZXJmb3JtX2xhdGVyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgVW5pZmllZExvZ0pvYi5wZXJmb3JtX2xhdGVyKCkK</text>
       </register>
       <register name=":" type="4">
         <text>t4</text>
