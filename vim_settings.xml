@@ -143,6 +143,7 @@
         <mark key="^" line="22" column="82" />
         <mark key="." line="22" column="82" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/invitations_controller.rb" timestamp="1530252944268" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/welcome_controller.rb" timestamp="1530188572457">
         <mark key="[" line="13" column="17" />
         <mark key="]" line="13" column="4" />
@@ -164,6 +165,12 @@
         <mark key="]" line="27" column="103" />
         <mark key="." line="27" column="103" />
         <mark key="^" line="27" column="103" />
+      </file>
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/invitations_controller.rb" timestamp="1530252946295">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="59" />
+        <mark key="." line="2" column="59" />
+        <mark key="^" line="2" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/omniauth-wifikey/lib/omniauth/wifikey/cipher.rb" timestamp="1530093927163">
         <mark key="[" line="33" column="36" />
@@ -309,13 +316,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>index</text>
+        <text>IncomesController</text>
       </register>
       <register name="*" type="4">
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>IncomesController</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>
