@@ -77,11 +77,11 @@
         <mark key="^" line="23" column="7" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/jobs/unified_log_job.rb" timestamp="1530269886833">
-        <mark key="[" line="5" column="46" />
-        <mark key="]" line="5" column="47" />
-        <mark key="^" line="5" column="47" />
-        <mark key="." line="5" column="47" />
+      <file name="$USER_HOME$/Documents/sesame/app/jobs/unified_log_job.rb" timestamp="1530272219292">
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="5" column="42" />
+        <mark key="^" line="5" column="42" />
+        <mark key="." line="5" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Profile/components/QuestionAndAnswers.jsx" timestamp="1529995234684">
         <mark key="[" line="2" column="21" />
@@ -90,7 +90,7 @@
         <mark key="^" line="2" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/commands/upload_image_command.rb" timestamp="1530099585749" />
-      <file name="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" timestamp="1530180510650">
+      <file name="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" timestamp="1530272678476">
         <mark key="'" line="9" column="58" />
         <mark key="[" line="15" column="57" />
         <mark key="]" line="15" column="50" />
@@ -187,9 +187,6 @@
         <mark key="]" line="13" column="4" />
         <mark key="^" line="13" column="4" />
         <mark key="." line="13" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/states.rb" timestamp="1530178488985">
-        <mark key="'" line="12" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/lib/tasks/export.rake" timestamp="1530067674698">
         <mark key="'" line="4" column="4" />
