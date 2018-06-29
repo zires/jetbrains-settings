@@ -34,6 +34,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="10" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/users/_show.json.jbuilder" timestamp="1530262746795" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/base_controller.rb" timestamp="1529997521532">
         <mark key="[" line="55" column="44" />
         <mark key="]" line="55" column="48" />
