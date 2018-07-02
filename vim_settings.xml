@@ -82,6 +82,7 @@
         <mark key="." line="20" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/sesame/app/views/administrator/user_authentications/index.html.slim" timestamp="1530515049868" />
+      <file name="$USER_HOME$/Documents/sesame/lib/tasks/sync.rake" timestamp="1530547129018" />
       <file name="$USER_HOME$/Documents/omniauth-wifikey/lib/omniauth/wifikey/version.rb" timestamp="1530159668722">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="20" />
