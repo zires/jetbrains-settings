@@ -20,14 +20,13 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/utils/zenmen/haoyue/index_request.rb" timestamp="1530082670727" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/acts_as_audit_logable.rb" timestamp="1530499573328" />
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/components/mobile/AvatarWithTextInDetail.jsx" timestamp="1529995021682">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="41" />
         <mark key="." line="5" column="41" />
         <mark key="^" line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/jobs/sms_job.rb" timestamp="1530172183765" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/answers/vote_up.rb" timestamp="1529893747734">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -63,14 +62,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/config/schedule.rb" timestamp="1530265889799" />
       <file name="$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/omniauth-wifikey-f7af180e9368/lib/omniauth/strategies/wifikey.rb" timestamp="1530088959233">
         <mark key="[" line="64" column="11" />
         <mark key="]" line="65" column="18" />
         <mark key="^" line="65" column="18" />
         <mark key="." line="65" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/unified_log.rb" timestamp="1530176548639" />
       <file name="$USER_HOME$/Documents/sesame/app/models/concerns/questions/states.rb" timestamp="1530261797067">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -89,7 +86,6 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/upload_image_command.rb" timestamp="1530099585749" />
       <file name="$USER_HOME$/Documents/sesame/app/commands/questions/weighted.rb" timestamp="1530272678476">
         <mark key="'" line="9" column="58" />
         <mark key="[" line="15" column="57" />
@@ -155,7 +151,6 @@
         <mark key="." line="54" column="9" />
         <mark key="^" line="54" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/answers/index.json.jb" timestamp="1530178278026" />
       <file name="$USER_HOME$/Documents/sesame/app/jobs/message_to_report_job.rb" timestamp="1530266036045">
         <mark key="'" line="32" column="46" />
         <mark key="[" line="32" column="46" />
@@ -181,7 +176,6 @@
         <mark key="^" line="22" column="82" />
         <mark key="." line="22" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/invitations_controller.rb" timestamp="1530252944268" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/welcome_controller.rb" timestamp="1530188572457">
         <mark key="[" line="13" column="17" />
         <mark key="]" line="13" column="4" />
@@ -201,7 +195,6 @@
         <mark key="." line="27" column="103" />
         <mark key="^" line="27" column="103" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/users/comments.json.jbuilder" timestamp="1530267182580" />
       <file name="$USER_HOME$/Documents/sesame/app/controllers/api/client/invitations_controller.rb" timestamp="1530252946295">
         <mark key="[" line="2" column="39" />
         <mark key="]" line="2" column="59" />
@@ -214,14 +207,12 @@
         <mark key="^" line="33" column="45" />
         <mark key="." line="33" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/jobs/question_offline_moon_job.rb" timestamp="1530085481553" />
       <file name="$USER_HOME$/Documents/sesame/client/app/lib/widgets/TruncateCard.jsx" timestamp="1529994605005">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="41" />
         <mark key="." line="4" column="41" />
         <mark key="^" line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/models/concerns/answers/templates.rb" timestamp="1530180371402" />
       <file name="$USER_HOME$/Documents/sesame/app/views/api/users/show.json.jbuilder" timestamp="1530266755365">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -238,14 +229,11 @@
         <mark key="]" line="20" column="32" />
         <mark key="." line="20" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/jobs/income_remind_to_user_job.rb" timestamp="1530265978417" />
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/recommend_users.json.jbuilder" timestamp="1530244581390" />
       <file name="$USER_HOME$/Documents/omniauth-wifikey/lib/omniauth/wifikey/version.rb" timestamp="1530159668722">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/lib/utils/data_center.rb" timestamp="1530169500204" />
       <file name="$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/bundler/gems/omniauth-wifikey-717f735512ad/lib/omniauth/strategies/wifikey.rb" timestamp="1530159741624">
         <mark key="'" line="32" column="81" />
         <mark key="[" line="49" column="0" />
@@ -410,18 +398,10 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxxdWVzdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbnN3ZXJfaWRzXD4=</entry>
-        <entry encoding="base64">XDxob3RfbGlzdFw+</entry>
-        <entry encoding="base64">XDx1cGRhdGVfaG90X2xpc3RcPg==</entry>
-        <entry encoding="base64">XDxhZGRfdG9faG90X2xpc3RcPg==</entry>
-        <entry encoding="base64">XDxzZXRDb29raWVcPg==</entry>
-        <entry encoding="base64">XDxub2RlXD4=</entry>
-        <entry encoding="base64">XDx0ZW1wX2Fuc3dlclw+</entry>
-        <entry encoding="base64">XDxzZXRfcXVlc3Rpb25cPg==</entry>
         <entry encoding="base64">XDxzZXRfYW5zd2VyXD4=</entry>
         <entry encoding="base64">XDxmZXRjaF9pbmRleF9hbnN3ZXJzXD4=</entry>
         <entry encoding="base64">XDxxdWVzdGlvblw+</entry>
