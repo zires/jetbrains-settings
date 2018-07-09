@@ -56,8 +56,8 @@
         <mark key="]" line="20" column="32" />
         <mark key="." line="20" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/auth_controller.rb" timestamp="1530774614538" />
-      <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/recommend_users.json.jbuilder" timestamp="1530774879536" />
+      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1531107888786" />
+      <file name="$USER_HOME$/Documents/sesame/lib/utils/encryptors.rb" timestamp="1531107193323" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Welcome.jsx" timestamp="1530530845302">
         <mark key="'" line="88" column="84" />
       </file>
@@ -244,11 +244,10 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxxdWVzdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiZWdpbl9hdWRpdF9sb2dcPg==</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDxUcnVuY2F0ZUNhcmRcPg==</entry>
         <entry encoding="base64">XDxMaW5rXD4=</entry>
