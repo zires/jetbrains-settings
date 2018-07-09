@@ -56,7 +56,8 @@
         <mark key="]" line="20" column="32" />
         <mark key="." line="20" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/controllers/auth_controller.rb" timestamp="1530773897318" />
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/auth_controller.rb" timestamp="1530774614538" />
+      <file name="$USER_HOME$/Documents/sesame/app/views/api/questions/recommend_users.json.jbuilder" timestamp="1530774879536" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Welcome.jsx" timestamp="1530530845302">
         <mark key="'" line="88" column="84" />
       </file>
