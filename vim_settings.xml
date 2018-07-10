@@ -56,9 +56,7 @@
         <mark key="]" line="20" column="32" />
         <mark key="." line="20" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/app/commands/users/create.rb" timestamp="1531115360200" />
-      <file name="$USER_HOME$/Documents/sesame/app/models/user.rb" timestamp="1531126771654" />
-      <file name="$USER_HOME$/Documents/sesame/lib/utils/encryptors.rb" timestamp="1531116150376" />
+      <file name="$USER_HOME$/Documents/sesame/app/controllers/api/edit_answers_controller.rb" timestamp="1531199283925" />
       <file name="$USER_HOME$/Documents/sesame/client/app/bundles/mobile/Welcome/components/Welcome.jsx" timestamp="1530530845302">
         <mark key="'" line="88" column="84" />
       </file>
@@ -88,7 +86,6 @@
       <file name="$USER_HOME$/Documents/sesame/app/commands/wifikey_login_command.rb" timestamp="1530773855530">
         <mark key="'" line="28" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/sesame/spec/utils/encryptors_spec.rb" timestamp="1531115454304" />
     </filemarks>
     <jumps>
       <jump line="146" column="31" filename="$USER_HOME$/Documents/sesame/lib/utils/zenmen.rb" />
